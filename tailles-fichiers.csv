@@ -75,7 +75,8 @@ sirene/01/magasins-specialises-bricolage-maison-sport-high-tech.json,54027,453
 sirene/01/maintenance-d-equipements-ascenseurs.json,6045,50
 sirene/01/mairies-administrations.json,40941,264
 sirene/01/materiels-agricoles-engins-de-chantier.json,10420,89
-sirene/01/menuiserie-agencement-serrurerie.json,39743,338
+sirene/01/menuiserie-bois-agencement.json,27976,237
+sirene/01/menuiserie-metallique-serrurerie.json,12127,104
 sirene/01/motos-scooters.json,2848,25
 sirene/01/navigation-fluviale.json,236,2
 sirene/01/navigation-maritime-plaisance-professionnelle.json,3,0
@@ -203,7 +204,8 @@ sirene/02/magasins-specialises-bricolage-maison-sport-high-tech.json,27968,245
 sirene/02/maintenance-d-equipements-ascenseurs.json,2633,22
 sirene/02/mairies-administrations.json,42098,268
 sirene/02/materiels-agricoles-engins-de-chantier.json,12180,107
-sirene/02/menuiserie-agencement-serrurerie.json,17463,149
+sirene/02/menuiserie-bois-agencement.json,11528,98
+sirene/02/menuiserie-metallique-serrurerie.json,6048,52
 sirene/02/motos-scooters.json,1867,17
 sirene/02/navigation-fluviale.json,325,3
 sirene/02/navigation-maritime-plaisance-professionnelle.json,3,0
@@ -331,7 +333,8 @@ sirene/03/magasins-specialises-bricolage-maison-sport-high-tech.json,32887,281
 sirene/03/maintenance-d-equipements-ascenseurs.json,1626,14
 sirene/03/mairies-administrations.json,40923,263
 sirene/03/materiels-agricoles-engins-de-chantier.json,7794,69
-sirene/03/menuiserie-agencement-serrurerie.json,18707,164
+sirene/03/menuiserie-bois-agencement.json,13990,123
+sirene/03/menuiserie-metallique-serrurerie.json,4719,41
 sirene/03/motos-scooters.json,1184,11
 sirene/03/navigation-fluviale.json,110,1
 sirene/03/navigation-maritime-plaisance-professionnelle.json,3,0
@@ -459,7 +462,8 @@ sirene/04/magasins-specialises-bricolage-maison-sport-high-tech.json,25894,211
 sirene/04/maintenance-d-equipements-ascenseurs.json,427,3
 sirene/04/mairies-administrations.json,29330,178
 sirene/04/materiels-agricoles-engins-de-chantier.json,3077,27
-sirene/04/menuiserie-agencement-serrurerie.json,10325,85
+sirene/04/menuiserie-bois-agencement.json,6490,54
+sirene/04/menuiserie-metallique-serrurerie.json,4073,33
 sirene/04/motos-scooters.json,1196,10
 sirene/04/navigation-fluviale.json,3,0
 sirene/04/navigation-maritime-plaisance-professionnelle.json,3,0
@@ -587,7 +591,8 @@ sirene/05/magasins-specialises-bricolage-maison-sport-high-tech.json,36191,306
 sirene/05/maintenance-d-equipements-ascenseurs.json,1512,13
 sirene/05/mairies-administrations.json,24542,152
 sirene/05/materiels-agricoles-engins-de-chantier.json,3227,28
-sirene/05/menuiserie-agencement-serrurerie.json,9507,81
+sirene/05/menuiserie-bois-agencement.json,7465,64
+sirene/05/menuiserie-metallique-serrurerie.json,2044,17
 sirene/05/motos-scooters.json,1235,10
 sirene/05/navigation-fluviale.json,3,0
 sirene/05/navigation-maritime-plaisance-professionnelle.json,3,0
@@ -715,7 +720,8 @@ sirene/06/magasins-specialises-bricolage-maison-sport-high-tech.json,152702,1316
 sirene/06/maintenance-d-equipements-ascenseurs.json,15574,128
 sirene/06/mairies-administrations.json,46055,280
 sirene/06/materiels-agricoles-engins-de-chantier.json,9389,78
-sirene/06/menuiserie-agencement-serrurerie.json,65731,551
+sirene/06/menuiserie-bois-agencement.json,34836,289
+sirene/06/menuiserie-metallique-serrurerie.json,31336,265
 sirene/06/motos-scooters.json,12792,115
 sirene/06/navigation-fluviale.json,119,1
 sirene/06/navigation-maritime-plaisance-professionnelle.json,3458,29
@@ -843,7 +849,8 @@ sirene/07/magasins-specialises-bricolage-maison-sport-high-tech.json,24964,217
 sirene/07/maintenance-d-equipements-ascenseurs.json,1466,12
 sirene/07/mairies-administrations.json,32732,210
 sirene/07/materiels-agricoles-engins-de-chantier.json,3355,29
-sirene/07/menuiserie-agencement-serrurerie.json,21532,179
+sirene/07/menuiserie-bois-agencement.json,16332,135
+sirene/07/menuiserie-metallique-serrurerie.json,5514,47
 sirene/07/motos-scooters.json,2449,22
 sirene/07/navigation-fluviale.json,330,3
 sirene/07/navigation-maritime-plaisance-professionnelle.json,3,0
@@ -971,7 +978,8 @@ sirene/08/magasins-specialises-bricolage-maison-sport-high-tech.json,16225,135
 sirene/08/maintenance-d-equipements-ascenseurs.json,1078,10
 sirene/08/mairies-administrations.json,28750,177
 sirene/08/materiels-agricoles-engins-de-chantier.json,6095,54
-sirene/08/menuiserie-agencement-serrurerie.json,12104,105
+sirene/08/menuiserie-bois-agencement.json,9375,81
+sirene/08/menuiserie-metallique-serrurerie.json,2731,24
 sirene/08/motos-scooters.json,778,7
 sirene/08/navigation-fluviale.json,113,1
 sirene/08/navigation-maritime-plaisance-professionnelle.json,3,0
@@ -1099,7 +1107,8 @@ sirene/09/magasins-specialises-bricolage-maison-sport-high-tech.json,15133,131
 sirene/09/maintenance-d-equipements-ascenseurs.json,995,9
 sirene/09/mairies-administrations.json,22875,149
 sirene/09/materiels-agricoles-engins-de-chantier.json,2559,23
-sirene/09/menuiserie-agencement-serrurerie.json,8382,74
+sirene/09/menuiserie-bois-agencement.json,6187,55
+sirene/09/menuiserie-metallique-serrurerie.json,2450,21
 sirene/09/motos-scooters.json,678,6
 sirene/09/navigation-fluviale.json,3,0
 sirene/09/navigation-maritime-plaisance-professionnelle.json,3,0
@@ -1227,7 +1236,8 @@ sirene/10/magasins-specialises-bricolage-maison-sport-high-tech.json,27394,222
 sirene/10/maintenance-d-equipements-ascenseurs.json,2678,21
 sirene/10/mairies-administrations.json,26412,170
 sirene/10/materiels-agricoles-engins-de-chantier.json,7084,64
-sirene/10/menuiserie-agencement-serrurerie.json,15048,129
+sirene/10/menuiserie-bois-agencement.json,11502,98
+sirene/10/menuiserie-metallique-serrurerie.json,3825,33
 sirene/10/motos-scooters.json,918,8
 sirene/10/navigation-fluviale.json,3,0
 sirene/10/navigation-maritime-plaisance-professionnelle.json,3,0
@@ -1355,7 +1365,8 @@ sirene/11/magasins-specialises-bricolage-maison-sport-high-tech.json,41329,339
 sirene/11/maintenance-d-equipements-ascenseurs.json,2220,18
 sirene/11/mairies-administrations.json,32103,203
 sirene/11/materiels-agricoles-engins-de-chantier.json,6927,58
-sirene/11/menuiserie-agencement-serrurerie.json,15880,134
+sirene/11/menuiserie-bois-agencement.json,10860,93
+sirene/11/menuiserie-metallique-serrurerie.json,5368,44
 sirene/11/motos-scooters.json,2673,23
 sirene/11/navigation-fluviale.json,217,2
 sirene/11/navigation-maritime-plaisance-professionnelle.json,380,3
@@ -1483,7 +1494,8 @@ sirene/12/magasins-specialises-bricolage-maison-sport-high-tech.json,32461,281
 sirene/12/maintenance-d-equipements-ascenseurs.json,1543,12
 sirene/12/mairies-administrations.json,34879,225
 sirene/12/materiels-agricoles-engins-de-chantier.json,12615,110
-sirene/12/menuiserie-agencement-serrurerie.json,19341,166
+sirene/12/menuiserie-bois-agencement.json,14351,124
+sirene/12/menuiserie-metallique-serrurerie.json,4992,42
 sirene/12/motos-scooters.json,2393,21
 sirene/12/navigation-fluviale.json,3,0
 sirene/12/navigation-maritime-plaisance-professionnelle.json,3,0
@@ -1611,7 +1623,8 @@ sirene/13/magasins-specialises-bricolage-maison-sport-high-tech.json,218229,1818
 sirene/13/maintenance-d-equipements-ascenseurs.json,22427,175
 sirene/13/mairies-administrations.json,66416,376
 sirene/13/materiels-agricoles-engins-de-chantier.json,25368,209
-sirene/13/menuiserie-agencement-serrurerie.json,98597,807
+sirene/13/menuiserie-bois-agencement.json,55007,449
+sirene/13/menuiserie-metallique-serrurerie.json,45494,372
 sirene/13/motos-scooters.json,13616,120
 sirene/13/navigation-fluviale.json,460,3
 sirene/13/navigation-maritime-plaisance-professionnelle.json,7515,64
@@ -1739,7 +1752,8 @@ sirene/14/magasins-specialises-bricolage-maison-sport-high-tech.json,71770,614
 sirene/14/maintenance-d-equipements-ascenseurs.json,5355,45
 sirene/14/mairies-administrations.json,40395,251
 sirene/14/materiels-agricoles-engins-de-chantier.json,14687,120
-sirene/14/menuiserie-agencement-serrurerie.json,41212,345
+sirene/14/menuiserie-bois-agencement.json,33741,283
+sirene/14/menuiserie-metallique-serrurerie.json,7465,62
 sirene/14/motos-scooters.json,3786,32
 sirene/14/navigation-fluviale.json,3,0
 sirene/14/navigation-maritime-plaisance-professionnelle.json,996,7
@@ -1867,7 +1881,8 @@ sirene/15/magasins-specialises-bricolage-maison-sport-high-tech.json,17748,156
 sirene/15/maintenance-d-equipements-ascenseurs.json,163,1
 sirene/15/mairies-administrations.json,29012,191
 sirene/15/materiels-agricoles-engins-de-chantier.json,5498,50
-sirene/15/menuiserie-agencement-serrurerie.json,9087,81
+sirene/15/menuiserie-bois-agencement.json,7251,65
+sirene/15/menuiserie-metallique-serrurerie.json,1965,17
 sirene/15/motos-scooters.json,998,9
 sirene/15/navigation-fluviale.json,3,0
 sirene/15/navigation-maritime-plaisance-professionnelle.json,3,0
@@ -1995,7 +2010,8 @@ sirene/16/magasins-specialises-bricolage-maison-sport-high-tech.json,28855,244
 sirene/16/maintenance-d-equipements-ascenseurs.json,1800,15
 sirene/16/mairies-administrations.json,32264,208
 sirene/16/materiels-agricoles-engins-de-chantier.json,9550,82
-sirene/16/menuiserie-agencement-serrurerie.json,18946,161
+sirene/16/menuiserie-bois-agencement.json,15040,127
+sirene/16/menuiserie-metallique-serrurerie.json,4157,36
 sirene/16/motos-scooters.json,2047,17
 sirene/16/navigation-fluviale.json,234,2
 sirene/16/navigation-maritime-plaisance-professionnelle.json,3,0
@@ -2123,7 +2139,8 @@ sirene/17/magasins-specialises-bricolage-maison-sport-high-tech.json,88962,739
 sirene/17/maintenance-d-equipements-ascenseurs.json,4064,34
 sirene/17/mairies-administrations.json,77361,479
 sirene/17/materiels-agricoles-engins-de-chantier.json,12294,104
-sirene/17/menuiserie-agencement-serrurerie.json,45858,381
+sirene/17/menuiserie-bois-agencement.json,38450,319
+sirene/17/menuiserie-metallique-serrurerie.json,7973,67
 sirene/17/motos-scooters.json,5163,44
 sirene/17/navigation-fluviale.json,236,2
 sirene/17/navigation-maritime-plaisance-professionnelle.json,2257,18
@@ -2251,7 +2268,8 @@ sirene/18/magasins-specialises-bricolage-maison-sport-high-tech.json,23338,200
 sirene/18/maintenance-d-equipements-ascenseurs.json,2089,17
 sirene/18/mairies-administrations.json,33456,216
 sirene/18/materiels-agricoles-engins-de-chantier.json,5620,48
-sirene/18/menuiserie-agencement-serrurerie.json,13102,113
+sirene/18/menuiserie-bois-agencement.json,8737,75
+sirene/18/menuiserie-metallique-serrurerie.json,4367,38
 sirene/18/motos-scooters.json,1821,16
 sirene/18/navigation-fluviale.json,3,0
 sirene/18/navigation-maritime-plaisance-professionnelle.json,3,0
@@ -2379,7 +2397,8 @@ sirene/19/magasins-specialises-bricolage-maison-sport-high-tech.json,23969,202
 sirene/19/maintenance-d-equipements-ascenseurs.json,1874,16
 sirene/19/mairies-administrations.json,32609,205
 sirene/19/materiels-agricoles-engins-de-chantier.json,6384,53
-sirene/19/menuiserie-agencement-serrurerie.json,15640,136
+sirene/19/menuiserie-bois-agencement.json,11554,101
+sirene/19/menuiserie-metallique-serrurerie.json,4202,36
 sirene/19/motos-scooters.json,1608,14
 sirene/19/navigation-fluviale.json,3,0
 sirene/19/navigation-maritime-plaisance-professionnelle.json,3,0
@@ -2507,7 +2526,8 @@ sirene/21/magasins-specialises-bricolage-maison-sport-high-tech.json,44074,380
 sirene/21/maintenance-d-equipements-ascenseurs.json,3296,29
 sirene/21/mairies-administrations.json,53156,319
 sirene/21/materiels-agricoles-engins-de-chantier.json,10161,90
-sirene/21/menuiserie-agencement-serrurerie.json,29644,252
+sirene/21/menuiserie-bois-agencement.json,20820,173
+sirene/21/menuiserie-metallique-serrurerie.json,9068,81
 sirene/21/motos-scooters.json,2677,23
 sirene/21/navigation-fluviale.json,557,5
 sirene/21/navigation-maritime-plaisance-professionnelle.json,3,0
@@ -2635,7 +2655,8 @@ sirene/22/magasins-specialises-bricolage-maison-sport-high-tech.json,60148,520
 sirene/22/maintenance-d-equipements-ascenseurs.json,4427,36
 sirene/22/mairies-administrations.json,48191,303
 sirene/22/materiels-agricoles-engins-de-chantier.json,15401,135
-sirene/22/menuiserie-agencement-serrurerie.json,36396,314
+sirene/22/menuiserie-bois-agencement.json,30515,263
+sirene/22/menuiserie-metallique-serrurerie.json,5898,51
 sirene/22/motos-scooters.json,3378,30
 sirene/22/navigation-fluviale.json,91,1
 sirene/22/navigation-maritime-plaisance-professionnelle.json,1666,14
@@ -2762,7 +2783,8 @@ sirene/23/magasins-specialises-bricolage-maison-sport-high-tech.json,7731,70
 sirene/23/maintenance-d-equipements-ascenseurs.json,352,3
 sirene/23/mairies-administrations.json,22128,147
 sirene/23/materiels-agricoles-engins-de-chantier.json,4534,42
-sirene/23/menuiserie-agencement-serrurerie.json,6792,62
+sirene/23/menuiserie-bois-agencement.json,5990,54
+sirene/23/menuiserie-metallique-serrurerie.json,804,8
 sirene/23/motos-scooters.json,384,3
 sirene/23/navigation-fluviale.json,3,0
 sirene/23/navigation-maritime-plaisance-professionnelle.json,3,0
@@ -2890,7 +2912,8 @@ sirene/24/magasins-specialises-bricolage-maison-sport-high-tech.json,45037,371
 sirene/24/maintenance-d-equipements-ascenseurs.json,1703,15
 sirene/24/mairies-administrations.json,46787,292
 sirene/24/materiels-agricoles-engins-de-chantier.json,10574,87
-sirene/24/menuiserie-agencement-serrurerie.json,22375,186
+sirene/24/menuiserie-bois-agencement.json,17645,147
+sirene/24/menuiserie-metallique-serrurerie.json,5316,44
 sirene/24/motos-scooters.json,3636,30
 sirene/24/navigation-fluviale.json,149,1
 sirene/24/navigation-maritime-plaisance-professionnelle.json,3,0
@@ -3018,7 +3041,8 @@ sirene/25/magasins-specialises-bricolage-maison-sport-high-tech.json,51903,454
 sirene/25/maintenance-d-equipements-ascenseurs.json,2223,19
 sirene/25/mairies-administrations.json,49510,315
 sirene/25/materiels-agricoles-engins-de-chantier.json,7869,70
-sirene/25/menuiserie-agencement-serrurerie.json,32419,289
+sirene/25/menuiserie-bois-agencement.json,26825,239
+sirene/25/menuiserie-metallique-serrurerie.json,5596,50
 sirene/25/motos-scooters.json,3294,30
 sirene/25/navigation-fluviale.json,386,2
 sirene/25/navigation-maritime-plaisance-professionnelle.json,3,0
@@ -3146,7 +3170,8 @@ sirene/26/magasins-specialises-bricolage-maison-sport-high-tech.json,55131,461
 sirene/26/maintenance-d-equipements-ascenseurs.json,4496,36
 sirene/26/mairies-administrations.json,34250,213
 sirene/26/materiels-agricoles-engins-de-chantier.json,10668,89
-sirene/26/menuiserie-agencement-serrurerie.json,31991,265
+sirene/26/menuiserie-bois-agencement.json,20804,172
+sirene/26/menuiserie-metallique-serrurerie.json,11414,95
 sirene/26/motos-scooters.json,3133,27
 sirene/26/navigation-fluviale.json,3,0
 sirene/26/navigation-maritime-plaisance-professionnelle.json,3,0
@@ -3274,7 +3299,8 @@ sirene/27/magasins-specialises-bricolage-maison-sport-high-tech.json,36147,311
 sirene/27/maintenance-d-equipements-ascenseurs.json,5417,45
 sirene/27/mairies-administrations.json,28414,179
 sirene/27/materiels-agricoles-engins-de-chantier.json,10460,89
-sirene/27/menuiserie-agencement-serrurerie.json,33187,283
+sirene/27/menuiserie-bois-agencement.json,22358,194
+sirene/27/menuiserie-metallique-serrurerie.json,11124,92
 sirene/27/motos-scooters.json,1429,13
 sirene/27/navigation-fluviale.json,1886,17
 sirene/27/navigation-maritime-plaisance-professionnelle.json,3,0
@@ -3402,7 +3428,8 @@ sirene/28/magasins-specialises-bricolage-maison-sport-high-tech.json,27753,241
 sirene/28/maintenance-d-equipements-ascenseurs.json,3061,26
 sirene/28/mairies-administrations.json,36832,227
 sirene/28/materiels-agricoles-engins-de-chantier.json,11154,96
-sirene/28/menuiserie-agencement-serrurerie.json,28252,239
+sirene/28/menuiserie-bois-agencement.json,20687,175
+sirene/28/menuiserie-metallique-serrurerie.json,7385,63
 sirene/28/motos-scooters.json,1995,18
 sirene/28/navigation-fluviale.json,3,0
 sirene/28/navigation-maritime-plaisance-professionnelle.json,3,0
@@ -3530,7 +3557,8 @@ sirene/29/magasins-specialises-bricolage-maison-sport-high-tech.json,92070,801
 sirene/29/maintenance-d-equipements-ascenseurs.json,4167,33
 sirene/29/mairies-administrations.json,57778,376
 sirene/29/materiels-agricoles-engins-de-chantier.json,16989,149
-sirene/29/menuiserie-agencement-serrurerie.json,52820,453
+sirene/29/menuiserie-bois-agencement.json,43225,371
+sirene/29/menuiserie-metallique-serrurerie.json,10141,87
 sirene/29/motos-scooters.json,3462,30
 sirene/29/navigation-fluviale.json,143,1
 sirene/29/navigation-maritime-plaisance-professionnelle.json,3574,31
@@ -3658,7 +3686,8 @@ sirene/2A/magasins-specialises-bricolage-maison-sport-high-tech.json,38227,327
 sirene/2A/maintenance-d-equipements-ascenseurs.json,1164,11
 sirene/2A/mairies-administrations.json,22677,136
 sirene/2A/materiels-agricoles-engins-de-chantier.json,1948,17
-sirene/2A/menuiserie-agencement-serrurerie.json,13227,112
+sirene/2A/menuiserie-bois-agencement.json,9947,85
+sirene/2A/menuiserie-metallique-serrurerie.json,3786,31
 sirene/2A/motos-scooters.json,1338,12
 sirene/2A/navigation-fluviale.json,3,0
 sirene/2A/navigation-maritime-plaisance-professionnelle.json,4933,43
@@ -3786,7 +3815,8 @@ sirene/2B/magasins-specialises-bricolage-maison-sport-high-tech.json,37886,330
 sirene/2B/maintenance-d-equipements-ascenseurs.json,1660,15
 sirene/2B/mairies-administrations.json,21941,131
 sirene/2B/materiels-agricoles-engins-de-chantier.json,3192,29
-sirene/2B/menuiserie-agencement-serrurerie.json,11883,104
+sirene/2B/menuiserie-bois-agencement.json,8902,79
+sirene/2B/menuiserie-metallique-serrurerie.json,3359,28
 sirene/2B/motos-scooters.json,1655,15
 sirene/2B/navigation-fluviale.json,3,0
 sirene/2B/navigation-maritime-plaisance-professionnelle.json,1337,11
@@ -3914,7 +3944,8 @@ sirene/30/magasins-specialises-bricolage-maison-sport-high-tech.json,76683,659
 sirene/30/maintenance-d-equipements-ascenseurs.json,5356,44
 sirene/30/mairies-administrations.json,37234,232
 sirene/30/materiels-agricoles-engins-de-chantier.json,11187,96
-sirene/30/menuiserie-agencement-serrurerie.json,37598,318
+sirene/30/menuiserie-bois-agencement.json,24557,207
+sirene/30/menuiserie-metallique-serrurerie.json,14088,120
 sirene/30/motos-scooters.json,4299,39
 sirene/30/navigation-fluviale.json,251,2
 sirene/30/navigation-maritime-plaisance-professionnelle.json,214,2
@@ -4042,7 +4073,8 @@ sirene/31/magasins-specialises-bricolage-maison-sport-high-tech.json,126269,1079
 sirene/31/maintenance-d-equipements-ascenseurs.json,12434,107
 sirene/31/mairies-administrations.json,54061,318
 sirene/31/materiels-agricoles-engins-de-chantier.json,17520,149
-sirene/31/menuiserie-agencement-serrurerie.json,61006,527
+sirene/31/menuiserie-bois-agencement.json,38021,332
+sirene/31/menuiserie-metallique-serrurerie.json,23966,203
 sirene/31/motos-scooters.json,6873,61
 sirene/31/navigation-fluviale.json,1019,8
 sirene/31/navigation-maritime-plaisance-professionnelle.json,126,1
@@ -4170,7 +4202,8 @@ sirene/32/magasins-specialises-bricolage-maison-sport-high-tech.json,15080,137
 sirene/32/maintenance-d-equipements-ascenseurs.json,368,3
 sirene/32/mairies-administrations.json,22035,146
 sirene/32/materiels-agricoles-engins-de-chantier.json,7829,72
-sirene/32/menuiserie-agencement-serrurerie.json,9379,85
+sirene/32/menuiserie-bois-agencement.json,6792,61
+sirene/32/menuiserie-metallique-serrurerie.json,2739,25
 sirene/32/motos-scooters.json,1287,11
 sirene/32/navigation-fluviale.json,138,1
 sirene/32/navigation-maritime-plaisance-professionnelle.json,3,0
@@ -4298,7 +4331,8 @@ sirene/33/magasins-specialises-bricolage-maison-sport-high-tech.json,176568,1479
 sirene/33/maintenance-d-equipements-ascenseurs.json,10630,87
 sirene/33/mairies-administrations.json,74509,442
 sirene/33/materiels-agricoles-engins-de-chantier.json,26621,229
-sirene/33/menuiserie-agencement-serrurerie.json,87118,737
+sirene/33/menuiserie-bois-agencement.json,60627,512
+sirene/33/menuiserie-metallique-serrurerie.json,28285,239
 sirene/33/motos-scooters.json,10888,92
 sirene/33/navigation-fluviale.json,1048,9
 sirene/33/navigation-maritime-plaisance-professionnelle.json,2521,20
@@ -4426,7 +4460,8 @@ sirene/34/magasins-specialises-bricolage-maison-sport-high-tech.json,132319,1110
 sirene/34/maintenance-d-equipements-ascenseurs.json,10594,89
 sirene/34/mairies-administrations.json,50698,311
 sirene/34/materiels-agricoles-engins-de-chantier.json,15141,124
-sirene/34/menuiserie-agencement-serrurerie.json,60385,504
+sirene/34/menuiserie-bois-agencement.json,37342,314
+sirene/34/menuiserie-metallique-serrurerie.json,24083,198
 sirene/34/motos-scooters.json,6497,58
 sirene/34/navigation-fluviale.json,951,8
 sirene/34/navigation-maritime-plaisance-professionnelle.json,1104,10
@@ -4554,7 +4589,8 @@ sirene/35/magasins-specialises-bricolage-maison-sport-high-tech.json,104139,883
 sirene/35/maintenance-d-equipements-ascenseurs.json,6221,52
 sirene/35/mairies-administrations.json,66770,411
 sirene/35/materiels-agricoles-engins-de-chantier.json,27082,234
-sirene/35/menuiserie-agencement-serrurerie.json,67471,569
+sirene/35/menuiserie-bois-agencement.json,54055,457
+sirene/35/menuiserie-metallique-serrurerie.json,13667,114
 sirene/35/motos-scooters.json,6905,58
 sirene/35/navigation-fluviale.json,125,1
 sirene/35/navigation-maritime-plaisance-professionnelle.json,1045,8
@@ -4682,7 +4718,8 @@ sirene/36/magasins-specialises-bricolage-maison-sport-high-tech.json,17585,150
 sirene/36/maintenance-d-equipements-ascenseurs.json,779,7
 sirene/36/mairies-administrations.json,31647,203
 sirene/36/materiels-agricoles-engins-de-chantier.json,8107,72
-sirene/36/menuiserie-agencement-serrurerie.json,9169,80
+sirene/36/menuiserie-bois-agencement.json,7050,62
+sirene/36/menuiserie-metallique-serrurerie.json,2252,19
 sirene/36/motos-scooters.json,780,7
 sirene/36/navigation-fluviale.json,3,0
 sirene/36/navigation-maritime-plaisance-professionnelle.json,3,0
@@ -4810,7 +4847,8 @@ sirene/37/magasins-specialises-bricolage-maison-sport-high-tech.json,51292,435
 sirene/37/maintenance-d-equipements-ascenseurs.json,4404,37
 sirene/37/mairies-administrations.json,31036,191
 sirene/37/materiels-agricoles-engins-de-chantier.json,11075,93
-sirene/37/menuiserie-agencement-serrurerie.json,32205,268
+sirene/37/menuiserie-bois-agencement.json,24602,206
+sirene/37/menuiserie-metallique-serrurerie.json,7677,63
 sirene/37/motos-scooters.json,1812,16
 sirene/37/navigation-fluviale.json,111,1
 sirene/37/navigation-maritime-plaisance-professionnelle.json,3,0
@@ -4938,7 +4976,8 @@ sirene/38/magasins-specialises-bricolage-maison-sport-high-tech.json,128758,1083
 sirene/38/maintenance-d-equipements-ascenseurs.json,10233,86
 sirene/38/mairies-administrations.json,66891,416
 sirene/38/materiels-agricoles-engins-de-chantier.json,19114,164
-sirene/38/menuiserie-agencement-serrurerie.json,70305,593
+sirene/38/menuiserie-bois-agencement.json,44730,376
+sirene/38/menuiserie-metallique-serrurerie.json,26434,224
 sirene/38/motos-scooters.json,5984,52
 sirene/38/navigation-fluviale.json,541,5
 sirene/38/navigation-maritime-plaisance-professionnelle.json,3,0
@@ -5066,7 +5105,8 @@ sirene/39/magasins-specialises-bricolage-maison-sport-high-tech.json,27443,236
 sirene/39/maintenance-d-equipements-ascenseurs.json,1353,13
 sirene/39/mairies-administrations.json,29564,196
 sirene/39/materiels-agricoles-engins-de-chantier.json,5326,47
-sirene/39/menuiserie-agencement-serrurerie.json,19021,170
+sirene/39/menuiserie-bois-agencement.json,15108,135
+sirene/39/menuiserie-metallique-serrurerie.json,4026,36
 sirene/39/motos-scooters.json,1112,10
 sirene/39/navigation-fluviale.json,117,1
 sirene/39/navigation-maritime-plaisance-professionnelle.json,3,0
@@ -5194,7 +5234,8 @@ sirene/40/magasins-specialises-bricolage-maison-sport-high-tech.json,52589,431
 sirene/40/maintenance-d-equipements-ascenseurs.json,2688,22
 sirene/40/mairies-administrations.json,29331,178
 sirene/40/materiels-agricoles-engins-de-chantier.json,10588,87
-sirene/40/menuiserie-agencement-serrurerie.json,24579,208
+sirene/40/menuiserie-bois-agencement.json,19667,166
+sirene/40/menuiserie-metallique-serrurerie.json,4878,42
 sirene/40/motos-scooters.json,1607,13
 sirene/40/navigation-fluviale.json,3,0
 sirene/40/navigation-maritime-plaisance-professionnelle.json,103,1
@@ -5322,7 +5363,8 @@ sirene/41/magasins-specialises-bricolage-maison-sport-high-tech.json,26328,217
 sirene/41/maintenance-d-equipements-ascenseurs.json,1802,16
 sirene/41/mairies-administrations.json,40447,262
 sirene/41/materiels-agricoles-engins-de-chantier.json,7783,66
-sirene/41/menuiserie-agencement-serrurerie.json,18311,155
+sirene/41/menuiserie-bois-agencement.json,12510,104
+sirene/41/menuiserie-metallique-serrurerie.json,5655,50
 sirene/41/motos-scooters.json,1400,12
 sirene/41/navigation-fluviale.json,3,0
 sirene/41/navigation-maritime-plaisance-professionnelle.json,3,0
@@ -5450,7 +5492,8 @@ sirene/42/magasins-specialises-bricolage-maison-sport-high-tech.json,64459,554
 sirene/42/maintenance-d-equipements-ascenseurs.json,7909,64
 sirene/42/mairies-administrations.json,39349,242
 sirene/42/materiels-agricoles-engins-de-chantier.json,9174,78
-sirene/42/menuiserie-agencement-serrurerie.json,58196,492
+sirene/42/menuiserie-bois-agencement.json,41133,347
+sirene/42/menuiserie-metallique-serrurerie.json,17647,150
 sirene/42/motos-scooters.json,3946,35
 sirene/42/navigation-fluviale.json,3,0
 sirene/42/navigation-maritime-plaisance-professionnelle.json,3,0
@@ -5578,7 +5621,8 @@ sirene/43/magasins-specialises-bricolage-maison-sport-high-tech.json,23118,196
 sirene/43/maintenance-d-equipements-ascenseurs.json,1984,15
 sirene/43/mairies-administrations.json,32965,209
 sirene/43/materiels-agricoles-engins-de-chantier.json,5022,43
-sirene/43/menuiserie-agencement-serrurerie.json,15495,131
+sirene/43/menuiserie-bois-agencement.json,11659,98
+sirene/43/menuiserie-metallique-serrurerie.json,3974,34
 sirene/43/motos-scooters.json,1035,9
 sirene/43/navigation-fluviale.json,3,0
 sirene/43/navigation-maritime-plaisance-professionnelle.json,3,0
@@ -5706,7 +5750,8 @@ sirene/44/magasins-specialises-bricolage-maison-sport-high-tech.json,125740,1063
 sirene/44/maintenance-d-equipements-ascenseurs.json,13562,110
 sirene/44/mairies-administrations.json,67927,410
 sirene/44/materiels-agricoles-engins-de-chantier.json,27542,230
-sirene/44/menuiserie-agencement-serrurerie.json,89317,734
+sirene/44/menuiserie-bois-agencement.json,69556,574
+sirene/44/menuiserie-metallique-serrurerie.json,20550,166
 sirene/44/motos-scooters.json,7475,63
 sirene/44/navigation-fluviale.json,738,6
 sirene/44/navigation-maritime-plaisance-professionnelle.json,2919,24
@@ -5834,7 +5879,8 @@ sirene/45/magasins-specialises-bricolage-maison-sport-high-tech.json,48902,424
 sirene/45/maintenance-d-equipements-ascenseurs.json,5926,50
 sirene/45/mairies-administrations.json,43080,254
 sirene/45/materiels-agricoles-engins-de-chantier.json,12496,102
-sirene/45/menuiserie-agencement-serrurerie.json,37155,320
+sirene/45/menuiserie-bois-agencement.json,26411,227
+sirene/45/menuiserie-metallique-serrurerie.json,11104,96
 sirene/45/motos-scooters.json,1728,15
 sirene/45/navigation-fluviale.json,379,3
 sirene/45/navigation-maritime-plaisance-professionnelle.json,3,0
@@ -5962,7 +6008,8 @@ sirene/46/magasins-specialises-bricolage-maison-sport-high-tech.json,18219,161
 sirene/46/maintenance-d-equipements-ascenseurs.json,806,7
 sirene/46/mairies-administrations.json,23263,155
 sirene/46/materiels-agricoles-engins-de-chantier.json,5076,42
-sirene/46/menuiserie-agencement-serrurerie.json,10395,88
+sirene/46/menuiserie-bois-agencement.json,8381,70
+sirene/46/menuiserie-metallique-serrurerie.json,2016,18
 sirene/46/motos-scooters.json,1504,14
 sirene/46/navigation-fluviale.json,512,4
 sirene/46/navigation-maritime-plaisance-professionnelle.json,3,0
@@ -6090,7 +6137,8 @@ sirene/47/magasins-specialises-bricolage-maison-sport-high-tech.json,36902,319
 sirene/47/maintenance-d-equipements-ascenseurs.json,1557,14
 sirene/47/mairies-administrations.json,25719,159
 sirene/47/materiels-agricoles-engins-de-chantier.json,11572,100
-sirene/47/menuiserie-agencement-serrurerie.json,18905,163
+sirene/47/menuiserie-bois-agencement.json,14040,122
+sirene/47/menuiserie-metallique-serrurerie.json,5511,46
 sirene/47/motos-scooters.json,2864,25
 sirene/47/navigation-fluviale.json,253,2
 sirene/47/navigation-maritime-plaisance-professionnelle.json,3,0
@@ -6217,7 +6265,8 @@ sirene/48/magasins-specialises-bricolage-maison-sport-high-tech.json,7001,61
 sirene/48/maintenance-d-equipements-ascenseurs.json,360,3
 sirene/48/mairies-administrations.json,21654,134
 sirene/48/materiels-agricoles-engins-de-chantier.json,2066,18
-sirene/48/menuiserie-agencement-serrurerie.json,5102,43
+sirene/48/menuiserie-bois-agencement.json,3583,30
+sirene/48/menuiserie-metallique-serrurerie.json,1525,13
 sirene/48/motos-scooters.json,293,3
 sirene/48/navigation-fluviale.json,116,1
 sirene/48/navigation-maritime-plaisance-professionnelle.json,3,0
@@ -6345,7 +6394,8 @@ sirene/49/magasins-specialises-bricolage-maison-sport-high-tech.json,59344,497
 sirene/49/maintenance-d-equipements-ascenseurs.json,5464,44
 sirene/49/mairies-administrations.json,54103,321
 sirene/49/materiels-agricoles-engins-de-chantier.json,21805,171
-sirene/49/menuiserie-agencement-serrurerie.json,59357,466
+sirene/49/menuiserie-bois-agencement.json,43763,343
+sirene/49/menuiserie-metallique-serrurerie.json,15956,126
 sirene/49/motos-scooters.json,5080,40
 sirene/49/navigation-fluviale.json,3,0
 sirene/49/navigation-maritime-plaisance-professionnelle.json,3,0
@@ -6473,7 +6523,8 @@ sirene/50/magasins-specialises-bricolage-maison-sport-high-tech.json,49770,406
 sirene/50/maintenance-d-equipements-ascenseurs.json,2370,19
 sirene/50/mairies-administrations.json,41360,255
 sirene/50/materiels-agricoles-engins-de-chantier.json,13783,114
-sirene/50/menuiserie-agencement-serrurerie.json,34120,279
+sirene/50/menuiserie-bois-agencement.json,28821,236
+sirene/50/menuiserie-metallique-serrurerie.json,5577,45
 sirene/50/motos-scooters.json,3130,26
 sirene/50/navigation-fluviale.json,772,5
 sirene/50/navigation-maritime-plaisance-professionnelle.json,1368,11
@@ -6601,7 +6652,8 @@ sirene/51/magasins-specialises-bricolage-maison-sport-high-tech.json,46302,395
 sirene/51/maintenance-d-equipements-ascenseurs.json,4309,39
 sirene/51/mairies-administrations.json,46934,286
 sirene/51/materiels-agricoles-engins-de-chantier.json,17783,157
-sirene/51/menuiserie-agencement-serrurerie.json,25027,217
+sirene/51/menuiserie-bois-agencement.json,17681,156
+sirene/51/menuiserie-metallique-serrurerie.json,7348,61
 sirene/51/motos-scooters.json,2427,22
 sirene/51/navigation-fluviale.json,330,3
 sirene/51/navigation-maritime-plaisance-professionnelle.json,3,0
@@ -6729,7 +6781,8 @@ sirene/52/magasins-specialises-bricolage-maison-sport-high-tech.json,15482,134
 sirene/52/maintenance-d-equipements-ascenseurs.json,774,6
 sirene/52/mairies-administrations.json,26338,166
 sirene/52/materiels-agricoles-engins-de-chantier.json,4465,38
-sirene/52/menuiserie-agencement-serrurerie.json,7000,62
+sirene/52/menuiserie-bois-agencement.json,5139,45
+sirene/52/menuiserie-metallique-serrurerie.json,1863,17
 sirene/52/motos-scooters.json,943,8
 sirene/52/navigation-fluviale.json,3,0
 sirene/52/navigation-maritime-plaisance-professionnelle.json,3,0
@@ -6856,7 +6909,8 @@ sirene/53/magasins-specialises-bricolage-maison-sport-high-tech.json,26952,230
 sirene/53/maintenance-d-equipements-ascenseurs.json,1214,11
 sirene/53/mairies-administrations.json,31506,194
 sirene/53/materiels-agricoles-engins-de-chantier.json,14701,129
-sirene/53/menuiserie-agencement-serrurerie.json,19370,164
+sirene/53/menuiserie-bois-agencement.json,15417,130
+sirene/53/menuiserie-metallique-serrurerie.json,3955,34
 sirene/53/motos-scooters.json,1398,11
 sirene/53/navigation-fluviale.json,3,0
 sirene/53/navigation-maritime-plaisance-professionnelle.json,3,0
@@ -6984,7 +7038,8 @@ sirene/54/magasins-specialises-bricolage-maison-sport-high-tech.json,49754,426
 sirene/54/maintenance-d-equipements-ascenseurs.json,6040,52
 sirene/54/mairies-administrations.json,51685,307
 sirene/54/materiels-agricoles-engins-de-chantier.json,9062,81
-sirene/54/menuiserie-agencement-serrurerie.json,26893,235
+sirene/54/menuiserie-bois-agencement.json,19111,167
+sirene/54/menuiserie-metallique-serrurerie.json,7784,68
 sirene/54/motos-scooters.json,2644,23
 sirene/54/navigation-fluviale.json,3,0
 sirene/54/navigation-maritime-plaisance-professionnelle.json,3,0
@@ -7112,7 +7167,8 @@ sirene/55/magasins-specialises-bricolage-maison-sport-high-tech.json,9965,86
 sirene/55/maintenance-d-equipements-ascenseurs.json,574,5
 sirene/55/mairies-administrations.json,32738,196
 sirene/55/materiels-agricoles-engins-de-chantier.json,5851,53
-sirene/55/menuiserie-agencement-serrurerie.json,8041,69
+sirene/55/menuiserie-bois-agencement.json,6308,54
+sirene/55/menuiserie-metallique-serrurerie.json,2008,17
 sirene/55/motos-scooters.json,699,6
 sirene/55/navigation-fluviale.json,3,0
 sirene/55/navigation-maritime-plaisance-professionnelle.json,3,0
@@ -7240,7 +7296,8 @@ sirene/56/magasins-specialises-bricolage-maison-sport-high-tech.json,88973,780
 sirene/56/maintenance-d-equipements-ascenseurs.json,4174,36
 sirene/56/mairies-administrations.json,52153,344
 sirene/56/materiels-agricoles-engins-de-chantier.json,15431,135
-sirene/56/menuiserie-agencement-serrurerie.json,53581,457
+sirene/56/menuiserie-bois-agencement.json,43157,368
+sirene/56/menuiserie-metallique-serrurerie.json,10776,92
 sirene/56/motos-scooters.json,4368,36
 sirene/56/navigation-fluviale.json,3,0
 sirene/56/navigation-maritime-plaisance-professionnelle.json,3780,34
@@ -7368,7 +7425,8 @@ sirene/57/magasins-specialises-bricolage-maison-sport-high-tech.json,81469,704
 sirene/57/maintenance-d-equipements-ascenseurs.json,5876,53
 sirene/57/mairies-administrations.json,55674,345
 sirene/57/materiels-agricoles-engins-de-chantier.json,12937,115
-sirene/57/menuiserie-agencement-serrurerie.json,40056,356
+sirene/57/menuiserie-bois-agencement.json,31248,279
+sirene/57/menuiserie-metallique-serrurerie.json,9145,80
 sirene/57/motos-scooters.json,3836,34
 sirene/57/navigation-fluviale.json,339,3
 sirene/57/navigation-maritime-plaisance-professionnelle.json,220,2
@@ -7496,7 +7554,8 @@ sirene/58/magasins-specialises-bricolage-maison-sport-high-tech.json,16862,138
 sirene/58/maintenance-d-equipements-ascenseurs.json,723,6
 sirene/58/mairies-administrations.json,23975,155
 sirene/58/materiels-agricoles-engins-de-chantier.json,5686,49
-sirene/58/menuiserie-agencement-serrurerie.json,9573,82
+sirene/58/menuiserie-bois-agencement.json,8363,71
+sirene/58/menuiserie-metallique-serrurerie.json,1332,12
 sirene/58/motos-scooters.json,851,7
 sirene/58/navigation-fluviale.json,3,0
 sirene/58/navigation-maritime-plaisance-professionnelle.json,3,0
@@ -7624,7 +7683,8 @@ sirene/59/magasins-specialises-bricolage-maison-sport-high-tech.json,174969,1534
 sirene/59/maintenance-d-equipements-ascenseurs.json,13290,116
 sirene/59/mairies-administrations.json,81791,504
 sirene/59/materiels-agricoles-engins-de-chantier.json,27152,234
-sirene/59/menuiserie-agencement-serrurerie.json,90302,796
+sirene/59/menuiserie-bois-agencement.json,68363,604
+sirene/59/menuiserie-metallique-serrurerie.json,21943,192
 sirene/59/motos-scooters.json,8597,76
 sirene/59/navigation-fluviale.json,7982,81
 sirene/59/navigation-maritime-plaisance-professionnelle.json,355,3
@@ -7752,7 +7812,8 @@ sirene/60/magasins-specialises-bricolage-maison-sport-high-tech.json,47881,416
 sirene/60/maintenance-d-equipements-ascenseurs.json,6915,58
 sirene/60/mairies-administrations.json,52677,329
 sirene/60/materiels-agricoles-engins-de-chantier.json,10546,91
-sirene/60/menuiserie-agencement-serrurerie.json,36776,322
+sirene/60/menuiserie-bois-agencement.json,24352,214
+sirene/60/menuiserie-metallique-serrurerie.json,12665,110
 sirene/60/motos-scooters.json,3621,30
 sirene/60/navigation-fluviale.json,4250,35
 sirene/60/navigation-maritime-plaisance-professionnelle.json,3,0
@@ -7880,7 +7941,8 @@ sirene/61/magasins-specialises-bricolage-maison-sport-high-tech.json,21985,190
 sirene/61/maintenance-d-equipements-ascenseurs.json,1442,12
 sirene/61/mairies-administrations.json,38487,251
 sirene/61/materiels-agricoles-engins-de-chantier.json,7777,67
-sirene/61/menuiserie-agencement-serrurerie.json,18097,149
+sirene/61/menuiserie-bois-agencement.json,13940,113
+sirene/61/menuiserie-metallique-serrurerie.json,4402,38
 sirene/61/motos-scooters.json,1436,12
 sirene/61/navigation-fluviale.json,96,1
 sirene/61/navigation-maritime-plaisance-professionnelle.json,3,0
@@ -8008,7 +8070,8 @@ sirene/62/magasins-specialises-bricolage-maison-sport-high-tech.json,99677,843
 sirene/62/maintenance-d-equipements-ascenseurs.json,6507,54
 sirene/62/mairies-administrations.json,63284,401
 sirene/62/materiels-agricoles-engins-de-chantier.json,20409,174
-sirene/62/menuiserie-agencement-serrurerie.json,63525,553
+sirene/62/menuiserie-bois-agencement.json,52187,453
+sirene/62/menuiserie-metallique-serrurerie.json,12041,106
 sirene/62/motos-scooters.json,6096,53
 sirene/62/navigation-fluviale.json,1557,16
 sirene/62/navigation-maritime-plaisance-professionnelle.json,561,5
@@ -8136,7 +8199,8 @@ sirene/63/magasins-specialises-bricolage-maison-sport-high-tech.json,57610,495
 sirene/63/maintenance-d-equipements-ascenseurs.json,4750,41
 sirene/63/mairies-administrations.json,54501,332
 sirene/63/materiels-agricoles-engins-de-chantier.json,10612,90
-sirene/63/menuiserie-agencement-serrurerie.json,33562,285
+sirene/63/menuiserie-bois-agencement.json,23431,200
+sirene/63/menuiserie-metallique-serrurerie.json,10475,88
 sirene/63/motos-scooters.json,3586,31
 sirene/63/navigation-fluviale.json,3,0
 sirene/63/navigation-maritime-plaisance-professionnelle.json,3,0
@@ -8264,7 +8328,8 @@ sirene/64/magasins-specialises-bricolage-maison-sport-high-tech.json,93753,803
 sirene/64/maintenance-d-equipements-ascenseurs.json,5154,44
 sirene/64/mairies-administrations.json,52546,317
 sirene/64/materiels-agricoles-engins-de-chantier.json,14889,124
-sirene/64/menuiserie-agencement-serrurerie.json,39358,337
+sirene/64/menuiserie-bois-agencement.json,30058,257
+sirene/64/menuiserie-metallique-serrurerie.json,10610,90
 sirene/64/motos-scooters.json,5473,49
 sirene/64/navigation-fluviale.json,3,0
 sirene/64/navigation-maritime-plaisance-professionnelle.json,800,7
@@ -8392,7 +8457,8 @@ sirene/65/magasins-specialises-bricolage-maison-sport-high-tech.json,32531,279
 sirene/65/maintenance-d-equipements-ascenseurs.json,1628,13
 sirene/65/mairies-administrations.json,23766,145
 sirene/65/materiels-agricoles-engins-de-chantier.json,3582,32
-sirene/65/menuiserie-agencement-serrurerie.json,9649,85
+sirene/65/menuiserie-bois-agencement.json,6035,52
+sirene/65/menuiserie-metallique-serrurerie.json,3966,36
 sirene/65/motos-scooters.json,1088,9
 sirene/65/navigation-fluviale.json,3,0
 sirene/65/navigation-maritime-plaisance-professionnelle.json,3,0
@@ -8520,7 +8586,8 @@ sirene/66/magasins-specialises-bricolage-maison-sport-high-tech.json,56855,475
 sirene/66/maintenance-d-equipements-ascenseurs.json,2048,18
 sirene/66/mairies-administrations.json,30253,179
 sirene/66/materiels-agricoles-engins-de-chantier.json,4193,37
-sirene/66/menuiserie-agencement-serrurerie.json,27512,240
+sirene/66/menuiserie-bois-agencement.json,17332,151
+sirene/66/menuiserie-metallique-serrurerie.json,11270,98
 sirene/66/motos-scooters.json,2178,19
 sirene/66/navigation-fluviale.json,3,0
 sirene/66/navigation-maritime-plaisance-professionnelle.json,552,4
@@ -8648,7 +8715,8 @@ sirene/67/magasins-specialises-bricolage-maison-sport-high-tech.json,99681,870
 sirene/67/maintenance-d-equipements-ascenseurs.json,9174,80
 sirene/67/mairies-administrations.json,54178,325
 sirene/67/materiels-agricoles-engins-de-chantier.json,16352,146
-sirene/67/menuiserie-agencement-serrurerie.json,68111,611
+sirene/67/menuiserie-bois-agencement.json,45090,406
+sirene/67/menuiserie-metallique-serrurerie.json,22885,204
 sirene/67/motos-scooters.json,4681,42
 sirene/67/navigation-fluviale.json,754,7
 sirene/67/navigation-maritime-plaisance-professionnelle.json,326,3
@@ -8776,7 +8844,8 @@ sirene/68/magasins-specialises-bricolage-maison-sport-high-tech.json,66751,593
 sirene/68/maintenance-d-equipements-ascenseurs.json,4695,40
 sirene/68/mairies-administrations.json,44911,271
 sirene/68/materiels-agricoles-engins-de-chantier.json,10324,92
-sirene/68/menuiserie-agencement-serrurerie.json,38378,339
+sirene/68/menuiserie-bois-agencement.json,28561,252
+sirene/68/menuiserie-metallique-serrurerie.json,9935,88
 sirene/68/motos-scooters.json,4206,38
 sirene/68/navigation-fluviale.json,197,2
 sirene/68/navigation-maritime-plaisance-professionnelle.json,3,0
@@ -8904,7 +8973,8 @@ sirene/69/magasins-specialises-bricolage-maison-sport-high-tech.json,179851,1577
 sirene/69/maintenance-d-equipements-ascenseurs.json,19385,163
 sirene/69/mairies-administrations.json,52016,314
 sirene/69/materiels-agricoles-engins-de-chantier.json,22383,193
-sirene/69/menuiserie-agencement-serrurerie.json,104119,892
+sirene/69/menuiserie-bois-agencement.json,66962,573
+sirene/69/menuiserie-metallique-serrurerie.json,38368,328
 sirene/69/motos-scooters.json,8987,79
 sirene/69/navigation-fluviale.json,2002,17
 sirene/69/navigation-maritime-plaisance-professionnelle.json,452,4
@@ -9032,7 +9102,8 @@ sirene/70/magasins-specialises-bricolage-maison-sport-high-tech.json,19568,170
 sirene/70/maintenance-d-equipements-ascenseurs.json,735,6
 sirene/70/mairies-administrations.json,26558,170
 sirene/70/materiels-agricoles-engins-de-chantier.json,6504,55
-sirene/70/menuiserie-agencement-serrurerie.json,12574,112
+sirene/70/menuiserie-bois-agencement.json,9293,82
+sirene/70/menuiserie-metallique-serrurerie.json,3283,30
 sirene/70/motos-scooters.json,1306,12
 sirene/70/navigation-fluviale.json,3,0
 sirene/70/navigation-maritime-plaisance-professionnelle.json,3,0
@@ -9160,7 +9231,8 @@ sirene/71/magasins-specialises-bricolage-maison-sport-high-tech.json,47781,409
 sirene/71/maintenance-d-equipements-ascenseurs.json,3066,25
 sirene/71/mairies-administrations.json,43982,282
 sirene/71/materiels-agricoles-engins-de-chantier.json,11708,103
-sirene/71/menuiserie-agencement-serrurerie.json,30323,254
+sirene/71/menuiserie-bois-agencement.json,22221,188
+sirene/71/menuiserie-metallique-serrurerie.json,8307,68
 sirene/71/motos-scooters.json,3625,31
 sirene/71/navigation-fluviale.json,421,4
 sirene/71/navigation-maritime-plaisance-professionnelle.json,3,0
@@ -9288,7 +9360,8 @@ sirene/72/magasins-specialises-bricolage-maison-sport-high-tech.json,41930,352
 sirene/72/maintenance-d-equipements-ascenseurs.json,2939,24
 sirene/72/mairies-administrations.json,56309,358
 sirene/72/materiels-agricoles-engins-de-chantier.json,11091,93
-sirene/72/menuiserie-agencement-serrurerie.json,24162,208
+sirene/72/menuiserie-bois-agencement.json,17314,147
+sirene/72/menuiserie-metallique-serrurerie.json,7488,66
 sirene/72/motos-scooters.json,2889,26
 sirene/72/navigation-fluviale.json,245,2
 sirene/72/navigation-maritime-plaisance-professionnelle.json,3,0
@@ -9416,7 +9489,8 @@ sirene/73/magasins-specialises-bricolage-maison-sport-high-tech.json,121173,983
 sirene/73/maintenance-d-equipements-ascenseurs.json,4482,37
 sirene/73/mairies-administrations.json,32309,202
 sirene/73/materiels-agricoles-engins-de-chantier.json,8964,74
-sirene/73/menuiserie-agencement-serrurerie.json,37566,317
+sirene/73/menuiserie-bois-agencement.json,28482,243
+sirene/73/menuiserie-metallique-serrurerie.json,9347,76
 sirene/73/motos-scooters.json,3155,27
 sirene/73/navigation-fluviale.json,484,3
 sirene/73/navigation-maritime-plaisance-professionnelle.json,3,0
@@ -9544,7 +9618,8 @@ sirene/74/magasins-specialises-bricolage-maison-sport-high-tech.json,133873,1145
 sirene/74/maintenance-d-equipements-ascenseurs.json,7559,63
 sirene/74/mairies-administrations.json,55135,338
 sirene/74/materiels-agricoles-engins-de-chantier.json,11314,96
-sirene/74/menuiserie-agencement-serrurerie.json,64922,547
+sirene/74/menuiserie-bois-agencement.json,52591,444
+sirene/74/menuiserie-metallique-serrurerie.json,13010,108
 sirene/74/motos-scooters.json,5835,50
 sirene/74/navigation-fluviale.json,279,2
 sirene/74/navigation-maritime-plaisance-professionnelle.json,286,2
@@ -9672,7 +9747,8 @@ sirene/75/magasins-specialises-bricolage-maison-sport-high-tech.json,484763,4476
 sirene/75/maintenance-d-equipements-ascenseurs.json,13484,131
 sirene/75/mairies-administrations.json,146140,955
 sirene/75/materiels-agricoles-engins-de-chantier.json,9741,95
-sirene/75/menuiserie-agencement-serrurerie.json,88202,837
+sirene/75/menuiserie-bois-agencement.json,51607,495
+sirene/75/menuiserie-metallique-serrurerie.json,37072,346
 sirene/75/motos-scooters.json,17118,161
 sirene/75/navigation-fluviale.json,4405,40
 sirene/75/navigation-maritime-plaisance-professionnelle.json,2407,23
@@ -9800,7 +9876,8 @@ sirene/76/magasins-specialises-bricolage-maison-sport-high-tech.json,89543,771
 sirene/76/maintenance-d-equipements-ascenseurs.json,7894,65
 sirene/76/mairies-administrations.json,62921,366
 sirene/76/materiels-agricoles-engins-de-chantier.json,16575,138
-sirene/76/menuiserie-agencement-serrurerie.json,56298,474
+sirene/76/menuiserie-bois-agencement.json,44019,374
+sirene/76/menuiserie-metallique-serrurerie.json,12800,104
 sirene/76/motos-scooters.json,5030,43
 sirene/76/navigation-fluviale.json,3181,28
 sirene/76/navigation-maritime-plaisance-professionnelle.json,2513,21
@@ -9928,7 +10005,8 @@ sirene/77/magasins-specialises-bricolage-maison-sport-high-tech.json,116397,917
 sirene/77/maintenance-d-equipements-ascenseurs.json,14800,128
 sirene/77/mairies-administrations.json,65634,382
 sirene/77/materiels-agricoles-engins-de-chantier.json,25163,218
-sirene/77/menuiserie-agencement-serrurerie.json,81037,705
+sirene/77/menuiserie-bois-agencement.json,51984,454
+sirene/77/menuiserie-metallique-serrurerie.json,29585,256
 sirene/77/motos-scooters.json,5822,49
 sirene/77/navigation-fluviale.json,3210,28
 sirene/77/navigation-maritime-plaisance-professionnelle.json,247,2
@@ -10056,7 +10134,8 @@ sirene/78/magasins-specialises-bricolage-maison-sport-high-tech.json,109214,881
 sirene/78/maintenance-d-equipements-ascenseurs.json,11843,103
 sirene/78/mairies-administrations.json,66959,393
 sirene/78/materiels-agricoles-engins-de-chantier.json,11841,100
-sirene/78/menuiserie-agencement-serrurerie.json,59310,515
+sirene/78/menuiserie-bois-agencement.json,42890,376
+sirene/78/menuiserie-metallique-serrurerie.json,16814,142
 sirene/78/motos-scooters.json,7690,67
 sirene/78/navigation-fluviale.json,2934,25
 sirene/78/navigation-maritime-plaisance-professionnelle.json,358,3
@@ -10184,7 +10263,8 @@ sirene/79/magasins-specialises-bricolage-maison-sport-high-tech.json,25887,224
 sirene/79/maintenance-d-equipements-ascenseurs.json,2051,18
 sirene/79/mairies-administrations.json,31786,193
 sirene/79/materiels-agricoles-engins-de-chantier.json,12644,106
-sirene/79/menuiserie-agencement-serrurerie.json,24603,210
+sirene/79/menuiserie-bois-agencement.json,20147,173
+sirene/79/menuiserie-metallique-serrurerie.json,4560,38
 sirene/79/motos-scooters.json,2369,21
 sirene/79/navigation-fluviale.json,308,2
 sirene/79/navigation-maritime-plaisance-professionnelle.json,3,0
@@ -10312,7 +10392,8 @@ sirene/80/magasins-specialises-bricolage-maison-sport-high-tech.json,42748,374
 sirene/80/maintenance-d-equipements-ascenseurs.json,2800,22
 sirene/80/mairies-administrations.json,56893,374
 sirene/80/materiels-agricoles-engins-de-chantier.json,10915,94
-sirene/80/menuiserie-agencement-serrurerie.json,21239,190
+sirene/80/menuiserie-bois-agencement.json,16423,148
+sirene/80/menuiserie-metallique-serrurerie.json,5227,46
 sirene/80/motos-scooters.json,1809,16
 sirene/80/navigation-fluviale.json,210,2
 sirene/80/navigation-maritime-plaisance-professionnelle.json,229,2
@@ -10440,7 +10521,8 @@ sirene/81/magasins-specialises-bricolage-maison-sport-high-tech.json,36310,314
 sirene/81/maintenance-d-equipements-ascenseurs.json,2839,25
 sirene/81/mairies-administrations.json,25528,169
 sirene/81/materiels-agricoles-engins-de-chantier.json,7618,68
-sirene/81/menuiserie-agencement-serrurerie.json,22658,194
+sirene/81/menuiserie-bois-agencement.json,16519,143
+sirene/81/menuiserie-metallique-serrurerie.json,6513,54
 sirene/81/motos-scooters.json,2425,20
 sirene/81/navigation-fluviale.json,3,0
 sirene/81/navigation-maritime-plaisance-professionnelle.json,3,0
@@ -10568,7 +10650,8 @@ sirene/82/magasins-specialises-bricolage-maison-sport-high-tech.json,22629,193
 sirene/82/maintenance-d-equipements-ascenseurs.json,1154,10
 sirene/82/mairies-administrations.json,20753,128
 sirene/82/materiels-agricoles-engins-de-chantier.json,6799,58
-sirene/82/menuiserie-agencement-serrurerie.json,9237,84
+sirene/82/menuiserie-bois-agencement.json,6508,58
+sirene/82/menuiserie-metallique-serrurerie.json,2731,26
 sirene/82/motos-scooters.json,1084,10
 sirene/82/navigation-fluviale.json,3,0
 sirene/82/navigation-maritime-plaisance-professionnelle.json,146,1
@@ -10696,7 +10779,8 @@ sirene/83/magasins-specialises-bricolage-maison-sport-high-tech.json,140444,1154
 sirene/83/maintenance-d-equipements-ascenseurs.json,10282,78
 sirene/83/mairies-administrations.json,38739,237
 sirene/83/materiels-agricoles-engins-de-chantier.json,14218,113
-sirene/83/menuiserie-agencement-serrurerie.json,70356,568
+sirene/83/menuiserie-bois-agencement.json,42936,343
+sirene/83/menuiserie-metallique-serrurerie.json,28092,230
 sirene/83/motos-scooters.json,11002,93
 sirene/83/navigation-fluviale.json,270,2
 sirene/83/navigation-maritime-plaisance-professionnelle.json,3228,25
@@ -10824,7 +10908,8 @@ sirene/84/magasins-specialises-bricolage-maison-sport-high-tech.json,79175,667
 sirene/84/maintenance-d-equipements-ascenseurs.json,7128,59
 sirene/84/mairies-administrations.json,28744,173
 sirene/84/materiels-agricoles-engins-de-chantier.json,15182,130
-sirene/84/menuiserie-agencement-serrurerie.json,33267,278
+sirene/84/menuiserie-bois-agencement.json,20451,170
+sirene/84/menuiserie-metallique-serrurerie.json,13314,112
 sirene/84/motos-scooters.json,3655,32
 sirene/84/navigation-fluviale.json,264,2
 sirene/84/navigation-maritime-plaisance-professionnelle.json,3,0
@@ -10952,7 +11037,8 @@ sirene/85/magasins-specialises-bricolage-maison-sport-high-tech.json,77706,624
 sirene/85/maintenance-d-equipements-ascenseurs.json,4153,33
 sirene/85/mairies-administrations.json,59403,357
 sirene/85/materiels-agricoles-engins-de-chantier.json,18952,156
-sirene/85/menuiserie-agencement-serrurerie.json,77766,625
+sirene/85/menuiserie-bois-agencement.json,64896,521
+sirene/85/menuiserie-metallique-serrurerie.json,12849,104
 sirene/85/motos-scooters.json,4591,37
 sirene/85/navigation-fluviale.json,3,0
 sirene/85/navigation-maritime-plaisance-professionnelle.json,1395,11
@@ -11080,7 +11166,8 @@ sirene/86/magasins-specialises-bricolage-maison-sport-high-tech.json,34167,284
 sirene/86/maintenance-d-equipements-ascenseurs.json,2897,24
 sirene/86/mairies-administrations.json,39104,241
 sirene/86/materiels-agricoles-engins-de-chantier.json,15081,130
-sirene/86/menuiserie-agencement-serrurerie.json,22543,190
+sirene/86/menuiserie-bois-agencement.json,16996,144
+sirene/86/menuiserie-metallique-serrurerie.json,5598,47
 sirene/86/motos-scooters.json,2590,23
 sirene/86/navigation-fluviale.json,3,0
 sirene/86/navigation-maritime-plaisance-professionnelle.json,3,0
@@ -11208,7 +11295,8 @@ sirene/87/magasins-specialises-bricolage-maison-sport-high-tech.json,34984,298
 sirene/87/maintenance-d-equipements-ascenseurs.json,1933,17
 sirene/87/mairies-administrations.json,36489,227
 sirene/87/materiels-agricoles-engins-de-chantier.json,8086,67
-sirene/87/menuiserie-agencement-serrurerie.json,16250,146
+sirene/87/menuiserie-bois-agencement.json,12892,116
+sirene/87/menuiserie-metallique-serrurerie.json,3613,32
 sirene/87/motos-scooters.json,2403,22
 sirene/87/navigation-fluviale.json,3,0
 sirene/87/navigation-maritime-plaisance-professionnelle.json,3,0
@@ -11336,7 +11424,8 @@ sirene/88/magasins-specialises-bricolage-maison-sport-high-tech.json,36412,309
 sirene/88/maintenance-d-equipements-ascenseurs.json,2393,19
 sirene/88/mairies-administrations.json,33020,204
 sirene/88/materiels-agricoles-engins-de-chantier.json,7329,63
-sirene/88/menuiserie-agencement-serrurerie.json,27774,239
+sirene/88/menuiserie-bois-agencement.json,18447,158
+sirene/88/menuiserie-metallique-serrurerie.json,9329,81
 sirene/88/motos-scooters.json,1760,15
 sirene/88/navigation-fluviale.json,547,5
 sirene/88/navigation-maritime-plaisance-professionnelle.json,3,0
@@ -11464,7 +11553,8 @@ sirene/89/magasins-specialises-bricolage-maison-sport-high-tech.json,27292,233
 sirene/89/maintenance-d-equipements-ascenseurs.json,1317,11
 sirene/89/mairies-administrations.json,37331,250
 sirene/89/materiels-agricoles-engins-de-chantier.json,7127,62
-sirene/89/menuiserie-agencement-serrurerie.json,18433,165
+sirene/89/menuiserie-bois-agencement.json,13353,121
+sirene/89/menuiserie-metallique-serrurerie.json,5204,45
 sirene/89/motos-scooters.json,1906,17
 sirene/89/navigation-fluviale.json,1756,17
 sirene/89/navigation-maritime-plaisance-professionnelle.json,3,0
@@ -11592,7 +11682,8 @@ sirene/90/magasins-specialises-bricolage-maison-sport-high-tech.json,10470,91
 sirene/90/maintenance-d-equipements-ascenseurs.json,659,6
 sirene/90/mairies-administrations.json,13232,74
 sirene/90/materiels-agricoles-engins-de-chantier.json,920,8
-sirene/90/menuiserie-agencement-serrurerie.json,5109,43
+sirene/90/menuiserie-bois-agencement.json,3944,33
+sirene/90/menuiserie-metallique-serrurerie.json,1167,10
 sirene/90/motos-scooters.json,523,5
 sirene/90/navigation-fluviale.json,3,0
 sirene/90/navigation-maritime-plaisance-professionnelle.json,3,0
@@ -11720,7 +11811,8 @@ sirene/91/magasins-specialises-bricolage-maison-sport-high-tech.json,80552,637
 sirene/91/maintenance-d-equipements-ascenseurs.json,13250,113
 sirene/91/mairies-administrations.json,54873,317
 sirene/91/materiels-agricoles-engins-de-chantier.json,17406,145
-sirene/91/menuiserie-agencement-serrurerie.json,66631,574
+sirene/91/menuiserie-bois-agencement.json,45623,395
+sirene/91/menuiserie-metallique-serrurerie.json,21157,180
 sirene/91/motos-scooters.json,4611,40
 sirene/91/navigation-fluviale.json,3,0
 sirene/91/navigation-maritime-plaisance-professionnelle.json,248,2
@@ -11848,7 +11940,8 @@ sirene/92/magasins-specialises-bricolage-maison-sport-high-tech.json,116497,965
 sirene/92/maintenance-d-equipements-ascenseurs.json,9619,82
 sirene/92/mairies-administrations.json,53766,307
 sirene/92/materiels-agricoles-engins-de-chantier.json,5606,50
-sirene/92/menuiserie-agencement-serrurerie.json,40714,354
+sirene/92/menuiserie-bois-agencement.json,24830,218
+sirene/92/menuiserie-metallique-serrurerie.json,15886,136
 sirene/92/motos-scooters.json,8493,74
 sirene/92/navigation-fluviale.json,1020,8
 sirene/92/navigation-maritime-plaisance-professionnelle.json,1592,14
@@ -11976,7 +12069,8 @@ sirene/93/magasins-specialises-bricolage-maison-sport-high-tech.json,99591,802
 sirene/93/maintenance-d-equipements-ascenseurs.json,14753,131
 sirene/93/mairies-administrations.json,105284,630
 sirene/93/materiels-agricoles-engins-de-chantier.json,9589,83
-sirene/93/menuiserie-agencement-serrurerie.json,87195,795
+sirene/93/menuiserie-bois-agencement.json,56098,513
+sirene/93/menuiserie-metallique-serrurerie.json,32023,290
 sirene/93/motos-scooters.json,4514,40
 sirene/93/navigation-fluviale.json,3,0
 sirene/93/navigation-maritime-plaisance-professionnelle.json,101,1
@@ -12104,7 +12198,8 @@ sirene/94/magasins-specialises-bricolage-maison-sport-high-tech.json,89407,708
 sirene/94/maintenance-d-equipements-ascenseurs.json,10950,95
 sirene/94/mairies-administrations.json,66190,403
 sirene/94/materiels-agricoles-engins-de-chantier.json,7499,64
-sirene/94/menuiserie-agencement-serrurerie.json,61649,528
+sirene/94/menuiserie-bois-agencement.json,40535,347
+sirene/94/menuiserie-metallique-serrurerie.json,21593,184
 sirene/94/motos-scooters.json,4619,41
 sirene/94/navigation-fluviale.json,133,1
 sirene/94/navigation-maritime-plaisance-professionnelle.json,3,0
@@ -12232,7 +12327,8 @@ sirene/95/magasins-specialises-bricolage-maison-sport-high-tech.json,76528,612
 sirene/95/maintenance-d-equipements-ascenseurs.json,14075,121
 sirene/95/mairies-administrations.json,64034,375
 sirene/95/materiels-agricoles-engins-de-chantier.json,15566,135
-sirene/95/menuiserie-agencement-serrurerie.json,62200,553
+sirene/95/menuiserie-bois-agencement.json,41591,372
+sirene/95/menuiserie-metallique-serrurerie.json,20611,181
 sirene/95/motos-scooters.json,4782,41
 sirene/95/navigation-fluviale.json,3,0
 sirene/95/navigation-maritime-plaisance-professionnelle.json,96,1
@@ -12360,7 +12456,8 @@ sirene/971/magasins-specialises-bricolage-maison-sport-high-tech.json,63037,484
 sirene/971/maintenance-d-equipements-ascenseurs.json,6296,46
 sirene/971/mairies-administrations.json,28453,167
 sirene/971/materiels-agricoles-engins-de-chantier.json,3546,27
-sirene/971/menuiserie-agencement-serrurerie.json,17586,139
+sirene/971/menuiserie-bois-agencement.json,8408,66
+sirene/971/menuiserie-metallique-serrurerie.json,9268,73
 sirene/971/motos-scooters.json,1272,10
 sirene/971/navigation-fluviale.json,3,0
 sirene/971/navigation-maritime-plaisance-professionnelle.json,5573,44
@@ -12488,7 +12585,8 @@ sirene/972/magasins-specialises-bricolage-maison-sport-high-tech.json,56213,447
 sirene/972/maintenance-d-equipements-ascenseurs.json,4947,40
 sirene/972/mairies-administrations.json,27351,150
 sirene/972/materiels-agricoles-engins-de-chantier.json,4458,37
-sirene/972/menuiserie-agencement-serrurerie.json,13930,113
+sirene/972/menuiserie-bois-agencement.json,8673,70
+sirene/972/menuiserie-metallique-serrurerie.json,5385,44
 sirene/972/motos-scooters.json,1557,13
 sirene/972/navigation-fluviale.json,3,0
 sirene/972/navigation-maritime-plaisance-professionnelle.json,4208,33
@@ -12616,7 +12714,8 @@ sirene/973/magasins-specialises-bricolage-maison-sport-high-tech.json,26665,215
 sirene/973/maintenance-d-equipements-ascenseurs.json,3137,25
 sirene/973/mairies-administrations.json,18117,100
 sirene/973/materiels-agricoles-engins-de-chantier.json,2409,19
-sirene/973/menuiserie-agencement-serrurerie.json,8725,68
+sirene/973/menuiserie-bois-agencement.json,4350,34
+sirene/973/menuiserie-metallique-serrurerie.json,4547,35
 sirene/973/motos-scooters.json,1322,12
 sirene/973/navigation-fluviale.json,769,6
 sirene/973/navigation-maritime-plaisance-professionnelle.json,979,8
@@ -12744,7 +12843,8 @@ sirene/974/magasins-specialises-bricolage-maison-sport-high-tech.json,105135,855
 sirene/974/maintenance-d-equipements-ascenseurs.json,7408,53
 sirene/974/mairies-administrations.json,40121,229
 sirene/974/materiels-agricoles-engins-de-chantier.json,7161,58
-sirene/974/menuiserie-agencement-serrurerie.json,30402,235
+sirene/974/menuiserie-bois-agencement.json,15196,117
+sirene/974/menuiserie-metallique-serrurerie.json,15284,119
 sirene/974/motos-scooters.json,5430,44
 sirene/974/navigation-fluviale.json,3,0
 sirene/974/navigation-maritime-plaisance-professionnelle.json,938,8
@@ -12872,7 +12972,8 @@ sirene/976/magasins-specialises-bricolage-maison-sport-high-tech.json,8058,67
 sirene/976/maintenance-d-equipements-ascenseurs.json,148,1
 sirene/976/mairies-administrations.json,5005,31
 sirene/976/materiels-agricoles-engins-de-chantier.json,400,3
-sirene/976/menuiserie-agencement-serrurerie.json,1589,12
+sirene/976/menuiserie-bois-agencement.json,813,6
+sirene/976/menuiserie-metallique-serrurerie.json,778,6
 sirene/976/motos-scooters.json,110,1
 sirene/976/navigation-fluviale.json,3,0
 sirene/976/navigation-maritime-plaisance-professionnelle.json,448,4
