@@ -37,6 +37,7 @@ sirene/01/demenagement.json,2256,17
 sirene/01/eau-potable-captage-traitement-distribution.json,10484,78
 sirene/01/ebenisterie-meubles-restauration-de-meubles.json,4100,36
 sirene/01/ecoles-de-sport-equitation.json,4900,41
+sirene/01/ecoles-maternelles-et-elementaires.json,59632,425
 sirene/01/electricite-du-batiment.json,32079,277
 sirene/01/electronique-materiel-electrique.json,4577,39
 sirene/01/elements-prefabriques-en-beton.json,1915,16
@@ -69,7 +70,7 @@ sirene/01/laboratoires-de-recherche-scientifique.json,2029,17
 sirene/01/loisirs-animation.json,24531,191
 sirene/01/magasins-specialises-bricolage-maison-sport-high-tech.json,54027,453
 sirene/01/maintenance-d-equipements-ascenseurs.json,20179,166
-sirene/01/mairies-administrations.json,158968,1149
+sirene/01/mairies-administrations.json,99338,724
 sirene/01/materiels-agricoles-engins-de-chantier.json,10420,89
 sirene/01/menuiserie-agencement-serrurerie.json,39743,338
 sirene/01/motos-scooters.json,2848,25
@@ -159,6 +160,7 @@ sirene/02/demenagement.json,1309,10
 sirene/02/eau-potable-captage-traitement-distribution.json,31145,230
 sirene/02/ebenisterie-meubles-restauration-de-meubles.json,1039,9
 sirene/02/ecoles-de-sport-equitation.json,2005,16
+sirene/02/ecoles-maternelles-et-elementaires.json,81758,586
 sirene/02/electricite-du-batiment.json,13545,120
 sirene/02/electronique-materiel-electrique.json,1524,12
 sirene/02/elements-prefabriques-en-beton.json,800,7
@@ -191,7 +193,7 @@ sirene/02/laboratoires-de-recherche-scientifique.json,1180,9
 sirene/02/loisirs-animation.json,21668,164
 sirene/02/magasins-specialises-bricolage-maison-sport-high-tech.json,27968,245
 sirene/02/maintenance-d-equipements-ascenseurs.json,11116,96
-sirene/02/mairies-administrations.json,224195,1680
+sirene/02/mairies-administrations.json,142439,1094
 sirene/02/materiels-agricoles-engins-de-chantier.json,12180,107
 sirene/02/menuiserie-agencement-serrurerie.json,17463,149
 sirene/02/motos-scooters.json,1867,17
@@ -281,6 +283,7 @@ sirene/03/demenagement.json,1161,8
 sirene/03/eau-potable-captage-traitement-distribution.json,4497,29
 sirene/03/ebenisterie-meubles-restauration-de-meubles.json,1512,13
 sirene/03/ecoles-de-sport-equitation.json,2735,21
+sirene/03/ecoles-maternelles-et-elementaires.json,47660,350
 sirene/03/electricite-du-batiment.json,10680,94
 sirene/03/electronique-materiel-electrique.json,1371,11
 sirene/03/elements-prefabriques-en-beton.json,808,7
@@ -313,7 +316,7 @@ sirene/03/laboratoires-de-recherche-scientifique.json,1036,7
 sirene/03/loisirs-animation.json,24858,178
 sirene/03/magasins-specialises-bricolage-maison-sport-high-tech.json,32887,281
 sirene/03/maintenance-d-equipements-ascenseurs.json,8190,72
-sirene/03/mairies-administrations.json,132216,965
+sirene/03/mairies-administrations.json,84558,615
 sirene/03/materiels-agricoles-engins-de-chantier.json,7794,69
 sirene/03/menuiserie-agencement-serrurerie.json,18707,164
 sirene/03/motos-scooters.json,1184,11
@@ -403,6 +406,7 @@ sirene/04/demenagement.json,392,3
 sirene/04/eau-potable-captage-traitement-distribution.json,13068,94
 sirene/04/ebenisterie-meubles-restauration-de-meubles.json,575,5
 sirene/04/ecoles-de-sport-equitation.json,1402,11
+sirene/04/ecoles-maternelles-et-elementaires.json,17299,125
 sirene/04/electricite-du-batiment.json,9189,77
 sirene/04/electronique-materiel-electrique.json,316,3
 sirene/04/elements-prefabriques-en-beton.json,3,0
@@ -435,7 +439,7 @@ sirene/04/laboratoires-de-recherche-scientifique.json,1011,7
 sirene/04/loisirs-animation.json,11937,89
 sirene/04/magasins-specialises-bricolage-maison-sport-high-tech.json,25894,211
 sirene/04/maintenance-d-equipements-ascenseurs.json,3284,27
-sirene/04/mairies-administrations.json,70333,486
+sirene/04/mairies-administrations.json,53036,361
 sirene/04/materiels-agricoles-engins-de-chantier.json,3077,27
 sirene/04/menuiserie-agencement-serrurerie.json,10325,85
 sirene/04/motos-scooters.json,1196,10
@@ -525,6 +529,7 @@ sirene/05/demenagement.json,378,3
 sirene/05/eau-potable-captage-traitement-distribution.json,6691,49
 sirene/05/ebenisterie-meubles-restauration-de-meubles.json,1138,9
 sirene/05/ecoles-de-sport-equitation.json,2848,22
+sirene/05/ecoles-maternelles-et-elementaires.json,12619,92
 sirene/05/electricite-du-batiment.json,7364,62
 sirene/05/electronique-materiel-electrique.json,311,2
 sirene/05/elements-prefabriques-en-beton.json,366,3
@@ -557,7 +562,7 @@ sirene/05/laboratoires-de-recherche-scientifique.json,125,1
 sirene/05/loisirs-animation.json,13330,100
 sirene/05/magasins-specialises-bricolage-maison-sport-high-tech.json,36191,306
 sirene/05/maintenance-d-equipements-ascenseurs.json,3253,28
-sirene/05/mairies-administrations.json,58556,410
+sirene/05/mairies-administrations.json,45939,318
 sirene/05/materiels-agricoles-engins-de-chantier.json,3227,28
 sirene/05/menuiserie-agencement-serrurerie.json,9507,81
 sirene/05/motos-scooters.json,1235,10
@@ -647,6 +652,7 @@ sirene/06/demenagement.json,6701,53
 sirene/06/eau-potable-captage-traitement-distribution.json,5923,46
 sirene/06/ebenisterie-meubles-restauration-de-meubles.json,6163,54
 sirene/06/ecoles-de-sport-equitation.json,10166,84
+sirene/06/ecoles-maternelles-et-elementaires.json,66852,476
 sirene/06/electricite-du-batiment.json,71957,612
 sirene/06/electronique-materiel-electrique.json,5208,44
 sirene/06/elements-prefabriques-en-beton.json,528,4
@@ -679,7 +685,7 @@ sirene/06/laboratoires-de-recherche-scientifique.json,13380,106
 sirene/06/loisirs-animation.json,56236,436
 sirene/06/magasins-specialises-bricolage-maison-sport-high-tech.json,152702,1316
 sirene/06/maintenance-d-equipements-ascenseurs.json,26907,220
-sirene/06/mairies-administrations.json,134776,925
+sirene/06/mairies-administrations.json,67926,449
 sirene/06/materiels-agricoles-engins-de-chantier.json,9389,78
 sirene/06/menuiserie-agencement-serrurerie.json,65731,551
 sirene/06/motos-scooters.json,12792,115
@@ -769,6 +775,7 @@ sirene/07/demenagement.json,242,2
 sirene/07/eau-potable-captage-traitement-distribution.json,15068,102
 sirene/07/ebenisterie-meubles-restauration-de-meubles.json,1185,10
 sirene/07/ecoles-de-sport-equitation.json,2706,22
+sirene/07/ecoles-maternelles-et-elementaires.json,40646,297
 sirene/07/electricite-du-batiment.json,10652,93
 sirene/07/electronique-materiel-electrique.json,1842,15
 sirene/07/elements-prefabriques-en-beton.json,325,3
@@ -801,7 +808,7 @@ sirene/07/laboratoires-de-recherche-scientifique.json,638,5
 sirene/07/loisirs-animation.json,19306,141
 sirene/07/magasins-specialises-bricolage-maison-sport-high-tech.json,24964,217
 sirene/07/maintenance-d-equipements-ascenseurs.json,6176,50
-sirene/07/mairies-administrations.json,122831,894
+sirene/07/mairies-administrations.json,82187,597
 sirene/07/materiels-agricoles-engins-de-chantier.json,3355,29
 sirene/07/menuiserie-agencement-serrurerie.json,21532,179
 sirene/07/motos-scooters.json,2449,22
@@ -891,6 +898,7 @@ sirene/08/demenagement.json,443,4
 sirene/08/eau-potable-captage-traitement-distribution.json,21446,163
 sirene/08/ebenisterie-meubles-restauration-de-meubles.json,364,3
 sirene/08/ecoles-de-sport-equitation.json,1397,11
+sirene/08/ecoles-maternelles-et-elementaires.json,27885,201
 sirene/08/electricite-du-batiment.json,6108,55
 sirene/08/electronique-materiel-electrique.json,571,5
 sirene/08/elements-prefabriques-en-beton.json,831,7
@@ -923,7 +931,7 @@ sirene/08/laboratoires-de-recherche-scientifique.json,110,1
 sirene/08/loisirs-animation.json,18918,142
 sirene/08/magasins-specialises-bricolage-maison-sport-high-tech.json,16225,135
 sirene/08/maintenance-d-equipements-ascenseurs.json,5859,52
-sirene/08/mairies-administrations.json,107267,797
+sirene/08/mairies-administrations.json,79384,596
 sirene/08/materiels-agricoles-engins-de-chantier.json,6095,54
 sirene/08/menuiserie-agencement-serrurerie.json,12104,105
 sirene/08/motos-scooters.json,778,7
@@ -1013,6 +1021,7 @@ sirene/09/demenagement.json,883,7
 sirene/09/eau-potable-captage-traitement-distribution.json,2483,17
 sirene/09/ebenisterie-meubles-restauration-de-meubles.json,523,4
 sirene/09/ecoles-de-sport-equitation.json,464,3
+sirene/09/ecoles-maternelles-et-elementaires.json,18495,137
 sirene/09/electricite-du-batiment.json,4406,39
 sirene/09/electronique-materiel-electrique.json,298,2
 sirene/09/elements-prefabriques-en-beton.json,331,2
@@ -1045,7 +1054,7 @@ sirene/09/laboratoires-de-recherche-scientifique.json,1016,8
 sirene/09/loisirs-animation.json,9045,70
 sirene/09/magasins-specialises-bricolage-maison-sport-high-tech.json,15133,131
 sirene/09/maintenance-d-equipements-ascenseurs.json,3219,28
-sirene/09/mairies-administrations.json,73732,552
+sirene/09/mairies-administrations.json,55239,415
 sirene/09/materiels-agricoles-engins-de-chantier.json,2559,23
 sirene/09/menuiserie-agencement-serrurerie.json,8382,74
 sirene/09/motos-scooters.json,678,6
@@ -1135,6 +1144,7 @@ sirene/10/demenagement.json,655,6
 sirene/10/eau-potable-captage-traitement-distribution.json,5617,39
 sirene/10/ebenisterie-meubles-restauration-de-meubles.json,2584,21
 sirene/10/ecoles-de-sport-equitation.json,1756,15
+sirene/10/ecoles-maternelles-et-elementaires.json,53053,370
 sirene/10/electricite-du-batiment.json,11658,100
 sirene/10/electronique-materiel-electrique.json,1101,9
 sirene/10/elements-prefabriques-en-beton.json,1060,9
@@ -1167,7 +1177,7 @@ sirene/10/laboratoires-de-recherche-scientifique.json,1778,12
 sirene/10/loisirs-animation.json,15879,117
 sirene/10/magasins-specialises-bricolage-maison-sport-high-tech.json,27394,222
 sirene/10/maintenance-d-equipements-ascenseurs.json,5878,49
-sirene/10/mairies-administrations.json,137054,1004
+sirene/10/mairies-administrations.json,84003,634
 sirene/10/materiels-agricoles-engins-de-chantier.json,7084,64
 sirene/10/menuiserie-agencement-serrurerie.json,15048,129
 sirene/10/motos-scooters.json,918,8
@@ -1257,6 +1267,7 @@ sirene/11/demenagement.json,1690,12
 sirene/11/eau-potable-captage-traitement-distribution.json,10801,76
 sirene/11/ebenisterie-meubles-restauration-de-meubles.json,678,6
 sirene/11/ecoles-de-sport-equitation.json,2108,17
+sirene/11/ecoles-maternelles-et-elementaires.json,46971,341
 sirene/11/electricite-du-batiment.json,14362,126
 sirene/11/electronique-materiel-electrique.json,356,3
 sirene/11/elements-prefabriques-en-beton.json,1681,13
@@ -1289,7 +1300,7 @@ sirene/11/laboratoires-de-recherche-scientifique.json,1404,11
 sirene/11/loisirs-animation.json,24443,174
 sirene/11/magasins-specialises-bricolage-maison-sport-high-tech.json,41329,339
 sirene/11/maintenance-d-equipements-ascenseurs.json,5444,47
-sirene/11/mairies-administrations.json,123619,896
+sirene/11/mairies-administrations.json,76650,555
 sirene/11/materiels-agricoles-engins-de-chantier.json,6927,58
 sirene/11/menuiserie-agencement-serrurerie.json,15880,134
 sirene/11/motos-scooters.json,2673,23
@@ -1379,6 +1390,7 @@ sirene/12/demenagement.json,863,7
 sirene/12/eau-potable-captage-traitement-distribution.json,5851,42
 sirene/12/ebenisterie-meubles-restauration-de-meubles.json,2390,20
 sirene/12/ecoles-de-sport-equitation.json,1210,10
+sirene/12/ecoles-maternelles-et-elementaires.json,30977,220
 sirene/12/electricite-du-batiment.json,13894,120
 sirene/12/electronique-materiel-electrique.json,1050,9
 sirene/12/elements-prefabriques-en-beton.json,341,3
@@ -1411,7 +1423,7 @@ sirene/12/laboratoires-de-recherche-scientifique.json,817,6
 sirene/12/loisirs-animation.json,18012,139
 sirene/12/magasins-specialises-bricolage-maison-sport-high-tech.json,32461,281
 sirene/12/maintenance-d-equipements-ascenseurs.json,7162,60
-sirene/12/mairies-administrations.json,105492,761
+sirene/12/mairies-administrations.json,74517,541
 sirene/12/materiels-agricoles-engins-de-chantier.json,12615,110
 sirene/12/menuiserie-agencement-serrurerie.json,19341,166
 sirene/12/motos-scooters.json,2393,21
@@ -1501,6 +1513,7 @@ sirene/13/demenagement.json,9212,73
 sirene/13/eau-potable-captage-traitement-distribution.json,12464,89
 sirene/13/ebenisterie-meubles-restauration-de-meubles.json,6847,58
 sirene/13/ecoles-de-sport-equitation.json,17655,146
+sirene/13/ecoles-maternelles-et-elementaires.json,105187,739
 sirene/13/electricite-du-batiment.json,106750,890
 sirene/13/electronique-materiel-electrique.json,10171,78
 sirene/13/elements-prefabriques-en-beton.json,2237,18
@@ -1533,7 +1546,7 @@ sirene/13/laboratoires-de-recherche-scientifique.json,26419,209
 sirene/13/loisirs-animation.json,120510,910
 sirene/13/magasins-specialises-bricolage-maison-sport-high-tech.json,218229,1818
 sirene/13/maintenance-d-equipements-ascenseurs.json,51601,403
-sirene/13/mairies-administrations.json,194082,1284
+sirene/13/mairies-administrations.json,88897,545
 sirene/13/materiels-agricoles-engins-de-chantier.json,25368,209
 sirene/13/menuiserie-agencement-serrurerie.json,98597,807
 sirene/13/motos-scooters.json,13616,120
@@ -1623,6 +1636,7 @@ sirene/14/demenagement.json,1430,12
 sirene/14/eau-potable-captage-traitement-distribution.json,5389,41
 sirene/14/ebenisterie-meubles-restauration-de-meubles.json,2270,19
 sirene/14/ecoles-de-sport-equitation.json,8092,65
+sirene/14/ecoles-maternelles-et-elementaires.json,75647,531
 sirene/14/electricite-du-batiment.json,28919,244
 sirene/14/electronique-materiel-electrique.json,2511,21
 sirene/14/elements-prefabriques-en-beton.json,1060,9
@@ -1655,7 +1669,7 @@ sirene/14/laboratoires-de-recherche-scientifique.json,3977,31
 sirene/14/loisirs-animation.json,42623,332
 sirene/14/magasins-specialises-bricolage-maison-sport-high-tech.json,71770,614
 sirene/14/maintenance-d-equipements-ascenseurs.json,15874,130
-sirene/14/mairies-administrations.json,213200,1525
+sirene/14/mairies-administrations.json,137555,994
 sirene/14/materiels-agricoles-engins-de-chantier.json,14687,120
 sirene/14/menuiserie-agencement-serrurerie.json,41212,345
 sirene/14/motos-scooters.json,3786,32
@@ -1745,6 +1759,7 @@ sirene/15/demenagement.json,161,1
 sirene/15/eau-potable-captage-traitement-distribution.json,6246,47
 sirene/15/ebenisterie-meubles-restauration-de-meubles.json,584,5
 sirene/15/ecoles-de-sport-equitation.json,597,5
+sirene/15/ecoles-maternelles-et-elementaires.json,20552,156
 sirene/15/electricite-du-batiment.json,7515,65
 sirene/15/electronique-materiel-electrique.json,3,0
 sirene/15/elements-prefabriques-en-beton.json,3,0
@@ -1777,7 +1792,7 @@ sirene/15/laboratoires-de-recherche-scientifique.json,196,1
 sirene/15/loisirs-animation.json,15956,110
 sirene/15/magasins-specialises-bricolage-maison-sport-high-tech.json,17748,156
 sirene/15/maintenance-d-equipements-ascenseurs.json,2087,19
-sirene/15/mairies-administrations.json,78038,575
+sirene/15/mairies-administrations.json,57488,419
 sirene/15/materiels-agricoles-engins-de-chantier.json,5498,50
 sirene/15/menuiserie-agencement-serrurerie.json,9087,81
 sirene/15/motos-scooters.json,998,9
@@ -1867,6 +1882,7 @@ sirene/16/demenagement.json,688,5
 sirene/16/eau-potable-captage-traitement-distribution.json,2367,17
 sirene/16/ebenisterie-meubles-restauration-de-meubles.json,1923,17
 sirene/16/ecoles-de-sport-equitation.json,2329,19
+sirene/16/ecoles-maternelles-et-elementaires.json,42244,298
 sirene/16/electricite-du-batiment.json,12810,114
 sirene/16/electronique-materiel-electrique.json,1855,15
 sirene/16/elements-prefabriques-en-beton.json,624,6
@@ -1899,7 +1915,7 @@ sirene/16/laboratoires-de-recherche-scientifique.json,1313,10
 sirene/16/loisirs-animation.json,24546,176
 sirene/16/magasins-specialises-bricolage-maison-sport-high-tech.json,28855,244
 sirene/16/maintenance-d-equipements-ascenseurs.json,9041,75
-sirene/16/mairies-administrations.json,122893,897
+sirene/16/mairies-administrations.json,80651,599
 sirene/16/materiels-agricoles-engins-de-chantier.json,9550,82
 sirene/16/menuiserie-agencement-serrurerie.json,18946,161
 sirene/16/motos-scooters.json,2047,17
@@ -1989,6 +2005,7 @@ sirene/17/demenagement.json,1631,12
 sirene/17/eau-potable-captage-traitement-distribution.json,3485,27
 sirene/17/ebenisterie-meubles-restauration-de-meubles.json,3106,26
 sirene/17/ecoles-de-sport-equitation.json,7073,58
+sirene/17/ecoles-maternelles-et-elementaires.json,74504,509
 sirene/17/electricite-du-batiment.json,29401,247
 sirene/17/electronique-materiel-electrique.json,829,7
 sirene/17/elements-prefabriques-en-beton.json,953,8
@@ -2021,7 +2038,7 @@ sirene/17/laboratoires-de-recherche-scientifique.json,3225,25
 sirene/17/loisirs-animation.json,40841,305
 sirene/17/magasins-specialises-bricolage-maison-sport-high-tech.json,88962,739
 sirene/17/maintenance-d-equipements-ascenseurs.json,14066,117
-sirene/17/mairies-administrations.json,218165,1517
+sirene/17/mairies-administrations.json,143663,1008
 sirene/17/materiels-agricoles-engins-de-chantier.json,12294,104
 sirene/17/menuiserie-agencement-serrurerie.json,45858,381
 sirene/17/motos-scooters.json,5163,44
@@ -2111,6 +2128,7 @@ sirene/18/demenagement.json,982,8
 sirene/18/eau-potable-captage-traitement-distribution.json,7846,57
 sirene/18/ebenisterie-meubles-restauration-de-meubles.json,582,5
 sirene/18/ecoles-de-sport-equitation.json,2808,22
+sirene/18/ecoles-maternelles-et-elementaires.json,40451,291
 sirene/18/electricite-du-batiment.json,9673,86
 sirene/18/electronique-materiel-electrique.json,716,6
 sirene/18/elements-prefabriques-en-beton.json,620,5
@@ -2143,7 +2161,7 @@ sirene/18/laboratoires-de-recherche-scientifique.json,1088,9
 sirene/18/loisirs-animation.json,17123,129
 sirene/18/magasins-specialises-bricolage-maison-sport-high-tech.json,23338,200
 sirene/18/maintenance-d-equipements-ascenseurs.json,7361,62
-sirene/18/mairies-administrations.json,115990,851
+sirene/18/mairies-administrations.json,75541,560
 sirene/18/materiels-agricoles-engins-de-chantier.json,5620,48
 sirene/18/menuiserie-agencement-serrurerie.json,13102,113
 sirene/18/motos-scooters.json,1821,16
@@ -2233,6 +2251,7 @@ sirene/19/demenagement.json,570,4
 sirene/19/eau-potable-captage-traitement-distribution.json,9041,70
 sirene/19/ebenisterie-meubles-restauration-de-meubles.json,1967,17
 sirene/19/ecoles-de-sport-equitation.json,1529,13
+sirene/19/ecoles-maternelles-et-elementaires.json,26530,198
 sirene/19/electricite-du-batiment.json,9607,84
 sirene/19/electronique-materiel-electrique.json,2226,16
 sirene/19/elements-prefabriques-en-beton.json,743,6
@@ -2265,7 +2284,7 @@ sirene/19/laboratoires-de-recherche-scientifique.json,956,7
 sirene/19/loisirs-animation.json,20466,148
 sirene/19/magasins-specialises-bricolage-maison-sport-high-tech.json,23969,202
 sirene/19/maintenance-d-equipements-ascenseurs.json,6047,51
-sirene/19/mairies-administrations.json,94802,688
+sirene/19/mairies-administrations.json,68274,490
 sirene/19/materiels-agricoles-engins-de-chantier.json,6384,53
 sirene/19/menuiserie-agencement-serrurerie.json,15640,136
 sirene/19/motos-scooters.json,1608,14
@@ -2355,6 +2374,7 @@ sirene/21/demenagement.json,1073,9
 sirene/21/eau-potable-captage-traitement-distribution.json,7537,54
 sirene/21/ebenisterie-meubles-restauration-de-meubles.json,1982,17
 sirene/21/ecoles-de-sport-equitation.json,2880,24
+sirene/21/ecoles-maternelles-et-elementaires.json,74762,527
 sirene/21/electricite-du-batiment.json,24897,216
 sirene/21/electronique-materiel-electrique.json,2926,25
 sirene/21/elements-prefabriques-en-beton.json,403,4
@@ -2387,7 +2407,7 @@ sirene/21/laboratoires-de-recherche-scientifique.json,5323,40
 sirene/21/loisirs-animation.json,33142,244
 sirene/21/magasins-specialises-bricolage-maison-sport-high-tech.json,44074,380
 sirene/21/maintenance-d-equipements-ascenseurs.json,11297,98
-sirene/21/mairies-administrations.json,197283,1416
+sirene/21/mairies-administrations.json,122523,889
 sirene/21/materiels-agricoles-engins-de-chantier.json,10161,90
 sirene/21/menuiserie-agencement-serrurerie.json,29644,252
 sirene/21/motos-scooters.json,2677,23
@@ -2477,6 +2497,7 @@ sirene/22/demenagement.json,1261,11
 sirene/22/eau-potable-captage-traitement-distribution.json,4896,38
 sirene/22/ebenisterie-meubles-restauration-de-meubles.json,3271,28
 sirene/22/ecoles-de-sport-equitation.json,5093,42
+sirene/22/ecoles-maternelles-et-elementaires.json,54759,389
 sirene/22/electricite-du-batiment.json,18658,161
 sirene/22/electronique-materiel-electrique.json,1902,15
 sirene/22/elements-prefabriques-en-beton.json,1497,13
@@ -2509,7 +2530,7 @@ sirene/22/laboratoires-de-recherche-scientifique.json,3309,27
 sirene/22/loisirs-animation.json,36698,277
 sirene/22/magasins-specialises-bricolage-maison-sport-high-tech.json,60148,520
 sirene/22/maintenance-d-equipements-ascenseurs.json,14463,120
-sirene/22/mairies-administrations.json,152693,1101
+sirene/22/mairies-administrations.json,97936,712
 sirene/22/materiels-agricoles-engins-de-chantier.json,15401,135
 sirene/22/menuiserie-agencement-serrurerie.json,36396,314
 sirene/22/motos-scooters.json,3378,30
@@ -2599,6 +2620,7 @@ sirene/23/demenagement.json,271,2
 sirene/23/eau-potable-captage-traitement-distribution.json,8162,61
 sirene/23/ebenisterie-meubles-restauration-de-meubles.json,417,4
 sirene/23/ecoles-de-sport-equitation.json,253,2
+sirene/23/ecoles-maternelles-et-elementaires.json,21155,154
 sirene/23/electricite-du-batiment.json,3223,29
 sirene/23/electronique-materiel-electrique.json,3,0
 sirene/23/elements-prefabriques-en-beton.json,110,1
@@ -2631,7 +2653,7 @@ sirene/23/laboratoires-de-recherche-scientifique.json,129,1
 sirene/23/loisirs-animation.json,9632,70
 sirene/23/magasins-specialises-bricolage-maison-sport-high-tech.json,7731,70
 sirene/23/maintenance-d-equipements-ascenseurs.json,1465,13
-sirene/23/mairies-administrations.json,78814,592
+sirene/23/mairies-administrations.json,57661,438
 sirene/23/materiels-agricoles-engins-de-chantier.json,4534,42
 sirene/23/menuiserie-agencement-serrurerie.json,6792,62
 sirene/23/motos-scooters.json,384,3
@@ -2721,6 +2743,7 @@ sirene/24/demenagement.json,1390,8
 sirene/24/eau-potable-captage-traitement-distribution.json,5791,41
 sirene/24/ebenisterie-meubles-restauration-de-meubles.json,2096,18
 sirene/24/ecoles-de-sport-equitation.json,2248,19
+sirene/24/ecoles-maternelles-et-elementaires.json,42001,305
 sirene/24/electricite-du-batiment.json,16709,142
 sirene/24/electronique-materiel-electrique.json,905,7
 sirene/24/elements-prefabriques-en-beton.json,1405,11
@@ -2753,7 +2776,7 @@ sirene/24/laboratoires-de-recherche-scientifique.json,1479,12
 sirene/24/loisirs-animation.json,31139,235
 sirene/24/magasins-specialises-bricolage-maison-sport-high-tech.json,45037,371
 sirene/24/maintenance-d-equipements-ascenseurs.json,6363,52
-sirene/24/mairies-administrations.json,158847,1125
+sirene/24/mairies-administrations.json,116848,820
 sirene/24/materiels-agricoles-engins-de-chantier.json,10574,87
 sirene/24/menuiserie-agencement-serrurerie.json,22375,186
 sirene/24/motos-scooters.json,3636,30
@@ -2843,6 +2866,7 @@ sirene/25/demenagement.json,1147,10
 sirene/25/eau-potable-captage-traitement-distribution.json,8453,64
 sirene/25/ebenisterie-meubles-restauration-de-meubles.json,2223,19
 sirene/25/ecoles-de-sport-equitation.json,2270,20
+sirene/25/ecoles-maternelles-et-elementaires.json,68007,496
 sirene/25/electricite-du-batiment.json,14958,134
 sirene/25/electronique-materiel-electrique.json,3183,27
 sirene/25/elements-prefabriques-en-beton.json,1588,13
@@ -2875,7 +2899,7 @@ sirene/25/laboratoires-de-recherche-scientifique.json,3896,34
 sirene/25/loisirs-animation.json,33336,251
 sirene/25/magasins-specialises-bricolage-maison-sport-high-tech.json,51903,454
 sirene/25/maintenance-d-equipements-ascenseurs.json,11916,103
-sirene/25/mairies-administrations.json,180859,1341
+sirene/25/mairies-administrations.json,112854,845
 sirene/25/materiels-agricoles-engins-de-chantier.json,7869,70
 sirene/25/menuiserie-agencement-serrurerie.json,32419,289
 sirene/25/motos-scooters.json,3294,30
@@ -2965,6 +2989,7 @@ sirene/26/demenagement.json,1683,13
 sirene/26/eau-potable-captage-traitement-distribution.json,9142,66
 sirene/26/ebenisterie-meubles-restauration-de-meubles.json,3327,28
 sirene/26/ecoles-de-sport-equitation.json,2680,24
+sirene/26/ecoles-maternelles-et-elementaires.json,64200,439
 sirene/26/electricite-du-batiment.json,28243,241
 sirene/26/electronique-materiel-electrique.json,3501,30
 sirene/26/elements-prefabriques-en-beton.json,2890,27
@@ -2997,7 +3022,7 @@ sirene/26/laboratoires-de-recherche-scientifique.json,3267,23
 sirene/26/loisirs-animation.json,36919,275
 sirene/26/magasins-specialises-bricolage-maison-sport-high-tech.json,55131,461
 sirene/26/maintenance-d-equipements-ascenseurs.json,15579,126
-sirene/26/mairies-administrations.json,141866,989
+sirene/26/mairies-administrations.json,77668,550
 sirene/26/materiels-agricoles-engins-de-chantier.json,10668,89
 sirene/26/menuiserie-agencement-serrurerie.json,31991,265
 sirene/26/motos-scooters.json,3133,27
@@ -3087,6 +3112,7 @@ sirene/27/demenagement.json,2526,22
 sirene/27/eau-potable-captage-traitement-distribution.json,3601,26
 sirene/27/ebenisterie-meubles-restauration-de-meubles.json,2356,21
 sirene/27/ecoles-de-sport-equitation.json,3910,32
+sirene/27/ecoles-maternelles-et-elementaires.json,66856,466
 sirene/27/electricite-du-batiment.json,22752,195
 sirene/27/electronique-materiel-electrique.json,2752,22
 sirene/27/elements-prefabriques-en-beton.json,1132,10
@@ -3119,7 +3145,7 @@ sirene/27/laboratoires-de-recherche-scientifique.json,2006,17
 sirene/27/loisirs-animation.json,22852,172
 sirene/27/magasins-specialises-bricolage-maison-sport-high-tech.json,36147,311
 sirene/27/maintenance-d-equipements-ascenseurs.json,15027,121
-sirene/27/mairies-administrations.json,184321,1341
+sirene/27/mairies-administrations.json,117467,875
 sirene/27/materiels-agricoles-engins-de-chantier.json,10460,89
 sirene/27/menuiserie-agencement-serrurerie.json,33187,283
 sirene/27/motos-scooters.json,1429,13
@@ -3209,6 +3235,7 @@ sirene/28/demenagement.json,1334,11
 sirene/28/eau-potable-captage-traitement-distribution.json,13635,100
 sirene/28/ebenisterie-meubles-restauration-de-meubles.json,2529,22
 sirene/28/ecoles-de-sport-equitation.json,3727,32
+sirene/28/ecoles-maternelles-et-elementaires.json,52761,371
 sirene/28/electricite-du-batiment.json,16241,141
 sirene/28/electronique-materiel-electrique.json,2411,20
 sirene/28/elements-prefabriques-en-beton.json,844,6
@@ -3241,7 +3268,7 @@ sirene/28/laboratoires-de-recherche-scientifique.json,1916,18
 sirene/28/loisirs-animation.json,22811,171
 sirene/28/magasins-specialises-bricolage-maison-sport-high-tech.json,27753,241
 sirene/28/maintenance-d-equipements-ascenseurs.json,10478,87
-sirene/28/mairies-administrations.json,142131,1020
+sirene/28/mairies-administrations.json,89372,649
 sirene/28/materiels-agricoles-engins-de-chantier.json,11154,96
 sirene/28/menuiserie-agencement-serrurerie.json,28252,239
 sirene/28/motos-scooters.json,1995,18
@@ -3331,6 +3358,7 @@ sirene/29/demenagement.json,2557,18
 sirene/29/eau-potable-captage-traitement-distribution.json,7007,52
 sirene/29/ebenisterie-meubles-restauration-de-meubles.json,3176,28
 sirene/29/ecoles-de-sport-equitation.json,6068,52
+sirene/29/ecoles-maternelles-et-elementaires.json,60407,421
 sirene/29/electricite-du-batiment.json,33149,294
 sirene/29/electronique-materiel-electrique.json,2994,24
 sirene/29/elements-prefabriques-en-beton.json,1048,9
@@ -3363,7 +3391,7 @@ sirene/29/laboratoires-de-recherche-scientifique.json,6491,48
 sirene/29/loisirs-animation.json,51536,394
 sirene/29/magasins-specialises-bricolage-maison-sport-high-tech.json,92070,801
 sirene/29/maintenance-d-equipements-ascenseurs.json,19547,159
-sirene/29/mairies-administrations.json,159958,1137
+sirene/29/mairies-administrations.json,99553,716
 sirene/29/materiels-agricoles-engins-de-chantier.json,16989,149
 sirene/29/menuiserie-agencement-serrurerie.json,52820,453
 sirene/29/motos-scooters.json,3462,30
@@ -3453,6 +3481,7 @@ sirene/2A/demenagement.json,631,5
 sirene/2A/eau-potable-captage-traitement-distribution.json,3092,23
 sirene/2A/ebenisterie-meubles-restauration-de-meubles.json,1174,10
 sirene/2A/ecoles-de-sport-equitation.json,2679,22
+sirene/2A/ecoles-maternelles-et-elementaires.json,9570,66
 sirene/2A/electricite-du-batiment.json,14173,121
 sirene/2A/electronique-materiel-electrique.json,255,2
 sirene/2A/elements-prefabriques-en-beton.json,329,3
@@ -3485,7 +3514,7 @@ sirene/2A/laboratoires-de-recherche-scientifique.json,423,3
 sirene/2A/loisirs-animation.json,10349,81
 sirene/2A/magasins-specialises-bricolage-maison-sport-high-tech.json,38227,327
 sirene/2A/maintenance-d-equipements-ascenseurs.json,3342,28
-sirene/2A/mairies-administrations.json,42260,286
+sirene/2A/mairies-administrations.json,32692,220
 sirene/2A/materiels-agricoles-engins-de-chantier.json,1948,17
 sirene/2A/menuiserie-agencement-serrurerie.json,13227,112
 sirene/2A/motos-scooters.json,1338,12
@@ -3575,6 +3604,7 @@ sirene/2B/demenagement.json,998,9
 sirene/2B/eau-potable-captage-traitement-distribution.json,4372,30
 sirene/2B/ebenisterie-meubles-restauration-de-meubles.json,564,6
 sirene/2B/ecoles-de-sport-equitation.json,1748,14
+sirene/2B/ecoles-maternelles-et-elementaires.json,14403,103
 sirene/2B/electricite-du-batiment.json,11506,103
 sirene/2B/electronique-materiel-electrique.json,297,2
 sirene/2B/elements-prefabriques-en-beton.json,473,4
@@ -3607,7 +3637,7 @@ sirene/2B/laboratoires-de-recherche-scientifique.json,759,6
 sirene/2B/loisirs-animation.json,12651,94
 sirene/2B/magasins-specialises-bricolage-maison-sport-high-tech.json,37886,330
 sirene/2B/maintenance-d-equipements-ascenseurs.json,3120,28
-sirene/2B/mairies-administrations.json,48588,335
+sirene/2B/mairies-administrations.json,34187,232
 sirene/2B/materiels-agricoles-engins-de-chantier.json,3192,29
 sirene/2B/menuiserie-agencement-serrurerie.json,11883,104
 sirene/2B/motos-scooters.json,1655,15
@@ -3697,6 +3727,7 @@ sirene/30/demenagement.json,2160,17
 sirene/30/eau-potable-captage-traitement-distribution.json,13641,101
 sirene/30/ebenisterie-meubles-restauration-de-meubles.json,4307,35
 sirene/30/ecoles-de-sport-equitation.json,4767,39
+sirene/30/ecoles-maternelles-et-elementaires.json,70677,502
 sirene/30/electricite-du-batiment.json,38593,343
 sirene/30/electronique-materiel-electrique.json,1675,15
 sirene/30/elements-prefabriques-en-beton.json,1503,13
@@ -3729,7 +3760,7 @@ sirene/30/laboratoires-de-recherche-scientifique.json,4073,32
 sirene/30/loisirs-animation.json,34366,271
 sirene/30/magasins-specialises-bricolage-maison-sport-high-tech.json,76683,659
 sirene/30/maintenance-d-equipements-ascenseurs.json,14846,124
-sirene/30/mairies-administrations.json,159512,1132
+sirene/30/mairies-administrations.json,88837,630
 sirene/30/materiels-agricoles-engins-de-chantier.json,11187,96
 sirene/30/menuiserie-agencement-serrurerie.json,37598,318
 sirene/30/motos-scooters.json,4299,39
@@ -3819,6 +3850,7 @@ sirene/31/demenagement.json,4171,36
 sirene/31/eau-potable-captage-traitement-distribution.json,6458,47
 sirene/31/ebenisterie-meubles-restauration-de-meubles.json,4365,37
 sirene/31/ecoles-de-sport-equitation.json,10829,92
+sirene/31/ecoles-maternelles-et-elementaires.json,95242,660
 sirene/31/electricite-du-batiment.json,62804,553
 sirene/31/electronique-materiel-electrique.json,9376,76
 sirene/31/elements-prefabriques-en-beton.json,2532,20
@@ -3851,7 +3883,7 @@ sirene/31/laboratoires-de-recherche-scientifique.json,19998,157
 sirene/31/loisirs-animation.json,69730,534
 sirene/31/magasins-specialises-bricolage-maison-sport-high-tech.json,126269,1079
 sirene/31/maintenance-d-equipements-ascenseurs.json,31135,263
-sirene/31/mairies-administrations.json,211156,1488
+sirene/31/mairies-administrations.json,115916,828
 sirene/31/materiels-agricoles-engins-de-chantier.json,17520,149
 sirene/31/menuiserie-agencement-serrurerie.json,61006,527
 sirene/31/motos-scooters.json,6873,61
@@ -3941,6 +3973,7 @@ sirene/32/demenagement.json,128,1
 sirene/32/eau-potable-captage-traitement-distribution.json,3564,26
 sirene/32/ebenisterie-meubles-restauration-de-meubles.json,1163,10
 sirene/32/ecoles-de-sport-equitation.json,571,5
+sirene/32/ecoles-maternelles-et-elementaires.json,14901,112
 sirene/32/electricite-du-batiment.json,7356,64
 sirene/32/electronique-materiel-electrique.json,242,2
 sirene/32/elements-prefabriques-en-beton.json,3,0
@@ -3973,7 +4006,7 @@ sirene/32/laboratoires-de-recherche-scientifique.json,748,6
 sirene/32/loisirs-animation.json,10901,83
 sirene/32/magasins-specialises-bricolage-maison-sport-high-tech.json,15080,137
 sirene/32/maintenance-d-equipements-ascenseurs.json,3832,35
-sirene/32/mairies-administrations.json,73935,568
+sirene/32/mairies-administrations.json,59036,456
 sirene/32/materiels-agricoles-engins-de-chantier.json,7829,72
 sirene/32/menuiserie-agencement-serrurerie.json,9379,85
 sirene/32/motos-scooters.json,1287,11
@@ -4063,6 +4096,7 @@ sirene/33/demenagement.json,5038,39
 sirene/33/eau-potable-captage-traitement-distribution.json,12514,85
 sirene/33/ebenisterie-meubles-restauration-de-meubles.json,6738,58
 sirene/33/ecoles-de-sport-equitation.json,16765,139
+sirene/33/ecoles-maternelles-et-elementaires.json,125700,901
 sirene/33/electricite-du-batiment.json,67972,594
 sirene/33/electronique-materiel-electrique.json,6163,51
 sirene/33/elements-prefabriques-en-beton.json,2309,20
@@ -4095,7 +4129,7 @@ sirene/33/laboratoires-de-recherche-scientifique.json,15841,121
 sirene/33/loisirs-animation.json,102197,765
 sirene/33/magasins-specialises-bricolage-maison-sport-high-tech.json,176568,1479
 sirene/33/maintenance-d-equipements-ascenseurs.json,33745,275
-sirene/33/mairies-administrations.json,284224,1996
+sirene/33/mairies-administrations.json,158526,1095
 sirene/33/materiels-agricoles-engins-de-chantier.json,26621,229
 sirene/33/menuiserie-agencement-serrurerie.json,87118,737
 sirene/33/motos-scooters.json,10888,92
@@ -4185,6 +4219,7 @@ sirene/34/demenagement.json,4339,36
 sirene/34/eau-potable-captage-traitement-distribution.json,10237,75
 sirene/34/ebenisterie-meubles-restauration-de-meubles.json,4172,35
 sirene/34/ecoles-de-sport-equitation.json,10665,87
+sirene/34/ecoles-maternelles-et-elementaires.json,80634,565
 sirene/34/electricite-du-batiment.json,57708,506
 sirene/34/electronique-materiel-electrique.json,4800,39
 sirene/34/elements-prefabriques-en-beton.json,1743,15
@@ -4217,7 +4252,7 @@ sirene/34/laboratoires-de-recherche-scientifique.json,21035,164
 sirene/34/loisirs-animation.json,77203,584
 sirene/34/magasins-specialises-bricolage-maison-sport-high-tech.json,132319,1110
 sirene/34/maintenance-d-equipements-ascenseurs.json,23289,192
-sirene/34/mairies-administrations.json,179381,1252
+sirene/34/mairies-administrations.json,98749,687
 sirene/34/materiels-agricoles-engins-de-chantier.json,15141,124
 sirene/34/menuiserie-agencement-serrurerie.json,60385,504
 sirene/34/motos-scooters.json,6497,58
@@ -4307,6 +4342,7 @@ sirene/35/demenagement.json,3764,29
 sirene/35/eau-potable-captage-traitement-distribution.json,5901,42
 sirene/35/ebenisterie-meubles-restauration-de-meubles.json,8301,71
 sirene/35/ecoles-de-sport-equitation.json,10637,90
+sirene/35/ecoles-maternelles-et-elementaires.json,63649,431
 sirene/35/electricite-du-batiment.json,38837,335
 sirene/35/electronique-materiel-electrique.json,4492,38
 sirene/35/elements-prefabriques-en-beton.json,2686,24
@@ -4339,7 +4375,7 @@ sirene/35/laboratoires-de-recherche-scientifique.json,11717,89
 sirene/35/loisirs-animation.json,60722,458
 sirene/35/magasins-specialises-bricolage-maison-sport-high-tech.json,104139,883
 sirene/35/maintenance-d-equipements-ascenseurs.json,26292,215
-sirene/35/mairies-administrations.json,185387,1270
+sirene/35/mairies-administrations.json,121740,839
 sirene/35/materiels-agricoles-engins-de-chantier.json,27082,234
 sirene/35/menuiserie-agencement-serrurerie.json,67471,569
 sirene/35/motos-scooters.json,6905,58
@@ -4429,6 +4465,7 @@ sirene/36/demenagement.json,592,5
 sirene/36/eau-potable-captage-traitement-distribution.json,6100,44
 sirene/36/ebenisterie-meubles-restauration-de-meubles.json,1254,11
 sirene/36/ecoles-de-sport-equitation.json,1096,9
+sirene/36/ecoles-maternelles-et-elementaires.json,31853,224
 sirene/36/electricite-du-batiment.json,7045,62
 sirene/36/electronique-materiel-electrique.json,1157,10
 sirene/36/elements-prefabriques-en-beton.json,493,4
@@ -4461,7 +4498,7 @@ sirene/36/laboratoires-de-recherche-scientifique.json,344,3
 sirene/36/loisirs-animation.json,13425,98
 sirene/36/magasins-specialises-bricolage-maison-sport-high-tech.json,17585,150
 sirene/36/maintenance-d-equipements-ascenseurs.json,4200,37
-sirene/36/mairies-administrations.json,98549,710
+sirene/36/mairies-administrations.json,66698,486
 sirene/36/materiels-agricoles-engins-de-chantier.json,8107,72
 sirene/36/menuiserie-agencement-serrurerie.json,9169,80
 sirene/36/motos-scooters.json,780,7
@@ -4551,6 +4588,7 @@ sirene/37/demenagement.json,1748,13
 sirene/37/eau-potable-captage-traitement-distribution.json,5244,37
 sirene/37/ebenisterie-meubles-restauration-de-meubles.json,4419,34
 sirene/37/ecoles-de-sport-equitation.json,4492,38
+sirene/37/ecoles-maternelles-et-elementaires.json,58697,413
 sirene/37/electricite-du-batiment.json,22735,196
 sirene/37/electronique-materiel-electrique.json,3078,25
 sirene/37/elements-prefabriques-en-beton.json,1266,10
@@ -4583,7 +4621,7 @@ sirene/37/laboratoires-de-recherche-scientifique.json,4623,37
 sirene/37/loisirs-animation.json,28307,221
 sirene/37/magasins-specialises-bricolage-maison-sport-high-tech.json,51292,435
 sirene/37/maintenance-d-equipements-ascenseurs.json,11908,99
-sirene/37/mairies-administrations.json,130542,932
+sirene/37/mairies-administrations.json,71847,519
 sirene/37/materiels-agricoles-engins-de-chantier.json,11075,93
 sirene/37/menuiserie-agencement-serrurerie.json,32205,268
 sirene/37/motos-scooters.json,1812,16
@@ -4673,6 +4711,7 @@ sirene/38/demenagement.json,3326,23
 sirene/38/eau-potable-captage-traitement-distribution.json,15061,106
 sirene/38/ebenisterie-meubles-restauration-de-meubles.json,7726,65
 sirene/38/ecoles-de-sport-equitation.json,9604,78
+sirene/38/ecoles-maternelles-et-elementaires.json,128325,893
 sirene/38/electricite-du-batiment.json,69552,609
 sirene/38/electronique-materiel-electrique.json,12748,106
 sirene/38/elements-prefabriques-en-beton.json,2265,19
@@ -4705,7 +4744,7 @@ sirene/38/laboratoires-de-recherche-scientifique.json,15441,123
 sirene/38/loisirs-animation.json,72520,534
 sirene/38/magasins-specialises-bricolage-maison-sport-high-tech.json,128758,1083
 sirene/38/maintenance-d-equipements-ascenseurs.json,38843,327
-sirene/38/mairies-administrations.json,273380,1908
+sirene/38/mairies-administrations.json,145057,1015
 sirene/38/materiels-agricoles-engins-de-chantier.json,19114,164
 sirene/38/menuiserie-agencement-serrurerie.json,70305,593
 sirene/38/motos-scooters.json,5984,52
@@ -4795,6 +4834,7 @@ sirene/39/demenagement.json,944,8
 sirene/39/eau-potable-captage-traitement-distribution.json,6892,52
 sirene/39/ebenisterie-meubles-restauration-de-meubles.json,1676,15
 sirene/39/ecoles-de-sport-equitation.json,1063,9
+sirene/39/ecoles-maternelles-et-elementaires.json,40039,300
 sirene/39/electricite-du-batiment.json,12019,105
 sirene/39/electronique-materiel-electrique.json,983,9
 sirene/39/elements-prefabriques-en-beton.json,540,5
@@ -4827,7 +4867,7 @@ sirene/39/laboratoires-de-recherche-scientifique.json,637,5
 sirene/39/loisirs-animation.json,16338,127
 sirene/39/magasins-specialises-bricolage-maison-sport-high-tech.json,27443,236
 sirene/39/maintenance-d-equipements-ascenseurs.json,6561,59
-sirene/39/mairies-administrations.json,124138,950
+sirene/39/mairies-administrations.json,84101,650
 sirene/39/materiels-agricoles-engins-de-chantier.json,5326,47
 sirene/39/menuiserie-agencement-serrurerie.json,19021,170
 sirene/39/motos-scooters.json,1112,10
@@ -4917,6 +4957,7 @@ sirene/40/demenagement.json,974,7
 sirene/40/eau-potable-captage-traitement-distribution.json,5659,41
 sirene/40/ebenisterie-meubles-restauration-de-meubles.json,2838,26
 sirene/40/ecoles-de-sport-equitation.json,7907,66
+sirene/40/ecoles-maternelles-et-elementaires.json,40003,295
 sirene/40/electricite-du-batiment.json,18033,156
 sirene/40/electronique-materiel-electrique.json,1240,10
 sirene/40/elements-prefabriques-en-beton.json,1272,10
@@ -4949,7 +4990,7 @@ sirene/40/laboratoires-de-recherche-scientifique.json,1642,11
 sirene/40/loisirs-animation.json,34261,251
 sirene/40/magasins-specialises-bricolage-maison-sport-high-tech.json,52589,431
 sirene/40/maintenance-d-equipements-ascenseurs.json,9223,76
-sirene/40/mairies-administrations.json,114712,841
+sirene/40/mairies-administrations.json,74711,546
 sirene/40/materiels-agricoles-engins-de-chantier.json,10588,87
 sirene/40/menuiserie-agencement-serrurerie.json,24579,208
 sirene/40/motos-scooters.json,1607,13
@@ -5039,6 +5080,7 @@ sirene/41/demenagement.json,925,7
 sirene/41/eau-potable-captage-traitement-distribution.json,8330,60
 sirene/41/ebenisterie-meubles-restauration-de-meubles.json,2045,17
 sirene/41/ecoles-de-sport-equitation.json,1894,17
+sirene/41/ecoles-maternelles-et-elementaires.json,40904,289
 sirene/41/electricite-du-batiment.json,11011,97
 sirene/41/electronique-materiel-electrique.json,1348,11
 sirene/41/elements-prefabriques-en-beton.json,516,4
@@ -5071,7 +5113,7 @@ sirene/41/laboratoires-de-recherche-scientifique.json,1777,14
 sirene/41/loisirs-animation.json,17629,137
 sirene/41/magasins-specialises-bricolage-maison-sport-high-tech.json,26328,217
 sirene/41/maintenance-d-equipements-ascenseurs.json,7284,61
-sirene/41/mairies-administrations.json,126756,906
+sirene/41/mairies-administrations.json,85854,617
 sirene/41/materiels-agricoles-engins-de-chantier.json,7783,66
 sirene/41/menuiserie-agencement-serrurerie.json,18311,155
 sirene/41/motos-scooters.json,1400,12
@@ -5161,6 +5203,7 @@ sirene/42/demenagement.json,2071,15
 sirene/42/eau-potable-captage-traitement-distribution.json,5608,41
 sirene/42/ebenisterie-meubles-restauration-de-meubles.json,6078,53
 sirene/42/ecoles-de-sport-equitation.json,4356,37
+sirene/42/ecoles-maternelles-et-elementaires.json,60463,426
 sirene/42/electricite-du-batiment.json,35138,305
 sirene/42/electronique-materiel-electrique.json,3740,31
 sirene/42/elements-prefabriques-en-beton.json,981,8
@@ -5193,7 +5236,7 @@ sirene/42/laboratoires-de-recherche-scientifique.json,1919,15
 sirene/42/loisirs-animation.json,49469,378
 sirene/42/magasins-specialises-bricolage-maison-sport-high-tech.json,64459,554
 sirene/42/maintenance-d-equipements-ascenseurs.json,24955,207
-sirene/42/mairies-administrations.json,146877,1033
+sirene/42/mairies-administrations.json,86416,607
 sirene/42/materiels-agricoles-engins-de-chantier.json,9174,78
 sirene/42/menuiserie-agencement-serrurerie.json,58196,492
 sirene/42/motos-scooters.json,3946,35
@@ -5283,6 +5326,7 @@ sirene/43/demenagement.json,344,3
 sirene/43/eau-potable-captage-traitement-distribution.json,3588,26
 sirene/43/ebenisterie-meubles-restauration-de-meubles.json,2364,20
 sirene/43/ecoles-de-sport-equitation.json,1211,10
+sirene/43/ecoles-maternelles-et-elementaires.json,25961,187
 sirene/43/electricite-du-batiment.json,11098,95
 sirene/43/electronique-materiel-electrique.json,1146,9
 sirene/43/elements-prefabriques-en-beton.json,596,5
@@ -5315,7 +5359,7 @@ sirene/43/laboratoires-de-recherche-scientifique.json,595,5
 sirene/43/loisirs-animation.json,19868,138
 sirene/43/magasins-specialises-bricolage-maison-sport-high-tech.json,23118,196
 sirene/43/maintenance-d-equipements-ascenseurs.json,7651,62
-sirene/43/mairies-administrations.json,87021,622
+sirene/43/mairies-administrations.json,61062,435
 sirene/43/materiels-agricoles-engins-de-chantier.json,5022,43
 sirene/43/menuiserie-agencement-serrurerie.json,15495,131
 sirene/43/motos-scooters.json,1035,9
@@ -5405,6 +5449,7 @@ sirene/44/demenagement.json,4379,35
 sirene/44/eau-potable-captage-traitement-distribution.json,2828,21
 sirene/44/ebenisterie-meubles-restauration-de-meubles.json,10953,90
 sirene/44/ecoles-de-sport-equitation.json,10905,91
+sirene/44/ecoles-maternelles-et-elementaires.json,78037,505
 sirene/44/electricite-du-batiment.json,57591,485
 sirene/44/electronique-materiel-electrique.json,8365,68
 sirene/44/elements-prefabriques-en-beton.json,1468,12
@@ -5437,7 +5482,7 @@ sirene/44/laboratoires-de-recherche-scientifique.json,13150,99
 sirene/44/loisirs-animation.json,62215,475
 sirene/44/magasins-specialises-bricolage-maison-sport-high-tech.json,125740,1063
 sirene/44/maintenance-d-equipements-ascenseurs.json,38300,310
-sirene/44/mairies-administrations.json,182207,1192
+sirene/44/mairies-administrations.json,104172,687
 sirene/44/materiels-agricoles-engins-de-chantier.json,27542,230
 sirene/44/menuiserie-agencement-serrurerie.json,89317,734
 sirene/44/motos-scooters.json,7475,63
@@ -5527,6 +5572,7 @@ sirene/45/demenagement.json,2444,18
 sirene/45/eau-potable-captage-traitement-distribution.json,14362,103
 sirene/45/ebenisterie-meubles-restauration-de-meubles.json,2174,19
 sirene/45/ecoles-de-sport-equitation.json,4084,34
+sirene/45/ecoles-maternelles-et-elementaires.json,66543,463
 sirene/45/electricite-du-batiment.json,26134,229
 sirene/45/electronique-materiel-electrique.json,3899,34
 sirene/45/elements-prefabriques-en-beton.json,1800,15
@@ -5559,7 +5605,7 @@ sirene/45/laboratoires-de-recherche-scientifique.json,4811,40
 sirene/45/loisirs-animation.json,37950,294
 sirene/45/magasins-specialises-bricolage-maison-sport-high-tech.json,48902,424
 sirene/45/maintenance-d-equipements-ascenseurs.json,16436,136
-sirene/45/mairies-administrations.json,159762,1111
+sirene/45/mairies-administrations.json,93221,648
 sirene/45/materiels-agricoles-engins-de-chantier.json,12496,102
 sirene/45/menuiserie-agencement-serrurerie.json,37155,320
 sirene/45/motos-scooters.json,1728,15
@@ -5649,6 +5695,7 @@ sirene/46/demenagement.json,336,2
 sirene/46/eau-potable-captage-traitement-distribution.json,2740,20
 sirene/46/ebenisterie-meubles-restauration-de-meubles.json,678,6
 sirene/46/ecoles-de-sport-equitation.json,1227,11
+sirene/46/ecoles-maternelles-et-elementaires.json,16488,121
 sirene/46/electricite-du-batiment.json,5231,48
 sirene/46/electronique-materiel-electrique.json,794,7
 sirene/46/elements-prefabriques-en-beton.json,486,4
@@ -5681,7 +5728,7 @@ sirene/46/laboratoires-de-recherche-scientifique.json,695,6
 sirene/46/loisirs-animation.json,11426,88
 sirene/46/magasins-specialises-bricolage-maison-sport-high-tech.json,18219,161
 sirene/46/maintenance-d-equipements-ascenseurs.json,3758,32
-sirene/46/mairies-administrations.json,79278,597
+sirene/46/mairies-administrations.json,62792,476
 sirene/46/materiels-agricoles-engins-de-chantier.json,5076,42
 sirene/46/menuiserie-agencement-serrurerie.json,10395,88
 sirene/46/motos-scooters.json,1504,14
@@ -5771,6 +5818,7 @@ sirene/47/demenagement.json,1162,10
 sirene/47/eau-potable-captage-traitement-distribution.json,2267,17
 sirene/47/ebenisterie-meubles-restauration-de-meubles.json,1384,12
 sirene/47/ecoles-de-sport-equitation.json,2132,17
+sirene/47/ecoles-maternelles-et-elementaires.json,44976,324
 sirene/47/electricite-du-batiment.json,14780,129
 sirene/47/electronique-materiel-electrique.json,728,6
 sirene/47/elements-prefabriques-en-beton.json,940,8
@@ -5803,7 +5851,7 @@ sirene/47/laboratoires-de-recherche-scientifique.json,1151,9
 sirene/47/loisirs-animation.json,22334,168
 sirene/47/magasins-specialises-bricolage-maison-sport-high-tech.json,36902,319
 sirene/47/maintenance-d-equipements-ascenseurs.json,7183,62
-sirene/47/mairies-administrations.json,112805,823
+sirene/47/mairies-administrations.json,67831,499
 sirene/47/materiels-agricoles-engins-de-chantier.json,11572,100
 sirene/47/menuiserie-agencement-serrurerie.json,18905,163
 sirene/47/motos-scooters.json,2864,25
@@ -5893,6 +5941,7 @@ sirene/48/demenagement.json,318,3
 sirene/48/eau-potable-captage-traitement-distribution.json,4711,33
 sirene/48/ebenisterie-meubles-restauration-de-meubles.json,552,5
 sirene/48/ecoles-de-sport-equitation.json,315,3
+sirene/48/ecoles-maternelles-et-elementaires.json,8234,57
 sirene/48/electricite-du-batiment.json,2480,22
 sirene/48/electronique-materiel-electrique.json,198,2
 sirene/48/elements-prefabriques-en-beton.json,3,0
@@ -5925,7 +5974,7 @@ sirene/48/laboratoires-de-recherche-scientifique.json,338,3
 sirene/48/loisirs-animation.json,6240,48
 sirene/48/magasins-specialises-bricolage-maison-sport-high-tech.json,7001,61
 sirene/48/maintenance-d-equipements-ascenseurs.json,1738,14
-sirene/48/mairies-administrations.json,46760,316
+sirene/48/mairies-administrations.json,38528,259
 sirene/48/materiels-agricoles-engins-de-chantier.json,2066,18
 sirene/48/menuiserie-agencement-serrurerie.json,5102,43
 sirene/48/motos-scooters.json,293,3
@@ -6015,6 +6064,7 @@ sirene/49/demenagement.json,2562,18
 sirene/49/eau-potable-captage-traitement-distribution.json,3165,23
 sirene/49/ebenisterie-meubles-restauration-de-meubles.json,8423,64
 sirene/49/ecoles-de-sport-equitation.json,8768,71
+sirene/49/ecoles-maternelles-et-elementaires.json,60854,386
 sirene/49/electricite-du-batiment.json,32199,261
 sirene/49/electronique-materiel-electrique.json,5690,45
 sirene/49/elements-prefabriques-en-beton.json,2182,18
@@ -6047,7 +6097,7 @@ sirene/49/laboratoires-de-recherche-scientifique.json,6383,49
 sirene/49/loisirs-animation.json,42407,318
 sirene/49/magasins-specialises-bricolage-maison-sport-high-tech.json,59344,497
 sirene/49/maintenance-d-equipements-ascenseurs.json,22851,183
-sirene/49/mairies-administrations.json,177233,1141
+sirene/49/mairies-administrations.json,116381,755
 sirene/49/materiels-agricoles-engins-de-chantier.json,21805,171
 sirene/49/menuiserie-agencement-serrurerie.json,59357,466
 sirene/49/motos-scooters.json,5080,40
@@ -6137,6 +6187,7 @@ sirene/50/demenagement.json,1093,5
 sirene/50/eau-potable-captage-traitement-distribution.json,4287,31
 sirene/50/ebenisterie-meubles-restauration-de-meubles.json,3040,26
 sirene/50/ecoles-de-sport-equitation.json,3732,31
+sirene/50/ecoles-maternelles-et-elementaires.json,40351,285
 sirene/50/electricite-du-batiment.json,15349,124
 sirene/50/electronique-materiel-electrique.json,1392,11
 sirene/50/elements-prefabriques-en-beton.json,418,4
@@ -6169,7 +6220,7 @@ sirene/50/laboratoires-de-recherche-scientifique.json,539,5
 sirene/50/loisirs-animation.json,26391,198
 sirene/50/magasins-specialises-bricolage-maison-sport-high-tech.json,49770,406
 sirene/50/maintenance-d-equipements-ascenseurs.json,11080,89
-sirene/50/mairies-administrations.json,164417,1168
+sirene/50/mairies-administrations.json,124068,883
 sirene/50/materiels-agricoles-engins-de-chantier.json,13783,114
 sirene/50/menuiserie-agencement-serrurerie.json,34120,279
 sirene/50/motos-scooters.json,3130,26
@@ -6259,6 +6310,7 @@ sirene/51/demenagement.json,1225,10
 sirene/51/eau-potable-captage-traitement-distribution.json,14929,107
 sirene/51/ebenisterie-meubles-restauration-de-meubles.json,1042,10
 sirene/51/ecoles-de-sport-equitation.json,3103,28
+sirene/51/ecoles-maternelles-et-elementaires.json,58491,412
 sirene/51/electricite-du-batiment.json,19195,171
 sirene/51/electronique-materiel-electrique.json,2148,17
 sirene/51/elements-prefabriques-en-beton.json,916,7
@@ -6291,7 +6343,7 @@ sirene/51/laboratoires-de-recherche-scientifique.json,3150,27
 sirene/51/loisirs-animation.json,34596,260
 sirene/51/magasins-specialises-bricolage-maison-sport-high-tech.json,46302,395
 sirene/51/maintenance-d-equipements-ascenseurs.json,12889,114
-sirene/51/mairies-administrations.json,182170,1328
+sirene/51/mairies-administrations.json,123681,916
 sirene/51/materiels-agricoles-engins-de-chantier.json,17783,157
 sirene/51/menuiserie-agencement-serrurerie.json,25027,217
 sirene/51/motos-scooters.json,2427,22
@@ -6381,6 +6433,7 @@ sirene/52/demenagement.json,253,2
 sirene/52/eau-potable-captage-traitement-distribution.json,14777,103
 sirene/52/ebenisterie-meubles-restauration-de-meubles.json,1150,11
 sirene/52/ecoles-de-sport-equitation.json,926,7
+sirene/52/ecoles-maternelles-et-elementaires.json,26915,186
 sirene/52/electricite-du-batiment.json,5542,47
 sirene/52/electronique-materiel-electrique.json,216,2
 sirene/52/elements-prefabriques-en-beton.json,451,4
@@ -6413,7 +6466,7 @@ sirene/52/laboratoires-de-recherche-scientifique.json,3,0
 sirene/52/loisirs-animation.json,10844,79
 sirene/52/magasins-specialises-bricolage-maison-sport-high-tech.json,15482,134
 sirene/52/maintenance-d-equipements-ascenseurs.json,2901,25
-sirene/52/mairies-administrations.json,99054,715
+sirene/52/mairies-administrations.json,72141,529
 sirene/52/materiels-agricoles-engins-de-chantier.json,4465,38
 sirene/52/menuiserie-agencement-serrurerie.json,7000,62
 sirene/52/motos-scooters.json,943,8
@@ -6503,6 +6556,7 @@ sirene/53/demenagement.json,571,4
 sirene/53/eau-potable-captage-traitement-distribution.json,4694,33
 sirene/53/ebenisterie-meubles-restauration-de-meubles.json,2225,19
 sirene/53/ecoles-de-sport-equitation.json,2113,16
+sirene/53/ecoles-maternelles-et-elementaires.json,33111,225
 sirene/53/electricite-du-batiment.json,11876,101
 sirene/53/electronique-materiel-electrique.json,1633,13
 sirene/53/elements-prefabriques-en-beton.json,677,6
@@ -6535,7 +6589,7 @@ sirene/53/laboratoires-de-recherche-scientifique.json,1665,12
 sirene/53/loisirs-animation.json,14826,109
 sirene/53/magasins-specialises-bricolage-maison-sport-high-tech.json,26952,230
 sirene/53/maintenance-d-equipements-ascenseurs.json,7327,62
-sirene/53/mairies-administrations.json,104174,723
+sirene/53/mairies-administrations.json,71065,498
 sirene/53/materiels-agricoles-engins-de-chantier.json,14701,129
 sirene/53/menuiserie-agencement-serrurerie.json,19370,164
 sirene/53/motos-scooters.json,1398,11
@@ -6625,6 +6679,7 @@ sirene/54/demenagement.json,1447,11
 sirene/54/eau-potable-captage-traitement-distribution.json,13476,101
 sirene/54/ebenisterie-meubles-restauration-de-meubles.json,1748,15
 sirene/54/ecoles-de-sport-equitation.json,3656,31
+sirene/54/ecoles-maternelles-et-elementaires.json,94018,671
 sirene/54/electricite-du-batiment.json,22159,196
 sirene/54/electronique-materiel-electrique.json,3410,27
 sirene/54/elements-prefabriques-en-beton.json,757,6
@@ -6657,7 +6712,7 @@ sirene/54/laboratoires-de-recherche-scientifique.json,8205,64
 sirene/54/loisirs-animation.json,47750,359
 sirene/54/magasins-specialises-bricolage-maison-sport-high-tech.json,49754,426
 sirene/54/maintenance-d-equipements-ascenseurs.json,17661,152
-sirene/54/mairies-administrations.json,223566,1628
+sirene/54/mairies-administrations.json,129550,957
 sirene/54/materiels-agricoles-engins-de-chantier.json,9062,81
 sirene/54/menuiserie-agencement-serrurerie.json,26893,235
 sirene/54/motos-scooters.json,2644,23
@@ -6747,6 +6802,7 @@ sirene/55/demenagement.json,246,2
 sirene/55/eau-potable-captage-traitement-distribution.json,21015,166
 sirene/55/ebenisterie-meubles-restauration-de-meubles.json,899,8
 sirene/55/ecoles-de-sport-equitation.json,337,3
+sirene/55/ecoles-maternelles-et-elementaires.json,29274,201
 sirene/55/electricite-du-batiment.json,5420,46
 sirene/55/electronique-materiel-electrique.json,746,6
 sirene/55/elements-prefabriques-en-beton.json,96,1
@@ -6779,7 +6835,7 @@ sirene/55/laboratoires-de-recherche-scientifique.json,397,3
 sirene/55/loisirs-animation.json,15733,114
 sirene/55/magasins-specialises-bricolage-maison-sport-high-tech.json,9965,86
 sirene/55/maintenance-d-equipements-ascenseurs.json,2938,26
-sirene/55/mairies-administrations.json,116905,840
+sirene/55/mairies-administrations.json,87633,639
 sirene/55/materiels-agricoles-engins-de-chantier.json,5851,53
 sirene/55/menuiserie-agencement-serrurerie.json,8041,69
 sirene/55/motos-scooters.json,699,6
@@ -6869,6 +6925,7 @@ sirene/56/demenagement.json,1246,10
 sirene/56/eau-potable-captage-traitement-distribution.json,2204,18
 sirene/56/ebenisterie-meubles-restauration-de-meubles.json,4278,36
 sirene/56/ecoles-de-sport-equitation.json,10592,83
+sirene/56/ecoles-maternelles-et-elementaires.json,48524,343
 sirene/56/electricite-du-batiment.json,28267,245
 sirene/56/electronique-materiel-electrique.json,1945,15
 sirene/56/elements-prefabriques-en-beton.json,1670,14
@@ -6901,7 +6958,7 @@ sirene/56/laboratoires-de-recherche-scientifique.json,2481,21
 sirene/56/loisirs-animation.json,41686,320
 sirene/56/magasins-specialises-bricolage-maison-sport-high-tech.json,88973,780
 sirene/56/maintenance-d-equipements-ascenseurs.json,17522,149
-sirene/56/mairies-administrations.json,139366,1006
+sirene/56/mairies-administrations.json,90844,663
 sirene/56/materiels-agricoles-engins-de-chantier.json,15431,135
 sirene/56/menuiserie-agencement-serrurerie.json,53581,457
 sirene/56/motos-scooters.json,4368,36
@@ -6991,6 +7048,7 @@ sirene/57/demenagement.json,1911,15
 sirene/57/eau-potable-captage-traitement-distribution.json,17863,141
 sirene/57/ebenisterie-meubles-restauration-de-meubles.json,3630,34
 sirene/57/ecoles-de-sport-equitation.json,16330,130
+sirene/57/ecoles-maternelles-et-elementaires.json,139971,1011
 sirene/57/electricite-du-batiment.json,30811,280
 sirene/57/electronique-materiel-electrique.json,3486,30
 sirene/57/elements-prefabriques-en-beton.json,989,9
@@ -7023,7 +7081,7 @@ sirene/57/laboratoires-de-recherche-scientifique.json,1667,14
 sirene/57/loisirs-animation.json,38505,311
 sirene/57/magasins-specialises-bricolage-maison-sport-high-tech.json,81469,704
 sirene/57/maintenance-d-equipements-ascenseurs.json,16573,145
-sirene/57/mairies-administrations.json,289950,2154
+sirene/57/mairies-administrations.json,149981,1143
 sirene/57/materiels-agricoles-engins-de-chantier.json,12937,115
 sirene/57/menuiserie-agencement-serrurerie.json,40056,356
 sirene/57/motos-scooters.json,3836,34
@@ -7113,6 +7171,7 @@ sirene/58/demenagement.json,487,4
 sirene/58/eau-potable-captage-traitement-distribution.json,5177,40
 sirene/58/ebenisterie-meubles-restauration-de-meubles.json,1576,13
 sirene/58/ecoles-de-sport-equitation.json,937,7
+sirene/58/ecoles-maternelles-et-elementaires.json,23568,174
 sirene/58/electricite-du-batiment.json,5148,45
 sirene/58/electronique-materiel-electrique.json,385,3
 sirene/58/elements-prefabriques-en-beton.json,241,2
@@ -7145,7 +7204,7 @@ sirene/58/laboratoires-de-recherche-scientifique.json,697,5
 sirene/58/loisirs-animation.json,15140,114
 sirene/58/magasins-specialises-bricolage-maison-sport-high-tech.json,16862,138
 sirene/58/maintenance-d-equipements-ascenseurs.json,3023,26
-sirene/58/mairies-administrations.json,81228,607
+sirene/58/mairies-administrations.json,57662,433
 sirene/58/materiels-agricoles-engins-de-chantier.json,5686,49
 sirene/58/menuiserie-agencement-serrurerie.json,9573,82
 sirene/58/motos-scooters.json,851,7
@@ -7235,6 +7294,7 @@ sirene/59/demenagement.json,5061,39
 sirene/59/eau-potable-captage-traitement-distribution.json,6721,48
 sirene/59/ebenisterie-meubles-restauration-de-meubles.json,9241,80
 sirene/59/ecoles-de-sport-equitation.json,10158,84
+sirene/59/ecoles-maternelles-et-elementaires.json,249116,1781
 sirene/59/electricite-du-batiment.json,72916,651
 sirene/59/electronique-materiel-electrique.json,4600,39
 sirene/59/elements-prefabriques-en-beton.json,1735,16
@@ -7267,7 +7327,7 @@ sirene/59/laboratoires-de-recherche-scientifique.json,12047,97
 sirene/59/loisirs-animation.json,166940,1258
 sirene/59/magasins-specialises-bricolage-maison-sport-high-tech.json,174969,1534
 sirene/59/maintenance-d-equipements-ascenseurs.json,43163,365
-sirene/59/mairies-administrations.json,417558,3002
+sirene/59/mairies-administrations.json,168444,1221
 sirene/59/materiels-agricoles-engins-de-chantier.json,27152,234
 sirene/59/menuiserie-agencement-serrurerie.json,90302,796
 sirene/59/motos-scooters.json,8597,76
@@ -7357,6 +7417,7 @@ sirene/60/demenagement.json,2972,25
 sirene/60/eau-potable-captage-traitement-distribution.json,17706,129
 sirene/60/ebenisterie-meubles-restauration-de-meubles.json,1030,9
 sirene/60/ecoles-de-sport-equitation.json,5207,41
+sirene/60/ecoles-maternelles-et-elementaires.json,126926,905
 sirene/60/electricite-du-batiment.json,30380,265
 sirene/60/electronique-materiel-electrique.json,2395,20
 sirene/60/elements-prefabriques-en-beton.json,1296,11
@@ -7389,7 +7450,7 @@ sirene/60/laboratoires-de-recherche-scientifique.json,3179,26
 sirene/60/loisirs-animation.json,39004,308
 sirene/60/magasins-specialises-bricolage-maison-sport-high-tech.json,47881,416
 sirene/60/maintenance-d-equipements-ascenseurs.json,17387,149
-sirene/60/mairies-administrations.json,272184,1994
+sirene/60/mairies-administrations.json,145260,1089
 sirene/60/materiels-agricoles-engins-de-chantier.json,10546,91
 sirene/60/menuiserie-agencement-serrurerie.json,36776,322
 sirene/60/motos-scooters.json,3621,30
@@ -7479,6 +7540,7 @@ sirene/61/demenagement.json,622,4
 sirene/61/eau-potable-captage-traitement-distribution.json,5706,42
 sirene/61/ebenisterie-meubles-restauration-de-meubles.json,1753,15
 sirene/61/ecoles-de-sport-equitation.json,1140,10
+sirene/61/ecoles-maternelles-et-elementaires.json,32850,232
 sirene/61/electricite-du-batiment.json,7162,65
 sirene/61/electronique-materiel-electrique.json,899,7
 sirene/61/elements-prefabriques-en-beton.json,421,4
@@ -7511,7 +7573,7 @@ sirene/61/laboratoires-de-recherche-scientifique.json,772,5
 sirene/61/loisirs-animation.json,18803,141
 sirene/61/magasins-specialises-bricolage-maison-sport-high-tech.json,21985,190
 sirene/61/maintenance-d-equipements-ascenseurs.json,6441,54
-sirene/61/mairies-administrations.json,140484,1016
+sirene/61/mairies-administrations.json,107636,784
 sirene/61/materiels-agricoles-engins-de-chantier.json,7777,67
 sirene/61/menuiserie-agencement-serrurerie.json,18097,149
 sirene/61/motos-scooters.json,1436,12
@@ -7601,6 +7663,7 @@ sirene/62/demenagement.json,2350,18
 sirene/62/eau-potable-captage-traitement-distribution.json,16140,117
 sirene/62/ebenisterie-meubles-restauration-de-meubles.json,3615,32
 sirene/62/ecoles-de-sport-equitation.json,6461,53
+sirene/62/ecoles-maternelles-et-elementaires.json,191129,1375
 sirene/62/electricite-du-batiment.json,48314,425
 sirene/62/electronique-materiel-electrique.json,2753,20
 sirene/62/elements-prefabriques-en-beton.json,2569,21
@@ -7633,7 +7696,7 @@ sirene/62/laboratoires-de-recherche-scientifique.json,3527,27
 sirene/62/loisirs-animation.json,77574,588
 sirene/62/magasins-specialises-bricolage-maison-sport-high-tech.json,99677,843
 sirene/62/maintenance-d-equipements-ascenseurs.json,22650,195
-sirene/62/mairies-administrations.json,364602,2699
+sirene/62/mairies-administrations.json,173475,1324
 sirene/62/materiels-agricoles-engins-de-chantier.json,20409,174
 sirene/62/menuiserie-agencement-serrurerie.json,63525,553
 sirene/62/motos-scooters.json,6096,53
@@ -7723,6 +7786,7 @@ sirene/63/demenagement.json,2307,16
 sirene/63/eau-potable-captage-traitement-distribution.json,8047,55
 sirene/63/ebenisterie-meubles-restauration-de-meubles.json,2816,24
 sirene/63/ecoles-de-sport-equitation.json,4306,37
+sirene/63/ecoles-maternelles-et-elementaires.json,67925,496
 sirene/63/electricite-du-batiment.json,27998,246
 sirene/63/electronique-materiel-electrique.json,2842,23
 sirene/63/elements-prefabriques-en-beton.json,419,4
@@ -7755,7 +7819,7 @@ sirene/63/laboratoires-de-recherche-scientifique.json,7378,55
 sirene/63/loisirs-animation.json,45916,349
 sirene/63/magasins-specialises-bricolage-maison-sport-high-tech.json,57610,495
 sirene/63/maintenance-d-equipements-ascenseurs.json,14717,122
-sirene/63/mairies-administrations.json,184776,1324
+sirene/63/mairies-administrations.json,116853,828
 sirene/63/materiels-agricoles-engins-de-chantier.json,10612,90
 sirene/63/menuiserie-agencement-serrurerie.json,33562,285
 sirene/63/motos-scooters.json,3586,31
@@ -7845,6 +7909,7 @@ sirene/64/demenagement.json,2414,20
 sirene/64/eau-potable-captage-traitement-distribution.json,4681,34
 sirene/64/ebenisterie-meubles-restauration-de-meubles.json,4493,40
 sirene/64/ecoles-de-sport-equitation.json,10184,85
+sirene/64/ecoles-maternelles-et-elementaires.json,62992,470
 sirene/64/electricite-du-batiment.json,26732,237
 sirene/64/electronique-materiel-electrique.json,1938,16
 sirene/64/elements-prefabriques-en-beton.json,652,6
@@ -7877,7 +7942,7 @@ sirene/64/laboratoires-de-recherche-scientifique.json,4344,32
 sirene/64/loisirs-animation.json,50459,389
 sirene/64/magasins-specialises-bricolage-maison-sport-high-tech.json,93753,803
 sirene/64/maintenance-d-equipements-ascenseurs.json,17028,143
-sirene/64/mairies-administrations.json,176682,1300
+sirene/64/mairies-administrations.json,113692,830
 sirene/64/materiels-agricoles-engins-de-chantier.json,14889,124
 sirene/64/menuiserie-agencement-serrurerie.json,39358,337
 sirene/64/motos-scooters.json,5473,49
@@ -7967,6 +8032,7 @@ sirene/65/demenagement.json,406,4
 sirene/65/eau-potable-captage-traitement-distribution.json,5288,43
 sirene/65/ebenisterie-meubles-restauration-de-meubles.json,1134,10
 sirene/65/ecoles-de-sport-equitation.json,2115,19
+sirene/65/ecoles-maternelles-et-elementaires.json,29773,223
 sirene/65/electricite-du-batiment.json,7155,62
 sirene/65/electronique-materiel-electrique.json,1314,11
 sirene/65/elements-prefabriques-en-beton.json,193,2
@@ -7999,7 +8065,7 @@ sirene/65/laboratoires-de-recherche-scientifique.json,222,2
 sirene/65/loisirs-animation.json,13138,99
 sirene/65/magasins-specialises-bricolage-maison-sport-high-tech.json,32531,279
 sirene/65/maintenance-d-equipements-ascenseurs.json,5022,42
-sirene/65/mairies-administrations.json,90765,685
+sirene/65/mairies-administrations.json,60994,462
 sirene/65/materiels-agricoles-engins-de-chantier.json,3582,32
 sirene/65/menuiserie-agencement-serrurerie.json,9649,85
 sirene/65/motos-scooters.json,1088,9
@@ -8089,6 +8155,7 @@ sirene/66/demenagement.json,1761,15
 sirene/66/eau-potable-captage-traitement-distribution.json,7256,54
 sirene/66/ebenisterie-meubles-restauration-de-meubles.json,1065,9
 sirene/66/ecoles-de-sport-equitation.json,3890,32
+sirene/66/ecoles-maternelles-et-elementaires.json,33237,236
 sirene/66/electricite-du-batiment.json,22539,194
 sirene/66/electronique-materiel-electrique.json,1128,9
 sirene/66/elements-prefabriques-en-beton.json,264,2
@@ -8121,7 +8188,7 @@ sirene/66/laboratoires-de-recherche-scientifique.json,2052,17
 sirene/66/loisirs-animation.json,37337,279
 sirene/66/magasins-specialises-bricolage-maison-sport-high-tech.json,56855,475
 sirene/66/maintenance-d-equipements-ascenseurs.json,7736,67
-sirene/66/mairies-administrations.json,94825,658
+sirene/66/mairies-administrations.json,61590,422
 sirene/66/materiels-agricoles-engins-de-chantier.json,4193,37
 sirene/66/menuiserie-agencement-serrurerie.json,27512,240
 sirene/66/motos-scooters.json,2178,19
@@ -8211,6 +8278,7 @@ sirene/67/demenagement.json,1813,16
 sirene/67/eau-potable-captage-traitement-distribution.json,5365,38
 sirene/67/ebenisterie-meubles-restauration-de-meubles.json,8428,76
 sirene/67/ecoles-de-sport-equitation.json,34169,271
+sirene/67/ecoles-maternelles-et-elementaires.json,115300,842
 sirene/67/electricite-du-batiment.json,50661,464
 sirene/67/electronique-materiel-electrique.json,6520,58
 sirene/67/elements-prefabriques-en-beton.json,3204,27
@@ -8243,7 +8311,7 @@ sirene/67/laboratoires-de-recherche-scientifique.json,14101,116
 sirene/67/loisirs-animation.json,56026,447
 sirene/67/magasins-specialises-bricolage-maison-sport-high-tech.json,99681,870
 sirene/67/maintenance-d-equipements-ascenseurs.json,25578,227
-sirene/67/mairies-administrations.json,247584,1810
+sirene/67/mairies-administrations.json,132286,968
 sirene/67/materiels-agricoles-engins-de-chantier.json,16352,146
 sirene/67/menuiserie-agencement-serrurerie.json,68111,611
 sirene/67/motos-scooters.json,4681,42
@@ -8333,6 +8401,7 @@ sirene/68/demenagement.json,1174,10
 sirene/68/eau-potable-captage-traitement-distribution.json,14056,102
 sirene/68/ebenisterie-meubles-restauration-de-meubles.json,3964,35
 sirene/68/ecoles-de-sport-equitation.json,22406,182
+sirene/68/ecoles-maternelles-et-elementaires.json,87280,621
 sirene/68/electricite-du-batiment.json,27896,251
 sirene/68/electronique-materiel-electrique.json,4226,35
 sirene/68/elements-prefabriques-en-beton.json,1200,11
@@ -8365,7 +8434,7 @@ sirene/68/laboratoires-de-recherche-scientifique.json,3359,28
 sirene/68/loisirs-animation.json,33562,269
 sirene/68/magasins-specialises-bricolage-maison-sport-high-tech.json,66751,593
 sirene/68/maintenance-d-equipements-ascenseurs.json,16635,146
-sirene/68/mairies-administrations.json,189885,1363
+sirene/68/mairies-administrations.json,102607,742
 sirene/68/materiels-agricoles-engins-de-chantier.json,10324,92
 sirene/68/menuiserie-agencement-serrurerie.json,38378,339
 sirene/68/motos-scooters.json,4206,38
@@ -8455,6 +8524,7 @@ sirene/69/demenagement.json,7123,58
 sirene/69/eau-potable-captage-traitement-distribution.json,6686,48
 sirene/69/ebenisterie-meubles-restauration-de-meubles.json,11681,102
 sirene/69/ecoles-de-sport-equitation.json,11712,103
+sirene/69/ecoles-maternelles-et-elementaires.json,123163,848
 sirene/69/electricite-du-batiment.json,100107,887
 sirene/69/electronique-materiel-electrique.json,14669,121
 sirene/69/elements-prefabriques-en-beton.json,1420,12
@@ -8487,7 +8557,7 @@ sirene/69/laboratoires-de-recherche-scientifique.json,30908,256
 sirene/69/loisirs-animation.json,98352,789
 sirene/69/magasins-specialises-bricolage-maison-sport-high-tech.json,179851,1577
 sirene/69/maintenance-d-equipements-ascenseurs.json,58365,492
-sirene/69/mairies-administrations.json,224203,1535
+sirene/69/mairies-administrations.json,101042,687
 sirene/69/materiels-agricoles-engins-de-chantier.json,22383,193
 sirene/69/menuiserie-agencement-serrurerie.json,104119,892
 sirene/69/motos-scooters.json,8987,79
@@ -8577,6 +8647,7 @@ sirene/70/demenagement.json,487,4
 sirene/70/eau-potable-captage-traitement-distribution.json,14339,106
 sirene/70/ebenisterie-meubles-restauration-de-meubles.json,1615,14
 sirene/70/ecoles-de-sport-equitation.json,1167,9
+sirene/70/ecoles-maternelles-et-elementaires.json,32418,238
 sirene/70/electricite-du-batiment.json,6428,57
 sirene/70/electronique-materiel-electrique.json,325,3
 sirene/70/elements-prefabriques-en-beton.json,472,4
@@ -8609,7 +8680,7 @@ sirene/70/laboratoires-de-recherche-scientifique.json,440,4
 sirene/70/loisirs-animation.json,15713,109
 sirene/70/magasins-specialises-bricolage-maison-sport-high-tech.json,19568,170
 sirene/70/maintenance-d-equipements-ascenseurs.json,5218,45
-sirene/70/mairies-administrations.json,116615,882
+sirene/70/mairies-administrations.json,84199,644
 sirene/70/materiels-agricoles-engins-de-chantier.json,6504,55
 sirene/70/menuiserie-agencement-serrurerie.json,12574,112
 sirene/70/motos-scooters.json,1306,12
@@ -8699,6 +8770,7 @@ sirene/71/demenagement.json,1530,12
 sirene/71/eau-potable-captage-traitement-distribution.json,4406,34
 sirene/71/ebenisterie-meubles-restauration-de-meubles.json,2766,23
 sirene/71/ecoles-de-sport-equitation.json,2202,19
+sirene/71/ecoles-maternelles-et-elementaires.json,84049,596
 sirene/71/electricite-du-batiment.json,19809,166
 sirene/71/electronique-materiel-electrique.json,2375,20
 sirene/71/elements-prefabriques-en-beton.json,1890,17
@@ -8731,7 +8803,7 @@ sirene/71/laboratoires-de-recherche-scientifique.json,1074,9
 sirene/71/loisirs-animation.json,25163,195
 sirene/71/magasins-specialises-bricolage-maison-sport-high-tech.json,47781,409
 sirene/71/maintenance-d-equipements-ascenseurs.json,15137,127
-sirene/71/mairies-administrations.json,201231,1466
+sirene/71/mairies-administrations.json,117184,870
 sirene/71/materiels-agricoles-engins-de-chantier.json,11708,103
 sirene/71/menuiserie-agencement-serrurerie.json,30323,254
 sirene/71/motos-scooters.json,3625,31
@@ -8821,6 +8893,7 @@ sirene/72/demenagement.json,1115,10
 sirene/72/eau-potable-captage-traitement-distribution.json,7317,52
 sirene/72/ebenisterie-meubles-restauration-de-meubles.json,3209,27
 sirene/72/ecoles-de-sport-equitation.json,3536,29
+sirene/72/ecoles-maternelles-et-elementaires.json,63694,432
 sirene/72/electricite-du-batiment.json,18181,161
 sirene/72/electronique-materiel-electrique.json,3358,27
 sirene/72/elements-prefabriques-en-beton.json,531,5
@@ -8853,7 +8926,7 @@ sirene/72/laboratoires-de-recherche-scientifique.json,1760,14
 sirene/72/loisirs-animation.json,25355,197
 sirene/72/magasins-specialises-bricolage-maison-sport-high-tech.json,41930,352
 sirene/72/maintenance-d-equipements-ascenseurs.json,11061,95
-sirene/72/mairies-administrations.json,171193,1193
+sirene/72/mairies-administrations.json,107501,761
 sirene/72/materiels-agricoles-engins-de-chantier.json,11091,93
 sirene/72/menuiserie-agencement-serrurerie.json,24162,208
 sirene/72/motos-scooters.json,2889,26
@@ -8943,6 +9016,7 @@ sirene/73/demenagement.json,1270,9
 sirene/73/eau-potable-captage-traitement-distribution.json,7567,53
 sirene/73/ebenisterie-meubles-restauration-de-meubles.json,3020,24
 sirene/73/ecoles-de-sport-equitation.json,6231,49
+sirene/73/ecoles-maternelles-et-elementaires.json,53871,377
 sirene/73/electricite-du-batiment.json,26963,227
 sirene/73/electronique-materiel-electrique.json,2668,20
 sirene/73/elements-prefabriques-en-beton.json,676,6
@@ -8975,7 +9049,7 @@ sirene/73/laboratoires-de-recherche-scientifique.json,2378,18
 sirene/73/loisirs-animation.json,29900,223
 sirene/73/magasins-specialises-bricolage-maison-sport-high-tech.json,121173,983
 sirene/73/maintenance-d-equipements-ascenseurs.json,15168,127
-sirene/73/mairies-administrations.json,133784,941
+sirene/73/mairies-administrations.json,79915,564
 sirene/73/materiels-agricoles-engins-de-chantier.json,8964,74
 sirene/73/menuiserie-agencement-serrurerie.json,37566,317
 sirene/73/motos-scooters.json,3155,27
@@ -9065,6 +9139,7 @@ sirene/74/demenagement.json,2863,21
 sirene/74/eau-potable-captage-traitement-distribution.json,9225,65
 sirene/74/ebenisterie-meubles-restauration-de-meubles.json,7615,60
 sirene/74/ecoles-de-sport-equitation.json,11669,98
+sirene/74/ecoles-maternelles-et-elementaires.json,67684,459
 sirene/74/electricite-du-batiment.json,34625,306
 sirene/74/electronique-materiel-electrique.json,5041,43
 sirene/74/elements-prefabriques-en-beton.json,1405,12
@@ -9097,7 +9172,7 @@ sirene/74/laboratoires-de-recherche-scientifique.json,3378,28
 sirene/74/loisirs-animation.json,33093,263
 sirene/74/magasins-specialises-bricolage-maison-sport-high-tech.json,133873,1145
 sirene/74/maintenance-d-equipements-ascenseurs.json,19740,164
-sirene/74/mairies-administrations.json,169507,1161
+sirene/74/mairies-administrations.json,101825,702
 sirene/74/materiels-agricoles-engins-de-chantier.json,11314,96
 sirene/74/menuiserie-agencement-serrurerie.json,64922,547
 sirene/74/motos-scooters.json,5835,50
@@ -9187,6 +9262,7 @@ sirene/75/demenagement.json,9301,83
 sirene/75/eau-potable-captage-traitement-distribution.json,2903,25
 sirene/75/ebenisterie-meubles-restauration-de-meubles.json,18795,177
 sirene/75/ecoles-de-sport-equitation.json,22431,204
+sirene/75/ecoles-maternelles-et-elementaires.json,90581,773
 sirene/75/electricite-du-batiment.json,80099,806
 sirene/75/electronique-materiel-electrique.json,7947,78
 sirene/75/elements-prefabriques-en-beton.json,301,3
@@ -9219,7 +9295,7 @@ sirene/75/laboratoires-de-recherche-scientifique.json,117411,888
 sirene/75/loisirs-animation.json,217207,1793
 sirene/75/magasins-specialises-bricolage-maison-sport-high-tech.json,484763,4476
 sirene/75/maintenance-d-equipements-ascenseurs.json,21097,201
-sirene/75/mairies-administrations.json,288784,2160
+sirene/75/mairies-administrations.json,198205,1387
 sirene/75/materiels-agricoles-engins-de-chantier.json,9741,95
 sirene/75/menuiserie-agencement-serrurerie.json,88202,837
 sirene/75/motos-scooters.json,17118,161
@@ -9309,6 +9385,7 @@ sirene/76/demenagement.json,2895,23
 sirene/76/eau-potable-captage-traitement-distribution.json,7400,51
 sirene/76/ebenisterie-meubles-restauration-de-meubles.json,3124,27
 sirene/76/ecoles-de-sport-equitation.json,7312,61
+sirene/76/ecoles-maternelles-et-elementaires.json,122527,839
 sirene/76/electricite-du-batiment.json,38745,336
 sirene/76/electronique-materiel-electrique.json,3492,28
 sirene/76/elements-prefabriques-en-beton.json,538,4
@@ -9341,7 +9418,7 @@ sirene/76/laboratoires-de-recherche-scientifique.json,4199,30
 sirene/76/loisirs-animation.json,66957,500
 sirene/76/magasins-specialises-bricolage-maison-sport-high-tech.json,89543,771
 sirene/76/maintenance-d-equipements-ascenseurs.json,25771,213
-sirene/76/mairies-administrations.json,299033,2078
+sirene/76/mairies-administrations.json,176508,1239
 sirene/76/materiels-agricoles-engins-de-chantier.json,16575,138
 sirene/76/menuiserie-agencement-serrurerie.json,56298,474
 sirene/76/motos-scooters.json,5030,43
@@ -9431,6 +9508,7 @@ sirene/77/demenagement.json,5320,43
 sirene/77/eau-potable-captage-traitement-distribution.json,15456,114
 sirene/77/ebenisterie-meubles-restauration-de-meubles.json,5156,44
 sirene/77/ecoles-de-sport-equitation.json,11814,101
+sirene/77/ecoles-maternelles-et-elementaires.json,161690,1126
 sirene/77/electricite-du-batiment.json,88328,785
 sirene/77/electronique-materiel-electrique.json,5871,49
 sirene/77/elements-prefabriques-en-beton.json,2216,19
@@ -9463,7 +9541,7 @@ sirene/77/laboratoires-de-recherche-scientifique.json,4084,29
 sirene/77/loisirs-animation.json,67132,504
 sirene/77/magasins-specialises-bricolage-maison-sport-high-tech.json,116397,917
 sirene/77/maintenance-d-equipements-ascenseurs.json,38458,324
-sirene/77/mairies-administrations.json,305870,2136
+sirene/77/mairies-administrations.json,144182,1010
 sirene/77/materiels-agricoles-engins-de-chantier.json,25163,218
 sirene/77/menuiserie-agencement-serrurerie.json,81037,705
 sirene/77/motos-scooters.json,5822,49
@@ -9553,6 +9631,7 @@ sirene/78/demenagement.json,7391,58
 sirene/78/eau-potable-captage-traitement-distribution.json,8368,64
 sirene/78/ebenisterie-meubles-restauration-de-meubles.json,5511,46
 sirene/78/ecoles-de-sport-equitation.json,12915,106
+sirene/78/ecoles-maternelles-et-elementaires.json,146486,992
 sirene/78/electricite-du-batiment.json,56046,498
 sirene/78/electronique-materiel-electrique.json,7377,61
 sirene/78/elements-prefabriques-en-beton.json,870,8
@@ -9585,7 +9664,7 @@ sirene/78/laboratoires-de-recherche-scientifique.json,10136,74
 sirene/78/loisirs-animation.json,63272,471
 sirene/78/magasins-specialises-bricolage-maison-sport-high-tech.json,109214,881
 sirene/78/maintenance-d-equipements-ascenseurs.json,25304,213
-sirene/78/mairies-administrations.json,254208,1708
+sirene/78/mairies-administrations.json,107724,716
 sirene/78/materiels-agricoles-engins-de-chantier.json,11841,100
 sirene/78/menuiserie-agencement-serrurerie.json,59310,515
 sirene/78/motos-scooters.json,7690,67
@@ -9675,6 +9754,7 @@ sirene/79/demenagement.json,1536,12
 sirene/79/eau-potable-captage-traitement-distribution.json,4713,35
 sirene/79/ebenisterie-meubles-restauration-de-meubles.json,2720,22
 sirene/79/ecoles-de-sport-equitation.json,1387,12
+sirene/79/ecoles-maternelles-et-elementaires.json,39949,286
 sirene/79/electricite-du-batiment.json,15226,134
 sirene/79/electronique-materiel-electrique.json,1399,11
 sirene/79/elements-prefabriques-en-beton.json,1654,13
@@ -9707,7 +9787,7 @@ sirene/79/laboratoires-de-recherche-scientifique.json,688,5
 sirene/79/loisirs-animation.json,22246,160
 sirene/79/magasins-specialises-bricolage-maison-sport-high-tech.json,25887,224
 sirene/79/maintenance-d-equipements-ascenseurs.json,8711,73
-sirene/79/mairies-administrations.json,116938,830
+sirene/79/mairies-administrations.json,76991,544
 sirene/79/materiels-agricoles-engins-de-chantier.json,12644,106
 sirene/79/menuiserie-agencement-serrurerie.json,24603,210
 sirene/79/motos-scooters.json,2369,21
@@ -9797,6 +9877,7 @@ sirene/80/demenagement.json,697,6
 sirene/80/eau-potable-captage-traitement-distribution.json,14289,105
 sirene/80/ebenisterie-meubles-restauration-de-meubles.json,2351,21
 sirene/80/ecoles-de-sport-equitation.json,2727,23
+sirene/80/ecoles-maternelles-et-elementaires.json,81533,603
 sirene/80/electricite-du-batiment.json,16414,144
 sirene/80/electronique-materiel-electrique.json,872,7
 sirene/80/elements-prefabriques-en-beton.json,514,5
@@ -9829,7 +9910,7 @@ sirene/80/laboratoires-de-recherche-scientifique.json,1585,12
 sirene/80/loisirs-animation.json,29975,224
 sirene/80/magasins-specialises-bricolage-maison-sport-high-tech.json,42748,374
 sirene/80/maintenance-d-equipements-ascenseurs.json,10977,94
-sirene/80/mairies-administrations.json,223692,1693
+sirene/80/mairies-administrations.json,142161,1090
 sirene/80/materiels-agricoles-engins-de-chantier.json,10915,94
 sirene/80/menuiserie-agencement-serrurerie.json,21239,190
 sirene/80/motos-scooters.json,1809,16
@@ -9919,6 +10000,7 @@ sirene/81/demenagement.json,1272,10
 sirene/81/eau-potable-captage-traitement-distribution.json,5850,39
 sirene/81/ebenisterie-meubles-restauration-de-meubles.json,2942,26
 sirene/81/ecoles-de-sport-equitation.json,1568,13
+sirene/81/ecoles-maternelles-et-elementaires.json,42172,306
 sirene/81/electricite-du-batiment.json,15964,145
 sirene/81/electronique-materiel-electrique.json,1197,10
 sirene/81/elements-prefabriques-en-beton.json,1238,11
@@ -9951,7 +10033,7 @@ sirene/81/laboratoires-de-recherche-scientifique.json,1955,14
 sirene/81/loisirs-animation.json,22541,175
 sirene/81/magasins-specialises-bricolage-maison-sport-high-tech.json,36310,314
 sirene/81/maintenance-d-equipements-ascenseurs.json,9730,84
-sirene/81/mairies-administrations.json,105895,789
+sirene/81/mairies-administrations.json,63725,483
 sirene/81/materiels-agricoles-engins-de-chantier.json,7618,68
 sirene/81/menuiserie-agencement-serrurerie.json,22658,194
 sirene/81/motos-scooters.json,2425,20
@@ -10041,6 +10123,7 @@ sirene/82/demenagement.json,385,3
 sirene/82/eau-potable-captage-traitement-distribution.json,3086,22
 sirene/82/ebenisterie-meubles-restauration-de-meubles.json,1218,10
 sirene/82/ecoles-de-sport-equitation.json,1627,14
+sirene/82/ecoles-maternelles-et-elementaires.json,26308,187
 sirene/82/electricite-du-batiment.json,9742,87
 sirene/82/electronique-materiel-electrique.json,1054,9
 sirene/82/elements-prefabriques-en-beton.json,1000,8
@@ -10073,7 +10156,7 @@ sirene/82/laboratoires-de-recherche-scientifique.json,1157,11
 sirene/82/loisirs-animation.json,14837,114
 sirene/82/magasins-specialises-bricolage-maison-sport-high-tech.json,22629,193
 sirene/82/maintenance-d-equipements-ascenseurs.json,5200,44
-sirene/82/mairies-administrations.json,69634,501
+sirene/82/mairies-administrations.json,43328,314
 sirene/82/materiels-agricoles-engins-de-chantier.json,6799,58
 sirene/82/menuiserie-agencement-serrurerie.json,9237,84
 sirene/82/motos-scooters.json,1084,10
@@ -10163,6 +10246,7 @@ sirene/83/demenagement.json,5344,39
 sirene/83/eau-potable-captage-traitement-distribution.json,9819,69
 sirene/83/ebenisterie-meubles-restauration-de-meubles.json,4212,34
 sirene/83/ecoles-de-sport-equitation.json,15892,125
+sirene/83/ecoles-maternelles-et-elementaires.json,66611,462
 sirene/83/electricite-du-batiment.json,65345,536
 sirene/83/electronique-materiel-electrique.json,3544,28
 sirene/83/elements-prefabriques-en-beton.json,891,7
@@ -10195,7 +10279,7 @@ sirene/83/laboratoires-de-recherche-scientifique.json,3379,26
 sirene/83/loisirs-animation.json,59804,449
 sirene/83/magasins-specialises-bricolage-maison-sport-high-tech.json,140444,1154
 sirene/83/maintenance-d-equipements-ascenseurs.json,23126,179
-sirene/83/mairies-administrations.json,130721,894
+sirene/83/mairies-administrations.json,64112,432
 sirene/83/materiels-agricoles-engins-de-chantier.json,14218,113
 sirene/83/menuiserie-agencement-serrurerie.json,70356,568
 sirene/83/motos-scooters.json,11002,93
@@ -10285,6 +10369,7 @@ sirene/84/demenagement.json,1581,11
 sirene/84/eau-potable-captage-traitement-distribution.json,4316,30
 sirene/84/ebenisterie-meubles-restauration-de-meubles.json,2839,24
 sirene/84/ecoles-de-sport-equitation.json,4099,34
+sirene/84/ecoles-maternelles-et-elementaires.json,49787,353
 sirene/84/electricite-du-batiment.json,32321,282
 sirene/84/electronique-materiel-electrique.json,1699,15
 sirene/84/elements-prefabriques-en-beton.json,1422,13
@@ -10317,7 +10402,7 @@ sirene/84/laboratoires-de-recherche-scientifique.json,4082,30
 sirene/84/loisirs-animation.json,33583,266
 sirene/84/magasins-specialises-bricolage-maison-sport-high-tech.json,79175,667
 sirene/84/maintenance-d-equipements-ascenseurs.json,17324,145
-sirene/84/mairies-administrations.json,101710,707
+sirene/84/mairies-administrations.json,51925,354
 sirene/84/materiels-agricoles-engins-de-chantier.json,15182,130
 sirene/84/menuiserie-agencement-serrurerie.json,33267,278
 sirene/84/motos-scooters.json,3655,32
@@ -10407,6 +10492,7 @@ sirene/85/demenagement.json,1990,14
 sirene/85/eau-potable-captage-traitement-distribution.json,2129,15
 sirene/85/ebenisterie-meubles-restauration-de-meubles.json,10396,82
 sirene/85/ecoles-de-sport-equitation.json,5442,45
+sirene/85/ecoles-maternelles-et-elementaires.json,49426,308
 sirene/85/electricite-du-batiment.json,34508,280
 sirene/85/electronique-materiel-electrique.json,2039,17
 sirene/85/elements-prefabriques-en-beton.json,2353,19
@@ -10439,7 +10525,7 @@ sirene/85/laboratoires-de-recherche-scientifique.json,1287,10
 sirene/85/loisirs-animation.json,47650,336
 sirene/85/magasins-specialises-bricolage-maison-sport-high-tech.json,77706,624
 sirene/85/maintenance-d-equipements-ascenseurs.json,18684,147
-sirene/85/mairies-administrations.json,154179,1003
+sirene/85/mairies-administrations.json,104755,695
 sirene/85/materiels-agricoles-engins-de-chantier.json,18952,156
 sirene/85/menuiserie-agencement-serrurerie.json,77766,625
 sirene/85/motos-scooters.json,4591,37
@@ -10529,6 +10615,7 @@ sirene/86/demenagement.json,1136,8
 sirene/86/eau-potable-captage-traitement-distribution.json,1493,11
 sirene/86/ebenisterie-meubles-restauration-de-meubles.json,2764,25
 sirene/86/ecoles-de-sport-equitation.json,1795,15
+sirene/86/ecoles-maternelles-et-elementaires.json,51164,351
 sirene/86/electricite-du-batiment.json,12897,116
 sirene/86/electronique-materiel-electrique.json,2255,17
 sirene/86/elements-prefabriques-en-beton.json,804,7
@@ -10561,7 +10648,7 @@ sirene/86/laboratoires-de-recherche-scientifique.json,2087,17
 sirene/86/loisirs-animation.json,29120,216
 sirene/86/magasins-specialises-bricolage-maison-sport-high-tech.json,34167,284
 sirene/86/maintenance-d-equipements-ascenseurs.json,7397,61
-sirene/86/mairies-administrations.json,128051,901
+sirene/86/mairies-administrations.json,76889,550
 sirene/86/materiels-agricoles-engins-de-chantier.json,15081,130
 sirene/86/menuiserie-agencement-serrurerie.json,22543,190
 sirene/86/motos-scooters.json,2590,23
@@ -10651,6 +10738,7 @@ sirene/87/demenagement.json,1875,15
 sirene/87/eau-potable-captage-traitement-distribution.json,5854,43
 sirene/87/ebenisterie-meubles-restauration-de-meubles.json,1143,10
 sirene/87/ecoles-de-sport-equitation.json,1049,9
+sirene/87/ecoles-maternelles-et-elementaires.json,24788,177
 sirene/87/electricite-du-batiment.json,12942,113
 sirene/87/electronique-materiel-electrique.json,851,7
 sirene/87/elements-prefabriques-en-beton.json,540,5
@@ -10683,7 +10771,7 @@ sirene/87/laboratoires-de-recherche-scientifique.json,2968,19
 sirene/87/loisirs-animation.json,27805,199
 sirene/87/magasins-specialises-bricolage-maison-sport-high-tech.json,34984,298
 sirene/87/maintenance-d-equipements-ascenseurs.json,7193,63
-sirene/87/mairies-administrations.json,90717,631
+sirene/87/mairies-administrations.json,65931,454
 sirene/87/materiels-agricoles-engins-de-chantier.json,8086,67
 sirene/87/menuiserie-agencement-serrurerie.json,16250,146
 sirene/87/motos-scooters.json,2403,22
@@ -10773,6 +10861,7 @@ sirene/88/demenagement.json,555,5
 sirene/88/eau-potable-captage-traitement-distribution.json,13582,107
 sirene/88/ebenisterie-meubles-restauration-de-meubles.json,4474,38
 sirene/88/ecoles-de-sport-equitation.json,2039,17
+sirene/88/ecoles-maternelles-et-elementaires.json,62691,446
 sirene/88/electricite-du-batiment.json,11873,106
 sirene/88/electronique-materiel-electrique.json,1768,14
 sirene/88/elements-prefabriques-en-beton.json,812,7
@@ -10805,7 +10894,7 @@ sirene/88/laboratoires-de-recherche-scientifique.json,479,3
 sirene/88/loisirs-animation.json,24454,184
 sirene/88/magasins-specialises-bricolage-maison-sport-high-tech.json,36412,309
 sirene/88/maintenance-d-equipements-ascenseurs.json,9259,77
-sirene/88/mairies-administrations.json,159555,1175
+sirene/88/mairies-administrations.json,96866,729
 sirene/88/materiels-agricoles-engins-de-chantier.json,7329,63
 sirene/88/menuiserie-agencement-serrurerie.json,27774,239
 sirene/88/motos-scooters.json,1760,15
@@ -10895,6 +10984,7 @@ sirene/89/demenagement.json,803,6
 sirene/89/eau-potable-captage-traitement-distribution.json,16521,120
 sirene/89/ebenisterie-meubles-restauration-de-meubles.json,2731,24
 sirene/89/ecoles-de-sport-equitation.json,2215,18
+sirene/89/ecoles-maternelles-et-elementaires.json,58499,435
 sirene/89/electricite-du-batiment.json,11359,101
 sirene/89/electronique-materiel-electrique.json,928,8
 sirene/89/elements-prefabriques-en-beton.json,772,7
@@ -10927,7 +11017,7 @@ sirene/89/laboratoires-de-recherche-scientifique.json,507,5
 sirene/89/loisirs-animation.json,20504,160
 sirene/89/magasins-specialises-bricolage-maison-sport-high-tech.json,27292,233
 sirene/89/maintenance-d-equipements-ascenseurs.json,8062,69
-sirene/89/mairies-administrations.json,153094,1152
+sirene/89/mairies-administrations.json,94597,717
 sirene/89/materiels-agricoles-engins-de-chantier.json,7127,62
 sirene/89/menuiserie-agencement-serrurerie.json,18433,165
 sirene/89/motos-scooters.json,1906,17
@@ -11017,6 +11107,7 @@ sirene/90/demenagement.json,564,5
 sirene/90/eau-potable-captage-traitement-distribution.json,801,6
 sirene/90/ebenisterie-meubles-restauration-de-meubles.json,254,2
 sirene/90/ecoles-de-sport-equitation.json,1004,8
+sirene/90/ecoles-maternelles-et-elementaires.json,20486,153
 sirene/90/electricite-du-batiment.json,5148,46
 sirene/90/electronique-materiel-electrique.json,1053,9
 sirene/90/elements-prefabriques-en-beton.json,192,2
@@ -11049,7 +11140,7 @@ sirene/90/laboratoires-de-recherche-scientifique.json,344,3
 sirene/90/loisirs-animation.json,8989,66
 sirene/90/magasins-specialises-bricolage-maison-sport-high-tech.json,10470,91
 sirene/90/maintenance-d-equipements-ascenseurs.json,2851,25
-sirene/90/mairies-administrations.json,46734,337
+sirene/90/mairies-administrations.json,26250,184
 sirene/90/materiels-agricoles-engins-de-chantier.json,920,8
 sirene/90/menuiserie-agencement-serrurerie.json,5109,43
 sirene/90/motos-scooters.json,523,5
@@ -11139,6 +11230,7 @@ sirene/91/demenagement.json,6673,52
 sirene/91/eau-potable-captage-traitement-distribution.json,5902,45
 sirene/91/ebenisterie-meubles-restauration-de-meubles.json,3400,30
 sirene/91/ecoles-de-sport-equitation.json,7020,59
+sirene/91/ecoles-maternelles-et-elementaires.json,130883,876
 sirene/91/electricite-du-batiment.json,67278,592
 sirene/91/electronique-materiel-electrique.json,7787,64
 sirene/91/elements-prefabriques-en-beton.json,656,5
@@ -11171,7 +11263,7 @@ sirene/91/laboratoires-de-recherche-scientifique.json,32583,232
 sirene/91/loisirs-animation.json,63683,469
 sirene/91/magasins-specialises-bricolage-maison-sport-high-tech.json,80552,637
 sirene/91/maintenance-d-equipements-ascenseurs.json,28277,236
-sirene/91/mairies-administrations.json,216584,1433
+sirene/91/mairies-administrations.json,85703,557
 sirene/91/materiels-agricoles-engins-de-chantier.json,17406,145
 sirene/91/menuiserie-agencement-serrurerie.json,66631,574
 sirene/91/motos-scooters.json,4611,40
@@ -11261,6 +11353,7 @@ sirene/92/demenagement.json,5850,48
 sirene/92/eau-potable-captage-traitement-distribution.json,4236,36
 sirene/92/ebenisterie-meubles-restauration-de-meubles.json,3755,33
 sirene/92/ecoles-de-sport-equitation.json,9224,75
+sirene/92/ecoles-maternelles-et-elementaires.json,95528,632
 sirene/92/electricite-du-batiment.json,52429,469
 sirene/92/electronique-materiel-electrique.json,5457,45
 sirene/92/elements-prefabriques-en-beton.json,570,5
@@ -11293,7 +11386,7 @@ sirene/92/laboratoires-de-recherche-scientifique.json,21102,164
 sirene/92/loisirs-animation.json,78530,596
 sirene/92/magasins-specialises-bricolage-maison-sport-high-tech.json,116497,965
 sirene/92/maintenance-d-equipements-ascenseurs.json,15748,134
-sirene/92/mairies-administrations.json,157423,999
+sirene/92/mairies-administrations.json,61897,367
 sirene/92/materiels-agricoles-engins-de-chantier.json,5606,50
 sirene/92/menuiserie-agencement-serrurerie.json,40714,354
 sirene/92/motos-scooters.json,8493,74
@@ -11383,6 +11476,7 @@ sirene/93/demenagement.json,8349,68
 sirene/93/eau-potable-captage-traitement-distribution.json,4539,35
 sirene/93/ebenisterie-meubles-restauration-de-meubles.json,6321,58
 sirene/93/ecoles-de-sport-equitation.json,1994,16
+sirene/93/ecoles-maternelles-et-elementaires.json,121455,824
 sirene/93/electricite-du-batiment.json,107198,984
 sirene/93/electronique-materiel-electrique.json,5083,46
 sirene/93/elements-prefabriques-en-beton.json,201,2
@@ -11415,7 +11509,7 @@ sirene/93/laboratoires-de-recherche-scientifique.json,5275,40
 sirene/93/loisirs-animation.json,78972,602
 sirene/93/magasins-specialises-bricolage-maison-sport-high-tech.json,99591,802
 sirene/93/maintenance-d-equipements-ascenseurs.json,22840,200
-sirene/93/mairies-administrations.json,234853,1516
+sirene/93/mairies-administrations.json,113400,692
 sirene/93/materiels-agricoles-engins-de-chantier.json,9589,83
 sirene/93/menuiserie-agencement-serrurerie.json,87195,795
 sirene/93/motos-scooters.json,4514,40
@@ -11505,6 +11599,7 @@ sirene/94/demenagement.json,6314,51
 sirene/94/eau-potable-captage-traitement-distribution.json,2623,20
 sirene/94/ebenisterie-meubles-restauration-de-meubles.json,5757,48
 sirene/94/ecoles-de-sport-equitation.json,4973,42
+sirene/94/ecoles-maternelles-et-elementaires.json,99464,650
 sirene/94/electricite-du-batiment.json,65769,585
 sirene/94/electronique-materiel-electrique.json,3248,26
 sirene/94/elements-prefabriques-en-beton.json,737,5
@@ -11537,7 +11632,7 @@ sirene/94/laboratoires-de-recherche-scientifique.json,16019,108
 sirene/94/loisirs-animation.json,63063,466
 sirene/94/magasins-specialises-bricolage-maison-sport-high-tech.json,89407,708
 sirene/94/maintenance-d-equipements-ascenseurs.json,22873,193
-sirene/94/mairies-administrations.json,178553,1149
+sirene/94/mairies-administrations.json,79091,499
 sirene/94/materiels-agricoles-engins-de-chantier.json,7499,64
 sirene/94/menuiserie-agencement-serrurerie.json,61649,528
 sirene/94/motos-scooters.json,4619,41
@@ -11627,6 +11722,7 @@ sirene/95/demenagement.json,8515,71
 sirene/95/eau-potable-captage-traitement-distribution.json,10396,81
 sirene/95/ebenisterie-meubles-restauration-de-meubles.json,4579,40
 sirene/95/ecoles-de-sport-equitation.json,4962,42
+sirene/95/ecoles-maternelles-et-elementaires.json,127010,858
 sirene/95/electricite-du-batiment.json,86475,791
 sirene/95/electronique-materiel-electrique.json,6218,50
 sirene/95/elements-prefabriques-en-beton.json,864,7
@@ -11659,7 +11755,7 @@ sirene/95/laboratoires-de-recherche-scientifique.json,1801,14
 sirene/95/loisirs-animation.json,57411,430
 sirene/95/magasins-specialises-bricolage-maison-sport-high-tech.json,76528,612
 sirene/95/maintenance-d-equipements-ascenseurs.json,27706,235
-sirene/95/mairies-administrations.json,219185,1457
+sirene/95/mairies-administrations.json,92177,599
 sirene/95/materiels-agricoles-engins-de-chantier.json,15566,135
 sirene/95/menuiserie-agencement-serrurerie.json,62200,553
 sirene/95/motos-scooters.json,4782,41
@@ -11749,6 +11845,7 @@ sirene/971/demenagement.json,1125,8
 sirene/971/eau-potable-captage-traitement-distribution.json,3748,27
 sirene/971/ebenisterie-meubles-restauration-de-meubles.json,1444,11
 sirene/971/ecoles-de-sport-equitation.json,1499,12
+sirene/971/ecoles-maternelles-et-elementaires.json,38549,267
 sirene/971/electricite-du-batiment.json,21298,164
 sirene/971/electronique-materiel-electrique.json,1227,9
 sirene/971/elements-prefabriques-en-beton.json,1366,10
@@ -11781,7 +11878,7 @@ sirene/971/laboratoires-de-recherche-scientifique.json,3589,26
 sirene/971/loisirs-animation.json,32696,233
 sirene/971/magasins-specialises-bricolage-maison-sport-high-tech.json,63037,484
 sirene/971/maintenance-d-equipements-ascenseurs.json,12942,94
-sirene/971/mairies-administrations.json,74609,490
+sirene/971/mairies-administrations.json,36062,223
 sirene/971/materiels-agricoles-engins-de-chantier.json,3546,27
 sirene/971/menuiserie-agencement-serrurerie.json,17586,139
 sirene/971/motos-scooters.json,1272,10
@@ -11871,6 +11968,7 @@ sirene/972/demenagement.json,829,6
 sirene/972/eau-potable-captage-traitement-distribution.json,3359,26
 sirene/972/ebenisterie-meubles-restauration-de-meubles.json,1803,15
 sirene/972/ecoles-de-sport-equitation.json,1936,14
+sirene/972/ecoles-maternelles-et-elementaires.json,33772,231
 sirene/972/electricite-du-batiment.json,16827,134
 sirene/972/electronique-materiel-electrique.json,788,6
 sirene/972/elements-prefabriques-en-beton.json,2340,20
@@ -11903,7 +12001,7 @@ sirene/972/laboratoires-de-recherche-scientifique.json,2436,17
 sirene/972/loisirs-animation.json,31434,228
 sirene/972/magasins-specialises-bricolage-maison-sport-high-tech.json,56213,447
 sirene/972/maintenance-d-equipements-ascenseurs.json,12251,96
-sirene/972/mairies-administrations.json,66800,425
+sirene/972/mairies-administrations.json,33030,194
 sirene/972/materiels-agricoles-engins-de-chantier.json,4458,37
 sirene/972/menuiserie-agencement-serrurerie.json,13930,113
 sirene/972/motos-scooters.json,1557,13
@@ -11993,6 +12091,7 @@ sirene/973/demenagement.json,446,3
 sirene/973/eau-potable-captage-traitement-distribution.json,2313,18
 sirene/973/ebenisterie-meubles-restauration-de-meubles.json,1970,15
 sirene/973/ecoles-de-sport-equitation.json,1102,9
+sirene/973/ecoles-maternelles-et-elementaires.json,27121,182
 sirene/973/electricite-du-batiment.json,13872,111
 sirene/973/electronique-materiel-electrique.json,927,7
 sirene/973/elements-prefabriques-en-beton.json,553,4
@@ -12025,7 +12124,7 @@ sirene/973/laboratoires-de-recherche-scientifique.json,1722,12
 sirene/973/loisirs-animation.json,16376,115
 sirene/973/magasins-specialises-bricolage-maison-sport-high-tech.json,26665,215
 sirene/973/maintenance-d-equipements-ascenseurs.json,10676,81
-sirene/973/mairies-administrations.json,49684,316
+sirene/973/mairies-administrations.json,22565,134
 sirene/973/materiels-agricoles-engins-de-chantier.json,2409,19
 sirene/973/menuiserie-agencement-serrurerie.json,8725,68
 sirene/973/motos-scooters.json,1322,12
@@ -12115,6 +12214,7 @@ sirene/974/demenagement.json,1168,9
 sirene/974/eau-potable-captage-traitement-distribution.json,4908,37
 sirene/974/ebenisterie-meubles-restauration-de-meubles.json,4979,39
 sirene/974/ecoles-de-sport-equitation.json,5093,40
+sirene/974/ecoles-maternelles-et-elementaires.json,83429,545
 sirene/974/electricite-du-batiment.json,36152,282
 sirene/974/electronique-materiel-electrique.json,2434,18
 sirene/974/elements-prefabriques-en-beton.json,4466,33
@@ -12147,7 +12247,7 @@ sirene/974/laboratoires-de-recherche-scientifique.json,6720,46
 sirene/974/loisirs-animation.json,55918,404
 sirene/974/magasins-specialises-bricolage-maison-sport-high-tech.json,105135,855
 sirene/974/maintenance-d-equipements-ascenseurs.json,24559,182
-sirene/974/mairies-administrations.json,132220,836
+sirene/974/mairies-administrations.json,48793,291
 sirene/974/materiels-agricoles-engins-de-chantier.json,7161,58
 sirene/974/menuiserie-agencement-serrurerie.json,30402,235
 sirene/974/motos-scooters.json,5430,44
@@ -12237,6 +12337,7 @@ sirene/976/demenagement.json,113,1
 sirene/976/eau-potable-captage-traitement-distribution.json,3,0
 sirene/976/ebenisterie-meubles-restauration-de-meubles.json,238,2
 sirene/976/ecoles-de-sport-equitation.json,3,0
+sirene/976/ecoles-maternelles-et-elementaires.json,21185,138
 sirene/976/electricite-du-batiment.json,5250,42
 sirene/976/electronique-materiel-electrique.json,3,0
 sirene/976/elements-prefabriques-en-beton.json,332,3
@@ -12269,7 +12370,7 @@ sirene/976/laboratoires-de-recherche-scientifique.json,601,4
 sirene/976/loisirs-animation.json,4516,34
 sirene/976/magasins-specialises-bricolage-maison-sport-high-tech.json,8058,67
 sirene/976/maintenance-d-equipements-ascenseurs.json,1006,7
-sirene/976/mairies-administrations.json,26690,173
+sirene/976/mairies-administrations.json,5507,35
 sirene/976/materiels-agricoles-engins-de-chantier.json,400,3
 sirene/976/menuiserie-agencement-serrurerie.json,1589,12
 sirene/976/motos-scooters.json,110,1
