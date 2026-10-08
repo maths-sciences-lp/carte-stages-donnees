@@ -1,0 +1,17 @@
+{
+  "debut_premieres_pages": "2026-10-07T21:18:44.678877+00:00",
+  "fin_premiere_execution": "2026-10-07T21:19:20.949720+00:00",
+  "reprise": "2026-10-07T21:23:12+00:00",
+  "fin": "2026-10-08T01:15:08.901975+00:00",
+  "duree_ecoulee_secondes": 14184.223098,
+  "pause_secondes": 231.05028,
+  "duree_effective_estimee_secondes": 13953.172818,
+  "departements": 101,
+  "etablissements_collectes": 1663097,
+  "pages": 66161,
+  "requetes_reprise": 66251,
+  "empreinte_naf": "962f31271c4579c4ee5dfe8c5a4aaefa7749b981c62e3ca72e86a72a11d8d3c5",
+  "nombre_codes_naf": 357,
+  "erreurs_bloquantes": 0,
+  "limite_journal": "Les erreurs HTTP intermédiaires éventuellement récupérées par les reprises ne sont pas comptées séparément. La durée effective est calculée entre les horodatages de pages et de reprise, hors pause initiale."
+}
