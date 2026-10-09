@@ -303,6 +303,7 @@ sirene/03/bureaux-d-etudes-economistes-de-la-construction.json,5812,50
 sirene/03/cafes-bars.json,7854,73
 sirene/03/carrieres.json,3762,35
 sirene/03/carrosseries-et-remorques-fabrication.json,791,6
+sirene/03/ceramique-industrielle.json,116,1
 sirene/03/ceramique-verre-d-art-instruments-de-musique.json,350,3
 sirene/03/chaudronnerie-soudure-structures-metalliques.json,4942,41
 sirene/03/chimie-pharmacie-cosmetiques-papier.json,3232,27
@@ -1001,6 +1002,7 @@ sirene/08/bureaux-d-etudes-economistes-de-la-construction.json,4896,42
 sirene/08/cafes-bars.json,7487,67
 sirene/08/carrieres.json,601,5
 sirene/08/carrosseries-et-remorques-fabrication.json,234,2
+sirene/08/ceramique-industrielle.json,124,1
 sirene/08/ceramique-verre-d-art-instruments-de-musique.json,128,1
 sirene/08/chaudronnerie-soudure-structures-metalliques.json,8070,68
 sirene/08/chimie-pharmacie-cosmetiques-papier.json,1675,15
@@ -1140,6 +1142,7 @@ sirene/09/bureaux-d-etudes-economistes-de-la-construction.json,3559,32
 sirene/09/cafes-bars.json,3376,30
 sirene/09/carrieres.json,1271,12
 sirene/09/carrosseries-et-remorques-fabrication.json,111,1
+sirene/09/ceramique-industrielle.json,120,1
 sirene/09/ceramique-verre-d-art-instruments-de-musique.json,112,1
 sirene/09/chaudronnerie-soudure-structures-metalliques.json,2032,16
 sirene/09/chimie-pharmacie-cosmetiques-papier.json,1552,13
@@ -1420,6 +1423,7 @@ sirene/11/bureaux-d-etudes-economistes-de-la-construction.json,10839,91
 sirene/11/cafes-bars.json,11434,100
 sirene/11/carrieres.json,2983,27
 sirene/11/carrosseries-et-remorques-fabrication.json,780,6
+sirene/11/ceramique-industrielle.json,219,2
 sirene/11/ceramique-verre-d-art-instruments-de-musique.json,111,1
 sirene/11/chaudronnerie-soudure-structures-metalliques.json,1701,15
 sirene/11/chimie-pharmacie-cosmetiques-papier.json,2767,23
@@ -1700,6 +1704,7 @@ sirene/13/bureaux-d-etudes-economistes-de-la-construction.json,168190,1358
 sirene/13/cafes-bars.json,71092,636
 sirene/13/carrieres.json,4925,38
 sirene/13/carrosseries-et-remorques-fabrication.json,4037,32
+sirene/13/ceramique-industrielle.json,352,3
 sirene/13/ceramique-verre-d-art-instruments-de-musique.json,2086,18
 sirene/13/chaudronnerie-soudure-structures-metalliques.json,23662,191
 sirene/13/chimie-pharmacie-cosmetiques-papier.json,23305,183
@@ -1707,7 +1712,7 @@ sirene/13/chocolaterie-confiserie-glaces.json,7499,61
 sirene/13/clubs-et-salles-de-sport.json,133863,1033
 sirene/13/coiffure.json,110215,963
 sirene/13/colleges-publics-maintenance.json,15943,138
-sirene/13/commerce-de-gros-entre-entreprises.json,159590,1293
+sirene/13/commerce-de-gros-entre-entreprises.json,159719,1294
 sirene/13/communes-et-intercommunalites.json,22483,169
 sirene/13/comptabilite-conseil-gestion.json,387055,3182
 sirene/13/concessionnaires-vente-de-vehicules-et-pieces.json,98184,807
@@ -1843,6 +1848,7 @@ sirene/14/bureaux-d-etudes-economistes-de-la-construction.json,29625,250
 sirene/14/cafes-bars.json,33387,303
 sirene/14/carrieres.json,3564,29
 sirene/14/carrosseries-et-remorques-fabrication.json,1977,16
+sirene/14/ceramique-industrielle.json,103,1
 sirene/14/ceramique-verre-d-art-instruments-de-musique.json,950,7
 sirene/14/chaudronnerie-soudure-structures-metalliques.json,9507,75
 sirene/14/chimie-pharmacie-cosmetiques-papier.json,3736,31
@@ -1961,6 +1967,7 @@ sirene/14/transport-de-voyageurs.json,11720,93
 sirene/14/travaux-agricoles-services-aux-cultures.json,7415,65
 sirene/14/travaux-publics-routes-reseaux.json,16014,133
 sirene/14/usinage-mecanique-outillage.json,11023,89
+sirene/14/verre-plat-fabrication.json,121,1
 sirene/14/vetements-chaussures-accessoires.json,51214,456
 sirene/14/veterinaires-soins-aux-animaux.json,15364,128
 sirene/14/viticulture-vinification.json,212,2
@@ -2122,8 +2129,9 @@ sirene/16/boucherie-charcuterie-poissonnerie.json,5549,48
 sirene/16/boulangerie-patisserie.json,16284,140
 sirene/16/bureaux-d-etudes-economistes-de-la-construction.json,11312,98
 sirene/16/cafes-bars.json,6743,61
-sirene/16/carrieres.json,3661,29
+sirene/16/carrieres.json,3756,30
 sirene/16/carrosseries-et-remorques-fabrication.json,623,5
+sirene/16/ceramique-industrielle.json,525,4
 sirene/16/ceramique-verre-d-art-instruments-de-musique.json,687,6
 sirene/16/chaudronnerie-soudure-structures-metalliques.json,5196,44
 sirene/16/chimie-pharmacie-cosmetiques-papier.json,5388,46
@@ -2406,6 +2414,7 @@ sirene/18/bureaux-d-etudes-economistes-de-la-construction.json,7690,65
 sirene/18/cafes-bars.json,6100,57
 sirene/18/carrieres.json,2402,19
 sirene/18/carrosseries-et-remorques-fabrication.json,497,4
+sirene/18/ceramique-industrielle.json,79,1
 sirene/18/ceramique-verre-d-art-instruments-de-musique.json,495,4
 sirene/18/chaudronnerie-soudure-structures-metalliques.json,4427,38
 sirene/18/chimie-pharmacie-cosmetiques-papier.json,2401,18
@@ -2546,6 +2555,7 @@ sirene/19/bureaux-d-etudes-economistes-de-la-construction.json,11021,91
 sirene/19/cafes-bars.json,7867,69
 sirene/19/carrieres.json,2457,21
 sirene/19/carrosseries-et-remorques-fabrication.json,581,5
+sirene/19/ceramique-industrielle.json,267,2
 sirene/19/ceramique-verre-d-art-instruments-de-musique.json,150,1
 sirene/19/chaudronnerie-soudure-structures-metalliques.json,2777,24
 sirene/19/chimie-pharmacie-cosmetiques-papier.json,1756,15
@@ -2826,6 +2836,7 @@ sirene/22/bureaux-d-etudes-economistes-de-la-construction.json,19434,169
 sirene/22/cafes-bars.json,27531,248
 sirene/22/carrieres.json,4186,37
 sirene/22/carrosseries-et-remorques-fabrication.json,3002,26
+sirene/22/ceramique-industrielle.json,117,1
 sirene/22/ceramique-verre-d-art-instruments-de-musique.json,225,2
 sirene/22/chaudronnerie-soudure-structures-metalliques.json,6907,54
 sirene/22/chimie-pharmacie-cosmetiques-papier.json,3634,31
@@ -3387,6 +3398,7 @@ sirene/26/bureaux-d-etudes-economistes-de-la-construction.json,32582,270
 sirene/26/cafes-bars.json,13359,118
 sirene/26/carrieres.json,3144,26
 sirene/26/carrosseries-et-remorques-fabrication.json,1676,13
+sirene/26/ceramique-industrielle.json,120,1
 sirene/26/ceramique-verre-d-art-instruments-de-musique.json,861,7
 sirene/26/chaudronnerie-soudure-structures-metalliques.json,11304,92
 sirene/26/chimie-pharmacie-cosmetiques-papier.json,6998,57
@@ -3529,6 +3541,7 @@ sirene/27/bureaux-d-etudes-economistes-de-la-construction.json,17038,147
 sirene/27/cafes-bars.json,13399,120
 sirene/27/carrieres.json,1098,9
 sirene/27/carrosseries-et-remorques-fabrication.json,1104,9
+sirene/27/ceramique-industrielle.json,115,1
 sirene/27/ceramique-verre-d-art-instruments-de-musique.json,698,6
 sirene/27/chaudronnerie-soudure-structures-metalliques.json,12371,102
 sirene/27/chimie-pharmacie-cosmetiques-papier.json,7730,62
@@ -4228,6 +4241,7 @@ sirene/30/bureaux-d-etudes-economistes-de-la-construction.json,38175,320
 sirene/30/cafes-bars.json,21867,196
 sirene/30/carrieres.json,4289,35
 sirene/30/carrosseries-et-remorques-fabrication.json,1882,16
+sirene/30/ceramique-industrielle.json,134,1
 sirene/30/ceramique-verre-d-art-instruments-de-musique.json,1192,10
 sirene/30/chaudronnerie-soudure-structures-metalliques.json,11438,94
 sirene/30/chimie-pharmacie-cosmetiques-papier.json,6155,53
@@ -4370,6 +4384,7 @@ sirene/31/bureaux-d-etudes-economistes-de-la-construction.json,121764,1059
 sirene/31/cafes-bars.json,31521,288
 sirene/31/carrieres.json,5857,52
 sirene/31/carrosseries-et-remorques-fabrication.json,1739,14
+sirene/31/ceramique-industrielle.json,690,6
 sirene/31/ceramique-verre-d-art-instruments-de-musique.json,532,5
 sirene/31/chaudronnerie-soudure-structures-metalliques.json,14909,120
 sirene/31/chimie-pharmacie-cosmetiques-papier.json,8919,73
@@ -4377,7 +4392,7 @@ sirene/31/chocolaterie-confiserie-glaces.json,3137,27
 sirene/31/clubs-et-salles-de-sport.json,98739,782
 sirene/31/coiffure.json,69233,613
 sirene/31/colleges-publics-maintenance.json,11787,102
-sirene/31/commerce-de-gros-entre-entreprises.json,88123,751
+sirene/31/commerce-de-gros-entre-entreprises.json,88264,752
 sirene/31/communes-et-intercommunalites.json,61857,510
 sirene/31/comptabilite-conseil-gestion.json,231618,1992
 sirene/31/concessionnaires-vente-de-vehicules-et-pieces.json,66170,570
@@ -4652,6 +4667,7 @@ sirene/33/bureaux-d-etudes-economistes-de-la-construction.json,118370,1016
 sirene/33/cafes-bars.json,42992,385
 sirene/33/carrieres.json,5522,44
 sirene/33/carrosseries-et-remorques-fabrication.json,4446,37
+sirene/33/ceramique-industrielle.json,239,2
 sirene/33/ceramique-verre-d-art-instruments-de-musique.json,1709,15
 sirene/33/chaudronnerie-soudure-structures-metalliques.json,17287,146
 sirene/33/chimie-pharmacie-cosmetiques-papier.json,13201,111
@@ -5220,6 +5236,7 @@ sirene/37/bureaux-d-etudes-economistes-de-la-construction.json,33028,279
 sirene/37/cafes-bars.json,22801,206
 sirene/37/carrieres.json,3232,27
 sirene/37/carrosseries-et-remorques-fabrication.json,1487,13
+sirene/37/ceramique-industrielle.json,117,1
 sirene/37/ceramique-verre-d-art-instruments-de-musique.json,319,2
 sirene/37/chaudronnerie-soudure-structures-metalliques.json,8649,68
 sirene/37/chimie-pharmacie-cosmetiques-papier.json,2971,25
@@ -5360,6 +5377,7 @@ sirene/38/bureaux-d-etudes-economistes-de-la-construction.json,89016,773
 sirene/38/cafes-bars.json,37504,335
 sirene/38/carrieres.json,7154,59
 sirene/38/carrosseries-et-remorques-fabrication.json,2447,20
+sirene/38/ceramique-industrielle.json,266,2
 sirene/38/ceramique-verre-d-art-instruments-de-musique.json,129,1
 sirene/38/chaudronnerie-soudure-structures-metalliques.json,28600,235
 sirene/38/chimie-pharmacie-cosmetiques-papier.json,13160,110
@@ -5388,7 +5406,7 @@ sirene/38/ecoles-maternelles-et-elementaires.json,128325,893
 sirene/38/economistes-de-la-construction.json,5059,45
 sirene/38/electricite-du-batiment.json,67698,593
 sirene/38/electronique-materiel-electrique.json,12620,105
-sirene/38/elements-prefabriques-en-beton.json,2670,23
+sirene/38/elements-prefabriques-en-beton.json,2777,24
 sirene/38/elevage-bovin-ovin-caprin-porcin-volailles.json,14665,131
 sirene/38/elevage-de-chevaux-haras.json,916,8
 sirene/38/enseignement-culturel-conservatoires.json,9780,80
@@ -5479,6 +5497,7 @@ sirene/38/transport-de-voyageurs.json,27686,236
 sirene/38/travaux-agricoles-services-aux-cultures.json,4047,36
 sirene/38/travaux-publics-routes-reseaux.json,37103,317
 sirene/38/usinage-mecanique-outillage.json,30747,250
+sirene/38/verre-plat-fabrication.json,129,1
 sirene/38/vetements-chaussures-accessoires.json,58239,505
 sirene/38/veterinaires-soins-aux-animaux.json,18597,156
 sirene/38/viticulture-vinification.json,1984,16
@@ -5503,6 +5522,7 @@ sirene/39/bureaux-d-etudes-economistes-de-la-construction.json,7977,70
 sirene/39/cafes-bars.json,6411,58
 sirene/39/carrieres.json,1275,11
 sirene/39/carrosseries-et-remorques-fabrication.json,344,3
+sirene/39/ceramique-industrielle.json,221,2
 sirene/39/ceramique-verre-d-art-instruments-de-musique.json,3,0
 sirene/39/chaudronnerie-soudure-structures-metalliques.json,5571,46
 sirene/39/chimie-pharmacie-cosmetiques-papier.json,3715,33
@@ -5643,6 +5663,7 @@ sirene/40/bureaux-d-etudes-economistes-de-la-construction.json,11871,99
 sirene/40/cafes-bars.json,15507,136
 sirene/40/carrieres.json,1729,16
 sirene/40/carrosseries-et-remorques-fabrication.json,1263,10
+sirene/40/ceramique-industrielle.json,113,1
 sirene/40/ceramique-verre-d-art-instruments-de-musique.json,140,1
 sirene/40/chaudronnerie-soudure-structures-metalliques.json,6191,54
 sirene/40/chimie-pharmacie-cosmetiques-papier.json,2854,24
@@ -5783,6 +5804,7 @@ sirene/41/bureaux-d-etudes-economistes-de-la-construction.json,9334,81
 sirene/41/cafes-bars.json,9197,83
 sirene/41/carrieres.json,2056,17
 sirene/41/carrosseries-et-remorques-fabrication.json,364,3
+sirene/41/ceramique-industrielle.json,244,2
 sirene/41/ceramique-verre-d-art-instruments-de-musique.json,3,0
 sirene/41/chaudronnerie-soudure-structures-metalliques.json,4599,39
 sirene/41/chimie-pharmacie-cosmetiques-papier.json,2455,21
@@ -5922,6 +5944,7 @@ sirene/42/bureaux-d-etudes-economistes-de-la-construction.json,32748,282
 sirene/42/cafes-bars.json,21085,188
 sirene/42/carrieres.json,3565,31
 sirene/42/carrosseries-et-remorques-fabrication.json,2772,23
+sirene/42/ceramique-industrielle.json,211,2
 sirene/42/ceramique-verre-d-art-instruments-de-musique.json,675,6
 sirene/42/chaudronnerie-soudure-structures-metalliques.json,20368,170
 sirene/42/chimie-pharmacie-cosmetiques-papier.json,5662,47
@@ -6040,6 +6063,7 @@ sirene/42/transport-de-voyageurs.json,12155,98
 sirene/42/travaux-agricoles-services-aux-cultures.json,3837,34
 sirene/42/travaux-publics-routes-reseaux.json,22625,192
 sirene/42/usinage-mecanique-outillage.json,30638,248
+sirene/42/verre-plat-fabrication.json,119,1
 sirene/42/vetements-chaussures-accessoires.json,41868,372
 sirene/42/veterinaires-soins-aux-animaux.json,11139,92
 sirene/42/viticulture-vinification.json,4601,40
@@ -6064,6 +6088,7 @@ sirene/43/bureaux-d-etudes-economistes-de-la-construction.json,7974,65
 sirene/43/cafes-bars.json,7645,67
 sirene/43/carrieres.json,2314,20
 sirene/43/carrosseries-et-remorques-fabrication.json,1039,9
+sirene/43/ceramique-industrielle.json,104,1
 sirene/43/ceramique-verre-d-art-instruments-de-musique.json,3,0
 sirene/43/chaudronnerie-soudure-structures-metalliques.json,5204,45
 sirene/43/chimie-pharmacie-cosmetiques-papier.json,2859,23
@@ -6206,6 +6231,7 @@ sirene/44/bureaux-d-etudes-economistes-de-la-construction.json,114202,974
 sirene/44/cafes-bars.json,54206,490
 sirene/44/carrieres.json,6299,46
 sirene/44/carrosseries-et-remorques-fabrication.json,4784,37
+sirene/44/ceramique-industrielle.json,114,1
 sirene/44/ceramique-verre-d-art-instruments-de-musique.json,1200,10
 sirene/44/chaudronnerie-soudure-structures-metalliques.json,23187,185
 sirene/44/chimie-pharmacie-cosmetiques-papier.json,7651,59
@@ -6349,6 +6375,7 @@ sirene/45/bureaux-d-etudes-economistes-de-la-construction.json,25118,219
 sirene/45/cafes-bars.json,14385,130
 sirene/45/carrieres.json,3889,32
 sirene/45/carrosseries-et-remorques-fabrication.json,1756,15
+sirene/45/ceramique-industrielle.json,293,2
 sirene/45/ceramique-verre-d-art-instruments-de-musique.json,599,5
 sirene/45/chaudronnerie-soudure-structures-metalliques.json,9087,74
 sirene/45/chimie-pharmacie-cosmetiques-papier.json,6895,57
@@ -6377,7 +6404,7 @@ sirene/45/ecoles-maternelles-et-elementaires.json,66543,463
 sirene/45/economistes-de-la-construction.json,1371,12
 sirene/45/electricite-du-batiment.json,26026,228
 sirene/45/electronique-materiel-electrique.json,3899,34
-sirene/45/elements-prefabriques-en-beton.json,1800,15
+sirene/45/elements-prefabriques-en-beton.json,1923,16
 sirene/45/elevage-bovin-ovin-caprin-porcin-volailles.json,2730,26
 sirene/45/elevage-de-chevaux-haras.json,1652,14
 sirene/45/enseignement-culturel-conservatoires.json,7113,58
@@ -6625,6 +6652,7 @@ sirene/47/bureaux-d-etudes-economistes-de-la-construction.json,11356,98
 sirene/47/cafes-bars.json,5947,55
 sirene/47/carrieres.json,2261,20
 sirene/47/carrosseries-et-remorques-fabrication.json,1868,14
+sirene/47/ceramique-industrielle.json,110,1
 sirene/47/ceramique-verre-d-art-instruments-de-musique.json,3,0
 sirene/47/chaudronnerie-soudure-structures-metalliques.json,4699,40
 sirene/47/chimie-pharmacie-cosmetiques-papier.json,2249,20
@@ -6653,7 +6681,7 @@ sirene/47/ecoles-maternelles-et-elementaires.json,44976,324
 sirene/47/economistes-de-la-construction.json,1029,9
 sirene/47/electricite-du-batiment.json,14370,125
 sirene/47/electronique-materiel-electrique.json,728,6
-sirene/47/elements-prefabriques-en-beton.json,940,8
+sirene/47/elements-prefabriques-en-beton.json,1053,9
 sirene/47/elevage-bovin-ovin-caprin-porcin-volailles.json,9403,83
 sirene/47/elevage-de-chevaux-haras.json,533,5
 sirene/47/enseignement-culturel-conservatoires.json,1859,15
@@ -6904,6 +6932,7 @@ sirene/49/bureaux-d-etudes-economistes-de-la-construction.json,27469,233
 sirene/49/cafes-bars.json,25766,228
 sirene/49/carrieres.json,4148,31
 sirene/49/carrosseries-et-remorques-fabrication.json,2993,23
+sirene/49/ceramique-industrielle.json,763,7
 sirene/49/ceramique-verre-d-art-instruments-de-musique.json,735,6
 sirene/49/chaudronnerie-soudure-structures-metalliques.json,15274,119
 sirene/49/chimie-pharmacie-cosmetiques-papier.json,8019,66
@@ -7185,6 +7214,7 @@ sirene/51/bureaux-d-etudes-economistes-de-la-construction.json,23812,217
 sirene/51/cafes-bars.json,16041,148
 sirene/51/carrieres.json,1434,11
 sirene/51/carrosseries-et-remorques-fabrication.json,1633,14
+sirene/51/ceramique-industrielle.json,103,1
 sirene/51/ceramique-verre-d-art-instruments-de-musique.json,774,7
 sirene/51/chaudronnerie-soudure-structures-metalliques.json,8571,74
 sirene/51/chimie-pharmacie-cosmetiques-papier.json,4222,36
@@ -8034,6 +8064,7 @@ sirene/57/bureaux-d-etudes-economistes-de-la-construction.json,31828,285
 sirene/57/cafes-bars.json,24444,234
 sirene/57/carrieres.json,2878,24
 sirene/57/carrosseries-et-remorques-fabrication.json,1225,11
+sirene/57/ceramique-industrielle.json,116,1
 sirene/57/ceramique-verre-d-art-instruments-de-musique.json,799,7
 sirene/57/chaudronnerie-soudure-structures-metalliques.json,16335,144
 sirene/57/chimie-pharmacie-cosmetiques-papier.json,6287,54
@@ -8153,6 +8184,7 @@ sirene/57/transport-de-voyageurs.json,17205,147
 sirene/57/travaux-agricoles-services-aux-cultures.json,3149,31
 sirene/57/travaux-publics-routes-reseaux.json,23139,207
 sirene/57/usinage-mecanique-outillage.json,14881,129
+sirene/57/verre-plat-fabrication.json,144,1
 sirene/57/vetements-chaussures-accessoires.json,57135,492
 sirene/57/veterinaires-soins-aux-animaux.json,13162,115
 sirene/57/viticulture-vinification.json,814,6
@@ -8316,6 +8348,7 @@ sirene/59/bureaux-d-etudes-economistes-de-la-construction.json,100412,881
 sirene/59/cafes-bars.json,61743,585
 sirene/59/carrieres.json,1912,15
 sirene/59/carrosseries-et-remorques-fabrication.json,4649,40
+sirene/59/ceramique-industrielle.json,839,8
 sirene/59/ceramique-verre-d-art-instruments-de-musique.json,1402,12
 sirene/59/chaudronnerie-soudure-structures-metalliques.json,39307,339
 sirene/59/chimie-pharmacie-cosmetiques-papier.json,16517,144
@@ -8323,7 +8356,7 @@ sirene/59/chocolaterie-confiserie-glaces.json,4816,40
 sirene/59/clubs-et-salles-de-sport.json,162592,1279
 sirene/59/coiffure.json,97044,885
 sirene/59/colleges-publics-maintenance.json,22488,200
-sirene/59/commerce-de-gros-entre-entreprises.json,135139,1170
+sirene/59/commerce-de-gros-entre-entreprises.json,135247,1171
 sirene/59/communes-et-intercommunalites.json,86655,717
 sirene/59/comptabilite-conseil-gestion.json,276017,2356
 sirene/59/concessionnaires-vente-de-vehicules-et-pieces.json,107879,935
@@ -8434,6 +8467,7 @@ sirene/59/transport-de-voyageurs.json,28192,236
 sirene/59/travaux-agricoles-services-aux-cultures.json,9815,90
 sirene/59/travaux-publics-routes-reseaux.json,37393,320
 sirene/59/usinage-mecanique-outillage.json,26935,228
+sirene/59/verre-plat-fabrication.json,340,3
 sirene/59/vetements-chaussures-accessoires.json,110953,977
 sirene/59/veterinaires-soins-aux-animaux.json,31227,272
 sirene/59/viticulture-vinification.json,880,8
@@ -8458,6 +8492,7 @@ sirene/60/bureaux-d-etudes-economistes-de-la-construction.json,19713,173
 sirene/60/cafes-bars.json,16295,149
 sirene/60/carrieres.json,2296,20
 sirene/60/carrosseries-et-remorques-fabrication.json,1050,9
+sirene/60/ceramique-industrielle.json,575,5
 sirene/60/ceramique-verre-d-art-instruments-de-musique.json,551,5
 sirene/60/chaudronnerie-soudure-structures-metalliques.json,13065,114
 sirene/60/chimie-pharmacie-cosmetiques-papier.json,10914,93
@@ -8486,7 +8521,7 @@ sirene/60/ecoles-maternelles-et-elementaires.json,126926,905
 sirene/60/economistes-de-la-construction.json,1708,16
 sirene/60/electricite-du-batiment.json,29003,253
 sirene/60/electronique-materiel-electrique.json,2502,21
-sirene/60/elements-prefabriques-en-beton.json,1296,11
+sirene/60/elements-prefabriques-en-beton.json,1422,12
 sirene/60/elevage-bovin-ovin-caprin-porcin-volailles.json,4130,37
 sirene/60/elevage-de-chevaux-haras.json,2751,23
 sirene/60/enseignement-culturel-conservatoires.json,6102,48
@@ -8514,7 +8549,7 @@ sirene/60/imprimerie-prepresse-reliure.json,4358,36
 sirene/60/industrie-agroalimentaire.json,5732,47
 sirene/60/interim-recrutement.json,19378,158
 sirene/60/laboratoires-d-analyses-et-d-essais.json,1026,7
-sirene/60/laboratoires-de-recherche-scientifique.json,3052,25
+sirene/60/laboratoires-de-recherche-scientifique.json,3224,26
 sirene/60/loisirs-animation.json,38910,307
 sirene/60/lycees-publics-maintenance.json,3880,33
 sirene/60/magasins-specialises-bricolage-maison-sport-high-tech.json,47944,414
@@ -8575,6 +8610,7 @@ sirene/60/transport-de-voyageurs.json,19299,167
 sirene/60/travaux-agricoles-services-aux-cultures.json,7571,69
 sirene/60/travaux-publics-routes-reseaux.json,13662,120
 sirene/60/usinage-mecanique-outillage.json,10562,90
+sirene/60/verre-plat-fabrication.json,141,1
 sirene/60/vetements-chaussures-accessoires.json,26762,230
 sirene/60/veterinaires-soins-aux-animaux.json,12740,107
 sirene/60/viticulture-vinification.json,359,3
@@ -8740,6 +8776,7 @@ sirene/62/bureaux-d-etudes-economistes-de-la-construction.json,37430,323
 sirene/62/cafes-bars.json,36586,337
 sirene/62/carrieres.json,1355,12
 sirene/62/carrosseries-et-remorques-fabrication.json,3233,29
+sirene/62/ceramique-industrielle.json,321,3
 sirene/62/ceramique-verre-d-art-instruments-de-musique.json,975,8
 sirene/62/chaudronnerie-soudure-structures-metalliques.json,18080,154
 sirene/62/chimie-pharmacie-cosmetiques-papier.json,6174,54
@@ -9024,6 +9061,7 @@ sirene/64/bureaux-d-etudes-economistes-de-la-construction.json,44352,378
 sirene/64/cafes-bars.json,28227,254
 sirene/64/carrieres.json,3511,30
 sirene/64/carrosseries-et-remorques-fabrication.json,1471,13
+sirene/64/ceramique-industrielle.json,131,1
 sirene/64/ceramique-verre-d-art-instruments-de-musique.json,361,3
 sirene/64/chaudronnerie-soudure-structures-metalliques.json,11185,91
 sirene/64/chimie-pharmacie-cosmetiques-papier.json,5062,45
@@ -9166,6 +9204,7 @@ sirene/65/bureaux-d-etudes-economistes-de-la-construction.json,8508,74
 sirene/65/cafes-bars.json,8828,81
 sirene/65/carrieres.json,1987,17
 sirene/65/carrosseries-et-remorques-fabrication.json,674,6
+sirene/65/ceramique-industrielle.json,335,3
 sirene/65/ceramique-verre-d-art-instruments-de-musique.json,106,1
 sirene/65/chaudronnerie-soudure-structures-metalliques.json,3462,31
 sirene/65/chimie-pharmacie-cosmetiques-papier.json,728,7
@@ -9304,8 +9343,9 @@ sirene/66/boucherie-charcuterie-poissonnerie.json,12491,109
 sirene/66/boulangerie-patisserie.json,19676,164
 sirene/66/bureaux-d-etudes-economistes-de-la-construction.json,15036,126
 sirene/66/cafes-bars.json,17109,149
-sirene/66/carrieres.json,1409,13
+sirene/66/carrieres.json,1528,14
 sirene/66/carrosseries-et-remorques-fabrication.json,1312,11
+sirene/66/ceramique-industrielle.json,122,1
 sirene/66/ceramique-verre-d-art-instruments-de-musique.json,236,2
 sirene/66/chaudronnerie-soudure-structures-metalliques.json,2484,22
 sirene/66/chimie-pharmacie-cosmetiques-papier.json,1493,13
@@ -9446,6 +9486,7 @@ sirene/67/bureaux-d-etudes-economistes-de-la-construction.json,58344,525
 sirene/67/cafes-bars.json,21273,194
 sirene/67/carrieres.json,4507,40
 sirene/67/carrosseries-et-remorques-fabrication.json,3139,27
+sirene/67/ceramique-industrielle.json,353,3
 sirene/67/ceramique-verre-d-art-instruments-de-musique.json,2321,20
 sirene/67/chaudronnerie-soudure-structures-metalliques.json,14576,128
 sirene/67/chimie-pharmacie-cosmetiques-papier.json,10574,89
@@ -9586,6 +9627,7 @@ sirene/68/bureaux-d-etudes-economistes-de-la-construction.json,33527,298
 sirene/68/cafes-bars.json,15658,150
 sirene/68/carrieres.json,2423,21
 sirene/68/carrosseries-et-remorques-fabrication.json,908,8
+sirene/68/ceramique-industrielle.json,127,1
 sirene/68/ceramique-verre-d-art-instruments-de-musique.json,860,7
 sirene/68/chaudronnerie-soudure-structures-metalliques.json,8983,80
 sirene/68/chimie-pharmacie-cosmetiques-papier.json,6804,61
@@ -9703,6 +9745,7 @@ sirene/68/transport-de-voyageurs.json,11574,100
 sirene/68/travaux-agricoles-services-aux-cultures.json,2623,23
 sirene/68/travaux-publics-routes-reseaux.json,23337,214
 sirene/68/usinage-mecanique-outillage.json,10715,92
+sirene/68/verre-plat-fabrication.json,95,1
 sirene/68/vetements-chaussures-accessoires.json,46259,417
 sirene/68/veterinaires-soins-aux-animaux.json,11871,103
 sirene/68/viticulture-vinification.json,41490,364
@@ -9727,6 +9770,7 @@ sirene/69/bureaux-d-etudes-economistes-de-la-construction.json,204910,1813
 sirene/69/cafes-bars.json,59426,550
 sirene/69/carrieres.json,5007,40
 sirene/69/carrosseries-et-remorques-fabrication.json,5422,47
+sirene/69/ceramique-industrielle.json,774,7
 sirene/69/ceramique-verre-d-art-instruments-de-musique.json,1810,16
 sirene/69/chaudronnerie-soudure-structures-metalliques.json,34563,295
 sirene/69/chimie-pharmacie-cosmetiques-papier.json,21970,189
@@ -9804,7 +9848,7 @@ sirene/69/paysagistes-espaces-verts.json,45943,395
 sirene/69/peche-professionnelle.json,3,0
 sirene/69/peinture-platre-carrelage-sols-isolation.json,152259,1379
 sirene/69/personnes-agees-ehpad-residences.json,39846,288
-sirene/69/pharmacie-optique-protheses.json,145667,1225
+sirene/69/pharmacie-optique-protheses.json,145787,1226
 sirene/69/photographie.json,5466,49
 sirene/69/plastique-verre-materiaux.json,14579,121
 sirene/69/plomberie-chauffage-climatisation-froid.json,113393,974
@@ -10010,6 +10054,7 @@ sirene/71/bureaux-d-etudes-economistes-de-la-construction.json,20582,171
 sirene/71/cafes-bars.json,12599,113
 sirene/71/carrieres.json,2476,23
 sirene/71/carrosseries-et-remorques-fabrication.json,1549,13
+sirene/71/ceramique-industrielle.json,131,1
 sirene/71/ceramique-verre-d-art-instruments-de-musique.json,818,7
 sirene/71/chaudronnerie-soudure-structures-metalliques.json,10220,84
 sirene/71/chimie-pharmacie-cosmetiques-papier.json,3014,24
@@ -10151,6 +10196,7 @@ sirene/72/bureaux-d-etudes-economistes-de-la-construction.json,15966,143
 sirene/72/cafes-bars.json,13223,119
 sirene/72/carrieres.json,3701,29
 sirene/72/carrosseries-et-remorques-fabrication.json,2241,18
+sirene/72/ceramique-industrielle.json,153,1
 sirene/72/ceramique-verre-d-art-instruments-de-musique.json,237,2
 sirene/72/chaudronnerie-soudure-structures-metalliques.json,6227,53
 sirene/72/chimie-pharmacie-cosmetiques-papier.json,3960,34
@@ -10551,6 +10597,7 @@ sirene/74/transport-de-voyageurs.json,26611,220
 sirene/74/travaux-agricoles-services-aux-cultures.json,2139,19
 sirene/74/travaux-publics-routes-reseaux.json,28712,247
 sirene/74/usinage-mecanique-outillage.json,48501,417
+sirene/74/verre-plat-fabrication.json,142,1
 sirene/74/vetements-chaussures-accessoires.json,62161,559
 sirene/74/veterinaires-soins-aux-animaux.json,16540,134
 sirene/74/viticulture-vinification.json,1356,12
@@ -10577,6 +10624,7 @@ sirene/75/bureaux-d-etudes-economistes-de-la-construction.json,214507,2051
 sirene/75/cafes-bars.json,140371,1360
 sirene/75/carrieres.json,2128,20
 sirene/75/carrosseries-et-remorques-fabrication.json,909,10
+sirene/75/ceramique-industrielle.json,197,2
 sirene/75/ceramique-verre-d-art-instruments-de-musique.json,4703,46
 sirene/75/chaudronnerie-soudure-structures-metalliques.json,5480,53
 sirene/75/chimie-pharmacie-cosmetiques-papier.json,27846,262
@@ -10584,7 +10632,7 @@ sirene/75/chocolaterie-confiserie-glaces.json,12714,114
 sirene/75/clubs-et-salles-de-sport.json,139334,1191
 sirene/75/coiffure.json,181888,1787
 sirene/75/colleges-publics-maintenance.json,12320,114
-sirene/75/commerce-de-gros-entre-entreprises.json,244651,2354
+sirene/75/commerce-de-gros-entre-entreprises.json,244766,2355
 sirene/75/communes-et-intercommunalites.json,52067,432
 sirene/75/comptabilite-conseil-gestion.json,1633281,15739
 sirene/75/concessionnaires-vente-de-vehicules-et-pieces.json,45267,422
@@ -10656,7 +10704,7 @@ sirene/75/peinture-platre-carrelage-sols-isolation.json,158388,1589
 sirene/75/personnes-agees-ehpad-residences.json,38826,275
 sirene/75/pharmacie-optique-protheses.json,219621,2019
 sirene/75/photographie.json,30686,298
-sirene/75/plastique-verre-materiaux.json,5094,49
+sirene/75/plastique-verre-materiaux.json,5199,50
 sirene/75/plomberie-chauffage-climatisation-froid.json,97817,943
 sirene/75/poids-lourds-utilitaires.json,798,8
 sirene/75/poste-courrier.json,18092,192
@@ -10860,6 +10908,7 @@ sirene/77/bureaux-d-etudes-economistes-de-la-construction.json,64258,555
 sirene/77/cafes-bars.json,22011,197
 sirene/77/carrieres.json,6946,54
 sirene/77/carrosseries-et-remorques-fabrication.json,3434,28
+sirene/77/ceramique-industrielle.json,482,4
 sirene/77/ceramique-verre-d-art-instruments-de-musique.json,1333,10
 sirene/77/chaudronnerie-soudure-structures-metalliques.json,18983,159
 sirene/77/chimie-pharmacie-cosmetiques-papier.json,10731,87
@@ -10888,7 +10937,7 @@ sirene/77/ecoles-maternelles-et-elementaires.json,161690,1126
 sirene/77/economistes-de-la-construction.json,5512,49
 sirene/77/electricite-du-batiment.json,85661,761
 sirene/77/electronique-materiel-electrique.json,6119,51
-sirene/77/elements-prefabriques-en-beton.json,2216,19
+sirene/77/elements-prefabriques-en-beton.json,2329,20
 sirene/77/elevage-bovin-ovin-caprin-porcin-volailles.json,2519,21
 sirene/77/elevage-de-chevaux-haras.json,2792,23
 sirene/77/enseignement-culturel-conservatoires.json,8523,71
@@ -10977,6 +11026,7 @@ sirene/77/transport-de-voyageurs.json,37837,336
 sirene/77/travaux-agricoles-services-aux-cultures.json,5152,47
 sirene/77/travaux-publics-routes-reseaux.json,37362,322
 sirene/77/usinage-mecanique-outillage.json,14866,122
+sirene/77/verre-plat-fabrication.json,110,1
 sirene/77/vetements-chaussures-accessoires.json,77179,619
 sirene/77/veterinaires-soins-aux-animaux.json,23844,198
 sirene/77/viticulture-vinification.json,1333,10
@@ -11426,6 +11476,7 @@ sirene/81/bureaux-d-etudes-economistes-de-la-construction.json,11569,101
 sirene/81/cafes-bars.json,8972,82
 sirene/81/carrieres.json,3692,33
 sirene/81/carrosseries-et-remorques-fabrication.json,527,5
+sirene/81/ceramique-industrielle.json,185,2
 sirene/81/ceramique-verre-d-art-instruments-de-musique.json,482,4
 sirene/81/chaudronnerie-soudure-structures-metalliques.json,4602,40
 sirene/81/chimie-pharmacie-cosmetiques-papier.json,3843,34
@@ -11568,6 +11619,7 @@ sirene/82/bureaux-d-etudes-economistes-de-la-construction.json,8157,74
 sirene/82/cafes-bars.json,5682,53
 sirene/82/carrieres.json,2380,19
 sirene/82/carrosseries-et-remorques-fabrication.json,959,8
+sirene/82/ceramique-industrielle.json,110,1
 sirene/82/ceramique-verre-d-art-instruments-de-musique.json,104,1
 sirene/82/chaudronnerie-soudure-structures-metalliques.json,3509,30
 sirene/82/chimie-pharmacie-cosmetiques-papier.json,1171,10
@@ -11988,6 +12040,7 @@ sirene/85/bureaux-d-etudes-economistes-de-la-construction.json,24741,204
 sirene/85/cafes-bars.json,26178,220
 sirene/85/carrieres.json,4331,34
 sirene/85/carrosseries-et-remorques-fabrication.json,5691,44
+sirene/85/ceramique-industrielle.json,589,5
 sirene/85/ceramique-verre-d-art-instruments-de-musique.json,501,4
 sirene/85/chaudronnerie-soudure-structures-metalliques.json,13961,112
 sirene/85/chimie-pharmacie-cosmetiques-papier.json,3120,24
@@ -12271,6 +12324,7 @@ sirene/87/bureaux-d-etudes-economistes-de-la-construction.json,12868,112
 sirene/87/cafes-bars.json,10088,93
 sirene/87/carrieres.json,2236,20
 sirene/87/carrosseries-et-remorques-fabrication.json,567,5
+sirene/87/ceramique-industrielle.json,712,5
 sirene/87/ceramique-verre-d-art-instruments-de-musique.json,4502,39
 sirene/87/chaudronnerie-soudure-structures-metalliques.json,3206,27
 sirene/87/chimie-pharmacie-cosmetiques-papier.json,3897,32
@@ -12438,7 +12492,7 @@ sirene/88/ecoles-maternelles-et-elementaires.json,62691,446
 sirene/88/economistes-de-la-construction.json,371,3
 sirene/88/electricite-du-batiment.json,11559,103
 sirene/88/electronique-materiel-electrique.json,1638,13
-sirene/88/elements-prefabriques-en-beton.json,812,7
+sirene/88/elements-prefabriques-en-beton.json,927,8
 sirene/88/elevage-bovin-ovin-caprin-porcin-volailles.json,29666,265
 sirene/88/elevage-de-chevaux-haras.json,594,5
 sirene/88/enseignement-culturel-conservatoires.json,1775,14
@@ -12552,6 +12606,7 @@ sirene/89/bureaux-d-etudes-economistes-de-la-construction.json,9935,84
 sirene/89/cafes-bars.json,8127,75
 sirene/89/carrieres.json,2998,26
 sirene/89/carrosseries-et-remorques-fabrication.json,852,8
+sirene/89/ceramique-industrielle.json,98,1
 sirene/89/ceramique-verre-d-art-instruments-de-musique.json,269,2
 sirene/89/chaudronnerie-soudure-structures-metalliques.json,6603,58
 sirene/89/chimie-pharmacie-cosmetiques-papier.json,3042,26
@@ -12831,6 +12886,7 @@ sirene/91/bureaux-d-etudes-economistes-de-la-construction.json,73056,626
 sirene/91/cafes-bars.json,14496,128
 sirene/91/carrieres.json,1475,11
 sirene/91/carrosseries-et-remorques-fabrication.json,2257,19
+sirene/91/ceramique-industrielle.json,87,1
 sirene/91/ceramique-verre-d-art-instruments-de-musique.json,381,3
 sirene/91/chaudronnerie-soudure-structures-metalliques.json,8357,68
 sirene/91/chimie-pharmacie-cosmetiques-papier.json,9235,75
@@ -12972,6 +13028,7 @@ sirene/92/bureaux-d-etudes-economistes-de-la-construction.json,132375,1150
 sirene/92/cafes-bars.json,24285,213
 sirene/92/carrieres.json,1602,12
 sirene/92/carrosseries-et-remorques-fabrication.json,238,2
+sirene/92/ceramique-industrielle.json,132,1
 sirene/92/ceramique-verre-d-art-instruments-de-musique.json,948,8
 sirene/92/chaudronnerie-soudure-structures-metalliques.json,2879,24
 sirene/92/chimie-pharmacie-cosmetiques-papier.json,18664,154
@@ -13089,6 +13146,7 @@ sirene/92/transport-de-voyageurs.json,53362,470
 sirene/92/travaux-agricoles-services-aux-cultures.json,393,3
 sirene/92/travaux-publics-routes-reseaux.json,13330,104
 sirene/92/usinage-mecanique-outillage.json,3429,28
+sirene/92/verre-plat-fabrication.json,354,3
 sirene/92/vetements-chaussures-accessoires.json,84807,705
 sirene/92/veterinaires-soins-aux-animaux.json,26089,222
 sirene/92/viticulture-vinification.json,858,7
@@ -13115,6 +13173,7 @@ sirene/93/bureaux-d-etudes-economistes-de-la-construction.json,52609,459
 sirene/93/cafes-bars.json,40245,364
 sirene/93/carrieres.json,502,4
 sirene/93/carrosseries-et-remorques-fabrication.json,378,3
+sirene/93/ceramique-industrielle.json,112,1
 sirene/93/ceramique-verre-d-art-instruments-de-musique.json,467,4
 sirene/93/chaudronnerie-soudure-structures-metalliques.json,9331,82
 sirene/93/chimie-pharmacie-cosmetiques-papier.json,6967,61
@@ -13195,7 +13254,7 @@ sirene/93/peinture-platre-carrelage-sols-isolation.json,218366,2063
 sirene/93/personnes-agees-ehpad-residences.json,13954,102
 sirene/93/pharmacie-optique-protheses.json,90362,737
 sirene/93/photographie.json,7417,63
-sirene/93/plastique-verre-materiaux.json,4102,34
+sirene/93/plastique-verre-materiaux.json,4223,35
 sirene/93/plomberie-chauffage-climatisation-froid.json,114262,1017
 sirene/93/poids-lourds-utilitaires.json,1483,13
 sirene/93/poste-courrier.json,13390,126
@@ -13234,6 +13293,7 @@ sirene/93/transport-de-voyageurs.json,78684,698
 sirene/93/travaux-agricoles-services-aux-cultures.json,108,1
 sirene/93/travaux-publics-routes-reseaux.json,15316,131
 sirene/93/usinage-mecanique-outillage.json,5250,45
+sirene/93/verre-plat-fabrication.json,115,1
 sirene/93/vetements-chaussures-accessoires.json,71416,583
 sirene/93/veterinaires-soins-aux-animaux.json,14264,119
 sirene/93/viticulture-vinification.json,472,3
@@ -13520,6 +13580,7 @@ sirene/95/transport-de-voyageurs.json,48739,442
 sirene/95/travaux-agricoles-services-aux-cultures.json,1637,15
 sirene/95/travaux-publics-routes-reseaux.json,19811,169
 sirene/95/usinage-mecanique-outillage.json,15412,125
+sirene/95/verre-plat-fabrication.json,108,1
 sirene/95/vetements-chaussures-accessoires.json,55264,433
 sirene/95/veterinaires-soins-aux-animaux.json,17939,155
 sirene/95/viticulture-vinification.json,865,7
@@ -13684,6 +13745,7 @@ sirene/972/bureaux-d-etudes-economistes-de-la-construction.json,14487,105
 sirene/972/cafes-bars.json,1575,14
 sirene/972/carrieres.json,1353,11
 sirene/972/carrosseries-et-remorques-fabrication.json,131,1
+sirene/972/ceramique-industrielle.json,109,1
 sirene/972/ceramique-verre-d-art-instruments-de-musique.json,3,0
 sirene/972/chaudronnerie-soudure-structures-metalliques.json,7038,55
 sirene/972/chimie-pharmacie-cosmetiques-papier.json,3165,26
@@ -14102,6 +14164,7 @@ sirene/976/boucherie-charcuterie-poissonnerie.json,3,0
 sirene/976/boulangerie-patisserie.json,2874,24
 sirene/976/bureaux-d-etudes-economistes-de-la-construction.json,3055,25
 sirene/976/cafes-bars.json,3,0
+sirene/976/ceramique-industrielle.json,236,2
 sirene/976/ceramique-verre-d-art-instruments-de-musique.json,3,0
 sirene/976/chaudronnerie-soudure-structures-metalliques.json,1484,12
 sirene/976/chimie-pharmacie-cosmetiques-papier.json,345,3
