@@ -15,7 +15,7 @@ sirene/01/banques-assurances.json,25475,184
 sirene/01/bateaux-nautisme.json,110,1
 sirene/01/bijouterie-horlogerie.json,1713,15
 sirene/01/boucherie-charcuterie-poissonnerie.json,14916,129
-sirene/01/boulangerie-patisserie.json,27136,234
+sirene/01/boulangerie-patisserie.json,27660,238
 sirene/01/bureaux-d-etudes-economistes-de-la-construction.json,27219,234
 sirene/01/cafes-bars.json,11386,101
 sirene/01/carrieres.json,3714,31
@@ -70,10 +70,10 @@ sirene/01/guides-offices-de-tourisme.json,3737,26
 sirene/01/handicap-foyers-esat-ime.json,9602,65
 sirene/01/hopitaux-cliniques-laboratoires.json,14272,108
 sirene/01/hopitaux-services-techniques.json,1777,14
-sirene/01/horticulture-maraichage-agriculture.json,21345,186
+sirene/01/horticulture-maraichage-agriculture.json,21442,187
 sirene/01/hotels.json,19877,163
 sirene/01/imprimerie-prepresse-reliure.json,7345,63
-sirene/01/industrie-agroalimentaire.json,7882,64
+sirene/01/industrie-agroalimentaire.json,10892,89
 sirene/01/interim-recrutement.json,18980,147
 sirene/01/laboratoires-d-analyses-et-d-essais.json,963,8
 sirene/01/laboratoires-de-recherche-scientifique.json,2029,17
@@ -115,7 +115,7 @@ sirene/01/reparation-de-machines-et-d-electronique.json,9263,77
 sirene/01/reseaux-electriques-et-telecoms.json,1383,11
 sirene/01/restaurants.json,54231,474
 sirene/01/restauration-collective-cantines-entreprises.json,9730,74
-sirene/01/restauration-rapide.json,34634,306
+sirene/01/restauration-rapide.json,34763,307
 sirene/01/scieries-preparation-du-bois.json,3381,28
 sirene/01/secretariat-accueil-centres-d-appels.json,18994,160
 sirene/01/securite-privee-surveillance.json,3447,28
@@ -123,7 +123,7 @@ sirene/01/services-a-l-elevage-marechalerie.json,1673,14
 sirene/01/services-informatiques-reseaux.json,6993,65
 sirene/01/sieges-reparation-de-meubles.json,570,5
 sirene/01/spectacle-musees-bibliotheques.json,8415,68
-sirene/01/superettes-alimentation-generale.json,8948,79
+sirene/01/superettes-alimentation-generale.json,9169,81
 sirene/01/supermarches-grandes-surfaces.json,20811,184
 sirene/01/tapisserie-decoration-textile.json,587,5
 sirene/01/telecommunications.json,2357,20
@@ -156,7 +156,7 @@ sirene/02/banques-assurances.json,21464,154
 sirene/02/bateaux-nautisme.json,3,0
 sirene/02/bijouterie-horlogerie.json,3,0
 sirene/02/boucherie-charcuterie-poissonnerie.json,7631,67
-sirene/02/boulangerie-patisserie.json,15777,139
+sirene/02/boulangerie-patisserie.json,16561,146
 sirene/02/bureaux-d-etudes-economistes-de-la-construction.json,8350,71
 sirene/02/cafes-bars.json,9704,87
 sirene/02/carrieres.json,2009,17
@@ -194,7 +194,7 @@ sirene/02/elevage-bovin-ovin-caprin-porcin-volailles.json,9291,83
 sirene/02/elevage-de-chevaux-haras.json,335,3
 sirene/02/enseignement-culturel-conservatoires.json,2010,16
 sirene/02/enseignes-signaletique-marquage.json,470,4
-sirene/02/entrepots-logistique.json,10887,88
+sirene/02/entrepots-logistique.json,11232,91
 sirene/02/esthetique-soins-de-beaute.json,2955,27
 sirene/02/fabrication-de-monnaies-medailles.json,3,0
 sirene/02/fleuristes-jardineries.json,5282,46
@@ -214,12 +214,12 @@ sirene/02/hopitaux-services-techniques.json,2096,16
 sirene/02/horticulture-maraichage-agriculture.json,71108,640
 sirene/02/hotels.json,9967,82
 sirene/02/imprimerie-prepresse-reliure.json,2433,21
-sirene/02/industrie-agroalimentaire.json,3009,26
+sirene/02/industrie-agroalimentaire.json,5064,44
 sirene/02/interim-recrutement.json,20782,167
 sirene/02/laboratoires-d-analyses-et-d-essais.json,570,4
 sirene/02/laboratoires-de-recherche-scientifique.json,1180,9
 sirene/02/laminoirs-et-trefileries.json,113,1
-sirene/02/loisirs-animation.json,21450,162
+sirene/02/loisirs-animation.json,21577,163
 sirene/02/lycees-publics-maintenance.json,3215,27
 sirene/02/magasins-specialises-bricolage-maison-sport-high-tech.json,26703,234
 sirene/02/maintenance-d-equipements-ascenseurs.json,2633,22
@@ -298,7 +298,7 @@ sirene/03/banques-assurances.json,14689,107
 sirene/03/bateaux-nautisme.json,3,0
 sirene/03/bijouterie-horlogerie.json,359,3
 sirene/03/boucherie-charcuterie-poissonnerie.json,7711,65
-sirene/03/boulangerie-patisserie.json,15776,138
+sirene/03/boulangerie-patisserie.json,15869,139
 sirene/03/bureaux-d-etudes-economistes-de-la-construction.json,5812,50
 sirene/03/cafes-bars.json,7854,73
 sirene/03/carrieres.json,3762,35
@@ -355,7 +355,7 @@ sirene/03/hopitaux-services-techniques.json,1692,12
 sirene/03/horticulture-maraichage-agriculture.json,20269,157
 sirene/03/hotels.json,13706,115
 sirene/03/imprimerie-prepresse-reliure.json,1898,17
-sirene/03/industrie-agroalimentaire.json,2932,25
+sirene/03/industrie-agroalimentaire.json,4112,36
 sirene/03/interim-recrutement.json,13888,109
 sirene/03/laboratoires-d-analyses-et-d-essais.json,232,2
 sirene/03/laboratoires-de-recherche-scientifique.json,886,6
@@ -496,7 +496,7 @@ sirene/04/hopitaux-services-techniques.json,696,5
 sirene/04/horticulture-maraichage-agriculture.json,7723,68
 sirene/04/hotels.json,20263,165
 sirene/04/imprimerie-prepresse-reliure.json,1408,12
-sirene/04/industrie-agroalimentaire.json,4280,34
+sirene/04/industrie-agroalimentaire.json,5444,45
 sirene/04/interim-recrutement.json,35839,278
 sirene/04/laboratoires-d-analyses-et-d-essais.json,963,7
 sirene/04/laboratoires-de-recherche-scientifique.json,1011,7
@@ -578,7 +578,7 @@ sirene/05/banques-assurances.json,6723,54
 sirene/05/bateaux-nautisme.json,3,0
 sirene/05/bijouterie-horlogerie.json,97,1
 sirene/05/boucherie-charcuterie-poissonnerie.json,4868,43
-sirene/05/boulangerie-patisserie.json,13748,118
+sirene/05/boulangerie-patisserie.json,13856,119
 sirene/05/bureaux-d-etudes-economistes-de-la-construction.json,6192,51
 sirene/05/cafes-bars.json,12402,109
 sirene/05/carrieres.json,1236,10
@@ -633,9 +633,9 @@ sirene/05/handicap-foyers-esat-ime.json,3315,19
 sirene/05/hopitaux-cliniques-laboratoires.json,6188,47
 sirene/05/hopitaux-services-techniques.json,1170,9
 sirene/05/horticulture-maraichage-agriculture.json,2366,21
-sirene/05/hotels.json,36701,302
+sirene/05/hotels.json,36832,303
 sirene/05/imprimerie-prepresse-reliure.json,908,8
-sirene/05/industrie-agroalimentaire.json,3809,32
+sirene/05/industrie-agroalimentaire.json,5841,49
 sirene/05/interim-recrutement.json,4631,36
 sirene/05/laboratoires-d-analyses-et-d-essais.json,278,2
 sirene/05/laboratoires-de-recherche-scientifique.json,125,1
@@ -676,7 +676,7 @@ sirene/05/reparation-de-machines-et-d-electronique.json,1372,12
 sirene/05/reseaux-electriques-et-telecoms.json,373,3
 sirene/05/restaurants.json,38914,343
 sirene/05/restauration-collective-cantines-entreprises.json,1133,9
-sirene/05/restauration-rapide.json,14303,127
+sirene/05/restauration-rapide.json,14585,129
 sirene/05/routes-de-l-etat-centres-d-entretien.json,892,5
 sirene/05/routes-de-l-etat-etudes-et-districts.json,166,1
 sirene/05/scieries-preparation-du-bois.json,666,6
@@ -694,7 +694,7 @@ sirene/05/traitement-et-revetement-des-metaux.json,141,1
 sirene/05/traiteurs.json,996,8
 sirene/05/transformation-de-poissons-crustaces-mollusques.json,3,0
 sirene/05/transformation-de-viandes.json,1127,9
-sirene/05/transport-de-marchandises-livraison.json,7197,58
+sirene/05/transport-de-marchandises-livraison.json,7336,59
 sirene/05/transport-de-voyageurs.json,7447,61
 sirene/05/travaux-agricoles-services-aux-cultures.json,1017,9
 sirene/05/travaux-publics-routes-reseaux.json,6377,54
@@ -718,9 +718,9 @@ sirene/06/banques-assurances.json,70132,533
 sirene/06/bateaux-nautisme.json,15697,126
 sirene/06/bijouterie-horlogerie.json,5910,53
 sirene/06/boucherie-charcuterie-poissonnerie.json,26163,232
-sirene/06/boulangerie-patisserie.json,67010,578
+sirene/06/boulangerie-patisserie.json,68415,589
 sirene/06/bureaux-d-etudes-economistes-de-la-construction.json,67748,574
-sirene/06/cafes-bars.json,44630,408
+sirene/06/cafes-bars.json,44739,409
 sirene/06/carrieres.json,2920,24
 sirene/06/carrosseries-et-remorques-fabrication.json,1366,11
 sirene/06/ceramique-verre-d-art-instruments-de-musique.json,989,8
@@ -755,7 +755,7 @@ sirene/06/elevage-bovin-ovin-caprin-porcin-volailles.json,2727,23
 sirene/06/elevage-de-chevaux-haras.json,456,4
 sirene/06/enseignement-culturel-conservatoires.json,6999,58
 sirene/06/enseignes-signaletique-marquage.json,1332,11
-sirene/06/entrepots-logistique.json,24836,204
+sirene/06/entrepots-logistique.json,24947,205
 sirene/06/esthetique-soins-de-beaute.json,35995,325
 sirene/06/fabrication-de-monnaies-medailles.json,3,0
 sirene/06/fleuristes-jardineries.json,15976,139
@@ -775,7 +775,7 @@ sirene/06/hopitaux-services-techniques.json,4456,34
 sirene/06/horticulture-maraichage-agriculture.json,5789,48
 sirene/06/hotels.json,97825,832
 sirene/06/imprimerie-prepresse-reliure.json,7634,63
-sirene/06/industrie-agroalimentaire.json,7218,63
+sirene/06/industrie-agroalimentaire.json,9249,80
 sirene/06/interim-recrutement.json,32950,272
 sirene/06/laboratoires-d-analyses-et-d-essais.json,1333,10
 sirene/06/laboratoires-de-recherche-scientifique.json,13181,104
@@ -806,7 +806,7 @@ sirene/06/plomberie-chauffage-climatisation-froid.json,86946,729
 sirene/06/poids-lourds-utilitaires.json,3320,27
 sirene/06/poste-courrier.json,1365,14
 sirene/06/pressing-blanchisserie-retouches.json,20353,179
-sirene/06/primeur-fromagerie-epicerie-fine-cave.json,17755,154
+sirene/06/primeur-fromagerie-epicerie-fine-cave.json,17865,155
 sirene/06/production-et-distribution-d-energie.json,2949,23
 sirene/06/promotion-immobiliere.json,3113,25
 sirene/06/publicite-design-graphique.json,18923,155
@@ -857,7 +857,7 @@ sirene/07/banques-assurances.json,18009,131
 sirene/07/bateaux-nautisme.json,118,1
 sirene/07/bijouterie-horlogerie.json,1197,10
 sirene/07/boucherie-charcuterie-poissonnerie.json,11573,98
-sirene/07/boulangerie-patisserie.json,18597,160
+sirene/07/boulangerie-patisserie.json,18885,162
 sirene/07/bureaux-d-etudes-economistes-de-la-construction.json,9227,78
 sirene/07/cafes-bars.json,9404,84
 sirene/07/carrieres.json,1415,11
@@ -914,7 +914,7 @@ sirene/07/hopitaux-services-techniques.json,2067,15
 sirene/07/horticulture-maraichage-agriculture.json,3933,34
 sirene/07/hotels.json,17871,148
 sirene/07/imprimerie-prepresse-reliure.json,2834,23
-sirene/07/industrie-agroalimentaire.json,6255,51
+sirene/07/industrie-agroalimentaire.json,8731,72
 sirene/07/interim-recrutement.json,5551,43
 sirene/07/laboratoires-d-analyses-et-d-essais.json,214,2
 sirene/07/laboratoires-de-recherche-scientifique.json,638,5
@@ -1053,7 +1053,7 @@ sirene/08/hopitaux-services-techniques.json,1362,9
 sirene/08/horticulture-maraichage-agriculture.json,36647,325
 sirene/08/hotels.json,5906,49
 sirene/08/imprimerie-prepresse-reliure.json,1981,17
-sirene/08/industrie-agroalimentaire.json,1292,12
+sirene/08/industrie-agroalimentaire.json,3017,26
 sirene/08/interim-recrutement.json,6822,57
 sirene/08/laboratoires-d-analyses-et-d-essais.json,3,0
 sirene/08/laboratoires-de-recherche-scientifique.json,110,1
@@ -1135,7 +1135,7 @@ sirene/09/banques-assurances.json,8604,69
 sirene/09/bateaux-nautisme.json,3,0
 sirene/09/bijouterie-horlogerie.json,97,1
 sirene/09/boucherie-charcuterie-poissonnerie.json,3085,27
-sirene/09/boulangerie-patisserie.json,9766,85
+sirene/09/boulangerie-patisserie.json,9889,86
 sirene/09/bureaux-d-etudes-economistes-de-la-construction.json,3559,32
 sirene/09/cafes-bars.json,3376,30
 sirene/09/carrieres.json,1271,12
@@ -1192,7 +1192,7 @@ sirene/09/hopitaux-services-techniques.json,402,3
 sirene/09/horticulture-maraichage-agriculture.json,4558,43
 sirene/09/hotels.json,9359,81
 sirene/09/imprimerie-prepresse-reliure.json,714,6
-sirene/09/industrie-agroalimentaire.json,2587,21
+sirene/09/industrie-agroalimentaire.json,5054,42
 sirene/09/interim-recrutement.json,4432,35
 sirene/09/laboratoires-d-analyses-et-d-essais.json,705,5
 sirene/09/laboratoires-de-recherche-scientifique.json,1016,8
@@ -1275,14 +1275,14 @@ sirene/10/banques-assurances.json,16450,123
 sirene/10/bateaux-nautisme.json,223,2
 sirene/10/bijouterie-horlogerie.json,558,5
 sirene/10/boucherie-charcuterie-poissonnerie.json,5954,51
-sirene/10/boulangerie-patisserie.json,12993,110
+sirene/10/boulangerie-patisserie.json,13135,111
 sirene/10/bureaux-d-etudes-economistes-de-la-construction.json,7954,68
 sirene/10/cafes-bars.json,7210,63
 sirene/10/carrieres.json,2682,22
 sirene/10/carrosseries-et-remorques-fabrication.json,275,2
 sirene/10/ceramique-verre-d-art-instruments-de-musique.json,466,4
 sirene/10/chaudronnerie-soudure-structures-metalliques.json,5326,46
-sirene/10/chimie-pharmacie-cosmetiques-papier.json,1564,13
+sirene/10/chimie-pharmacie-cosmetiques-papier.json,1681,14
 sirene/10/chocolaterie-confiserie-glaces.json,334,3
 sirene/10/clubs-et-salles-de-sport.json,22761,174
 sirene/10/coiffure.json,12074,107
@@ -1333,7 +1333,7 @@ sirene/10/hopitaux-services-techniques.json,1699,11
 sirene/10/horticulture-maraichage-agriculture.json,49979,461
 sirene/10/hotels.json,11534,98
 sirene/10/imprimerie-prepresse-reliure.json,2409,19
-sirene/10/industrie-agroalimentaire.json,2450,20
+sirene/10/industrie-agroalimentaire.json,4658,39
 sirene/10/interim-recrutement.json,15433,125
 sirene/10/laboratoires-d-analyses-et-d-essais.json,960,7
 sirene/10/laboratoires-de-recherche-scientifique.json,1778,12
@@ -1372,9 +1372,9 @@ sirene/10/remontees-mecaniques-telepheriques.json,3,0
 sirene/10/reparation-d-ordinateurs-et-de-telephones.json,384,3
 sirene/10/reparation-de-machines-et-d-electronique.json,2507,22
 sirene/10/reseaux-electriques-et-telecoms.json,876,7
-sirene/10/restaurants.json,21851,193
+sirene/10/restaurants.json,22003,194
 sirene/10/restauration-collective-cantines-entreprises.json,3812,26
-sirene/10/restauration-rapide.json,16524,146
+sirene/10/restauration-rapide.json,16689,147
 sirene/10/routes-de-l-etat-centres-d-entretien.json,165,1
 sirene/10/scieries-preparation-du-bois.json,2035,18
 sirene/10/secretariat-accueil-centres-d-appels.json,5878,49
@@ -1382,7 +1382,7 @@ sirene/10/securite-privee-surveillance.json,1402,12
 sirene/10/services-a-l-elevage-marechalerie.json,747,7
 sirene/10/services-informatiques-reseaux.json,2861,25
 sirene/10/spectacle-musees-bibliotheques.json,5273,42
-sirene/10/superettes-alimentation-generale.json,4303,36
+sirene/10/superettes-alimentation-generale.json,4439,37
 sirene/10/supermarches-grandes-surfaces.json,13508,117
 sirene/10/tapisserie-decoration-textile.json,733,5
 sirene/10/telecommunications.json,1400,12
@@ -1415,7 +1415,7 @@ sirene/11/banques-assurances.json,16112,121
 sirene/11/bateaux-nautisme.json,1632,13
 sirene/11/bijouterie-horlogerie.json,1078,9
 sirene/11/boucherie-charcuterie-poissonnerie.json,9832,84
-sirene/11/boulangerie-patisserie.json,15781,134
+sirene/11/boulangerie-patisserie.json,16313,138
 sirene/11/bureaux-d-etudes-economistes-de-la-construction.json,10839,91
 sirene/11/cafes-bars.json,11434,100
 sirene/11/carrieres.json,2983,27
@@ -1473,7 +1473,7 @@ sirene/11/hopitaux-services-techniques.json,1832,13
 sirene/11/horticulture-maraichage-agriculture.json,10072,95
 sirene/11/hotels.json,23497,199
 sirene/11/imprimerie-prepresse-reliure.json,2988,24
-sirene/11/industrie-agroalimentaire.json,2362,20
+sirene/11/industrie-agroalimentaire.json,4008,34
 sirene/11/interim-recrutement.json,11071,89
 sirene/11/laboratoires-d-analyses-et-d-essais.json,856,6
 sirene/11/laboratoires-de-recherche-scientifique.json,1208,9
@@ -1512,7 +1512,7 @@ sirene/11/remontees-mecaniques-telepheriques.json,3,0
 sirene/11/reparation-d-ordinateurs-et-de-telephones.json,1512,13
 sirene/11/reparation-de-machines-et-d-electronique.json,2148,19
 sirene/11/reseaux-electriques-et-telecoms.json,1497,12
-sirene/11/restaurants.json,52130,451
+sirene/11/restaurants.json,52234,452
 sirene/11/restauration-collective-cantines-entreprises.json,3136,22
 sirene/11/restauration-rapide.json,27871,238
 sirene/11/scieries-preparation-du-bois.json,774,6
@@ -1554,7 +1554,7 @@ sirene/12/banques-assurances.json,12903,104
 sirene/12/bateaux-nautisme.json,107,1
 sirene/12/bijouterie-horlogerie.json,709,6
 sirene/12/boucherie-charcuterie-poissonnerie.json,11898,103
-sirene/12/boulangerie-patisserie.json,15596,135
+sirene/12/boulangerie-patisserie.json,18499,159
 sirene/12/bureaux-d-etudes-economistes-de-la-construction.json,9800,85
 sirene/12/cafes-bars.json,7606,68
 sirene/12/carrieres.json,2370,19
@@ -1566,7 +1566,7 @@ sirene/12/chocolaterie-confiserie-glaces.json,884,7
 sirene/12/clubs-et-salles-de-sport.json,17960,140
 sirene/12/coiffure.json,7893,69
 sirene/12/colleges-publics-maintenance.json,2493,22
-sirene/12/commerce-de-gros-entre-entreprises.json,12686,105
+sirene/12/commerce-de-gros-entre-entreprises.json,12783,106
 sirene/12/communes-et-intercommunalites.json,39640,316
 sirene/12/comptabilite-conseil-gestion.json,28449,221
 sirene/12/concessionnaires-vente-de-vehicules-et-pieces.json,16777,141
@@ -1611,7 +1611,7 @@ sirene/12/hopitaux-services-techniques.json,1761,12
 sirene/12/horticulture-maraichage-agriculture.json,5514,52
 sirene/12/hotels.json,17794,148
 sirene/12/imprimerie-prepresse-reliure.json,2892,25
-sirene/12/industrie-agroalimentaire.json,13334,107
+sirene/12/industrie-agroalimentaire.json,16326,133
 sirene/12/interim-recrutement.json,11065,89
 sirene/12/laboratoires-d-analyses-et-d-essais.json,922,7
 sirene/12/laboratoires-de-recherche-scientifique.json,817,6
@@ -1695,14 +1695,14 @@ sirene/13/banques-assurances.json,91628,712
 sirene/13/bateaux-nautisme.json,13086,103
 sirene/13/bijouterie-horlogerie.json,9815,83
 sirene/13/boucherie-charcuterie-poissonnerie.json,47866,403
-sirene/13/boulangerie-patisserie.json,110702,940
+sirene/13/boulangerie-patisserie.json,113126,960
 sirene/13/bureaux-d-etudes-economistes-de-la-construction.json,168190,1358
 sirene/13/cafes-bars.json,71092,636
 sirene/13/carrieres.json,4925,38
 sirene/13/carrosseries-et-remorques-fabrication.json,4037,32
 sirene/13/ceramique-verre-d-art-instruments-de-musique.json,2086,18
 sirene/13/chaudronnerie-soudure-structures-metalliques.json,23662,191
-sirene/13/chimie-pharmacie-cosmetiques-papier.json,23161,182
+sirene/13/chimie-pharmacie-cosmetiques-papier.json,23305,183
 sirene/13/chocolaterie-confiserie-glaces.json,7499,61
 sirene/13/clubs-et-salles-de-sport.json,133863,1033
 sirene/13/coiffure.json,110215,963
@@ -1733,7 +1733,7 @@ sirene/13/elevage-bovin-ovin-caprin-porcin-volailles.json,6673,56
 sirene/13/elevage-de-chevaux-haras.json,2907,24
 sirene/13/enseignement-culturel-conservatoires.json,18131,147
 sirene/13/enseignes-signaletique-marquage.json,3364,26
-sirene/13/entrepots-logistique.json,86179,674
+sirene/13/entrepots-logistique.json,86611,677
 sirene/13/esthetique-soins-de-beaute.json,50937,443
 sirene/13/fabrication-de-monnaies-medailles.json,3,0
 sirene/13/fleuristes-jardineries.json,24273,201
@@ -1753,7 +1753,7 @@ sirene/13/hopitaux-services-techniques.json,9719,73
 sirene/13/horticulture-maraichage-agriculture.json,53626,466
 sirene/13/hotels.json,91342,731
 sirene/13/imprimerie-prepresse-reliure.json,12725,104
-sirene/13/industrie-agroalimentaire.json,14034,116
+sirene/13/industrie-agroalimentaire.json,21667,178
 sirene/13/interim-recrutement.json,74942,579
 sirene/13/laboratoires-d-analyses-et-d-essais.json,6470,43
 sirene/13/laboratoires-de-recherche-scientifique.json,25554,202
@@ -1785,7 +1785,7 @@ sirene/13/plomberie-chauffage-climatisation-froid.json,118687,979
 sirene/13/poids-lourds-utilitaires.json,6617,50
 sirene/13/poste-courrier.json,116,1
 sirene/13/pressing-blanchisserie-retouches.json,18675,155
-sirene/13/primeur-fromagerie-epicerie-fine-cave.json,57744,493
+sirene/13/primeur-fromagerie-epicerie-fine-cave.json,58006,495
 sirene/13/production-et-distribution-d-energie.json,12945,100
 sirene/13/promotion-immobiliere.json,5772,44
 sirene/13/publicite-design-graphique.json,36962,310
@@ -1793,13 +1793,13 @@ sirene/13/remontees-mecaniques-telepheriques.json,3,0
 sirene/13/reparation-d-ordinateurs-et-de-telephones.json,8426,69
 sirene/13/reparation-de-machines-et-d-electronique.json,21715,168
 sirene/13/reseaux-electriques-et-telecoms.json,6877,53
-sirene/13/restaurants.json,257366,2269
+sirene/13/restaurants.json,257507,2270
 sirene/13/restauration-collective-cantines-entreprises.json,26124,189
-sirene/13/restauration-rapide.json,235261,2075
+sirene/13/restauration-rapide.json,235378,2076
 sirene/13/routes-de-l-etat-centres-d-entretien.json,1500,8
 sirene/13/routes-de-l-etat-etudes-et-districts.json,506,3
 sirene/13/scieries-preparation-du-bois.json,2179,15
-sirene/13/secretariat-accueil-centres-d-appels.json,100369,836
+sirene/13/secretariat-accueil-centres-d-appels.json,100492,837
 sirene/13/securite-privee-surveillance.json,38516,308
 sirene/13/services-a-l-elevage-marechalerie.json,1935,16
 sirene/13/services-informatiques-reseaux.json,66289,564
@@ -1838,7 +1838,7 @@ sirene/14/banques-assurances.json,31732,241
 sirene/14/bateaux-nautisme.json,1851,15
 sirene/14/bijouterie-horlogerie.json,989,9
 sirene/14/boucherie-charcuterie-poissonnerie.json,18239,151
-sirene/14/boulangerie-patisserie.json,44270,369
+sirene/14/boulangerie-patisserie.json,45202,376
 sirene/14/bureaux-d-etudes-economistes-de-la-construction.json,29625,250
 sirene/14/cafes-bars.json,33387,303
 sirene/14/carrieres.json,3564,29
@@ -1896,7 +1896,7 @@ sirene/14/hopitaux-services-techniques.json,2492,17
 sirene/14/horticulture-maraichage-agriculture.json,29099,257
 sirene/14/hotels.json,52443,434
 sirene/14/imprimerie-prepresse-reliure.json,5837,47
-sirene/14/industrie-agroalimentaire.json,5270,43
+sirene/14/industrie-agroalimentaire.json,8782,72
 sirene/14/interim-recrutement.json,22276,179
 sirene/14/laboratoires-d-analyses-et-d-essais.json,1058,8
 sirene/14/laboratoires-de-recherche-scientifique.json,3868,30
@@ -1937,7 +1937,7 @@ sirene/14/reparation-de-machines-et-d-electronique.json,7635,61
 sirene/14/reseaux-electriques-et-telecoms.json,1434,11
 sirene/14/restaurants.json,84378,748
 sirene/14/restauration-collective-cantines-entreprises.json,9827,70
-sirene/14/restauration-rapide.json,47336,422
+sirene/14/restauration-rapide.json,47471,423
 sirene/14/routes-de-l-etat-centres-d-entretien.json,527,3
 sirene/14/routes-de-l-etat-etudes-et-districts.json,162,1
 sirene/14/scieries-preparation-du-bois.json,963,8
@@ -2037,7 +2037,7 @@ sirene/15/hopitaux-services-techniques.json,739,6
 sirene/15/horticulture-maraichage-agriculture.json,701,7
 sirene/15/hotels.json,11774,102
 sirene/15/imprimerie-prepresse-reliure.json,1034,8
-sirene/15/industrie-agroalimentaire.json,6508,53
+sirene/15/industrie-agroalimentaire.json,7287,59
 sirene/15/interim-recrutement.json,5885,46
 sirene/15/laboratoires-d-analyses-et-d-essais.json,402,3
 sirene/15/laboratoires-de-recherche-scientifique.json,196,1
@@ -2119,7 +2119,7 @@ sirene/16/banques-assurances.json,21411,154
 sirene/16/bateaux-nautisme.json,137,1
 sirene/16/bijouterie-horlogerie.json,580,5
 sirene/16/boucherie-charcuterie-poissonnerie.json,5549,48
-sirene/16/boulangerie-patisserie.json,15549,134
+sirene/16/boulangerie-patisserie.json,16284,140
 sirene/16/bureaux-d-etudes-economistes-de-la-construction.json,11312,98
 sirene/16/cafes-bars.json,6743,61
 sirene/16/carrieres.json,3661,29
@@ -2176,7 +2176,7 @@ sirene/16/hopitaux-services-techniques.json,1575,12
 sirene/16/horticulture-maraichage-agriculture.json,25788,234
 sirene/16/hotels.json,9356,78
 sirene/16/imprimerie-prepresse-reliure.json,4385,36
-sirene/16/industrie-agroalimentaire.json,1410,13
+sirene/16/industrie-agroalimentaire.json,2969,26
 sirene/16/interim-recrutement.json,14357,117
 sirene/16/laboratoires-d-analyses-et-d-essais.json,543,4
 sirene/16/laboratoires-de-recherche-scientifique.json,1202,9
@@ -2262,7 +2262,7 @@ sirene/17/bijouterie-horlogerie.json,2458,21
 sirene/17/boucherie-charcuterie-poissonnerie.json,27817,228
 sirene/17/boulangerie-patisserie.json,46307,386
 sirene/17/bureaux-d-etudes-economistes-de-la-construction.json,28361,240
-sirene/17/cafes-bars.json,24477,217
+sirene/17/cafes-bars.json,24733,219
 sirene/17/carrieres.json,3917,32
 sirene/17/carrosseries-et-remorques-fabrication.json,1737,15
 sirene/17/ceramique-verre-d-art-instruments-de-musique.json,347,3
@@ -2272,7 +2272,7 @@ sirene/17/chocolaterie-confiserie-glaces.json,3340,28
 sirene/17/clubs-et-salles-de-sport.json,43781,346
 sirene/17/coiffure.json,30801,266
 sirene/17/colleges-publics-maintenance.json,5917,51
-sirene/17/commerce-de-gros-entre-entreprises.json,40371,329
+sirene/17/commerce-de-gros-entre-entreprises.json,40506,330
 sirene/17/communes-et-intercommunalites.json,66304,529
 sirene/17/comptabilite-conseil-gestion.json,78758,658
 sirene/17/concessionnaires-vente-de-vehicules-et-pieces.json,32526,263
@@ -2318,7 +2318,7 @@ sirene/17/hopitaux-services-techniques.json,2783,19
 sirene/17/horticulture-maraichage-agriculture.json,56950,514
 sirene/17/hotels.json,43183,353
 sirene/17/imprimerie-prepresse-reliure.json,4560,39
-sirene/17/industrie-agroalimentaire.json,4347,35
+sirene/17/industrie-agroalimentaire.json,7522,61
 sirene/17/interim-recrutement.json,21020,169
 sirene/17/laboratoires-d-analyses-et-d-essais.json,2076,14
 sirene/17/laboratoires-de-recherche-scientifique.json,3110,24
@@ -2458,7 +2458,7 @@ sirene/18/hopitaux-services-techniques.json,1199,9
 sirene/18/horticulture-maraichage-agriculture.json,32570,306
 sirene/18/hotels.json,10187,83
 sirene/18/imprimerie-prepresse-reliure.json,1902,16
-sirene/18/industrie-agroalimentaire.json,2120,19
+sirene/18/industrie-agroalimentaire.json,2903,26
 sirene/18/interim-recrutement.json,14704,122
 sirene/18/laboratoires-d-analyses-et-d-essais.json,3,0
 sirene/18/laboratoires-de-recherche-scientifique.json,1088,9
@@ -2541,7 +2541,7 @@ sirene/19/banques-assurances.json,19184,148
 sirene/19/bateaux-nautisme.json,106,1
 sirene/19/bijouterie-horlogerie.json,367,3
 sirene/19/boucherie-charcuterie-poissonnerie.json,4903,43
-sirene/19/boulangerie-patisserie.json,12613,111
+sirene/19/boulangerie-patisserie.json,13288,116
 sirene/19/bureaux-d-etudes-economistes-de-la-construction.json,11021,91
 sirene/19/cafes-bars.json,7867,69
 sirene/19/carrieres.json,2457,21
@@ -2598,7 +2598,7 @@ sirene/19/hopitaux-services-techniques.json,2531,19
 sirene/19/horticulture-maraichage-agriculture.json,2169,20
 sirene/19/hotels.json,14250,119
 sirene/19/imprimerie-prepresse-reliure.json,1597,13
-sirene/19/industrie-agroalimentaire.json,4704,39
+sirene/19/industrie-agroalimentaire.json,5781,49
 sirene/19/interim-recrutement.json,9922,82
 sirene/19/laboratoires-d-analyses-et-d-essais.json,387,3
 sirene/19/laboratoires-de-recherche-scientifique.json,831,6
@@ -2680,7 +2680,7 @@ sirene/21/banques-assurances.json,38132,285
 sirene/21/bateaux-nautisme.json,329,3
 sirene/21/bijouterie-horlogerie.json,762,8
 sirene/21/boucherie-charcuterie-poissonnerie.json,11080,97
-sirene/21/boulangerie-patisserie.json,30344,267
+sirene/21/boulangerie-patisserie.json,30823,271
 sirene/21/bureaux-d-etudes-economistes-de-la-construction.json,24524,217
 sirene/21/cafes-bars.json,14696,138
 sirene/21/carrieres.json,4513,39
@@ -2718,7 +2718,7 @@ sirene/21/elevage-bovin-ovin-caprin-porcin-volailles.json,3791,35
 sirene/21/elevage-de-chevaux-haras.json,566,5
 sirene/21/enseignement-culturel-conservatoires.json,3213,25
 sirene/21/enseignes-signaletique-marquage.json,739,6
-sirene/21/entrepots-logistique.json,11500,93
+sirene/21/entrepots-logistique.json,11758,95
 sirene/21/esthetique-soins-de-beaute.json,8927,80
 sirene/21/fabrication-de-monnaies-medailles.json,3,0
 sirene/21/fleuristes-jardineries.json,9539,85
@@ -2738,7 +2738,7 @@ sirene/21/hopitaux-services-techniques.json,1975,15
 sirene/21/horticulture-maraichage-agriculture.json,31838,294
 sirene/21/hotels.json,29539,249
 sirene/21/imprimerie-prepresse-reliure.json,4563,40
-sirene/21/industrie-agroalimentaire.json,4452,37
+sirene/21/industrie-agroalimentaire.json,8179,66
 sirene/21/interim-recrutement.json,22293,185
 sirene/21/laboratoires-d-analyses-et-d-essais.json,1141,9
 sirene/21/laboratoires-de-recherche-scientifique.json,5121,38
@@ -2779,7 +2779,7 @@ sirene/21/reparation-de-machines-et-d-electronique.json,5970,52
 sirene/21/reseaux-electriques-et-telecoms.json,1202,10
 sirene/21/restaurants.json,55690,510
 sirene/21/restauration-collective-cantines-entreprises.json,5066,38
-sirene/21/restauration-rapide.json,32465,298
+sirene/21/restauration-rapide.json,32561,299
 sirene/21/routes-de-l-etat-centres-d-entretien.json,473,3
 sirene/21/scieries-preparation-du-bois.json,2965,25
 sirene/21/secretariat-accueil-centres-d-appels.json,17653,153
@@ -2788,7 +2788,7 @@ sirene/21/services-a-l-elevage-marechalerie.json,847,7
 sirene/21/services-informatiques-reseaux.json,9036,82
 sirene/21/sieges-reparation-de-meubles.json,222,2
 sirene/21/spectacle-musees-bibliotheques.json,14416,122
-sirene/21/superettes-alimentation-generale.json,8305,73
+sirene/21/superettes-alimentation-generale.json,8481,74
 sirene/21/supermarches-grandes-surfaces.json,18633,169
 sirene/21/tapisserie-decoration-textile.json,1126,10
 sirene/21/telecommunications.json,2795,25
@@ -2821,9 +2821,9 @@ sirene/22/banques-assurances.json,42935,313
 sirene/22/bateaux-nautisme.json,3705,31
 sirene/22/bijouterie-horlogerie.json,99,1
 sirene/22/boucherie-charcuterie-poissonnerie.json,15359,130
-sirene/22/boulangerie-patisserie.json,32541,278
+sirene/22/boulangerie-patisserie.json,34350,292
 sirene/22/bureaux-d-etudes-economistes-de-la-construction.json,19434,169
-sirene/22/cafes-bars.json,27413,247
+sirene/22/cafes-bars.json,27531,248
 sirene/22/carrieres.json,4186,37
 sirene/22/carrosseries-et-remorques-fabrication.json,3002,26
 sirene/22/ceramique-verre-d-art-instruments-de-musique.json,225,2
@@ -2833,7 +2833,7 @@ sirene/22/chocolaterie-confiserie-glaces.json,2925,24
 sirene/22/clubs-et-salles-de-sport.json,49213,395
 sirene/22/coiffure.json,23172,205
 sirene/22/colleges-publics-maintenance.json,5213,46
-sirene/22/commerce-de-gros-entre-entreprises.json,28444,238
+sirene/22/commerce-de-gros-entre-entreprises.json,28544,239
 sirene/22/communes-et-intercommunalites.json,49747,409
 sirene/22/comptabilite-conseil-gestion.json,49859,408
 sirene/22/concessionnaires-vente-de-vehicules-et-pieces.json,25232,211
@@ -2879,7 +2879,7 @@ sirene/22/hopitaux-services-techniques.json,3112,22
 sirene/22/horticulture-maraichage-agriculture.json,31163,293
 sirene/22/hotels.json,24653,203
 sirene/22/imprimerie-prepresse-reliure.json,3231,26
-sirene/22/industrie-agroalimentaire.json,9774,83
+sirene/22/industrie-agroalimentaire.json,15648,133
 sirene/22/interim-recrutement.json,36029,302
 sirene/22/laboratoires-d-analyses-et-d-essais.json,782,6
 sirene/22/laboratoires-de-recherche-scientifique.json,3309,27
@@ -3019,7 +3019,7 @@ sirene/23/hopitaux-services-techniques.json,1034,8
 sirene/23/horticulture-maraichage-agriculture.json,3131,29
 sirene/23/hotels.json,4959,43
 sirene/23/imprimerie-prepresse-reliure.json,101,1
-sirene/23/industrie-agroalimentaire.json,772,7
+sirene/23/industrie-agroalimentaire.json,1234,11
 sirene/23/interim-recrutement.json,3703,29
 sirene/23/laboratoires-d-analyses-et-d-essais.json,3,0
 sirene/23/laboratoires-de-recherche-scientifique.json,129,1
@@ -3100,7 +3100,7 @@ sirene/24/banques-assurances.json,18687,141
 sirene/24/bateaux-nautisme.json,3,0
 sirene/24/bijouterie-horlogerie.json,851,7
 sirene/24/boucherie-charcuterie-poissonnerie.json,8866,77
-sirene/24/boulangerie-patisserie.json,21963,189
+sirene/24/boulangerie-patisserie.json,22419,193
 sirene/24/bureaux-d-etudes-economistes-de-la-construction.json,9047,76
 sirene/24/cafes-bars.json,11575,103
 sirene/24/carrieres.json,4995,41
@@ -3158,7 +3158,7 @@ sirene/24/hopitaux-services-techniques.json,2949,23
 sirene/24/horticulture-maraichage-agriculture.json,18806,164
 sirene/24/hotels.json,31759,262
 sirene/24/imprimerie-prepresse-reliure.json,3376,28
-sirene/24/industrie-agroalimentaire.json,6847,56
+sirene/24/industrie-agroalimentaire.json,9687,79
 sirene/24/interim-recrutement.json,16334,129
 sirene/24/laboratoires-d-analyses-et-d-essais.json,452,3
 sirene/24/laboratoires-de-recherche-scientifique.json,1479,12
@@ -3240,7 +3240,7 @@ sirene/25/banques-assurances.json,29680,232
 sirene/25/bateaux-nautisme.json,179,1
 sirene/25/bijouterie-horlogerie.json,3384,30
 sirene/25/boucherie-charcuterie-poissonnerie.json,10873,93
-sirene/25/boulangerie-patisserie.json,27405,241
+sirene/25/boulangerie-patisserie.json,27996,246
 sirene/25/bureaux-d-etudes-economistes-de-la-construction.json,20456,180
 sirene/25/cafes-bars.json,11375,104
 sirene/25/carrieres.json,3646,30
@@ -3248,7 +3248,7 @@ sirene/25/carrosseries-et-remorques-fabrication.json,738,6
 sirene/25/ceramique-verre-d-art-instruments-de-musique.json,3,0
 sirene/25/chaudronnerie-soudure-structures-metalliques.json,10751,92
 sirene/25/chimie-pharmacie-cosmetiques-papier.json,2221,19
-sirene/25/chocolaterie-confiserie-glaces.json,886,7
+sirene/25/chocolaterie-confiserie-glaces.json,1015,8
 sirene/25/clubs-et-salles-de-sport.json,32257,257
 sirene/25/coiffure.json,24389,219
 sirene/25/colleges-publics-maintenance.json,4926,44
@@ -3297,7 +3297,7 @@ sirene/25/hopitaux-services-techniques.json,1053,8
 sirene/25/horticulture-maraichage-agriculture.json,17877,152
 sirene/25/hotels.json,16868,140
 sirene/25/imprimerie-prepresse-reliure.json,3780,31
-sirene/25/industrie-agroalimentaire.json,18492,147
+sirene/25/industrie-agroalimentaire.json,20678,166
 sirene/25/interim-recrutement.json,15940,136
 sirene/25/laboratoires-d-analyses-et-d-essais.json,845,7
 sirene/25/laboratoires-de-recherche-scientifique.json,3772,33
@@ -3339,7 +3339,7 @@ sirene/25/reparation-de-machines-et-d-electronique.json,6990,60
 sirene/25/reseaux-electriques-et-telecoms.json,828,7
 sirene/25/restaurants.json,45841,416
 sirene/25/restauration-collective-cantines-entreprises.json,4394,31
-sirene/25/restauration-rapide.json,30903,283
+sirene/25/restauration-rapide.json,31053,284
 sirene/25/routes-de-l-etat-centres-d-entretien.json,315,2
 sirene/25/routes-de-l-etat-etudes-et-districts.json,352,2
 sirene/25/scieries-preparation-du-bois.json,5941,54
@@ -3349,7 +3349,7 @@ sirene/25/services-a-l-elevage-marechalerie.json,729,6
 sirene/25/services-informatiques-reseaux.json,5834,54
 sirene/25/sieges-reparation-de-meubles.json,217,2
 sirene/25/spectacle-musees-bibliotheques.json,16314,138
-sirene/25/superettes-alimentation-generale.json,12355,106
+sirene/25/superettes-alimentation-generale.json,12475,107
 sirene/25/supermarches-grandes-surfaces.json,20875,192
 sirene/25/tapisserie-decoration-textile.json,1448,12
 sirene/25/telecommunications.json,2274,19
@@ -3382,7 +3382,7 @@ sirene/26/banques-assurances.json,22275,163
 sirene/26/bateaux-nautisme.json,134,1
 sirene/26/bijouterie-horlogerie.json,2057,17
 sirene/26/boucherie-charcuterie-poissonnerie.json,10085,85
-sirene/26/boulangerie-patisserie.json,30640,262
+sirene/26/boulangerie-patisserie.json,32789,280
 sirene/26/bureaux-d-etudes-economistes-de-la-construction.json,32582,270
 sirene/26/cafes-bars.json,13359,118
 sirene/26/carrieres.json,3144,26
@@ -3420,7 +3420,7 @@ sirene/26/elevage-bovin-ovin-caprin-porcin-volailles.json,9241,84
 sirene/26/elevage-de-chevaux-haras.json,993,8
 sirene/26/enseignement-culturel-conservatoires.json,4435,36
 sirene/26/enseignes-signaletique-marquage.json,1204,9
-sirene/26/entrepots-logistique.json,14767,116
+sirene/26/entrepots-logistique.json,15170,119
 sirene/26/esthetique-soins-de-beaute.json,8748,74
 sirene/26/fabrication-de-monnaies-medailles.json,3,0
 sirene/26/fleuristes-jardineries.json,6938,56
@@ -3440,7 +3440,7 @@ sirene/26/hopitaux-services-techniques.json,987,8
 sirene/26/horticulture-maraichage-agriculture.json,19987,179
 sirene/26/hotels.json,27303,227
 sirene/26/imprimerie-prepresse-reliure.json,5086,42
-sirene/26/industrie-agroalimentaire.json,6583,56
+sirene/26/industrie-agroalimentaire.json,9962,85
 sirene/26/interim-recrutement.json,17807,143
 sirene/26/laboratoires-d-analyses-et-d-essais.json,1521,11
 sirene/26/laboratoires-de-recherche-scientifique.json,3122,22
@@ -3491,14 +3491,14 @@ sirene/26/services-a-l-elevage-marechalerie.json,486,4
 sirene/26/services-informatiques-reseaux.json,7326,62
 sirene/26/sieges-reparation-de-meubles.json,103,1
 sirene/26/spectacle-musees-bibliotheques.json,17829,152
-sirene/26/superettes-alimentation-generale.json,8773,76
+sirene/26/superettes-alimentation-generale.json,8865,77
 sirene/26/supermarches-grandes-surfaces.json,27148,237
 sirene/26/tapisserie-decoration-textile.json,2080,16
 sirene/26/telecommunications.json,3071,24
 sirene/26/traitement-des-dechets-dangereux.json,526,4
 sirene/26/traitement-et-revetement-des-metaux.json,2653,22
 sirene/26/traiteurs.json,5274,46
-sirene/26/transformation-de-poissons-crustaces-mollusques.json,101,1
+sirene/26/transformation-de-poissons-crustaces-mollusques.json,184,2
 sirene/26/transformation-de-viandes.json,2253,19
 sirene/26/transport-de-marchandises-livraison.json,40254,325
 sirene/26/transport-de-voyageurs.json,13809,113
@@ -3524,7 +3524,7 @@ sirene/27/banques-assurances.json,27105,180
 sirene/27/bateaux-nautisme.json,261,2
 sirene/27/bijouterie-horlogerie.json,504,4
 sirene/27/boucherie-charcuterie-poissonnerie.json,12867,111
-sirene/27/boulangerie-patisserie.json,25613,218
+sirene/27/boulangerie-patisserie.json,26060,221
 sirene/27/bureaux-d-etudes-economistes-de-la-construction.json,17038,147
 sirene/27/cafes-bars.json,13399,120
 sirene/27/carrieres.json,1098,9
@@ -3582,7 +3582,7 @@ sirene/27/hopitaux-services-techniques.json,1659,13
 sirene/27/horticulture-maraichage-agriculture.json,53428,477
 sirene/27/hotels.json,13712,113
 sirene/27/imprimerie-prepresse-reliure.json,3387,28
-sirene/27/industrie-agroalimentaire.json,1704,14
+sirene/27/industrie-agroalimentaire.json,3854,33
 sirene/27/interim-recrutement.json,21034,172
 sirene/27/laboratoires-d-analyses-et-d-essais.json,798,6
 sirene/27/laboratoires-de-recherche-scientifique.json,2006,17
@@ -3666,7 +3666,7 @@ sirene/28/banques-assurances.json,21048,164
 sirene/28/bateaux-nautisme.json,143,1
 sirene/28/bijouterie-horlogerie.json,421,4
 sirene/28/boucherie-charcuterie-poissonnerie.json,6678,57
-sirene/28/boulangerie-patisserie.json,17793,156
+sirene/28/boulangerie-patisserie.json,18039,158
 sirene/28/bureaux-d-etudes-economistes-de-la-construction.json,14333,119
 sirene/28/cafes-bars.json,7469,67
 sirene/28/carrieres.json,1705,14
@@ -3711,7 +3711,7 @@ sirene/28/fleuristes-jardineries.json,4542,38
 sirene/28/fleurs-artificielles-parures-de-mode.json,3,0
 sirene/28/fonderies.json,3,0
 sirene/28/forets-travaux-forestiers.json,3153,27
-sirene/28/froid-industriel-installation-de-machines.json,1972,16
+sirene/28/froid-industriel-installation-de-machines.json,2073,17
 sirene/28/garages-carrosseries-voitures.json,24735,211
 sirene/28/geometres-experts-topographie.json,1517,12
 sirene/28/grossistes-en-fruits-et-legumes.json,1350,11
@@ -3724,10 +3724,10 @@ sirene/28/hopitaux-services-techniques.json,1381,10
 sirene/28/horticulture-maraichage-agriculture.json,37283,334
 sirene/28/hotels.json,8742,73
 sirene/28/imprimerie-prepresse-reliure.json,3327,26
-sirene/28/industrie-agroalimentaire.json,1713,15
+sirene/28/industrie-agroalimentaire.json,3722,33
 sirene/28/interim-recrutement.json,27503,223
 sirene/28/laboratoires-d-analyses-et-d-essais.json,501,4
-sirene/28/laboratoires-de-recherche-scientifique.json,1916,18
+sirene/28/laboratoires-de-recherche-scientifique.json,2031,19
 sirene/28/loisirs-animation.json,22598,169
 sirene/28/lycees-publics-maintenance.json,1900,16
 sirene/28/magasins-specialises-bricolage-maison-sport-high-tech.json,26584,231
@@ -3765,7 +3765,7 @@ sirene/28/reparation-de-machines-et-d-electronique.json,5545,46
 sirene/28/reseaux-electriques-et-telecoms.json,619,5
 sirene/28/restaurants.json,23910,213
 sirene/28/restauration-collective-cantines-entreprises.json,5162,39
-sirene/28/restauration-rapide.json,22988,213
+sirene/28/restauration-rapide.json,23133,214
 sirene/28/routes-de-l-etat-centres-d-entretien.json,547,3
 sirene/28/scieries-preparation-du-bois.json,558,5
 sirene/28/secretariat-accueil-centres-d-appels.json,9658,82
@@ -3806,9 +3806,9 @@ sirene/29/banques-assurances.json,43441,331
 sirene/29/bateaux-nautisme.json,8808,74
 sirene/29/bijouterie-horlogerie.json,1219,12
 sirene/29/boucherie-charcuterie-poissonnerie.json,18583,162
-sirene/29/boulangerie-patisserie.json,50894,441
+sirene/29/boulangerie-patisserie.json,53295,461
 sirene/29/bureaux-d-etudes-economistes-de-la-construction.json,32420,284
-sirene/29/cafes-bars.json,46847,433
+sirene/29/cafes-bars.json,47061,435
 sirene/29/carrieres.json,4079,35
 sirene/29/carrosseries-et-remorques-fabrication.json,2022,18
 sirene/29/ceramique-verre-d-art-instruments-de-musique.json,797,7
@@ -3818,7 +3818,7 @@ sirene/29/chocolaterie-confiserie-glaces.json,4031,35
 sirene/29/clubs-et-salles-de-sport.json,71038,574
 sirene/29/coiffure.json,35108,317
 sirene/29/colleges-publics-maintenance.json,6945,62
-sirene/29/commerce-de-gros-entre-entreprises.json,44200,369
+sirene/29/commerce-de-gros-entre-entreprises.json,44294,370
 sirene/29/communes-et-intercommunalites.json,41777,340
 sirene/29/comptabilite-conseil-gestion.json,75270,639
 sirene/29/concessionnaires-vente-de-vehicules-et-pieces.json,35441,298
@@ -3828,7 +3828,7 @@ sirene/29/couture-confection.json,1883,17
 sirene/29/creches-petite-enfance.json,18664,144
 sirene/29/cuir-maroquinerie-cordonnerie.json,1704,13
 sirene/29/cultures-specialisees-vergers-cultures-tropicales.json,4127,39
-sirene/29/dechets-recyclage-assainissement.json,28524,216
+sirene/29/dechets-recyclage-assainissement.json,28610,217
 sirene/29/demenagement.json,2383,17
 sirene/29/demolition.json,508,5
 sirene/29/design-d-interieur-et-d-objet.json,3228,28
@@ -3844,7 +3844,7 @@ sirene/29/elevage-bovin-ovin-caprin-porcin-volailles.json,82447,823
 sirene/29/elevage-de-chevaux-haras.json,1962,18
 sirene/29/enseignement-culturel-conservatoires.json,7902,66
 sirene/29/enseignes-signaletique-marquage.json,1075,8
-sirene/29/entrepots-logistique.json,12588,107
+sirene/29/entrepots-logistique.json,13112,112
 sirene/29/esthetique-soins-de-beaute.json,11212,100
 sirene/29/fabrication-de-monnaies-medailles.json,3,0
 sirene/29/fleuristes-jardineries.json,13855,124
@@ -3864,7 +3864,7 @@ sirene/29/hopitaux-services-techniques.json,3653,26
 sirene/29/horticulture-maraichage-agriculture.json,60672,609
 sirene/29/hotels.json,37707,321
 sirene/29/imprimerie-prepresse-reliure.json,4875,41
-sirene/29/industrie-agroalimentaire.json,10946,96
+sirene/29/industrie-agroalimentaire.json,19750,175
 sirene/29/interim-recrutement.json,40190,339
 sirene/29/laboratoires-d-analyses-et-d-essais.json,2398,17
 sirene/29/laboratoires-de-recherche-scientifique.json,6491,48
@@ -3895,7 +3895,7 @@ sirene/29/plomberie-chauffage-climatisation-froid.json,35207,302
 sirene/29/poids-lourds-utilitaires.json,1868,16
 sirene/29/poste-courrier.json,1289,13
 sirene/29/pressing-blanchisserie-retouches.json,7373,62
-sirene/29/primeur-fromagerie-epicerie-fine-cave.json,12248,108
+sirene/29/primeur-fromagerie-epicerie-fine-cave.json,12345,109
 sirene/29/production-et-distribution-d-energie.json,7078,65
 sirene/29/promotion-immobiliere.json,2125,18
 sirene/29/publicite-design-graphique.json,5799,54
@@ -3948,7 +3948,7 @@ sirene/2A/banques-assurances.json,10031,65
 sirene/2A/bateaux-nautisme.json,5826,49
 sirene/2A/bijouterie-horlogerie.json,1249,11
 sirene/2A/boucherie-charcuterie-poissonnerie.json,7397,64
-sirene/2A/boulangerie-patisserie.json,15754,131
+sirene/2A/boulangerie-patisserie.json,16380,136
 sirene/2A/bureaux-d-etudes-economistes-de-la-construction.json,6995,57
 sirene/2A/cafes-bars.json,10023,92
 sirene/2A/carrieres.json,1346,10
@@ -4085,7 +4085,7 @@ sirene/2B/banques-assurances.json,11372,78
 sirene/2B/bateaux-nautisme.json,1168,10
 sirene/2B/bijouterie-horlogerie.json,434,4
 sirene/2B/boucherie-charcuterie-poissonnerie.json,5674,49
-sirene/2B/boulangerie-patisserie.json,14080,126
+sirene/2B/boulangerie-patisserie.json,15162,133
 sirene/2B/bureaux-d-etudes-economistes-de-la-construction.json,12585,104
 sirene/2B/cafes-bars.json,12190,115
 sirene/2B/carrieres.json,798,7
@@ -4142,7 +4142,7 @@ sirene/2B/hopitaux-services-techniques.json,1169,10
 sirene/2B/horticulture-maraichage-agriculture.json,2500,23
 sirene/2B/hotels.json,30658,273
 sirene/2B/imprimerie-prepresse-reliure.json,1145,10
-sirene/2B/industrie-agroalimentaire.json,5005,45
+sirene/2B/industrie-agroalimentaire.json,6257,57
 sirene/2B/interim-recrutement.json,2218,18
 sirene/2B/laboratoires-d-analyses-et-d-essais.json,408,3
 sirene/2B/laboratoires-de-recherche-scientifique.json,759,6
@@ -4185,7 +4185,7 @@ sirene/2B/restaurants.json,35963,331
 sirene/2B/restauration-collective-cantines-entreprises.json,1304,10
 sirene/2B/restauration-rapide.json,17657,163
 sirene/2B/scieries-preparation-du-bois.json,220,2
-sirene/2B/secretariat-accueil-centres-d-appels.json,7007,58
+sirene/2B/secretariat-accueil-centres-d-appels.json,7111,59
 sirene/2B/securite-privee-surveillance.json,1837,15
 sirene/2B/services-a-l-elevage-marechalerie.json,277,2
 sirene/2B/services-informatiques-reseaux.json,2962,25
@@ -4223,14 +4223,14 @@ sirene/30/banques-assurances.json,27274,218
 sirene/30/bateaux-nautisme.json,1456,11
 sirene/30/bijouterie-horlogerie.json,1569,14
 sirene/30/boucherie-charcuterie-poissonnerie.json,16237,139
-sirene/30/boulangerie-patisserie.json,36954,317
+sirene/30/boulangerie-patisserie.json,37717,323
 sirene/30/bureaux-d-etudes-economistes-de-la-construction.json,38175,320
 sirene/30/cafes-bars.json,21867,196
 sirene/30/carrieres.json,4289,35
 sirene/30/carrosseries-et-remorques-fabrication.json,1882,16
 sirene/30/ceramique-verre-d-art-instruments-de-musique.json,1192,10
 sirene/30/chaudronnerie-soudure-structures-metalliques.json,11438,94
-sirene/30/chimie-pharmacie-cosmetiques-papier.json,6005,52
+sirene/30/chimie-pharmacie-cosmetiques-papier.json,6155,53
 sirene/30/chocolaterie-confiserie-glaces.json,2931,25
 sirene/30/clubs-et-salles-de-sport.json,47347,382
 sirene/30/coiffure.json,33951,301
@@ -4281,7 +4281,7 @@ sirene/30/hopitaux-services-techniques.json,2355,18
 sirene/30/horticulture-maraichage-agriculture.json,13708,123
 sirene/30/hotels.json,30799,257
 sirene/30/imprimerie-prepresse-reliure.json,5311,46
-sirene/30/industrie-agroalimentaire.json,5545,47
+sirene/30/industrie-agroalimentaire.json,7963,67
 sirene/30/interim-recrutement.json,22605,181
 sirene/30/laboratoires-d-analyses-et-d-essais.json,2573,19
 sirene/30/laboratoires-de-recherche-scientifique.json,4073,32
@@ -4365,7 +4365,7 @@ sirene/31/banques-assurances.json,72959,568
 sirene/31/bateaux-nautisme.json,224,2
 sirene/31/bijouterie-horlogerie.json,3882,34
 sirene/31/boucherie-charcuterie-poissonnerie.json,32670,283
-sirene/31/boulangerie-patisserie.json,57626,491
+sirene/31/boulangerie-patisserie.json,58470,498
 sirene/31/bureaux-d-etudes-economistes-de-la-construction.json,121764,1059
 sirene/31/cafes-bars.json,31521,288
 sirene/31/carrieres.json,5857,52
@@ -4403,7 +4403,7 @@ sirene/31/elevage-bovin-ovin-caprin-porcin-volailles.json,6662,61
 sirene/31/elevage-de-chevaux-haras.json,1987,18
 sirene/31/enseignement-culturel-conservatoires.json,12056,103
 sirene/31/enseignes-signaletique-marquage.json,1363,10
-sirene/31/entrepots-logistique.json,34140,272
+sirene/31/entrepots-logistique.json,34284,273
 sirene/31/esthetique-soins-de-beaute.json,24034,210
 sirene/31/fabrication-de-monnaies-medailles.json,3,0
 sirene/31/fleuristes-jardineries.json,19193,169
@@ -4423,7 +4423,7 @@ sirene/31/hopitaux-services-techniques.json,5654,45
 sirene/31/horticulture-maraichage-agriculture.json,27682,254
 sirene/31/hotels.json,37357,318
 sirene/31/imprimerie-prepresse-reliure.json,10660,92
-sirene/31/industrie-agroalimentaire.json,9647,81
+sirene/31/industrie-agroalimentaire.json,13622,114
 sirene/31/interim-recrutement.json,43626,365
 sirene/31/laboratoires-d-analyses-et-d-essais.json,3872,29
 sirene/31/laboratoires-de-recherche-scientifique.json,19338,151
@@ -4455,7 +4455,7 @@ sirene/31/plomberie-chauffage-climatisation-froid.json,71874,622
 sirene/31/poids-lourds-utilitaires.json,2836,24
 sirene/31/poste-courrier.json,1100,11
 sirene/31/pressing-blanchisserie-retouches.json,14856,131
-sirene/31/primeur-fromagerie-epicerie-fine-cave.json,21292,190
+sirene/31/primeur-fromagerie-epicerie-fine-cave.json,21415,191
 sirene/31/production-et-distribution-d-energie.json,14704,122
 sirene/31/promotion-immobiliere.json,6454,54
 sirene/31/publicite-design-graphique.json,19423,173
@@ -4463,7 +4463,7 @@ sirene/31/remontees-mecaniques-telepheriques.json,444,3
 sirene/31/reparation-d-ordinateurs-et-de-telephones.json,5365,47
 sirene/31/reparation-de-machines-et-d-electronique.json,12878,106
 sirene/31/reseaux-electriques-et-telecoms.json,5343,45
-sirene/31/restaurants.json,145271,1311
+sirene/31/restaurants.json,145515,1313
 sirene/31/restauration-collective-cantines-entreprises.json,16277,121
 sirene/31/restauration-rapide.json,142768,1292
 sirene/31/routes-de-l-etat-centres-d-entretien.json,325,2
@@ -4508,7 +4508,7 @@ sirene/32/banques-assurances.json,13816,110
 sirene/32/bateaux-nautisme.json,3,0
 sirene/32/bijouterie-horlogerie.json,279,3
 sirene/32/boucherie-charcuterie-poissonnerie.json,5782,53
-sirene/32/boulangerie-patisserie.json,11195,98
+sirene/32/boulangerie-patisserie.json,11528,101
 sirene/32/bureaux-d-etudes-economistes-de-la-construction.json,4919,44
 sirene/32/cafes-bars.json,4898,46
 sirene/32/carrieres.json,593,5
@@ -4545,7 +4545,7 @@ sirene/32/elevage-bovin-ovin-caprin-porcin-volailles.json,6826,65
 sirene/32/elevage-de-chevaux-haras.json,810,8
 sirene/32/enseignement-culturel-conservatoires.json,1704,15
 sirene/32/enseignes-signaletique-marquage.json,142,1
-sirene/32/entrepots-logistique.json,1889,17
+sirene/32/entrepots-logistique.json,2008,18
 sirene/32/esthetique-soins-de-beaute.json,1992,17
 sirene/32/fabrication-de-monnaies-medailles.json,3,0
 sirene/32/fleuristes-jardineries.json,3954,38
@@ -4565,7 +4565,7 @@ sirene/32/hopitaux-services-techniques.json,1376,12
 sirene/32/horticulture-maraichage-agriculture.json,26290,258
 sirene/32/hotels.json,7220,63
 sirene/32/imprimerie-prepresse-reliure.json,687,6
-sirene/32/industrie-agroalimentaire.json,2058,18
+sirene/32/industrie-agroalimentaire.json,3624,32
 sirene/32/interim-recrutement.json,7905,67
 sirene/32/laboratoires-d-analyses-et-d-essais.json,497,4
 sirene/32/laboratoires-de-recherche-scientifique.json,748,6
@@ -4647,9 +4647,9 @@ sirene/33/banques-assurances.json,71018,570
 sirene/33/bateaux-nautisme.json,7533,62
 sirene/33/bijouterie-horlogerie.json,6004,50
 sirene/33/boucherie-charcuterie-poissonnerie.json,37125,312
-sirene/33/boulangerie-patisserie.json,81257,689
+sirene/33/boulangerie-patisserie.json,83869,711
 sirene/33/bureaux-d-etudes-economistes-de-la-construction.json,118370,1016
-sirene/33/cafes-bars.json,42709,383
+sirene/33/cafes-bars.json,42992,385
 sirene/33/carrieres.json,5522,44
 sirene/33/carrosseries-et-remorques-fabrication.json,4446,37
 sirene/33/ceramique-verre-d-art-instruments-de-musique.json,1709,15
@@ -4685,7 +4685,7 @@ sirene/33/elevage-bovin-ovin-caprin-porcin-volailles.json,4936,44
 sirene/33/elevage-de-chevaux-haras.json,4098,36
 sirene/33/enseignement-culturel-conservatoires.json,12239,99
 sirene/33/enseignes-signaletique-marquage.json,3492,27
-sirene/33/entrepots-logistique.json,41322,340
+sirene/33/entrepots-logistique.json,41536,342
 sirene/33/esthetique-soins-de-beaute.json,31637,275
 sirene/33/fabrication-de-monnaies-medailles.json,100,1
 sirene/33/fleuristes-jardineries.json,23831,203
@@ -4705,7 +4705,7 @@ sirene/33/hopitaux-services-techniques.json,7031,51
 sirene/33/horticulture-maraichage-agriculture.json,16880,151
 sirene/33/hotels.json,68488,574
 sirene/33/imprimerie-prepresse-reliure.json,11559,98
-sirene/33/industrie-agroalimentaire.json,7620,67
+sirene/33/industrie-agroalimentaire.json,12410,108
 sirene/33/interim-recrutement.json,63901,523
 sirene/33/laboratoires-d-analyses-et-d-essais.json,6355,47
 sirene/33/laboratoires-de-recherche-scientifique.json,15743,120
@@ -4746,7 +4746,7 @@ sirene/33/reparation-de-machines-et-d-electronique.json,17386,141
 sirene/33/reseaux-electriques-et-telecoms.json,5018,41
 sirene/33/restaurants.json,191209,1707
 sirene/33/restauration-collective-cantines-entreprises.json,29734,215
-sirene/33/restauration-rapide.json,157257,1414
+sirene/33/restauration-rapide.json,158606,1425
 sirene/33/routes-de-l-etat-centres-d-entretien.json,480,3
 sirene/33/routes-de-l-etat-etudes-et-districts.json,340,2
 sirene/33/scieries-preparation-du-bois.json,5428,45
@@ -4789,9 +4789,9 @@ sirene/34/banques-assurances.json,45967,351
 sirene/34/bateaux-nautisme.json,4485,38
 sirene/34/bijouterie-horlogerie.json,2372,21
 sirene/34/boucherie-charcuterie-poissonnerie.json,33054,277
-sirene/34/boulangerie-patisserie.json,64601,542
+sirene/34/boulangerie-patisserie.json,66932,561
 sirene/34/bureaux-d-etudes-economistes-de-la-construction.json,82095,687
-sirene/34/cafes-bars.json,47333,425
+sirene/34/cafes-bars.json,47461,426
 sirene/34/carrieres.json,4838,40
 sirene/34/carrosseries-et-remorques-fabrication.json,2593,20
 sirene/34/ceramique-verre-d-art-instruments-de-musique.json,1291,11
@@ -4827,7 +4827,7 @@ sirene/34/elevage-bovin-ovin-caprin-porcin-volailles.json,3584,32
 sirene/34/elevage-de-chevaux-haras.json,1149,10
 sirene/34/enseignement-culturel-conservatoires.json,13175,110
 sirene/34/enseignes-signaletique-marquage.json,1699,13
-sirene/34/entrepots-logistique.json,20125,166
+sirene/34/entrepots-logistique.json,20240,167
 sirene/34/esthetique-soins-de-beaute.json,25979,222
 sirene/34/fabrication-de-monnaies-medailles.json,3,0
 sirene/34/fleuristes-jardineries.json,15274,128
@@ -4847,7 +4847,7 @@ sirene/34/hopitaux-services-techniques.json,4077,32
 sirene/34/horticulture-maraichage-agriculture.json,9670,85
 sirene/34/hotels.json,50254,413
 sirene/34/imprimerie-prepresse-reliure.json,7772,63
-sirene/34/industrie-agroalimentaire.json,8148,68
+sirene/34/industrie-agroalimentaire.json,12637,108
 sirene/34/interim-recrutement.json,47560,375
 sirene/34/laboratoires-d-analyses-et-d-essais.json,2245,16
 sirene/34/laboratoires-de-recherche-scientifique.json,19927,155
@@ -4888,7 +4888,7 @@ sirene/34/reparation-de-machines-et-d-electronique.json,7807,63
 sirene/34/reseaux-electriques-et-telecoms.json,4162,35
 sirene/34/restaurants.json,182741,1595
 sirene/34/restauration-collective-cantines-entreprises.json,12948,90
-sirene/34/restauration-rapide.json,143267,1261
+sirene/34/restauration-rapide.json,143649,1264
 sirene/34/routes-de-l-etat-centres-d-entretien.json,1163,6
 sirene/34/routes-de-l-etat-etudes-et-districts.json,371,2
 sirene/34/scieries-preparation-du-bois.json,989,7
@@ -4931,7 +4931,7 @@ sirene/35/banques-assurances.json,48429,353
 sirene/35/bateaux-nautisme.json,2904,24
 sirene/35/bijouterie-horlogerie.json,1739,15
 sirene/35/boucherie-charcuterie-poissonnerie.json,21793,186
-sirene/35/boulangerie-patisserie.json,55711,471
+sirene/35/boulangerie-patisserie.json,58890,497
 sirene/35/bureaux-d-etudes-economistes-de-la-construction.json,69272,592
 sirene/35/cafes-bars.json,41074,379
 sirene/35/carrieres.json,5893,51
@@ -4989,7 +4989,7 @@ sirene/35/hopitaux-services-techniques.json,3303,24
 sirene/35/horticulture-maraichage-agriculture.json,74910,718
 sirene/35/hotels.json,46270,398
 sirene/35/imprimerie-prepresse-reliure.json,7371,62
-sirene/35/industrie-agroalimentaire.json,8882,72
+sirene/35/industrie-agroalimentaire.json,16757,141
 sirene/35/interim-recrutement.json,84035,679
 sirene/35/laboratoires-d-analyses-et-d-essais.json,2966,22
 sirene/35/laboratoires-de-recherche-scientifique.json,11256,85
@@ -5031,17 +5031,17 @@ sirene/35/reparation-de-machines-et-d-electronique.json,14959,122
 sirene/35/reseaux-electriques-et-telecoms.json,2216,19
 sirene/35/restaurants.json,118770,1069
 sirene/35/restauration-collective-cantines-entreprises.json,11740,84
-sirene/35/restauration-rapide.json,74640,671
+sirene/35/restauration-rapide.json,74745,672
 sirene/35/routes-de-l-etat-centres-d-entretien.json,901,5
 sirene/35/routes-de-l-etat-etudes-et-districts.json,310,2
 sirene/35/scieries-preparation-du-bois.json,3174,29
-sirene/35/secretariat-accueil-centres-d-appels.json,39871,344
+sirene/35/secretariat-accueil-centres-d-appels.json,39999,345
 sirene/35/securite-privee-surveillance.json,7899,62
 sirene/35/services-a-l-elevage-marechalerie.json,3487,32
 sirene/35/services-informatiques-reseaux.json,31713,284
 sirene/35/sieges-reparation-de-meubles.json,1028,9
 sirene/35/spectacle-musees-bibliotheques.json,35216,297
-sirene/35/superettes-alimentation-generale.json,16616,143
+sirene/35/superettes-alimentation-generale.json,17103,147
 sirene/35/supermarches-grandes-surfaces.json,44511,383
 sirene/35/tapisserie-decoration-textile.json,3750,31
 sirene/35/telecommunications.json,5730,48
@@ -5074,7 +5074,7 @@ sirene/36/banques-assurances.json,11500,86
 sirene/36/bateaux-nautisme.json,109,1
 sirene/36/bijouterie-horlogerie.json,3,0
 sirene/36/boucherie-charcuterie-poissonnerie.json,2932,26
-sirene/36/boulangerie-patisserie.json,9408,81
+sirene/36/boulangerie-patisserie.json,10123,87
 sirene/36/bureaux-d-etudes-economistes-de-la-construction.json,4297,36
 sirene/36/cafes-bars.json,6221,56
 sirene/36/carrieres.json,1131,11
@@ -5132,7 +5132,7 @@ sirene/36/hopitaux-services-techniques.json,1170,9
 sirene/36/horticulture-maraichage-agriculture.json,41329,379
 sirene/36/hotels.json,8794,75
 sirene/36/imprimerie-prepresse-reliure.json,2482,20
-sirene/36/industrie-agroalimentaire.json,2013,16
+sirene/36/industrie-agroalimentaire.json,2503,20
 sirene/36/interim-recrutement.json,9827,82
 sirene/36/laboratoires-d-analyses-et-d-essais.json,522,4
 sirene/36/laboratoires-de-recherche-scientifique.json,344,3
@@ -5215,9 +5215,9 @@ sirene/37/banques-assurances.json,32682,251
 sirene/37/bateaux-nautisme.json,3,0
 sirene/37/bijouterie-horlogerie.json,1008,9
 sirene/37/boucherie-charcuterie-poissonnerie.json,12644,106
-sirene/37/boulangerie-patisserie.json,28252,236
+sirene/37/boulangerie-patisserie.json,28856,241
 sirene/37/bureaux-d-etudes-economistes-de-la-construction.json,33028,279
-sirene/37/cafes-bars.json,22574,204
+sirene/37/cafes-bars.json,22801,206
 sirene/37/carrieres.json,3232,27
 sirene/37/carrosseries-et-remorques-fabrication.json,1487,13
 sirene/37/ceramique-verre-d-art-instruments-de-musique.json,319,2
@@ -5273,7 +5273,7 @@ sirene/37/hopitaux-services-techniques.json,2243,15
 sirene/37/horticulture-maraichage-agriculture.json,34147,323
 sirene/37/hotels.json,29750,252
 sirene/37/imprimerie-prepresse-reliure.json,5024,40
-sirene/37/industrie-agroalimentaire.json,2869,25
+sirene/37/industrie-agroalimentaire.json,5485,47
 sirene/37/interim-recrutement.json,20496,171
 sirene/37/laboratoires-d-analyses-et-d-essais.json,1820,14
 sirene/37/laboratoires-de-recherche-scientifique.json,4283,34
@@ -5355,7 +5355,7 @@ sirene/38/banques-assurances.json,47232,358
 sirene/38/bateaux-nautisme.json,633,6
 sirene/38/bijouterie-horlogerie.json,1402,12
 sirene/38/boucherie-charcuterie-poissonnerie.json,25550,217
-sirene/38/boulangerie-patisserie.json,59714,511
+sirene/38/boulangerie-patisserie.json,60604,519
 sirene/38/bureaux-d-etudes-economistes-de-la-construction.json,89016,773
 sirene/38/cafes-bars.json,37504,335
 sirene/38/carrieres.json,7154,59
@@ -5393,7 +5393,7 @@ sirene/38/elevage-bovin-ovin-caprin-porcin-volailles.json,14665,131
 sirene/38/elevage-de-chevaux-haras.json,916,8
 sirene/38/enseignement-culturel-conservatoires.json,9780,80
 sirene/38/enseignes-signaletique-marquage.json,2014,15
-sirene/38/entrepots-logistique.json,32588,260
+sirene/38/entrepots-logistique.json,32981,263
 sirene/38/esthetique-soins-de-beaute.json,22909,201
 sirene/38/fabrication-de-monnaies-medailles.json,3,0
 sirene/38/fleuristes-jardineries.json,14921,127
@@ -5413,10 +5413,10 @@ sirene/38/hopitaux-services-techniques.json,3211,24
 sirene/38/horticulture-maraichage-agriculture.json,22052,195
 sirene/38/hotels.json,53342,425
 sirene/38/imprimerie-prepresse-reliure.json,12676,106
-sirene/38/industrie-agroalimentaire.json,6084,51
+sirene/38/industrie-agroalimentaire.json,11011,92
 sirene/38/interim-recrutement.json,41220,335
 sirene/38/laboratoires-d-analyses-et-d-essais.json,2308,17
-sirene/38/laboratoires-de-recherche-scientifique.json,14781,117
+sirene/38/laboratoires-de-recherche-scientifique.json,14994,119
 sirene/38/laminoirs-et-trefileries.json,331,3
 sirene/38/loisirs-animation.json,71693,528
 sirene/38/lycees-publics-maintenance.json,6313,48
@@ -5455,7 +5455,7 @@ sirene/38/reparation-de-machines-et-d-electronique.json,20867,177
 sirene/38/reseaux-electriques-et-telecoms.json,2685,22
 sirene/38/restaurants.json,129433,1135
 sirene/38/restauration-collective-cantines-entreprises.json,15341,107
-sirene/38/restauration-rapide.json,91792,817
+sirene/38/restauration-rapide.json,91901,818
 sirene/38/routes-de-l-etat-centres-d-entretien.json,524,3
 sirene/38/routes-de-l-etat-etudes-et-districts.json,199,1
 sirene/38/scieries-preparation-du-bois.json,4533,38
@@ -5498,7 +5498,7 @@ sirene/39/banques-assurances.json,17722,137
 sirene/39/bateaux-nautisme.json,3,0
 sirene/39/bijouterie-horlogerie.json,1402,12
 sirene/39/boucherie-charcuterie-poissonnerie.json,6966,60
-sirene/39/boulangerie-patisserie.json,15975,139
+sirene/39/boulangerie-patisserie.json,16462,143
 sirene/39/bureaux-d-etudes-economistes-de-la-construction.json,7977,70
 sirene/39/cafes-bars.json,6411,58
 sirene/39/carrieres.json,1275,11
@@ -5555,7 +5555,7 @@ sirene/39/hopitaux-services-techniques.json,1447,11
 sirene/39/horticulture-maraichage-agriculture.json,14484,118
 sirene/39/hotels.json,15779,129
 sirene/39/imprimerie-prepresse-reliure.json,1919,14
-sirene/39/industrie-agroalimentaire.json,10602,83
+sirene/39/industrie-agroalimentaire.json,13139,106
 sirene/39/interim-recrutement.json,5656,48
 sirene/39/laboratoires-d-analyses-et-d-essais.json,156,1
 sirene/39/laboratoires-de-recherche-scientifique.json,637,5
@@ -5586,7 +5586,7 @@ sirene/39/plomberie-chauffage-climatisation-froid.json,14230,125
 sirene/39/poids-lourds-utilitaires.json,1819,15
 sirene/39/poste-courrier.json,302,3
 sirene/39/pressing-blanchisserie-retouches.json,1694,14
-sirene/39/primeur-fromagerie-epicerie-fine-cave.json,4003,32
+sirene/39/primeur-fromagerie-epicerie-fine-cave.json,4098,33
 sirene/39/production-et-distribution-d-energie.json,3274,27
 sirene/39/promotion-immobiliere.json,155,1
 sirene/39/publicite-design-graphique.json,1589,14
@@ -5638,9 +5638,9 @@ sirene/40/banques-assurances.json,25581,193
 sirene/40/bateaux-nautisme.json,856,8
 sirene/40/bijouterie-horlogerie.json,1015,9
 sirene/40/boucherie-charcuterie-poissonnerie.json,10029,86
-sirene/40/boulangerie-patisserie.json,27315,233
+sirene/40/boulangerie-patisserie.json,27794,237
 sirene/40/bureaux-d-etudes-economistes-de-la-construction.json,11871,99
-sirene/40/cafes-bars.json,15392,135
+sirene/40/cafes-bars.json,15507,136
 sirene/40/carrieres.json,1729,16
 sirene/40/carrosseries-et-remorques-fabrication.json,1263,10
 sirene/40/ceramique-verre-d-art-instruments-de-musique.json,140,1
@@ -5676,7 +5676,7 @@ sirene/40/elevage-bovin-ovin-caprin-porcin-volailles.json,13885,128
 sirene/40/elevage-de-chevaux-haras.json,605,5
 sirene/40/enseignement-culturel-conservatoires.json,3117,26
 sirene/40/enseignes-signaletique-marquage.json,182,1
-sirene/40/entrepots-logistique.json,8658,72
+sirene/40/entrepots-logistique.json,8793,73
 sirene/40/esthetique-soins-de-beaute.json,7327,63
 sirene/40/fabrication-de-monnaies-medailles.json,3,0
 sirene/40/fleuristes-jardineries.json,11135,91
@@ -5696,7 +5696,7 @@ sirene/40/hopitaux-services-techniques.json,1901,13
 sirene/40/horticulture-maraichage-agriculture.json,36320,328
 sirene/40/hotels.json,28858,238
 sirene/40/imprimerie-prepresse-reliure.json,2244,20
-sirene/40/industrie-agroalimentaire.json,4484,38
+sirene/40/industrie-agroalimentaire.json,7433,60
 sirene/40/interim-recrutement.json,20613,162
 sirene/40/laboratoires-d-analyses-et-d-essais.json,374,3
 sirene/40/laboratoires-de-recherche-scientifique.json,1642,11
@@ -5727,7 +5727,7 @@ sirene/40/plomberie-chauffage-climatisation-froid.json,24654,206
 sirene/40/poids-lourds-utilitaires.json,1259,10
 sirene/40/poste-courrier.json,1265,12
 sirene/40/pressing-blanchisserie-retouches.json,4426,36
-sirene/40/primeur-fromagerie-epicerie-fine-cave.json,6700,55
+sirene/40/primeur-fromagerie-epicerie-fine-cave.json,6812,56
 sirene/40/production-et-distribution-d-energie.json,14728,125
 sirene/40/promotion-immobiliere.json,756,6
 sirene/40/publicite-design-graphique.json,2490,22
@@ -5778,9 +5778,9 @@ sirene/41/banques-assurances.json,21263,156
 sirene/41/bateaux-nautisme.json,97,1
 sirene/41/bijouterie-horlogerie.json,327,3
 sirene/41/boucherie-charcuterie-poissonnerie.json,7447,61
-sirene/41/boulangerie-patisserie.json,13091,111
+sirene/41/boulangerie-patisserie.json,13182,112
 sirene/41/bureaux-d-etudes-economistes-de-la-construction.json,9334,81
-sirene/41/cafes-bars.json,9076,82
+sirene/41/cafes-bars.json,9197,83
 sirene/41/carrieres.json,2056,17
 sirene/41/carrosseries-et-remorques-fabrication.json,364,3
 sirene/41/ceramique-verre-d-art-instruments-de-musique.json,3,0
@@ -5835,7 +5835,7 @@ sirene/41/hopitaux-services-techniques.json,1556,12
 sirene/41/horticulture-maraichage-agriculture.json,28418,266
 sirene/41/hotels.json,18442,157
 sirene/41/imprimerie-prepresse-reliure.json,2432,21
-sirene/41/industrie-agroalimentaire.json,4745,37
+sirene/41/industrie-agroalimentaire.json,5848,46
 sirene/41/interim-recrutement.json,16184,135
 sirene/41/laboratoires-d-analyses-et-d-essais.json,357,3
 sirene/41/laboratoires-de-recherche-scientifique.json,1686,13
@@ -5917,7 +5917,7 @@ sirene/42/banques-assurances.json,30468,239
 sirene/42/bateaux-nautisme.json,116,1
 sirene/42/bijouterie-horlogerie.json,1393,12
 sirene/42/boucherie-charcuterie-poissonnerie.json,19822,171
-sirene/42/boulangerie-patisserie.json,40220,345
+sirene/42/boulangerie-patisserie.json,40857,350
 sirene/42/bureaux-d-etudes-economistes-de-la-construction.json,32748,282
 sirene/42/cafes-bars.json,21085,188
 sirene/42/carrieres.json,3565,31
@@ -5955,7 +5955,7 @@ sirene/42/elevage-bovin-ovin-caprin-porcin-volailles.json,37677,321
 sirene/42/elevage-de-chevaux-haras.json,1803,15
 sirene/42/enseignement-culturel-conservatoires.json,5044,40
 sirene/42/enseignes-signaletique-marquage.json,2680,20
-sirene/42/entrepots-logistique.json,12937,108
+sirene/42/entrepots-logistique.json,13080,109
 sirene/42/esthetique-soins-de-beaute.json,11357,99
 sirene/42/fabrication-de-monnaies-medailles.json,3,0
 sirene/42/fleuristes-jardineries.json,8737,77
@@ -5975,7 +5975,7 @@ sirene/42/hopitaux-services-techniques.json,3531,27
 sirene/42/horticulture-maraichage-agriculture.json,7708,64
 sirene/42/hotels.json,13958,115
 sirene/42/imprimerie-prepresse-reliure.json,7614,61
-sirene/42/industrie-agroalimentaire.json,7544,61
+sirene/42/industrie-agroalimentaire.json,12147,97
 sirene/42/interim-recrutement.json,19385,159
 sirene/42/laboratoires-d-analyses-et-d-essais.json,1589,11
 sirene/42/laboratoires-de-recherche-scientifique.json,1687,13
@@ -6006,7 +6006,7 @@ sirene/42/plomberie-chauffage-climatisation-froid.json,43255,375
 sirene/42/poids-lourds-utilitaires.json,2477,20
 sirene/42/poste-courrier.json,95,1
 sirene/42/pressing-blanchisserie-retouches.json,2893,24
-sirene/42/primeur-fromagerie-epicerie-fine-cave.json,11150,98
+sirene/42/primeur-fromagerie-epicerie-fine-cave.json,11282,99
 sirene/42/production-et-distribution-d-energie.json,5249,45
 sirene/42/promotion-immobiliere.json,844,7
 sirene/42/publicite-design-graphique.json,8315,72
@@ -6059,7 +6059,7 @@ sirene/43/banques-assurances.json,14144,98
 sirene/43/bateaux-nautisme.json,3,0
 sirene/43/bijouterie-horlogerie.json,421,4
 sirene/43/boucherie-charcuterie-poissonnerie.json,5590,48
-sirene/43/boulangerie-patisserie.json,12196,103
+sirene/43/boulangerie-patisserie.json,12336,104
 sirene/43/bureaux-d-etudes-economistes-de-la-construction.json,7974,65
 sirene/43/cafes-bars.json,7645,67
 sirene/43/carrieres.json,2314,20
@@ -6117,7 +6117,7 @@ sirene/43/hopitaux-services-techniques.json,983,7
 sirene/43/horticulture-maraichage-agriculture.json,3557,32
 sirene/43/hotels.json,12239,103
 sirene/43/imprimerie-prepresse-reliure.json,1405,12
-sirene/43/industrie-agroalimentaire.json,2988,23
+sirene/43/industrie-agroalimentaire.json,5813,47
 sirene/43/interim-recrutement.json,11194,81
 sirene/43/laboratoires-d-analyses-et-d-essais.json,388,3
 sirene/43/laboratoires-de-recherche-scientifique.json,595,5
@@ -6168,8 +6168,8 @@ sirene/43/services-a-l-elevage-marechalerie.json,382,3
 sirene/43/services-informatiques-reseaux.json,2797,24
 sirene/43/sieges-reparation-de-meubles.json,280,2
 sirene/43/spectacle-musees-bibliotheques.json,5125,40
-sirene/43/superettes-alimentation-generale.json,3107,26
-sirene/43/supermarches-grandes-surfaces.json,8367,75
+sirene/43/superettes-alimentation-generale.json,3253,27
+sirene/43/supermarches-grandes-surfaces.json,8472,76
 sirene/43/tapisserie-decoration-textile.json,1434,11
 sirene/43/telecommunications.json,1093,9
 sirene/43/traitement-des-dechets-dangereux.json,3,0
@@ -6201,7 +6201,7 @@ sirene/44/banques-assurances.json,73744,545
 sirene/44/bateaux-nautisme.json,6022,49
 sirene/44/bijouterie-horlogerie.json,2044,19
 sirene/44/boucherie-charcuterie-poissonnerie.json,22308,188
-sirene/44/boulangerie-patisserie.json,69324,585
+sirene/44/boulangerie-patisserie.json,70421,594
 sirene/44/bureaux-d-etudes-economistes-de-la-construction.json,114202,974
 sirene/44/cafes-bars.json,54206,490
 sirene/44/carrieres.json,6299,46
@@ -6239,7 +6239,7 @@ sirene/44/elevage-bovin-ovin-caprin-porcin-volailles.json,75767,726
 sirene/44/elevage-de-chevaux-haras.json,4298,37
 sirene/44/enseignement-culturel-conservatoires.json,13543,111
 sirene/44/enseignes-signaletique-marquage.json,3527,26
-sirene/44/entrepots-logistique.json,33012,265
+sirene/44/entrepots-logistique.json,33424,268
 sirene/44/esthetique-soins-de-beaute.json,24152,208
 sirene/44/fabrication-de-monnaies-medailles.json,3,0
 sirene/44/fleuristes-jardineries.json,18087,154
@@ -6259,7 +6259,7 @@ sirene/44/hopitaux-services-techniques.json,3712,27
 sirene/44/horticulture-maraichage-agriculture.json,26655,244
 sirene/44/hotels.json,46372,377
 sirene/44/imprimerie-prepresse-reliure.json,11461,93
-sirene/44/industrie-agroalimentaire.json,11190,95
+sirene/44/industrie-agroalimentaire.json,19122,160
 sirene/44/interim-recrutement.json,62671,509
 sirene/44/laboratoires-d-analyses-et-d-essais.json,12290,84
 sirene/44/laboratoires-de-recherche-scientifique.json,12207,91
@@ -6301,7 +6301,7 @@ sirene/44/reparation-de-machines-et-d-electronique.json,19207,156
 sirene/44/reseaux-electriques-et-telecoms.json,4321,33
 sirene/44/restaurants.json,138681,1225
 sirene/44/restauration-collective-cantines-entreprises.json,22284,161
-sirene/44/restauration-rapide.json,99426,881
+sirene/44/restauration-rapide.json,99528,882
 sirene/44/routes-de-l-etat-centres-d-entretien.json,484,3
 sirene/44/routes-de-l-etat-etudes-et-districts.json,513,3
 sirene/44/scieries-preparation-du-bois.json,2395,18
@@ -6311,7 +6311,7 @@ sirene/44/services-a-l-elevage-marechalerie.json,1805,17
 sirene/44/services-informatiques-reseaux.json,46716,424
 sirene/44/sieges-reparation-de-meubles.json,1021,9
 sirene/44/spectacle-musees-bibliotheques.json,41385,353
-sirene/44/superettes-alimentation-generale.json,21370,183
+sirene/44/superettes-alimentation-generale.json,21514,184
 sirene/44/supermarches-grandes-surfaces.json,53281,459
 sirene/44/tapisserie-decoration-textile.json,4751,38
 sirene/44/telecommunications.json,6536,57
@@ -6344,7 +6344,7 @@ sirene/45/banques-assurances.json,31806,238
 sirene/45/bateaux-nautisme.json,99,1
 sirene/45/bijouterie-horlogerie.json,113,1
 sirene/45/boucherie-charcuterie-poissonnerie.json,10501,91
-sirene/45/boulangerie-patisserie.json,26281,230
+sirene/45/boulangerie-patisserie.json,26692,233
 sirene/45/bureaux-d-etudes-economistes-de-la-construction.json,25118,219
 sirene/45/cafes-bars.json,14385,130
 sirene/45/carrieres.json,3889,32
@@ -6356,7 +6356,7 @@ sirene/45/chocolaterie-confiserie-glaces.json,2950,26
 sirene/45/clubs-et-salles-de-sport.json,57140,442
 sirene/45/coiffure.json,28389,252
 sirene/45/colleges-publics-maintenance.json,6716,58
-sirene/45/commerce-de-gros-entre-entreprises.json,33529,284
+sirene/45/commerce-de-gros-entre-entreprises.json,33632,285
 sirene/45/communes-et-intercommunalites.json,50143,394
 sirene/45/comptabilite-conseil-gestion.json,60923,516
 sirene/45/concessionnaires-vente-de-vehicules-et-pieces.json,34479,292
@@ -6382,7 +6382,7 @@ sirene/45/elevage-bovin-ovin-caprin-porcin-volailles.json,2730,26
 sirene/45/elevage-de-chevaux-haras.json,1652,14
 sirene/45/enseignement-culturel-conservatoires.json,7113,58
 sirene/45/enseignes-signaletique-marquage.json,1066,9
-sirene/45/entrepots-logistique.json,17160,138
+sirene/45/entrepots-logistique.json,17281,139
 sirene/45/esthetique-soins-de-beaute.json,8585,77
 sirene/45/fabrication-de-monnaies-medailles.json,3,0
 sirene/45/fleuristes-jardineries.json,8368,70
@@ -6402,7 +6402,7 @@ sirene/45/hopitaux-services-techniques.json,1675,13
 sirene/45/horticulture-maraichage-agriculture.json,36266,327
 sirene/45/hotels.json,22166,186
 sirene/45/imprimerie-prepresse-reliure.json,4291,36
-sirene/45/industrie-agroalimentaire.json,3177,25
+sirene/45/industrie-agroalimentaire.json,7019,57
 sirene/45/interim-recrutement.json,37681,315
 sirene/45/laboratoires-d-analyses-et-d-essais.json,1579,12
 sirene/45/laboratoires-de-recherche-scientifique.json,4712,39
@@ -6451,7 +6451,7 @@ sirene/45/services-a-l-elevage-marechalerie.json,1290,11
 sirene/45/services-informatiques-reseaux.json,9410,85
 sirene/45/spectacle-musees-bibliotheques.json,19665,162
 sirene/45/superettes-alimentation-generale.json,6893,60
-sirene/45/supermarches-grandes-surfaces.json,27103,238
+sirene/45/supermarches-grandes-surfaces.json,27245,239
 sirene/45/tapisserie-decoration-textile.json,1110,10
 sirene/45/telecommunications.json,2879,24
 sirene/45/traitement-des-dechets-dangereux.json,308,2
@@ -6483,7 +6483,7 @@ sirene/46/banques-assurances.json,6593,54
 sirene/46/bateaux-nautisme.json,112,1
 sirene/46/bijouterie-horlogerie.json,3,0
 sirene/46/boucherie-charcuterie-poissonnerie.json,5120,46
-sirene/46/boulangerie-patisserie.json,10870,97
+sirene/46/boulangerie-patisserie.json,11004,98
 sirene/46/bureaux-d-etudes-economistes-de-la-construction.json,7340,63
 sirene/46/cafes-bars.json,4853,44
 sirene/46/carrieres.json,2648,23
@@ -6540,7 +6540,7 @@ sirene/46/hopitaux-services-techniques.json,1005,8
 sirene/46/horticulture-maraichage-agriculture.json,3265,30
 sirene/46/hotels.json,12616,110
 sirene/46/imprimerie-prepresse-reliure.json,1118,10
-sirene/46/industrie-agroalimentaire.json,6318,52
+sirene/46/industrie-agroalimentaire.json,7704,64
 sirene/46/interim-recrutement.json,6917,55
 sirene/46/laboratoires-d-analyses-et-d-essais.json,380,3
 sirene/46/laboratoires-de-recherche-scientifique.json,695,6
@@ -6658,7 +6658,7 @@ sirene/47/elevage-bovin-ovin-caprin-porcin-volailles.json,9403,83
 sirene/47/elevage-de-chevaux-haras.json,533,5
 sirene/47/enseignement-culturel-conservatoires.json,1859,15
 sirene/47/enseignes-signaletique-marquage.json,411,3
-sirene/47/entrepots-logistique.json,6815,56
+sirene/47/entrepots-logistique.json,7026,58
 sirene/47/esthetique-soins-de-beaute.json,3506,32
 sirene/47/fabrication-de-monnaies-medailles.json,3,0
 sirene/47/fleuristes-jardineries.json,7502,68
@@ -6678,7 +6678,7 @@ sirene/47/hopitaux-services-techniques.json,1815,13
 sirene/47/horticulture-maraichage-agriculture.json,42512,376
 sirene/47/hotels.json,12203,103
 sirene/47/imprimerie-prepresse-reliure.json,2180,19
-sirene/47/industrie-agroalimentaire.json,7864,66
+sirene/47/industrie-agroalimentaire.json,10905,92
 sirene/47/interim-recrutement.json,20756,168
 sirene/47/laboratoires-d-analyses-et-d-essais.json,330,3
 sirene/47/laboratoires-de-recherche-scientifique.json,1151,9
@@ -6816,7 +6816,7 @@ sirene/48/hopitaux-services-techniques.json,878,7
 sirene/48/horticulture-maraichage-agriculture.json,929,7
 sirene/48/hotels.json,11782,97
 sirene/48/imprimerie-prepresse-reliure.json,779,6
-sirene/48/industrie-agroalimentaire.json,1638,13
+sirene/48/industrie-agroalimentaire.json,2530,20
 sirene/48/interim-recrutement.json,3638,27
 sirene/48/laboratoires-d-analyses-et-d-essais.json,159,1
 sirene/48/laboratoires-de-recherche-scientifique.json,338,3
@@ -6867,7 +6867,7 @@ sirene/48/services-a-l-elevage-marechalerie.json,235,2
 sirene/48/services-informatiques-reseaux.json,848,8
 sirene/48/spectacle-musees-bibliotheques.json,2420,19
 sirene/48/superettes-alimentation-generale.json,1925,17
-sirene/48/supermarches-grandes-surfaces.json,4834,42
+sirene/48/supermarches-grandes-surfaces.json,4932,43
 sirene/48/tapisserie-decoration-textile.json,203,2
 sirene/48/telecommunications.json,1044,8
 sirene/48/traitement-des-dechets-dangereux.json,141,1
@@ -6899,9 +6899,9 @@ sirene/49/banques-assurances.json,46700,328
 sirene/49/bateaux-nautisme.json,469,4
 sirene/49/bijouterie-horlogerie.json,2204,20
 sirene/49/boucherie-charcuterie-poissonnerie.json,11959,94
-sirene/49/boulangerie-patisserie.json,40248,330
+sirene/49/boulangerie-patisserie.json,41628,341
 sirene/49/bureaux-d-etudes-economistes-de-la-construction.json,27469,233
-sirene/49/cafes-bars.json,25641,227
+sirene/49/cafes-bars.json,25766,228
 sirene/49/carrieres.json,4148,31
 sirene/49/carrosseries-et-remorques-fabrication.json,2993,23
 sirene/49/ceramique-verre-d-art-instruments-de-musique.json,735,6
@@ -6937,7 +6937,7 @@ sirene/49/elevage-bovin-ovin-caprin-porcin-volailles.json,72137,595
 sirene/49/elevage-de-chevaux-haras.json,3948,31
 sirene/49/enseignement-culturel-conservatoires.json,4607,38
 sirene/49/enseignes-signaletique-marquage.json,1299,10
-sirene/49/entrepots-logistique.json,10905,85
+sirene/49/entrepots-logistique.json,11246,87
 sirene/49/esthetique-soins-de-beaute.json,13042,110
 sirene/49/fabrication-de-monnaies-medailles.json,3,0
 sirene/49/fleuristes-jardineries.json,13775,111
@@ -6954,10 +6954,10 @@ sirene/49/guides-offices-de-tourisme.json,2017,16
 sirene/49/handicap-foyers-esat-ime.json,19809,144
 sirene/49/hopitaux-cliniques-laboratoires.json,21525,159
 sirene/49/hopitaux-services-techniques.json,3394,26
-sirene/49/horticulture-maraichage-agriculture.json,44856,379
+sirene/49/horticulture-maraichage-agriculture.json,44983,380
 sirene/49/hotels.json,20887,174
 sirene/49/imprimerie-prepresse-reliure.json,5871,43
-sirene/49/industrie-agroalimentaire.json,7305,56
+sirene/49/industrie-agroalimentaire.json,11353,87
 sirene/49/interim-recrutement.json,29289,241
 sirene/49/laboratoires-d-analyses-et-d-essais.json,2174,15
 sirene/49/laboratoires-de-recherche-scientifique.json,6159,47
@@ -7040,7 +7040,7 @@ sirene/50/banques-assurances.json,32352,216
 sirene/50/bateaux-nautisme.json,3250,25
 sirene/50/bijouterie-horlogerie.json,602,5
 sirene/50/boucherie-charcuterie-poissonnerie.json,15441,124
-sirene/50/boulangerie-patisserie.json,31590,247
+sirene/50/boulangerie-patisserie.json,31927,250
 sirene/50/bureaux-d-etudes-economistes-de-la-construction.json,17900,140
 sirene/50/cafes-bars.json,20145,172
 sirene/50/carrieres.json,3837,31
@@ -7098,7 +7098,7 @@ sirene/50/hopitaux-services-techniques.json,1935,15
 sirene/50/horticulture-maraichage-agriculture.json,28127,246
 sirene/50/hotels.json,25237,193
 sirene/50/imprimerie-prepresse-reliure.json,3788,30
-sirene/50/industrie-agroalimentaire.json,4960,39
+sirene/50/industrie-agroalimentaire.json,8809,70
 sirene/50/interim-recrutement.json,16271,133
 sirene/50/laboratoires-d-analyses-et-d-essais.json,1570,10
 sirene/50/laboratoires-de-recherche-scientifique.json,453,4
@@ -7180,21 +7180,21 @@ sirene/51/banques-assurances.json,25754,201
 sirene/51/bateaux-nautisme.json,153,1
 sirene/51/bijouterie-horlogerie.json,583,5
 sirene/51/boucherie-charcuterie-poissonnerie.json,7671,69
-sirene/51/boulangerie-patisserie.json,27122,237
+sirene/51/boulangerie-patisserie.json,27451,240
 sirene/51/bureaux-d-etudes-economistes-de-la-construction.json,23812,217
 sirene/51/cafes-bars.json,16041,148
 sirene/51/carrieres.json,1434,11
 sirene/51/carrosseries-et-remorques-fabrication.json,1633,14
 sirene/51/ceramique-verre-d-art-instruments-de-musique.json,774,7
 sirene/51/chaudronnerie-soudure-structures-metalliques.json,8571,74
-sirene/51/chimie-pharmacie-cosmetiques-papier.json,4009,34
+sirene/51/chimie-pharmacie-cosmetiques-papier.json,4222,36
 sirene/51/chocolaterie-confiserie-glaces.json,1332,12
 sirene/51/clubs-et-salles-de-sport.json,30630,241
 sirene/51/coiffure.json,25751,235
 sirene/51/colleges-publics-maintenance.json,5414,47
 sirene/51/commerce-de-gros-entre-entreprises.json,24754,214
 sirene/51/communes-et-intercommunalites.json,76749,630
-sirene/51/comptabilite-conseil-gestion.json,57645,496
+sirene/51/comptabilite-conseil-gestion.json,57775,497
 sirene/51/concessionnaires-vente-de-vehicules-et-pieces.json,30101,255
 sirene/51/construction-de-navires.json,3,0
 sirene/51/construction-maconnerie-gros-uvre.json,45413,404
@@ -7236,9 +7236,9 @@ sirene/51/handicap-foyers-esat-ime.json,14890,97
 sirene/51/hopitaux-cliniques-laboratoires.json,24171,158
 sirene/51/hopitaux-services-techniques.json,2836,20
 sirene/51/horticulture-maraichage-agriculture.json,79174,732
-sirene/51/hotels.json,19620,168
+sirene/51/hotels.json,19734,169
 sirene/51/imprimerie-prepresse-reliure.json,3979,33
-sirene/51/industrie-agroalimentaire.json,1420,12
+sirene/51/industrie-agroalimentaire.json,4158,36
 sirene/51/interim-recrutement.json,25392,215
 sirene/51/laboratoires-d-analyses-et-d-essais.json,908,7
 sirene/51/laboratoires-de-recherche-scientifique.json,3150,27
@@ -7270,7 +7270,7 @@ sirene/51/poids-lourds-utilitaires.json,2282,18
 sirene/51/poste-courrier.json,711,7
 sirene/51/pressing-blanchisserie-retouches.json,4694,41
 sirene/51/primeur-fromagerie-epicerie-fine-cave.json,9170,81
-sirene/51/production-et-distribution-d-energie.json,4599,43
+sirene/51/production-et-distribution-d-energie.json,4711,44
 sirene/51/promotion-immobiliere.json,1034,9
 sirene/51/publicite-design-graphique.json,6324,57
 sirene/51/remontees-mecaniques-telepheriques.json,3,0
@@ -7379,7 +7379,7 @@ sirene/52/hopitaux-services-techniques.json,1036,8
 sirene/52/horticulture-maraichage-agriculture.json,29072,255
 sirene/52/hotels.json,5502,47
 sirene/52/imprimerie-prepresse-reliure.json,1112,9
-sirene/52/industrie-agroalimentaire.json,1094,9
+sirene/52/industrie-agroalimentaire.json,1645,14
 sirene/52/interim-recrutement.json,5691,46
 sirene/52/laboratoires-d-analyses-et-d-essais.json,393,3
 sirene/52/laboratoires-de-recherche-scientifique.json,3,0
@@ -7428,7 +7428,7 @@ sirene/52/services-a-l-elevage-marechalerie.json,268,2
 sirene/52/services-informatiques-reseaux.json,733,7
 sirene/52/sieges-reparation-de-meubles.json,236,2
 sirene/52/spectacle-musees-bibliotheques.json,3335,26
-sirene/52/superettes-alimentation-generale.json,1908,16
+sirene/52/superettes-alimentation-generale.json,2050,17
 sirene/52/supermarches-grandes-surfaces.json,6937,62
 sirene/52/tapisserie-decoration-textile.json,226,2
 sirene/52/telecommunications.json,984,9
@@ -7461,7 +7461,7 @@ sirene/53/banques-assurances.json,22344,160
 sirene/53/bateaux-nautisme.json,160,1
 sirene/53/bijouterie-horlogerie.json,306,3
 sirene/53/boucherie-charcuterie-poissonnerie.json,5919,51
-sirene/53/boulangerie-patisserie.json,12942,112
+sirene/53/boulangerie-patisserie.json,13046,113
 sirene/53/bureaux-d-etudes-economistes-de-la-construction.json,9260,80
 sirene/53/cafes-bars.json,6658,60
 sirene/53/carrieres.json,2622,22
@@ -7499,7 +7499,7 @@ sirene/53/elevage-bovin-ovin-caprin-porcin-volailles.json,76967,584
 sirene/53/elevage-de-chevaux-haras.json,3100,26
 sirene/53/enseignement-culturel-conservatoires.json,342,3
 sirene/53/enseignes-signaletique-marquage.json,117,1
-sirene/53/entrepots-logistique.json,4009,32
+sirene/53/entrepots-logistique.json,4261,34
 sirene/53/esthetique-soins-de-beaute.json,3960,36
 sirene/53/fabrication-de-monnaies-medailles.json,3,0
 sirene/53/fleuristes-jardineries.json,4176,35
@@ -7519,7 +7519,7 @@ sirene/53/hopitaux-services-techniques.json,1546,12
 sirene/53/horticulture-maraichage-agriculture.json,36225,283
 sirene/53/hotels.json,6084,52
 sirene/53/imprimerie-prepresse-reliure.json,3506,29
-sirene/53/industrie-agroalimentaire.json,3229,27
+sirene/53/industrie-agroalimentaire.json,5638,46
 sirene/53/interim-recrutement.json,32095,280
 sirene/53/laboratoires-d-analyses-et-d-essais.json,448,3
 sirene/53/laboratoires-de-recherche-scientifique.json,1665,12
@@ -7551,7 +7551,7 @@ sirene/53/poids-lourds-utilitaires.json,1854,15
 sirene/53/poste-courrier.json,201,2
 sirene/53/pressing-blanchisserie-retouches.json,2317,20
 sirene/53/primeur-fromagerie-epicerie-fine-cave.json,2730,24
-sirene/53/production-et-distribution-d-energie.json,5789,45
+sirene/53/production-et-distribution-d-energie.json,6125,47
 sirene/53/promotion-immobiliere.json,412,3
 sirene/53/publicite-design-graphique.json,2937,24
 sirene/53/remontees-mecaniques-telepheriques.json,3,0
@@ -7603,7 +7603,7 @@ sirene/54/banques-assurances.json,27639,221
 sirene/54/bateaux-nautisme.json,123,1
 sirene/54/bijouterie-horlogerie.json,987,8
 sirene/54/boucherie-charcuterie-poissonnerie.json,8591,75
-sirene/54/boulangerie-patisserie.json,34747,306
+sirene/54/boulangerie-patisserie.json,34861,307
 sirene/54/bureaux-d-etudes-economistes-de-la-construction.json,29250,252
 sirene/54/cafes-bars.json,15038,144
 sirene/54/carrieres.json,3009,23
@@ -7651,7 +7651,7 @@ sirene/54/forets-travaux-forestiers.json,18056,140
 sirene/54/froid-industriel-installation-de-machines.json,3355,28
 sirene/54/garages-carrosseries-voitures.json,42515,372
 sirene/54/geometres-experts-topographie.json,1633,15
-sirene/54/grossistes-en-fruits-et-legumes.json,891,8
+sirene/54/grossistes-en-fruits-et-legumes.json,1005,9
 sirene/54/grossistes-en-poissons-crustaces-mollusques.json,106,1
 sirene/54/grossistes-en-viandes.json,335,3
 sirene/54/guides-offices-de-tourisme.json,1372,10
@@ -7661,7 +7661,7 @@ sirene/54/hopitaux-services-techniques.json,3510,26
 sirene/54/horticulture-maraichage-agriculture.json,36728,321
 sirene/54/hotels.json,13016,114
 sirene/54/imprimerie-prepresse-reliure.json,5209,43
-sirene/54/industrie-agroalimentaire.json,2413,20
+sirene/54/industrie-agroalimentaire.json,5933,50
 sirene/54/interim-recrutement.json,15441,126
 sirene/54/laboratoires-d-analyses-et-d-essais.json,2239,15
 sirene/54/laboratoires-de-recherche-scientifique.json,7776,60
@@ -7703,7 +7703,7 @@ sirene/54/reparation-de-machines-et-d-electronique.json,7802,68
 sirene/54/reseaux-electriques-et-telecoms.json,2698,22
 sirene/54/restaurants.json,54146,500
 sirene/54/restauration-collective-cantines-entreprises.json,10679,79
-sirene/54/restauration-rapide.json,44721,417
+sirene/54/restauration-rapide.json,44820,418
 sirene/54/routes-de-l-etat-centres-d-entretien.json,661,4
 sirene/54/routes-de-l-etat-etudes-et-districts.json,307,2
 sirene/54/scieries-preparation-du-bois.json,2055,16
@@ -7803,7 +7803,7 @@ sirene/55/hopitaux-services-techniques.json,482,4
 sirene/55/horticulture-maraichage-agriculture.json,33962,287
 sirene/55/hotels.json,5662,48
 sirene/55/imprimerie-prepresse-reliure.json,695,5
-sirene/55/industrie-agroalimentaire.json,1262,10
+sirene/55/industrie-agroalimentaire.json,2583,22
 sirene/55/interim-recrutement.json,4325,34
 sirene/55/laboratoires-d-analyses-et-d-essais.json,435,3
 sirene/55/laboratoires-de-recherche-scientifique.json,397,3
@@ -7844,7 +7844,7 @@ sirene/55/reparation-de-machines-et-d-electronique.json,1908,17
 sirene/55/reseaux-electriques-et-telecoms.json,116,1
 sirene/55/restaurants.json,10853,98
 sirene/55/restauration-collective-cantines-entreprises.json,1342,9
-sirene/55/restauration-rapide.json,5455,52
+sirene/55/restauration-rapide.json,5570,53
 sirene/55/routes-de-l-etat-centres-d-entretien.json,166,1
 sirene/55/scieries-preparation-du-bois.json,1449,13
 sirene/55/secretariat-accueil-centres-d-appels.json,3270,26
@@ -7886,7 +7886,7 @@ sirene/56/banques-assurances.json,34084,271
 sirene/56/bateaux-nautisme.json,10920,92
 sirene/56/bijouterie-horlogerie.json,1767,16
 sirene/56/boucherie-charcuterie-poissonnerie.json,16281,141
-sirene/56/boulangerie-patisserie.json,46954,411
+sirene/56/boulangerie-patisserie.json,48321,423
 sirene/56/bureaux-d-etudes-economistes-de-la-construction.json,36626,314
 sirene/56/cafes-bars.json,38515,356
 sirene/56/carrieres.json,4959,39
@@ -7934,7 +7934,7 @@ sirene/56/forets-travaux-forestiers.json,2081,18
 sirene/56/froid-industriel-installation-de-machines.json,3137,27
 sirene/56/garages-carrosseries-voitures.json,45385,382
 sirene/56/geometres-experts-topographie.json,3380,31
-sirene/56/grossistes-en-fruits-et-legumes.json,920,8
+sirene/56/grossistes-en-fruits-et-legumes.json,1024,9
 sirene/56/grossistes-en-poissons-crustaces-mollusques.json,3951,34
 sirene/56/grossistes-en-viandes.json,314,3
 sirene/56/guides-offices-de-tourisme.json,2617,21
@@ -7944,7 +7944,7 @@ sirene/56/hopitaux-services-techniques.json,3774,28
 sirene/56/horticulture-maraichage-agriculture.json,25269,253
 sirene/56/hotels.json,34183,293
 sirene/56/imprimerie-prepresse-reliure.json,5979,49
-sirene/56/industrie-agroalimentaire.json,11889,102
+sirene/56/industrie-agroalimentaire.json,18467,158
 sirene/56/interim-recrutement.json,31758,266
 sirene/56/laboratoires-d-analyses-et-d-essais.json,743,5
 sirene/56/laboratoires-de-recherche-scientifique.json,2143,18
@@ -7984,7 +7984,7 @@ sirene/56/remontees-mecaniques-telepheriques.json,3,0
 sirene/56/reparation-d-ordinateurs-et-de-telephones.json,2589,22
 sirene/56/reparation-de-machines-et-d-electronique.json,9945,84
 sirene/56/reseaux-electriques-et-telecoms.json,1942,16
-sirene/56/restaurants.json,83705,765
+sirene/56/restaurants.json,83823,766
 sirene/56/restauration-collective-cantines-entreprises.json,11868,93
 sirene/56/restauration-rapide.json,43479,397
 sirene/56/routes-de-l-etat-centres-d-entretien.json,523,3
@@ -7996,8 +7996,8 @@ sirene/56/services-a-l-elevage-marechalerie.json,2258,22
 sirene/56/services-informatiques-reseaux.json,12316,111
 sirene/56/sieges-reparation-de-meubles.json,283,2
 sirene/56/spectacle-musees-bibliotheques.json,18588,153
-sirene/56/superettes-alimentation-generale.json,16040,139
-sirene/56/supermarches-grandes-surfaces.json,36221,326
+sirene/56/superettes-alimentation-generale.json,16166,140
+sirene/56/supermarches-grandes-surfaces.json,36341,327
 sirene/56/tapisserie-decoration-textile.json,3868,32
 sirene/56/telecommunications.json,2733,23
 sirene/56/traitement-des-dechets-dangereux.json,519,5
@@ -8029,7 +8029,7 @@ sirene/57/banques-assurances.json,41759,340
 sirene/57/bateaux-nautisme.json,119,1
 sirene/57/bijouterie-horlogerie.json,980,10
 sirene/57/boucherie-charcuterie-poissonnerie.json,14770,129
-sirene/57/boulangerie-patisserie.json,49361,430
+sirene/57/boulangerie-patisserie.json,50101,437
 sirene/57/bureaux-d-etudes-economistes-de-la-construction.json,31828,285
 sirene/57/cafes-bars.json,24444,234
 sirene/57/carrieres.json,2878,24
@@ -8087,7 +8087,7 @@ sirene/57/hopitaux-services-techniques.json,4700,33
 sirene/57/horticulture-maraichage-agriculture.json,44802,336
 sirene/57/hotels.json,21328,182
 sirene/57/imprimerie-prepresse-reliure.json,5474,47
-sirene/57/industrie-agroalimentaire.json,3485,31
+sirene/57/industrie-agroalimentaire.json,6466,58
 sirene/57/interim-recrutement.json,26012,231
 sirene/57/laboratoires-d-analyses-et-d-essais.json,3076,23
 sirene/57/laboratoires-de-recherche-scientifique.json,1571,13
@@ -8129,7 +8129,7 @@ sirene/57/reparation-de-machines-et-d-electronique.json,8909,77
 sirene/57/reseaux-electriques-et-telecoms.json,2572,24
 sirene/57/restaurants.json,82243,764
 sirene/57/restauration-collective-cantines-entreprises.json,19170,139
-sirene/57/restauration-rapide.json,76415,707
+sirene/57/restauration-rapide.json,76543,708
 sirene/57/routes-de-l-etat-centres-d-entretien.json,616,4
 sirene/57/routes-de-l-etat-etudes-et-districts.json,530,3
 sirene/57/scieries-preparation-du-bois.json,2370,22
@@ -8172,7 +8172,7 @@ sirene/58/banques-assurances.json,11678,82
 sirene/58/bateaux-nautisme.json,228,2
 sirene/58/bijouterie-horlogerie.json,103,1
 sirene/58/boucherie-charcuterie-poissonnerie.json,4783,39
-sirene/58/boulangerie-patisserie.json,8683,75
+sirene/58/boulangerie-patisserie.json,8808,76
 sirene/58/bureaux-d-etudes-economistes-de-la-construction.json,4530,38
 sirene/58/cafes-bars.json,6059,54
 sirene/58/carrieres.json,1880,16
@@ -8228,7 +8228,7 @@ sirene/58/hopitaux-services-techniques.json,1844,14
 sirene/58/horticulture-maraichage-agriculture.json,15171,146
 sirene/58/hotels.json,8003,67
 sirene/58/imprimerie-prepresse-reliure.json,1903,15
-sirene/58/industrie-agroalimentaire.json,1056,9
+sirene/58/industrie-agroalimentaire.json,1330,11
 sirene/58/interim-recrutement.json,6515,52
 sirene/58/laboratoires-d-analyses-et-d-essais.json,93,1
 sirene/58/laboratoires-de-recherche-scientifique.json,697,5
@@ -8267,7 +8267,7 @@ sirene/58/remontees-mecaniques-telepheriques.json,3,0
 sirene/58/reparation-d-ordinateurs-et-de-telephones.json,318,3
 sirene/58/reparation-de-machines-et-d-electronique.json,2193,19
 sirene/58/reseaux-electriques-et-telecoms.json,618,5
-sirene/58/restaurants.json,14086,121
+sirene/58/restaurants.json,14207,122
 sirene/58/restauration-collective-cantines-entreprises.json,3156,25
 sirene/58/restauration-rapide.json,6955,62
 sirene/58/routes-de-l-etat-centres-d-entretien.json,341,2
@@ -8311,9 +8311,9 @@ sirene/59/banques-assurances.json,98107,758
 sirene/59/bateaux-nautisme.json,1404,12
 sirene/59/bijouterie-horlogerie.json,1833,16
 sirene/59/boucherie-charcuterie-poissonnerie.json,49514,436
-sirene/59/boulangerie-patisserie.json,83444,730
+sirene/59/boulangerie-patisserie.json,87272,763
 sirene/59/bureaux-d-etudes-economistes-de-la-construction.json,100412,881
-sirene/59/cafes-bars.json,61262,581
+sirene/59/cafes-bars.json,61743,585
 sirene/59/carrieres.json,1912,15
 sirene/59/carrosseries-et-remorques-fabrication.json,4649,40
 sirene/59/ceramique-verre-d-art-instruments-de-musique.json,1402,12
@@ -8349,7 +8349,7 @@ sirene/59/elevage-bovin-ovin-caprin-porcin-volailles.json,28103,250
 sirene/59/elevage-de-chevaux-haras.json,3124,27
 sirene/59/enseignement-culturel-conservatoires.json,15112,125
 sirene/59/enseignes-signaletique-marquage.json,1857,16
-sirene/59/entrepots-logistique.json,62705,512
+sirene/59/entrepots-logistique.json,62948,514
 sirene/59/esthetique-soins-de-beaute.json,29842,271
 sirene/59/fabrication-de-monnaies-medailles.json,3,0
 sirene/59/fleuristes-jardineries.json,31652,279
@@ -8366,13 +8366,13 @@ sirene/59/guides-offices-de-tourisme.json,5581,42
 sirene/59/handicap-foyers-esat-ime.json,60703,404
 sirene/59/hopitaux-cliniques-laboratoires.json,85278,612
 sirene/59/hopitaux-services-techniques.json,10593,81
-sirene/59/horticulture-maraichage-agriculture.json,106235,949
+sirene/59/horticulture-maraichage-agriculture.json,106381,950
 sirene/59/hotels.json,40371,344
 sirene/59/imprimerie-prepresse-reliure.json,13417,118
-sirene/59/industrie-agroalimentaire.json,11959,100
+sirene/59/industrie-agroalimentaire.json,24616,208
 sirene/59/interim-recrutement.json,48548,413
 sirene/59/laboratoires-d-analyses-et-d-essais.json,4887,34
-sirene/59/laboratoires-de-recherche-scientifique.json,11310,90
+sirene/59/laboratoires-de-recherche-scientifique.json,11440,91
 sirene/59/loisirs-animation.json,165634,1247
 sirene/59/lycees-publics-maintenance.json,12466,104
 sirene/59/magasins-specialises-bricolage-maison-sport-high-tech.json,163631,1437
@@ -8408,9 +8408,9 @@ sirene/59/remontees-mecaniques-telepheriques.json,3,0
 sirene/59/reparation-d-ordinateurs-et-de-telephones.json,5402,50
 sirene/59/reparation-de-machines-et-d-electronique.json,24303,201
 sirene/59/reseaux-electriques-et-telecoms.json,3302,27
-sirene/59/restaurants.json,183960,1682
+sirene/59/restaurants.json,184118,1683
 sirene/59/restauration-collective-cantines-entreprises.json,23860,172
-sirene/59/restauration-rapide.json,211707,1936
+sirene/59/restauration-rapide.json,213405,1949
 sirene/59/routes-de-l-etat-centres-d-entretien.json,876,5
 sirene/59/routes-de-l-etat-etudes-et-districts.json,521,3
 sirene/59/scieries-preparation-du-bois.json,1104,10
@@ -8453,7 +8453,7 @@ sirene/60/banques-assurances.json,24430,184
 sirene/60/bateaux-nautisme.json,556,5
 sirene/60/bijouterie-horlogerie.json,997,9
 sirene/60/boucherie-charcuterie-poissonnerie.json,11850,103
-sirene/60/boulangerie-patisserie.json,32682,285
+sirene/60/boulangerie-patisserie.json,33526,292
 sirene/60/bureaux-d-etudes-economistes-de-la-construction.json,19713,173
 sirene/60/cafes-bars.json,16295,149
 sirene/60/carrieres.json,2296,20
@@ -8491,7 +8491,7 @@ sirene/60/elevage-bovin-ovin-caprin-porcin-volailles.json,4130,37
 sirene/60/elevage-de-chevaux-haras.json,2751,23
 sirene/60/enseignement-culturel-conservatoires.json,6102,48
 sirene/60/enseignes-signaletique-marquage.json,618,5
-sirene/60/entrepots-logistique.json,19718,163
+sirene/60/entrepots-logistique.json,19825,164
 sirene/60/esthetique-soins-de-beaute.json,10990,98
 sirene/60/fabrication-de-monnaies-medailles.json,3,0
 sirene/60/fleuristes-jardineries.json,11194,100
@@ -8511,7 +8511,7 @@ sirene/60/hopitaux-services-techniques.json,3124,22
 sirene/60/horticulture-maraichage-agriculture.json,67861,620
 sirene/60/hotels.json,15891,137
 sirene/60/imprimerie-prepresse-reliure.json,4358,36
-sirene/60/industrie-agroalimentaire.json,3387,27
+sirene/60/industrie-agroalimentaire.json,5732,47
 sirene/60/interim-recrutement.json,19378,158
 sirene/60/laboratoires-d-analyses-et-d-essais.json,1026,7
 sirene/60/laboratoires-de-recherche-scientifique.json,3052,25
@@ -8552,7 +8552,7 @@ sirene/60/reparation-de-machines-et-d-electronique.json,7415,64
 sirene/60/reseaux-electriques-et-telecoms.json,1240,10
 sirene/60/restaurants.json,44296,399
 sirene/60/restauration-collective-cantines-entreprises.json,6405,46
-sirene/60/restauration-rapide.json,49124,449
+sirene/60/restauration-rapide.json,49546,452
 sirene/60/routes-de-l-etat-centres-d-entretien.json,515,3
 sirene/60/scieries-preparation-du-bois.json,1346,11
 sirene/60/secretariat-accueil-centres-d-appels.json,18868,160
@@ -8594,7 +8594,7 @@ sirene/61/banques-assurances.json,16753,122
 sirene/61/bateaux-nautisme.json,127,1
 sirene/61/bijouterie-horlogerie.json,211,2
 sirene/61/boucherie-charcuterie-poissonnerie.json,7115,59
-sirene/61/boulangerie-patisserie.json,13327,111
+sirene/61/boulangerie-patisserie.json,13530,113
 sirene/61/bureaux-d-etudes-economistes-de-la-construction.json,4955,43
 sirene/61/cafes-bars.json,7301,62
 sirene/61/carrieres.json,1336,12
@@ -8652,7 +8652,7 @@ sirene/61/hopitaux-services-techniques.json,1653,13
 sirene/61/horticulture-maraichage-agriculture.json,35034,317
 sirene/61/hotels.json,8136,66
 sirene/61/imprimerie-prepresse-reliure.json,2295,18
-sirene/61/industrie-agroalimentaire.json,1970,17
+sirene/61/industrie-agroalimentaire.json,4275,36
 sirene/61/interim-recrutement.json,10280,83
 sirene/61/laboratoires-d-analyses-et-d-essais.json,388,3
 sirene/61/laboratoires-de-recherche-scientifique.json,772,5
@@ -8735,7 +8735,7 @@ sirene/62/banques-assurances.json,43485,334
 sirene/62/bateaux-nautisme.json,256,2
 sirene/62/bijouterie-horlogerie.json,490,4
 sirene/62/boucherie-charcuterie-poissonnerie.json,32595,283
-sirene/62/boulangerie-patisserie.json,53642,467
+sirene/62/boulangerie-patisserie.json,55604,483
 sirene/62/bureaux-d-etudes-economistes-de-la-construction.json,37430,323
 sirene/62/cafes-bars.json,36586,337
 sirene/62/carrieres.json,1355,12
@@ -8773,7 +8773,7 @@ sirene/62/elevage-bovin-ovin-caprin-porcin-volailles.json,20548,187
 sirene/62/elevage-de-chevaux-haras.json,1987,17
 sirene/62/enseignement-culturel-conservatoires.json,5453,44
 sirene/62/enseignes-signaletique-marquage.json,1107,9
-sirene/62/entrepots-logistique.json,28584,229
+sirene/62/entrepots-logistique.json,28682,230
 sirene/62/esthetique-soins-de-beaute.json,14478,131
 sirene/62/fabrication-de-monnaies-medailles.json,3,0
 sirene/62/fleuristes-jardineries.json,21647,191
@@ -8793,7 +8793,7 @@ sirene/62/hopitaux-services-techniques.json,4466,33
 sirene/62/horticulture-maraichage-agriculture.json,119573,1071
 sirene/62/hotels.json,33237,283
 sirene/62/imprimerie-prepresse-reliure.json,6671,56
-sirene/62/industrie-agroalimentaire.json,5540,46
+sirene/62/industrie-agroalimentaire.json,12095,103
 sirene/62/interim-recrutement.json,28704,243
 sirene/62/laboratoires-d-analyses-et-d-essais.json,1713,12
 sirene/62/laboratoires-de-recherche-scientifique.json,3403,26
@@ -8834,10 +8834,10 @@ sirene/62/reparation-de-machines-et-d-electronique.json,12461,109
 sirene/62/reseaux-electriques-et-telecoms.json,2352,19
 sirene/62/restaurants.json,82505,737
 sirene/62/restauration-collective-cantines-entreprises.json,8416,60
-sirene/62/restauration-rapide.json,87563,787
+sirene/62/restauration-rapide.json,87679,788
 sirene/62/routes-de-l-etat-centres-d-entretien.json,730,4
 sirene/62/scieries-preparation-du-bois.json,1003,8
-sirene/62/secretariat-accueil-centres-d-appels.json,34442,294
+sirene/62/secretariat-accueil-centres-d-appels.json,34596,295
 sirene/62/securite-privee-surveillance.json,7938,64
 sirene/62/services-a-l-elevage-marechalerie.json,1048,9
 sirene/62/services-informatiques-reseaux.json,8784,80
@@ -8849,7 +8849,7 @@ sirene/62/tapisserie-decoration-textile.json,2585,20
 sirene/62/telecommunications.json,3330,27
 sirene/62/traitement-des-dechets-dangereux.json,711,6
 sirene/62/traitement-et-revetement-des-metaux.json,2349,20
-sirene/62/traiteurs.json,5897,52
+sirene/62/traiteurs.json,6044,53
 sirene/62/transformation-de-poissons-crustaces-mollusques.json,5671,50
 sirene/62/transformation-de-viandes.json,4430,38
 sirene/62/transport-de-marchandises-livraison.json,71119,621
@@ -8876,7 +8876,7 @@ sirene/63/banques-assurances.json,38294,279
 sirene/63/bateaux-nautisme.json,3,0
 sirene/63/bijouterie-horlogerie.json,1586,14
 sirene/63/boucherie-charcuterie-poissonnerie.json,13274,114
-sirene/63/boulangerie-patisserie.json,32754,281
+sirene/63/boulangerie-patisserie.json,34814,297
 sirene/63/bureaux-d-etudes-economistes-de-la-construction.json,32957,277
 sirene/63/cafes-bars.json,22120,195
 sirene/63/carrieres.json,4206,37
@@ -8914,7 +8914,7 @@ sirene/63/elevage-bovin-ovin-caprin-porcin-volailles.json,33103,304
 sirene/63/elevage-de-chevaux-haras.json,1279,11
 sirene/63/enseignement-culturel-conservatoires.json,4328,35
 sirene/63/enseignes-signaletique-marquage.json,834,6
-sirene/63/entrepots-logistique.json,11869,99
+sirene/63/entrepots-logistique.json,11989,100
 sirene/63/esthetique-soins-de-beaute.json,11193,96
 sirene/63/fabrication-de-monnaies-medailles.json,3,0
 sirene/63/fleuristes-jardineries.json,10083,88
@@ -8934,10 +8934,10 @@ sirene/63/hopitaux-services-techniques.json,2503,19
 sirene/63/horticulture-maraichage-agriculture.json,17057,155
 sirene/63/hotels.json,32396,275
 sirene/63/imprimerie-prepresse-reliure.json,3977,33
-sirene/63/industrie-agroalimentaire.json,6245,48
+sirene/63/industrie-agroalimentaire.json,9753,78
 sirene/63/interim-recrutement.json,13838,109
 sirene/63/laboratoires-d-analyses-et-d-essais.json,1224,9
-sirene/63/laboratoires-de-recherche-scientifique.json,6961,52
+sirene/63/laboratoires-de-recherche-scientifique.json,7096,53
 sirene/63/laminoirs-et-trefileries.json,92,1
 sirene/63/loisirs-animation.json,45294,343
 sirene/63/lycees-publics-maintenance.json,3379,26
@@ -8967,7 +8967,7 @@ sirene/63/poids-lourds-utilitaires.json,3038,24
 sirene/63/poste-courrier.json,954,10
 sirene/63/pressing-blanchisserie-retouches.json,5132,43
 sirene/63/primeur-fromagerie-epicerie-fine-cave.json,8767,75
-sirene/63/production-et-distribution-d-energie.json,13174,119
+sirene/63/production-et-distribution-d-energie.json,13316,120
 sirene/63/promotion-immobiliere.json,1313,10
 sirene/63/publicite-design-graphique.json,6289,55
 sirene/63/remontees-mecaniques-telepheriques.json,914,7
@@ -8976,7 +8976,7 @@ sirene/63/reparation-de-machines-et-d-electronique.json,7992,65
 sirene/63/reseaux-electriques-et-telecoms.json,2095,18
 sirene/63/restaurants.json,62195,548
 sirene/63/restauration-collective-cantines-entreprises.json,7891,56
-sirene/63/restauration-rapide.json,43844,380
+sirene/63/restauration-rapide.json,44096,382
 sirene/63/routes-de-l-etat-centres-d-entretien.json,342,2
 sirene/63/routes-de-l-etat-etudes-et-districts.json,322,2
 sirene/63/scieries-preparation-du-bois.json,3990,36
@@ -9019,7 +9019,7 @@ sirene/64/banques-assurances.json,40244,311
 sirene/64/bateaux-nautisme.json,254,2
 sirene/64/bijouterie-horlogerie.json,2874,26
 sirene/64/boucherie-charcuterie-poissonnerie.json,23113,196
-sirene/64/boulangerie-patisserie.json,47426,402
+sirene/64/boulangerie-patisserie.json,47871,406
 sirene/64/bureaux-d-etudes-economistes-de-la-construction.json,44352,378
 sirene/64/cafes-bars.json,28227,254
 sirene/64/carrieres.json,3511,30
@@ -9077,7 +9077,7 @@ sirene/64/hopitaux-services-techniques.json,3447,26
 sirene/64/horticulture-maraichage-agriculture.json,15997,149
 sirene/64/hotels.json,46419,391
 sirene/64/imprimerie-prepresse-reliure.json,6261,52
-sirene/64/industrie-agroalimentaire.json,13428,114
+sirene/64/industrie-agroalimentaire.json,18937,162
 sirene/64/interim-recrutement.json,25105,211
 sirene/64/laboratoires-d-analyses-et-d-essais.json,2062,16
 sirene/64/laboratoires-de-recherche-scientifique.json,4344,32
@@ -9108,7 +9108,7 @@ sirene/64/plomberie-chauffage-climatisation-froid.json,34040,293
 sirene/64/poids-lourds-utilitaires.json,3032,24
 sirene/64/poste-courrier.json,95,1
 sirene/64/pressing-blanchisserie-retouches.json,8627,75
-sirene/64/primeur-fromagerie-epicerie-fine-cave.json,9812,84
+sirene/64/primeur-fromagerie-epicerie-fine-cave.json,9923,85
 sirene/64/production-et-distribution-d-energie.json,12958,112
 sirene/64/promotion-immobiliere.json,2916,24
 sirene/64/publicite-design-graphique.json,8586,76
@@ -9161,9 +9161,9 @@ sirene/65/banques-assurances.json,13079,104
 sirene/65/bateaux-nautisme.json,3,0
 sirene/65/bijouterie-horlogerie.json,243,2
 sirene/65/boucherie-charcuterie-poissonnerie.json,8435,74
-sirene/65/boulangerie-patisserie.json,14958,128
+sirene/65/boulangerie-patisserie.json,15069,129
 sirene/65/bureaux-d-etudes-economistes-de-la-construction.json,8508,74
-sirene/65/cafes-bars.json,8577,79
+sirene/65/cafes-bars.json,8828,81
 sirene/65/carrieres.json,1987,17
 sirene/65/carrosseries-et-remorques-fabrication.json,674,6
 sirene/65/ceramique-verre-d-art-instruments-de-musique.json,106,1
@@ -9218,7 +9218,7 @@ sirene/65/hopitaux-services-techniques.json,1682,12
 sirene/65/horticulture-maraichage-agriculture.json,6869,67
 sirene/65/hotels.json,29874,251
 sirene/65/imprimerie-prepresse-reliure.json,1428,12
-sirene/65/industrie-agroalimentaire.json,3852,32
+sirene/65/industrie-agroalimentaire.json,4695,39
 sirene/65/interim-recrutement.json,9825,83
 sirene/65/laboratoires-d-analyses-et-d-essais.json,374,3
 sirene/65/laboratoires-de-recherche-scientifique.json,222,2
@@ -9301,7 +9301,7 @@ sirene/66/banques-assurances.json,29575,221
 sirene/66/bateaux-nautisme.json,3359,28
 sirene/66/bijouterie-horlogerie.json,991,9
 sirene/66/boucherie-charcuterie-poissonnerie.json,12491,109
-sirene/66/boulangerie-patisserie.json,19227,161
+sirene/66/boulangerie-patisserie.json,19676,164
 sirene/66/bureaux-d-etudes-economistes-de-la-construction.json,15036,126
 sirene/66/cafes-bars.json,17109,149
 sirene/66/carrieres.json,1409,13
@@ -9358,7 +9358,7 @@ sirene/66/hopitaux-services-techniques.json,1747,14
 sirene/66/horticulture-maraichage-agriculture.json,11809,105
 sirene/66/hotels.json,31133,253
 sirene/66/imprimerie-prepresse-reliure.json,2925,25
-sirene/66/industrie-agroalimentaire.json,2660,22
+sirene/66/industrie-agroalimentaire.json,5050,42
 sirene/66/interim-recrutement.json,17517,136
 sirene/66/laboratoires-d-analyses-et-d-essais.json,695,5
 sirene/66/laboratoires-de-recherche-scientifique.json,2052,17
@@ -9441,9 +9441,9 @@ sirene/67/banques-assurances.json,63582,501
 sirene/67/bateaux-nautisme.json,209,2
 sirene/67/bijouterie-horlogerie.json,1941,17
 sirene/67/boucherie-charcuterie-poissonnerie.json,18911,163
-sirene/67/boulangerie-patisserie.json,76722,668
+sirene/67/boulangerie-patisserie.json,78113,681
 sirene/67/bureaux-d-etudes-economistes-de-la-construction.json,58344,525
-sirene/67/cafes-bars.json,21146,193
+sirene/67/cafes-bars.json,21273,194
 sirene/67/carrieres.json,4507,40
 sirene/67/carrosseries-et-remorques-fabrication.json,3139,27
 sirene/67/ceramique-verre-d-art-instruments-de-musique.json,2321,20
@@ -9499,7 +9499,7 @@ sirene/67/hopitaux-services-techniques.json,4913,34
 sirene/67/horticulture-maraichage-agriculture.json,49094,463
 sirene/67/hotels.json,48425,418
 sirene/67/imprimerie-prepresse-reliure.json,9756,87
-sirene/67/industrie-agroalimentaire.json,10582,91
+sirene/67/industrie-agroalimentaire.json,18371,159
 sirene/67/interim-recrutement.json,28609,257
 sirene/67/laboratoires-d-analyses-et-d-essais.json,4093,32
 sirene/67/laboratoires-de-recherche-scientifique.json,14002,115
@@ -9538,23 +9538,23 @@ sirene/67/remontees-mecaniques-telepheriques.json,148,1
 sirene/67/reparation-d-ordinateurs-et-de-telephones.json,5388,50
 sirene/67/reparation-de-machines-et-d-electronique.json,12893,115
 sirene/67/reseaux-electriques-et-telecoms.json,1784,15
-sirene/67/restaurants.json,170657,1551
+sirene/67/restaurants.json,170775,1552
 sirene/67/restauration-collective-cantines-entreprises.json,11343,82
-sirene/67/restauration-rapide.json,93456,858
+sirene/67/restauration-rapide.json,94594,867
 sirene/67/scieries-preparation-du-bois.json,2991,26
 sirene/67/secretariat-accueil-centres-d-appels.json,35428,301
 sirene/67/securite-privee-surveillance.json,10302,89
 sirene/67/services-a-l-elevage-marechalerie.json,1077,9
 sirene/67/services-informatiques-reseaux.json,35378,317
 sirene/67/sieges-reparation-de-meubles.json,526,5
-sirene/67/spectacle-musees-bibliotheques.json,30811,258
-sirene/67/superettes-alimentation-generale.json,15792,135
+sirene/67/spectacle-musees-bibliotheques.json,30925,259
+sirene/67/superettes-alimentation-generale.json,17049,145
 sirene/67/supermarches-grandes-surfaces.json,42565,384
 sirene/67/tapisserie-decoration-textile.json,3680,30
 sirene/67/telecommunications.json,8322,73
 sirene/67/traitement-des-dechets-dangereux.json,573,5
 sirene/67/traitement-et-revetement-des-metaux.json,2535,23
-sirene/67/traiteurs.json,7972,73
+sirene/67/traiteurs.json,8080,74
 sirene/67/transformation-de-poissons-crustaces-mollusques.json,525,5
 sirene/67/transformation-de-viandes.json,3022,27
 sirene/67/transport-de-marchandises-livraison.json,56076,508
@@ -9581,7 +9581,7 @@ sirene/68/banques-assurances.json,42544,335
 sirene/68/bateaux-nautisme.json,3,0
 sirene/68/bijouterie-horlogerie.json,483,4
 sirene/68/boucherie-charcuterie-poissonnerie.json,15631,135
-sirene/68/boulangerie-patisserie.json,42651,371
+sirene/68/boulangerie-patisserie.json,43077,375
 sirene/68/bureaux-d-etudes-economistes-de-la-construction.json,33527,298
 sirene/68/cafes-bars.json,15658,150
 sirene/68/carrieres.json,2423,21
@@ -9589,7 +9589,7 @@ sirene/68/carrosseries-et-remorques-fabrication.json,908,8
 sirene/68/ceramique-verre-d-art-instruments-de-musique.json,860,7
 sirene/68/chaudronnerie-soudure-structures-metalliques.json,8983,80
 sirene/68/chimie-pharmacie-cosmetiques-papier.json,6804,61
-sirene/68/chocolaterie-confiserie-glaces.json,2449,21
+sirene/68/chocolaterie-confiserie-glaces.json,2587,22
 sirene/68/clubs-et-salles-de-sport.json,24270,199
 sirene/68/coiffure.json,44632,401
 sirene/68/colleges-publics-maintenance.json,6297,57
@@ -9639,7 +9639,7 @@ sirene/68/hopitaux-services-techniques.json,3927,25
 sirene/68/horticulture-maraichage-agriculture.json,34787,327
 sirene/68/hotels.json,38169,335
 sirene/68/imprimerie-prepresse-reliure.json,5798,52
-sirene/68/industrie-agroalimentaire.json,7027,57
+sirene/68/industrie-agroalimentaire.json,10407,87
 sirene/68/interim-recrutement.json,17583,154
 sirene/68/laboratoires-d-analyses-et-d-essais.json,1573,12
 sirene/68/laboratoires-de-recherche-scientifique.json,3359,28
@@ -9679,7 +9679,7 @@ sirene/68/remontees-mecaniques-telepheriques.json,632,5
 sirene/68/reparation-d-ordinateurs-et-de-telephones.json,2410,22
 sirene/68/reparation-de-machines-et-d-electronique.json,9575,85
 sirene/68/reseaux-electriques-et-telecoms.json,864,8
-sirene/68/restaurants.json,99508,905
+sirene/68/restaurants.json,99621,906
 sirene/68/restauration-collective-cantines-entreprises.json,6247,49
 sirene/68/restauration-rapide.json,50367,471
 sirene/68/scieries-preparation-du-bois.json,1369,12
@@ -9722,7 +9722,7 @@ sirene/69/banques-assurances.json,88624,737
 sirene/69/bateaux-nautisme.json,375,3
 sirene/69/bijouterie-horlogerie.json,13344,123
 sirene/69/boucherie-charcuterie-poissonnerie.json,37607,323
-sirene/69/boulangerie-patisserie.json,97517,855
+sirene/69/boulangerie-patisserie.json,98836,866
 sirene/69/bureaux-d-etudes-economistes-de-la-construction.json,204910,1813
 sirene/69/cafes-bars.json,59426,550
 sirene/69/carrieres.json,5007,40
@@ -9760,7 +9760,7 @@ sirene/69/elevage-bovin-ovin-caprin-porcin-volailles.json,16525,144
 sirene/69/elevage-de-chevaux-haras.json,1406,12
 sirene/69/enseignement-culturel-conservatoires.json,15796,134
 sirene/69/enseignes-signaletique-marquage.json,2009,18
-sirene/69/entrepots-logistique.json,65812,542
+sirene/69/entrepots-logistique.json,65954,543
 sirene/69/esthetique-soins-de-beaute.json,43272,397
 sirene/69/fabrication-de-monnaies-medailles.json,3,0
 sirene/69/fleuristes-jardineries.json,24425,214
@@ -9770,7 +9770,7 @@ sirene/69/forets-travaux-forestiers.json,3875,33
 sirene/69/froid-industriel-installation-de-machines.json,9713,80
 sirene/69/garages-carrosseries-voitures.json,109607,953
 sirene/69/geometres-experts-topographie.json,6621,55
-sirene/69/grossistes-en-fruits-et-legumes.json,9420,79
+sirene/69/grossistes-en-fruits-et-legumes.json,9527,80
 sirene/69/grossistes-en-poissons-crustaces-mollusques.json,725,7
 sirene/69/grossistes-en-viandes.json,3143,28
 sirene/69/guides-offices-de-tourisme.json,3719,31
@@ -9780,7 +9780,7 @@ sirene/69/hopitaux-services-techniques.json,6916,54
 sirene/69/horticulture-maraichage-agriculture.json,19341,168
 sirene/69/hotels.json,58951,500
 sirene/69/imprimerie-prepresse-reliure.json,14976,130
-sirene/69/industrie-agroalimentaire.json,9293,80
+sirene/69/industrie-agroalimentaire.json,14520,124
 sirene/69/interim-recrutement.json,103340,928
 sirene/69/laboratoires-d-analyses-et-d-essais.json,4793,33
 sirene/69/laboratoires-de-recherche-scientifique.json,29021,239
@@ -9821,7 +9821,7 @@ sirene/69/reparation-de-machines-et-d-electronique.json,28706,245
 sirene/69/reseaux-electriques-et-telecoms.json,4780,41
 sirene/69/restaurants.json,238264,2182
 sirene/69/restauration-collective-cantines-entreprises.json,27275,216
-sirene/69/restauration-rapide.json,176220,1625
+sirene/69/restauration-rapide.json,177086,1632
 sirene/69/routes-de-l-etat-centres-d-entretien.json,360,2
 sirene/69/routes-de-l-etat-etudes-et-districts.json,309,2
 sirene/69/scieries-preparation-du-bois.json,2374,21
@@ -9872,7 +9872,7 @@ sirene/70/carrosseries-et-remorques-fabrication.json,476,4
 sirene/70/ceramique-verre-d-art-instruments-de-musique.json,212,2
 sirene/70/chaudronnerie-soudure-structures-metalliques.json,4146,37
 sirene/70/chimie-pharmacie-cosmetiques-papier.json,1112,10
-sirene/70/chocolaterie-confiserie-glaces.json,542,4
+sirene/70/chocolaterie-confiserie-glaces.json,637,5
 sirene/70/clubs-et-salles-de-sport.json,10299,81
 sirene/70/coiffure.json,7395,66
 sirene/70/colleges-publics-maintenance.json,2662,23
@@ -9921,7 +9921,7 @@ sirene/70/hopitaux-services-techniques.json,591,4
 sirene/70/horticulture-maraichage-agriculture.json,23206,212
 sirene/70/hotels.json,5264,45
 sirene/70/imprimerie-prepresse-reliure.json,1502,14
-sirene/70/industrie-agroalimentaire.json,1923,16
+sirene/70/industrie-agroalimentaire.json,2641,22
 sirene/70/interim-recrutement.json,4660,38
 sirene/70/laboratoires-d-analyses-et-d-essais.json,536,4
 sirene/70/laboratoires-de-recherche-scientifique.json,440,4
@@ -9999,13 +9999,13 @@ sirene/71/architectes.json,5823,50
 sirene/71/armurerie-fabrication-d-armes.json,3,0
 sirene/71/associations-animation-solidarite.json,39816,285
 sirene/71/audiovisuel-cinema-son.json,1304,12
-sirene/71/autres-elevages-dont-animaux-de-compagnie-apiculture.json,862,7
+sirene/71/autres-elevages-dont-animaux-de-compagnie-apiculture.json,1055,9
 sirene/71/bailleurs-sociaux.json,895,5
 sirene/71/banques-assurances.json,22190,166
 sirene/71/bateaux-nautisme.json,469,4
 sirene/71/bijouterie-horlogerie.json,757,6
 sirene/71/boucherie-charcuterie-poissonnerie.json,9913,86
-sirene/71/boulangerie-patisserie.json,26412,226
+sirene/71/boulangerie-patisserie.json,26881,230
 sirene/71/bureaux-d-etudes-economistes-de-la-construction.json,20582,171
 sirene/71/cafes-bars.json,12599,113
 sirene/71/carrieres.json,2476,23
@@ -10062,7 +10062,7 @@ sirene/71/hopitaux-services-techniques.json,2736,22
 sirene/71/horticulture-maraichage-agriculture.json,18758,167
 sirene/71/hotels.json,25610,215
 sirene/71/imprimerie-prepresse-reliure.json,4618,39
-sirene/71/industrie-agroalimentaire.json,3817,31
+sirene/71/industrie-agroalimentaire.json,6851,56
 sirene/71/interim-recrutement.json,23733,198
 sirene/71/laboratoires-d-analyses-et-d-essais.json,534,4
 sirene/71/laboratoires-de-recherche-scientifique.json,1074,9
@@ -10146,7 +10146,7 @@ sirene/72/banques-assurances.json,33141,249
 sirene/72/bateaux-nautisme.json,251,2
 sirene/72/bijouterie-horlogerie.json,727,6
 sirene/72/boucherie-charcuterie-poissonnerie.json,9008,77
-sirene/72/boulangerie-patisserie.json,24980,217
+sirene/72/boulangerie-patisserie.json,25776,223
 sirene/72/bureaux-d-etudes-economistes-de-la-construction.json,15966,143
 sirene/72/cafes-bars.json,13223,119
 sirene/72/carrieres.json,3701,29
@@ -10204,7 +10204,7 @@ sirene/72/hopitaux-services-techniques.json,2381,17
 sirene/72/horticulture-maraichage-agriculture.json,33245,310
 sirene/72/hotels.json,15030,125
 sirene/72/imprimerie-prepresse-reliure.json,4587,40
-sirene/72/industrie-agroalimentaire.json,3844,32
+sirene/72/industrie-agroalimentaire.json,6112,53
 sirene/72/interim-recrutement.json,17523,145
 sirene/72/laboratoires-d-analyses-et-d-essais.json,749,6
 sirene/72/laboratoires-de-recherche-scientifique.json,1641,13
@@ -10287,7 +10287,7 @@ sirene/73/banques-assurances.json,28301,218
 sirene/73/bateaux-nautisme.json,482,4
 sirene/73/bijouterie-horlogerie.json,494,4
 sirene/73/boucherie-charcuterie-poissonnerie.json,12948,109
-sirene/73/boulangerie-patisserie.json,31152,258
+sirene/73/boulangerie-patisserie.json,31966,264
 sirene/73/bureaux-d-etudes-economistes-de-la-construction.json,40715,333
 sirene/73/cafes-bars.json,34268,290
 sirene/73/carrieres.json,2407,20
@@ -10345,13 +10345,13 @@ sirene/73/hopitaux-services-techniques.json,1287,9
 sirene/73/horticulture-maraichage-agriculture.json,7586,64
 sirene/73/hotels.json,159429,1254
 sirene/73/imprimerie-prepresse-reliure.json,2710,22
-sirene/73/industrie-agroalimentaire.json,8821,69
+sirene/73/industrie-agroalimentaire.json,12863,103
 sirene/73/interim-recrutement.json,15559,123
 sirene/73/laboratoires-d-analyses-et-d-essais.json,990,7
 sirene/73/laboratoires-de-recherche-scientifique.json,2378,18
 sirene/73/loisirs-animation.json,29655,221
 sirene/73/lycees-publics-maintenance.json,2212,17
-sirene/73/magasins-specialises-bricolage-maison-sport-high-tech.json,119110,966
+sirene/73/magasins-specialises-bricolage-maison-sport-high-tech.json,119234,967
 sirene/73/maintenance-d-equipements-ascenseurs.json,4368,36
 sirene/73/mairies-administrations.json,31278,196
 sirene/73/materiels-agricoles-engins-de-chantier.json,8964,74
@@ -10429,9 +10429,9 @@ sirene/74/banques-assurances.json,46956,356
 sirene/74/bateaux-nautisme.json,1221,10
 sirene/74/bijouterie-horlogerie.json,1969,16
 sirene/74/boucherie-charcuterie-poissonnerie.json,20443,173
-sirene/74/boulangerie-patisserie.json,49816,422
+sirene/74/boulangerie-patisserie.json,50143,425
 sirene/74/bureaux-d-etudes-economistes-de-la-construction.json,42067,363
-sirene/74/cafes-bars.json,43688,383
+sirene/74/cafes-bars.json,43893,385
 sirene/74/carrieres.json,5257,46
 sirene/74/carrosseries-et-remorques-fabrication.json,1354,11
 sirene/74/ceramique-verre-d-art-instruments-de-musique.json,607,6
@@ -10467,7 +10467,7 @@ sirene/74/elevage-bovin-ovin-caprin-porcin-volailles.json,36320,325
 sirene/74/elevage-de-chevaux-haras.json,1588,14
 sirene/74/enseignement-culturel-conservatoires.json,6172,51
 sirene/74/enseignes-signaletique-marquage.json,1323,11
-sirene/74/entrepots-logistique.json,15182,128
+sirene/74/entrepots-logistique.json,15328,129
 sirene/74/esthetique-soins-de-beaute.json,19312,161
 sirene/74/fabrication-de-monnaies-medailles.json,3,0
 sirene/74/fleuristes-jardineries.json,14970,129
@@ -10485,9 +10485,9 @@ sirene/74/handicap-foyers-esat-ime.json,15072,114
 sirene/74/hopitaux-cliniques-laboratoires.json,27831,211
 sirene/74/hopitaux-services-techniques.json,2747,21
 sirene/74/horticulture-maraichage-agriculture.json,10713,93
-sirene/74/hotels.json,133373,1069
+sirene/74/hotels.json,133604,1071
 sirene/74/imprimerie-prepresse-reliure.json,5242,45
-sirene/74/industrie-agroalimentaire.json,11372,87
+sirene/74/industrie-agroalimentaire.json,16364,129
 sirene/74/interim-recrutement.json,18365,158
 sirene/74/laboratoires-d-analyses-et-d-essais.json,1318,11
 sirene/74/laboratoires-de-recherche-scientifique.json,3378,28
@@ -10572,7 +10572,7 @@ sirene/75/banques-assurances.json,327035,2837
 sirene/75/bateaux-nautisme.json,722,7
 sirene/75/bijouterie-horlogerie.json,51281,501
 sirene/75/boucherie-charcuterie-poissonnerie.json,54310,517
-sirene/75/boulangerie-patisserie.json,170902,1581
+sirene/75/boulangerie-patisserie.json,172283,1594
 sirene/75/bureaux-d-etudes-economistes-de-la-construction.json,214507,2051
 sirene/75/cafes-bars.json,140371,1360
 sirene/75/carrieres.json,2128,20
@@ -10610,7 +10610,7 @@ sirene/75/elevage-bovin-ovin-caprin-porcin-volailles.json,220,2
 sirene/75/elevage-de-chevaux-haras.json,1190,12
 sirene/75/enseignement-culturel-conservatoires.json,28211,256
 sirene/75/enseignes-signaletique-marquage.json,2224,18
-sirene/75/entrepots-logistique.json,33042,309
+sirene/75/entrepots-logistique.json,33148,310
 sirene/75/esthetique-soins-de-beaute.json,178994,1779
 sirene/75/fabrication-de-monnaies-medailles.json,663,6
 sirene/75/fleuristes-jardineries.json,42987,415
@@ -10620,7 +10620,7 @@ sirene/75/forets-travaux-forestiers.json,8337,71
 sirene/75/froid-industriel-installation-de-machines.json,2402,22
 sirene/75/garages-carrosseries-voitures.json,26466,247
 sirene/75/geometres-experts-topographie.json,4310,39
-sirene/75/grossistes-en-fruits-et-legumes.json,5242,50
+sirene/75/grossistes-en-fruits-et-legumes.json,5343,51
 sirene/75/grossistes-en-poissons-crustaces-mollusques.json,1758,17
 sirene/75/grossistes-en-viandes.json,1753,16
 sirene/75/guides-offices-de-tourisme.json,24878,221
@@ -10630,10 +10630,10 @@ sirene/75/hopitaux-services-techniques.json,11273,83
 sirene/75/horticulture-maraichage-agriculture.json,2529,23
 sirene/75/hotels.json,342657,3146
 sirene/75/imprimerie-prepresse-reliure.json,22945,219
-sirene/75/industrie-agroalimentaire.json,10831,105
+sirene/75/industrie-agroalimentaire.json,16067,153
 sirene/75/interim-recrutement.json,112801,1032
 sirene/75/laboratoires-d-analyses-et-d-essais.json,3690,30
-sirene/75/laboratoires-de-recherche-scientifique.json,114325,858
+sirene/75/laboratoires-de-recherche-scientifique.json,114532,860
 sirene/75/loisirs-animation.json,214375,1765
 sirene/75/lycees-publics-maintenance.json,10372,93
 sirene/75/magasins-specialises-bricolage-maison-sport-high-tech.json,473749,4374
@@ -10669,9 +10669,9 @@ sirene/75/remontees-mecaniques-telepheriques.json,234,2
 sirene/75/reparation-d-ordinateurs-et-de-telephones.json,15369,147
 sirene/75/reparation-de-machines-et-d-electronique.json,4876,45
 sirene/75/reseaux-electriques-et-telecoms.json,2911,27
-sirene/75/restaurants.json,880356,8555
+sirene/75/restaurants.json,880460,8556
 sirene/75/restauration-collective-cantines-entreprises.json,160197,1091
-sirene/75/restauration-rapide.json,552523,5352
+sirene/75/restauration-rapide.json,553983,5365
 sirene/75/scieries-preparation-du-bois.json,492,5
 sirene/75/secretariat-accueil-centres-d-appels.json,203532,1923
 sirene/75/securite-privee-surveillance.json,53303,488
@@ -10680,7 +10680,7 @@ sirene/75/services-informatiques-reseaux.json,337784,3436
 sirene/75/sieges-reparation-de-meubles.json,5495,51
 sirene/75/spectacle-musees-bibliotheques.json,220784,1996
 sirene/75/superettes-alimentation-generale.json,92500,879
-sirene/75/supermarches-grandes-surfaces.json,222804,2144
+sirene/75/supermarches-grandes-surfaces.json,223003,2146
 sirene/75/tapisserie-decoration-textile.json,12648,121
 sirene/75/telecommunications.json,43576,416
 sirene/75/traitement-des-dechets-dangereux.json,340,3
@@ -10712,9 +10712,9 @@ sirene/76/banques-assurances.json,53780,396
 sirene/76/bateaux-nautisme.json,1941,16
 sirene/76/bijouterie-horlogerie.json,784,8
 sirene/76/boucherie-charcuterie-poissonnerie.json,27413,242
-sirene/76/boulangerie-patisserie.json,58722,508
+sirene/76/boulangerie-patisserie.json,60352,521
 sirene/76/bureaux-d-etudes-economistes-de-la-construction.json,57281,484
-sirene/76/cafes-bars.json,35874,327
+sirene/76/cafes-bars.json,36000,328
 sirene/76/carrieres.json,3394,27
 sirene/76/carrosseries-et-remorques-fabrication.json,2520,20
 sirene/76/ceramique-verre-d-art-instruments-de-musique.json,1779,15
@@ -10750,7 +10750,7 @@ sirene/76/elevage-bovin-ovin-caprin-porcin-volailles.json,21823,192
 sirene/76/elevage-de-chevaux-haras.json,1579,13
 sirene/76/enseignement-culturel-conservatoires.json,6952,54
 sirene/76/enseignes-signaletique-marquage.json,2585,19
-sirene/76/entrepots-logistique.json,58135,475
+sirene/76/entrepots-logistique.json,58376,477
 sirene/76/esthetique-soins-de-beaute.json,17326,153
 sirene/76/fabrication-de-monnaies-medailles.json,3,0
 sirene/76/fleuristes-jardineries.json,18634,157
@@ -10770,7 +10770,7 @@ sirene/76/hopitaux-services-techniques.json,5228,38
 sirene/76/horticulture-maraichage-agriculture.json,102837,908
 sirene/76/hotels.json,30904,266
 sirene/76/imprimerie-prepresse-reliure.json,6982,57
-sirene/76/industrie-agroalimentaire.json,3498,31
+sirene/76/industrie-agroalimentaire.json,8013,67
 sirene/76/interim-recrutement.json,37000,308
 sirene/76/laboratoires-d-analyses-et-d-essais.json,3792,27
 sirene/76/laboratoires-de-recherche-scientifique.json,4199,30
@@ -10855,7 +10855,7 @@ sirene/77/banques-assurances.json,81161,612
 sirene/77/bateaux-nautisme.json,357,3
 sirene/77/bijouterie-horlogerie.json,2286,20
 sirene/77/boucherie-charcuterie-poissonnerie.json,20938,177
-sirene/77/boulangerie-patisserie.json,57658,486
+sirene/77/boulangerie-patisserie.json,58514,493
 sirene/77/bureaux-d-etudes-economistes-de-la-construction.json,64258,555
 sirene/77/cafes-bars.json,22011,197
 sirene/77/carrieres.json,6946,54
@@ -10893,7 +10893,7 @@ sirene/77/elevage-bovin-ovin-caprin-porcin-volailles.json,2519,21
 sirene/77/elevage-de-chevaux-haras.json,2792,23
 sirene/77/enseignement-culturel-conservatoires.json,8523,71
 sirene/77/enseignes-signaletique-marquage.json,2375,19
-sirene/77/entrepots-logistique.json,46173,378
+sirene/77/entrepots-logistique.json,46452,380
 sirene/77/esthetique-soins-de-beaute.json,27567,243
 sirene/77/fabrication-de-monnaies-medailles.json,3,0
 sirene/77/fleuristes-jardineries.json,17924,149
@@ -10913,7 +10913,7 @@ sirene/77/hopitaux-services-techniques.json,2930,19
 sirene/77/horticulture-maraichage-agriculture.json,41395,372
 sirene/77/hotels.json,32987,270
 sirene/77/imprimerie-prepresse-reliure.json,12403,101
-sirene/77/industrie-agroalimentaire.json,5562,47
+sirene/77/industrie-agroalimentaire.json,9689,82
 sirene/77/interim-recrutement.json,47600,386
 sirene/77/laboratoires-d-analyses-et-d-essais.json,889,7
 sirene/77/laboratoires-de-recherche-scientifique.json,4084,29
@@ -10997,7 +10997,7 @@ sirene/78/banques-assurances.json,90659,697
 sirene/78/bateaux-nautisme.json,548,4
 sirene/78/bijouterie-horlogerie.json,1961,16
 sirene/78/boucherie-charcuterie-poissonnerie.json,26099,218
-sirene/78/boulangerie-patisserie.json,64406,541
+sirene/78/boulangerie-patisserie.json,64853,545
 sirene/78/bureaux-d-etudes-economistes-de-la-construction.json,92020,786
 sirene/78/cafes-bars.json,18606,166
 sirene/78/carrieres.json,3173,23
@@ -11055,7 +11055,7 @@ sirene/78/hopitaux-services-techniques.json,4210,30
 sirene/78/horticulture-maraichage-agriculture.json,15287,132
 sirene/78/hotels.json,30857,251
 sirene/78/imprimerie-prepresse-reliure.json,4386,37
-sirene/78/industrie-agroalimentaire.json,2664,23
+sirene/78/industrie-agroalimentaire.json,4890,42
 sirene/78/interim-recrutement.json,23273,188
 sirene/78/laboratoires-d-analyses-et-d-essais.json,769,6
 sirene/78/laboratoires-de-recherche-scientifique.json,9656,70
@@ -11094,9 +11094,9 @@ sirene/78/remontees-mecaniques-telepheriques.json,3,0
 sirene/78/reparation-d-ordinateurs-et-de-telephones.json,4435,37
 sirene/78/reparation-de-machines-et-d-electronique.json,9861,80
 sirene/78/reseaux-electriques-et-telecoms.json,3777,27
-sirene/78/restaurants.json,120297,1053
+sirene/78/restaurants.json,120422,1054
 sirene/78/restauration-collective-cantines-entreprises.json,104577,693
-sirene/78/restauration-rapide.json,103418,890
+sirene/78/restauration-rapide.json,104106,895
 sirene/78/routes-de-l-etat-centres-d-entretien.json,1905,8
 sirene/78/routes-de-l-etat-etudes-et-districts.json,233,1
 sirene/78/scieries-preparation-du-bois.json,355,3
@@ -11141,7 +11141,7 @@ sirene/79/bijouterie-horlogerie.json,198,2
 sirene/79/boucherie-charcuterie-poissonnerie.json,6068,52
 sirene/79/boulangerie-patisserie.json,14689,126
 sirene/79/bureaux-d-etudes-economistes-de-la-construction.json,8570,75
-sirene/79/cafes-bars.json,8262,75
+sirene/79/cafes-bars.json,8350,76
 sirene/79/carrieres.json,1837,17
 sirene/79/carrosseries-et-remorques-fabrication.json,1653,13
 sirene/79/ceramique-verre-d-art-instruments-de-musique.json,3,0
@@ -11197,7 +11197,7 @@ sirene/79/hopitaux-services-techniques.json,1098,8
 sirene/79/horticulture-maraichage-agriculture.json,36053,316
 sirene/79/hotels.json,9103,81
 sirene/79/imprimerie-prepresse-reliure.json,2286,19
-sirene/79/industrie-agroalimentaire.json,3495,32
+sirene/79/industrie-agroalimentaire.json,5547,50
 sirene/79/interim-recrutement.json,16910,137
 sirene/79/laboratoires-d-analyses-et-d-essais.json,291,2
 sirene/79/laboratoires-de-recherche-scientifique.json,688,5
@@ -11280,7 +11280,7 @@ sirene/80/banques-assurances.json,24535,185
 sirene/80/bateaux-nautisme.json,278,2
 sirene/80/bijouterie-horlogerie.json,772,7
 sirene/80/boucherie-charcuterie-poissonnerie.json,11113,99
-sirene/80/boulangerie-patisserie.json,20491,176
+sirene/80/boulangerie-patisserie.json,20851,179
 sirene/80/bureaux-d-etudes-economistes-de-la-construction.json,15845,139
 sirene/80/cafes-bars.json,13439,124
 sirene/80/carrieres.json,1827,15
@@ -11318,7 +11318,7 @@ sirene/80/elevage-bovin-ovin-caprin-porcin-volailles.json,8905,85
 sirene/80/elevage-de-chevaux-haras.json,812,7
 sirene/80/enseignement-culturel-conservatoires.json,3029,25
 sirene/80/enseignes-signaletique-marquage.json,590,5
-sirene/80/entrepots-logistique.json,11176,90
+sirene/80/entrepots-logistique.json,11430,92
 sirene/80/esthetique-soins-de-beaute.json,5279,49
 sirene/80/fabrication-de-monnaies-medailles.json,3,0
 sirene/80/fleuristes-jardineries.json,10658,95
@@ -11335,10 +11335,10 @@ sirene/80/guides-offices-de-tourisme.json,931,7
 sirene/80/handicap-foyers-esat-ime.json,17011,108
 sirene/80/hopitaux-cliniques-laboratoires.json,23189,161
 sirene/80/hopitaux-services-techniques.json,2836,21
-sirene/80/horticulture-maraichage-agriculture.json,99759,947
+sirene/80/horticulture-maraichage-agriculture.json,99866,948
 sirene/80/hotels.json,17950,149
 sirene/80/imprimerie-prepresse-reliure.json,2019,18
-sirene/80/industrie-agroalimentaire.json,1931,17
+sirene/80/industrie-agroalimentaire.json,4733,42
 sirene/80/interim-recrutement.json,14289,121
 sirene/80/laboratoires-d-analyses-et-d-essais.json,150,1
 sirene/80/laboratoires-de-recherche-scientifique.json,1585,12
@@ -11421,7 +11421,7 @@ sirene/81/banques-assurances.json,21225,162
 sirene/81/bateaux-nautisme.json,3,0
 sirene/81/bijouterie-horlogerie.json,903,8
 sirene/81/boucherie-charcuterie-poissonnerie.json,11976,103
-sirene/81/boulangerie-patisserie.json,18889,167
+sirene/81/boulangerie-patisserie.json,20155,178
 sirene/81/bureaux-d-etudes-economistes-de-la-construction.json,11569,101
 sirene/81/cafes-bars.json,8972,82
 sirene/81/carrieres.json,3692,33
@@ -11479,7 +11479,7 @@ sirene/81/hopitaux-services-techniques.json,1024,8
 sirene/81/horticulture-maraichage-agriculture.json,14459,129
 sirene/81/hotels.json,9406,80
 sirene/81/imprimerie-prepresse-reliure.json,4083,35
-sirene/81/industrie-agroalimentaire.json,4452,40
+sirene/81/industrie-agroalimentaire.json,6902,62
 sirene/81/interim-recrutement.json,10893,91
 sirene/81/laboratoires-d-analyses-et-d-essais.json,672,5
 sirene/81/laboratoires-de-recherche-scientifique.json,1955,14
@@ -11563,7 +11563,7 @@ sirene/82/banques-assurances.json,14826,109
 sirene/82/bateaux-nautisme.json,128,1
 sirene/82/bijouterie-horlogerie.json,259,2
 sirene/82/boucherie-charcuterie-poissonnerie.json,5957,51
-sirene/82/boulangerie-patisserie.json,13187,115
+sirene/82/boulangerie-patisserie.json,13319,116
 sirene/82/bureaux-d-etudes-economistes-de-la-construction.json,8157,74
 sirene/82/cafes-bars.json,5682,53
 sirene/82/carrieres.json,2380,19
@@ -11620,7 +11620,7 @@ sirene/82/hopitaux-services-techniques.json,1507,11
 sirene/82/horticulture-maraichage-agriculture.json,16491,149
 sirene/82/hotels.json,7918,68
 sirene/82/imprimerie-prepresse-reliure.json,1856,16
-sirene/82/industrie-agroalimentaire.json,1743,15
+sirene/82/industrie-agroalimentaire.json,3430,30
 sirene/82/interim-recrutement.json,12434,103
 sirene/82/laboratoires-d-analyses-et-d-essais.json,287,2
 sirene/82/laboratoires-de-recherche-scientifique.json,1157,11
@@ -11701,7 +11701,7 @@ sirene/83/banques-assurances.json,46511,345
 sirene/83/bateaux-nautisme.json,21168,170
 sirene/83/bijouterie-horlogerie.json,4269,36
 sirene/83/boucherie-charcuterie-poissonnerie.json,26337,218
-sirene/83/boulangerie-patisserie.json,66426,550
+sirene/83/boulangerie-patisserie.json,67007,555
 sirene/83/bureaux-d-etudes-economistes-de-la-construction.json,57635,460
 sirene/83/cafes-bars.json,48310,421
 sirene/83/carrieres.json,4660,35
@@ -11759,7 +11759,7 @@ sirene/83/hopitaux-services-techniques.json,3387,25
 sirene/83/horticulture-maraichage-agriculture.json,16498,141
 sirene/83/hotels.json,86136,674
 sirene/83/imprimerie-prepresse-reliure.json,6602,54
-sirene/83/industrie-agroalimentaire.json,7387,60
+sirene/83/industrie-agroalimentaire.json,10952,88
 sirene/83/interim-recrutement.json,23310,181
 sirene/83/laboratoires-d-analyses-et-d-essais.json,1228,9
 sirene/83/laboratoires-de-recherche-scientifique.json,3379,26
@@ -11842,7 +11842,7 @@ sirene/84/banques-assurances.json,24333,188
 sirene/84/bateaux-nautisme.json,351,3
 sirene/84/bijouterie-horlogerie.json,1233,11
 sirene/84/boucherie-charcuterie-poissonnerie.json,11671,103
-sirene/84/boulangerie-patisserie.json,36249,314
+sirene/84/boulangerie-patisserie.json,37005,321
 sirene/84/bureaux-d-etudes-economistes-de-la-construction.json,31396,269
 sirene/84/cafes-bars.json,20178,182
 sirene/84/carrieres.json,4469,38
@@ -11900,7 +11900,7 @@ sirene/84/hopitaux-services-techniques.json,1898,15
 sirene/84/horticulture-maraichage-agriculture.json,25105,218
 sirene/84/hotels.json,39416,334
 sirene/84/imprimerie-prepresse-reliure.json,4746,41
-sirene/84/industrie-agroalimentaire.json,6365,53
+sirene/84/industrie-agroalimentaire.json,12884,109
 sirene/84/interim-recrutement.json,28930,237
 sirene/84/laboratoires-d-analyses-et-d-essais.json,660,5
 sirene/84/laboratoires-de-recherche-scientifique.json,4082,30
@@ -11983,7 +11983,7 @@ sirene/85/banques-assurances.json,40314,289
 sirene/85/bateaux-nautisme.json,6935,56
 sirene/85/bijouterie-horlogerie.json,1111,9
 sirene/85/boucherie-charcuterie-poissonnerie.json,18340,151
-sirene/85/boulangerie-patisserie.json,41184,339
+sirene/85/boulangerie-patisserie.json,46114,378
 sirene/85/bureaux-d-etudes-economistes-de-la-construction.json,24741,204
 sirene/85/cafes-bars.json,26178,220
 sirene/85/carrieres.json,4331,34
@@ -12021,7 +12021,7 @@ sirene/85/elevage-bovin-ovin-caprin-porcin-volailles.json,80133,739
 sirene/85/elevage-de-chevaux-haras.json,2874,26
 sirene/85/enseignement-culturel-conservatoires.json,6714,54
 sirene/85/enseignes-signaletique-marquage.json,1581,12
-sirene/85/entrepots-logistique.json,10699,85
+sirene/85/entrepots-logistique.json,10992,87
 sirene/85/esthetique-soins-de-beaute.json,14418,117
 sirene/85/fabrication-de-monnaies-medailles.json,3,0
 sirene/85/fleuristes-jardineries.json,14938,122
@@ -12041,7 +12041,7 @@ sirene/85/hopitaux-services-techniques.json,1395,10
 sirene/85/horticulture-maraichage-agriculture.json,41868,376
 sirene/85/hotels.json,30630,247
 sirene/85/imprimerie-prepresse-reliure.json,6650,53
-sirene/85/industrie-agroalimentaire.json,8159,65
+sirene/85/industrie-agroalimentaire.json,11890,96
 sirene/85/interim-recrutement.json,37367,283
 sirene/85/laboratoires-d-analyses-et-d-essais.json,544,4
 sirene/85/laboratoires-de-recherche-scientifique.json,1287,10
@@ -12085,13 +12085,13 @@ sirene/85/restaurants.json,72032,601
 sirene/85/restauration-collective-cantines-entreprises.json,8972,62
 sirene/85/restauration-rapide.json,39726,332
 sirene/85/scieries-preparation-du-bois.json,1413,12
-sirene/85/secretariat-accueil-centres-d-appels.json,22309,186
+sirene/85/secretariat-accueil-centres-d-appels.json,22488,187
 sirene/85/securite-privee-surveillance.json,4056,33
 sirene/85/services-a-l-elevage-marechalerie.json,1752,16
 sirene/85/services-informatiques-reseaux.json,8093,67
 sirene/85/sieges-reparation-de-meubles.json,502,4
 sirene/85/spectacle-musees-bibliotheques.json,15939,129
-sirene/85/superettes-alimentation-generale.json,8147,65
+sirene/85/superettes-alimentation-generale.json,8260,66
 sirene/85/supermarches-grandes-surfaces.json,27929,232
 sirene/85/tapisserie-decoration-textile.json,2418,17
 sirene/85/telecommunications.json,2143,18
@@ -12124,7 +12124,7 @@ sirene/86/banques-assurances.json,24231,173
 sirene/86/bateaux-nautisme.json,3,0
 sirene/86/bijouterie-horlogerie.json,105,1
 sirene/86/boucherie-charcuterie-poissonnerie.json,6892,58
-sirene/86/boulangerie-patisserie.json,19043,165
+sirene/86/boulangerie-patisserie.json,19317,167
 sirene/86/bureaux-d-etudes-economistes-de-la-construction.json,16721,139
 sirene/86/cafes-bars.json,9196,82
 sirene/86/carrieres.json,3536,31
@@ -12179,10 +12179,10 @@ sirene/86/guides-offices-de-tourisme.json,1999,14
 sirene/86/handicap-foyers-esat-ime.json,13422,101
 sirene/86/hopitaux-cliniques-laboratoires.json,10395,73
 sirene/86/hopitaux-services-techniques.json,588,5
-sirene/86/horticulture-maraichage-agriculture.json,47085,435
+sirene/86/horticulture-maraichage-agriculture.json,47198,436
 sirene/86/hotels.json,17605,137
 sirene/86/imprimerie-prepresse-reliure.json,1943,16
-sirene/86/industrie-agroalimentaire.json,2309,20
+sirene/86/industrie-agroalimentaire.json,3963,34
 sirene/86/interim-recrutement.json,12286,99
 sirene/86/laboratoires-d-analyses-et-d-essais.json,731,5
 sirene/86/laboratoires-de-recherche-scientifique.json,1991,16
@@ -12266,9 +12266,9 @@ sirene/87/banques-assurances.json,22508,164
 sirene/87/bateaux-nautisme.json,119,1
 sirene/87/bijouterie-horlogerie.json,322,3
 sirene/87/boucherie-charcuterie-poissonnerie.json,6946,61
-sirene/87/boulangerie-patisserie.json,17488,150
+sirene/87/boulangerie-patisserie.json,17586,151
 sirene/87/bureaux-d-etudes-economistes-de-la-construction.json,12868,112
-sirene/87/cafes-bars.json,9988,92
+sirene/87/cafes-bars.json,10088,93
 sirene/87/carrieres.json,2236,20
 sirene/87/carrosseries-et-remorques-fabrication.json,567,5
 sirene/87/ceramique-verre-d-art-instruments-de-musique.json,4502,39
@@ -12323,7 +12323,7 @@ sirene/87/hopitaux-services-techniques.json,2424,15
 sirene/87/horticulture-maraichage-agriculture.json,5196,47
 sirene/87/hotels.json,11041,95
 sirene/87/imprimerie-prepresse-reliure.json,4502,40
-sirene/87/industrie-agroalimentaire.json,1926,14
+sirene/87/industrie-agroalimentaire.json,2692,21
 sirene/87/interim-recrutement.json,11554,94
 sirene/87/laboratoires-d-analyses-et-d-essais.json,977,7
 sirene/87/laboratoires-de-recherche-scientifique.json,2857,18
@@ -12406,7 +12406,7 @@ sirene/88/banques-assurances.json,19531,154
 sirene/88/bateaux-nautisme.json,116,1
 sirene/88/bijouterie-horlogerie.json,792,7
 sirene/88/boucherie-charcuterie-poissonnerie.json,10610,90
-sirene/88/boulangerie-patisserie.json,23057,198
+sirene/88/boulangerie-patisserie.json,23167,199
 sirene/88/bureaux-d-etudes-economistes-de-la-construction.json,12999,114
 sirene/88/cafes-bars.json,12238,109
 sirene/88/carrieres.json,2469,21
@@ -12463,7 +12463,7 @@ sirene/88/hopitaux-services-techniques.json,2535,17
 sirene/88/horticulture-maraichage-agriculture.json,13308,118
 sirene/88/hotels.json,23421,194
 sirene/88/imprimerie-prepresse-reliure.json,2546,21
-sirene/88/industrie-agroalimentaire.json,4091,35
+sirene/88/industrie-agroalimentaire.json,6785,57
 sirene/88/interim-recrutement.json,8389,71
 sirene/88/laboratoires-d-analyses-et-d-essais.json,312,2
 sirene/88/laboratoires-de-recherche-scientifique.json,479,3
@@ -12514,7 +12514,7 @@ sirene/88/services-a-l-elevage-marechalerie.json,195,2
 sirene/88/services-informatiques-reseaux.json,2873,26
 sirene/88/sieges-reparation-de-meubles.json,902,8
 sirene/88/spectacle-musees-bibliotheques.json,5749,46
-sirene/88/superettes-alimentation-generale.json,6187,54
+sirene/88/superettes-alimentation-generale.json,6323,55
 sirene/88/supermarches-grandes-surfaces.json,11970,106
 sirene/88/tapisserie-decoration-textile.json,3712,31
 sirene/88/telecommunications.json,1115,10
@@ -12547,7 +12547,7 @@ sirene/89/banques-assurances.json,15068,121
 sirene/89/bateaux-nautisme.json,207,2
 sirene/89/bijouterie-horlogerie.json,96,1
 sirene/89/boucherie-charcuterie-poissonnerie.json,6308,55
-sirene/89/boulangerie-patisserie.json,14731,126
+sirene/89/boulangerie-patisserie.json,15106,129
 sirene/89/bureaux-d-etudes-economistes-de-la-construction.json,9935,84
 sirene/89/cafes-bars.json,8127,75
 sirene/89/carrieres.json,2998,26
@@ -12605,7 +12605,7 @@ sirene/89/hopitaux-services-techniques.json,1321,11
 sirene/89/horticulture-maraichage-agriculture.json,29871,274
 sirene/89/hotels.json,12588,105
 sirene/89/imprimerie-prepresse-reliure.json,2578,23
-sirene/89/industrie-agroalimentaire.json,1879,15
+sirene/89/industrie-agroalimentaire.json,3843,32
 sirene/89/interim-recrutement.json,13686,117
 sirene/89/laboratoires-d-analyses-et-d-essais.json,700,5
 sirene/89/laboratoires-de-recherche-scientifique.json,507,5
@@ -12636,7 +12636,7 @@ sirene/89/plomberie-chauffage-climatisation-froid.json,16200,146
 sirene/89/poids-lourds-utilitaires.json,1284,11
 sirene/89/poste-courrier.json,703,7
 sirene/89/pressing-blanchisserie-retouches.json,1882,16
-sirene/89/primeur-fromagerie-epicerie-fine-cave.json,3958,35
+sirene/89/primeur-fromagerie-epicerie-fine-cave.json,4070,36
 sirene/89/production-et-distribution-d-energie.json,2912,25
 sirene/89/publicite-design-graphique.json,2353,21
 sirene/89/remontees-mecaniques-telepheriques.json,3,0
@@ -12648,7 +12648,7 @@ sirene/89/restauration-collective-cantines-entreprises.json,3851,31
 sirene/89/restauration-rapide.json,17286,157
 sirene/89/routes-de-l-etat-centres-d-entretien.json,160,1
 sirene/89/scieries-preparation-du-bois.json,1139,10
-sirene/89/secretariat-accueil-centres-d-appels.json,6765,62
+sirene/89/secretariat-accueil-centres-d-appels.json,6882,63
 sirene/89/securite-privee-surveillance.json,2215,19
 sirene/89/services-a-l-elevage-marechalerie.json,756,7
 sirene/89/services-informatiques-reseaux.json,2666,25
@@ -12687,7 +12687,7 @@ sirene/90/banques-assurances.json,8481,67
 sirene/90/bateaux-nautisme.json,3,0
 sirene/90/bijouterie-horlogerie.json,93,1
 sirene/90/boucherie-charcuterie-poissonnerie.json,2534,21
-sirene/90/boulangerie-patisserie.json,6914,60
+sirene/90/boulangerie-patisserie.json,7284,63
 sirene/90/bureaux-d-etudes-economistes-de-la-construction.json,8642,74
 sirene/90/cafes-bars.json,2217,21
 sirene/90/carrieres.json,579,5
@@ -12745,7 +12745,7 @@ sirene/90/hopitaux-services-techniques.json,384,3
 sirene/90/horticulture-maraichage-agriculture.json,1647,15
 sirene/90/hotels.json,3136,27
 sirene/90/imprimerie-prepresse-reliure.json,259,2
-sirene/90/industrie-agroalimentaire.json,119,1
+sirene/90/industrie-agroalimentaire.json,232,2
 sirene/90/interim-recrutement.json,3324,28
 sirene/90/laboratoires-d-analyses-et-d-essais.json,3,0
 sirene/90/laboratoires-de-recherche-scientifique.json,344,3
@@ -12826,7 +12826,7 @@ sirene/91/banques-assurances.json,72875,560
 sirene/91/bateaux-nautisme.json,489,4
 sirene/91/bijouterie-horlogerie.json,1054,10
 sirene/91/boucherie-charcuterie-poissonnerie.json,18774,160
-sirene/91/boulangerie-patisserie.json,53300,442
+sirene/91/boulangerie-patisserie.json,54136,448
 sirene/91/bureaux-d-etudes-economistes-de-la-construction.json,73056,626
 sirene/91/cafes-bars.json,14496,128
 sirene/91/carrieres.json,1475,11
@@ -12864,7 +12864,7 @@ sirene/91/elevage-bovin-ovin-caprin-porcin-volailles.json,544,5
 sirene/91/elevage-de-chevaux-haras.json,1293,10
 sirene/91/enseignement-culturel-conservatoires.json,8943,73
 sirene/91/enseignes-signaletique-marquage.json,3096,22
-sirene/91/entrepots-logistique.json,31138,254
+sirene/91/entrepots-logistique.json,31282,255
 sirene/91/esthetique-soins-de-beaute.json,28066,244
 sirene/91/fabrication-de-monnaies-medailles.json,110,1
 sirene/91/fleuristes-jardineries.json,17290,143
@@ -12884,10 +12884,10 @@ sirene/91/hopitaux-services-techniques.json,4783,34
 sirene/91/horticulture-maraichage-agriculture.json,13201,116
 sirene/91/hotels.json,26338,213
 sirene/91/imprimerie-prepresse-reliure.json,9295,77
-sirene/91/industrie-agroalimentaire.json,4361,36
+sirene/91/industrie-agroalimentaire.json,6112,51
 sirene/91/interim-recrutement.json,27604,218
 sirene/91/laboratoires-d-analyses-et-d-essais.json,4610,32
-sirene/91/laboratoires-de-recherche-scientifique.json,32045,228
+sirene/91/laboratoires-de-recherche-scientifique.json,32143,229
 sirene/91/loisirs-animation.json,63563,468
 sirene/91/lycees-publics-maintenance.json,5465,45
 sirene/91/magasins-specialises-bricolage-maison-sport-high-tech.json,75943,600
@@ -12967,7 +12967,7 @@ sirene/92/banques-assurances.json,148552,1163
 sirene/92/bateaux-nautisme.json,607,5
 sirene/92/bijouterie-horlogerie.json,2515,23
 sirene/92/boucherie-charcuterie-poissonnerie.json,27927,243
-sirene/92/boulangerie-patisserie.json,75196,647
+sirene/92/boulangerie-patisserie.json,76387,657
 sirene/92/bureaux-d-etudes-economistes-de-la-construction.json,132375,1150
 sirene/92/cafes-bars.json,24285,213
 sirene/92/carrieres.json,1602,12
@@ -13025,7 +13025,7 @@ sirene/92/hopitaux-services-techniques.json,8266,61
 sirene/92/horticulture-maraichage-agriculture.json,1097,9
 sirene/92/hotels.json,57224,472
 sirene/92/imprimerie-prepresse-reliure.json,7325,65
-sirene/92/industrie-agroalimentaire.json,7376,64
+sirene/92/industrie-agroalimentaire.json,8687,74
 sirene/92/interim-recrutement.json,32461,261
 sirene/92/laboratoires-d-analyses-et-d-essais.json,3740,28
 sirene/92/laboratoires-de-recherche-scientifique.json,20034,154
@@ -13066,10 +13066,10 @@ sirene/92/reparation-de-machines-et-d-electronique.json,4467,39
 sirene/92/reseaux-electriques-et-telecoms.json,3354,27
 sirene/92/restaurants.json,198720,1772
 sirene/92/restauration-collective-cantines-entreprises.json,204457,1304
-sirene/92/restauration-rapide.json,175193,1541
+sirene/92/restauration-rapide.json,175984,1547
 sirene/92/routes-de-l-etat-centres-d-entretien.json,478,2
 sirene/92/scieries-preparation-du-bois.json,105,1
-sirene/92/secretariat-accueil-centres-d-appels.json,82533,699
+sirene/92/secretariat-accueil-centres-d-appels.json,82647,700
 sirene/92/securite-privee-surveillance.json,29339,239
 sirene/92/services-a-l-elevage-marechalerie.json,103,1
 sirene/92/services-informatiques-reseaux.json,116359,1043
@@ -13110,7 +13110,7 @@ sirene/93/banques-assurances.json,74541,590
 sirene/93/bateaux-nautisme.json,3,0
 sirene/93/bijouterie-horlogerie.json,1828,16
 sirene/93/boucherie-charcuterie-poissonnerie.json,25895,227
-sirene/93/boulangerie-patisserie.json,67829,593
+sirene/93/boulangerie-patisserie.json,70139,614
 sirene/93/bureaux-d-etudes-economistes-de-la-construction.json,52609,459
 sirene/93/cafes-bars.json,40245,364
 sirene/93/carrieres.json,502,4
@@ -13168,7 +13168,7 @@ sirene/93/hopitaux-services-techniques.json,3609,24
 sirene/93/horticulture-maraichage-agriculture.json,570,5
 sirene/93/hotels.json,37049,307
 sirene/93/imprimerie-prepresse-reliure.json,10232,89
-sirene/93/industrie-agroalimentaire.json,5356,48
+sirene/93/industrie-agroalimentaire.json,7104,64
 sirene/93/interim-recrutement.json,24189,191
 sirene/93/laboratoires-d-analyses-et-d-essais.json,1337,9
 sirene/93/laboratoires-de-recherche-scientifique.json,5063,38
@@ -13210,7 +13210,7 @@ sirene/93/reparation-de-machines-et-d-electronique.json,4586,39
 sirene/93/reseaux-electriques-et-telecoms.json,1431,12
 sirene/93/restaurants.json,108677,966
 sirene/93/restauration-collective-cantines-entreprises.json,71448,474
-sirene/93/restauration-rapide.json,174478,1557
+sirene/93/restauration-rapide.json,175442,1564
 sirene/93/routes-de-l-etat-centres-d-entretien.json,481,2
 sirene/93/routes-de-l-etat-etudes-et-districts.json,232,1
 sirene/93/scieries-preparation-du-bois.json,121,1
@@ -13254,7 +13254,7 @@ sirene/94/banques-assurances.json,85025,644
 sirene/94/bateaux-nautisme.json,289,2
 sirene/94/bijouterie-horlogerie.json,2200,19
 sirene/94/boucherie-charcuterie-poissonnerie.json,22087,187
-sirene/94/boulangerie-patisserie.json,61543,523
+sirene/94/boulangerie-patisserie.json,62522,531
 sirene/94/bureaux-d-etudes-economistes-de-la-construction.json,65980,574
 sirene/94/cafes-bars.json,24282,213
 sirene/94/carrieres.json,1904,15
@@ -13292,7 +13292,7 @@ sirene/94/elevage-bovin-ovin-caprin-porcin-volailles.json,3,0
 sirene/94/elevage-de-chevaux-haras.json,538,4
 sirene/94/enseignement-culturel-conservatoires.json,7926,63
 sirene/94/enseignes-signaletique-marquage.json,1841,14
-sirene/94/entrepots-logistique.json,27946,225
+sirene/94/entrepots-logistique.json,28061,226
 sirene/94/esthetique-soins-de-beaute.json,42580,372
 sirene/94/fabrication-de-monnaies-medailles.json,3,0
 sirene/94/fleuristes-jardineries.json,11408,95
@@ -13312,7 +13312,7 @@ sirene/94/hopitaux-services-techniques.json,3669,26
 sirene/94/horticulture-maraichage-agriculture.json,2709,23
 sirene/94/hotels.json,31763,261
 sirene/94/imprimerie-prepresse-reliure.json,6387,53
-sirene/94/industrie-agroalimentaire.json,7481,65
+sirene/94/industrie-agroalimentaire.json,9641,84
 sirene/94/interim-recrutement.json,19506,159
 sirene/94/laboratoires-d-analyses-et-d-essais.json,1041,8
 sirene/94/laboratoires-de-recherche-scientifique.json,15616,105
@@ -13354,7 +13354,7 @@ sirene/94/reparation-de-machines-et-d-electronique.json,6624,55
 sirene/94/reseaux-electriques-et-telecoms.json,1095,9
 sirene/94/restaurants.json,109348,950
 sirene/94/restauration-collective-cantines-entreprises.json,66911,434
-sirene/94/restauration-rapide.json,132725,1142
+sirene/94/restauration-rapide.json,133405,1147
 sirene/94/routes-de-l-etat-centres-d-entretien.json,480,2
 sirene/94/routes-de-l-etat-etudes-et-districts.json,480,2
 sirene/94/scieries-preparation-du-bois.json,119,1
@@ -13364,7 +13364,7 @@ sirene/94/services-a-l-elevage-marechalerie.json,241,2
 sirene/94/services-informatiques-reseaux.json,38832,354
 sirene/94/sieges-reparation-de-meubles.json,944,8
 sirene/94/spectacle-musees-bibliotheques.json,45736,367
-sirene/94/superettes-alimentation-generale.json,20167,171
+sirene/94/superettes-alimentation-generale.json,20304,172
 sirene/94/supermarches-grandes-surfaces.json,102530,882
 sirene/94/tapisserie-decoration-textile.json,2140,18
 sirene/94/telecommunications.json,12830,110
@@ -13398,7 +13398,7 @@ sirene/95/banques-assurances.json,61238,482
 sirene/95/bateaux-nautisme.json,143,1
 sirene/95/bijouterie-horlogerie.json,2126,18
 sirene/95/boucherie-charcuterie-poissonnerie.json,18315,159
-sirene/95/boulangerie-patisserie.json,50908,436
+sirene/95/boulangerie-patisserie.json,51857,444
 sirene/95/bureaux-d-etudes-economistes-de-la-construction.json,44986,395
 sirene/95/cafes-bars.json,22971,205
 sirene/95/carrieres.json,980,7
@@ -13436,7 +13436,7 @@ sirene/95/elevage-bovin-ovin-caprin-porcin-volailles.json,433,4
 sirene/95/elevage-de-chevaux-haras.json,831,7
 sirene/95/enseignement-culturel-conservatoires.json,6777,53
 sirene/95/enseignes-signaletique-marquage.json,1347,11
-sirene/95/entrepots-logistique.json,52503,415
+sirene/95/entrepots-logistique.json,52603,416
 sirene/95/esthetique-soins-de-beaute.json,26355,236
 sirene/95/fabrication-de-monnaies-medailles.json,123,1
 sirene/95/fleuristes-jardineries.json,12514,109
@@ -13456,7 +13456,7 @@ sirene/95/hopitaux-services-techniques.json,3289,25
 sirene/95/horticulture-maraichage-agriculture.json,12748,112
 sirene/95/hotels.json,25218,207
 sirene/95/imprimerie-prepresse-reliure.json,8199,70
-sirene/95/industrie-agroalimentaire.json,2653,23
+sirene/95/industrie-agroalimentaire.json,3807,33
 sirene/95/interim-recrutement.json,21445,171
 sirene/95/laboratoires-d-analyses-et-d-essais.json,1767,12
 sirene/95/laboratoires-de-recherche-scientifique.json,1801,14
@@ -13497,7 +13497,7 @@ sirene/95/reparation-de-machines-et-d-electronique.json,9253,78
 sirene/95/reseaux-electriques-et-telecoms.json,1998,18
 sirene/95/restaurants.json,71349,632
 sirene/95/restauration-collective-cantines-entreprises.json,45255,302
-sirene/95/restauration-rapide.json,102386,906
+sirene/95/restauration-rapide.json,102531,907
 sirene/95/routes-de-l-etat-centres-d-entretien.json,501,2
 sirene/95/scieries-preparation-du-bois.json,127,1
 sirene/95/secretariat-accueil-centres-d-appels.json,30073,265
@@ -13539,7 +13539,7 @@ sirene/971/banques-assurances.json,28979,199
 sirene/971/bateaux-nautisme.json,1960,16
 sirene/971/bijouterie-horlogerie.json,1213,9
 sirene/971/boucherie-charcuterie-poissonnerie.json,3238,27
-sirene/971/boulangerie-patisserie.json,28341,231
+sirene/971/boulangerie-patisserie.json,29757,243
 sirene/971/bureaux-d-etudes-economistes-de-la-construction.json,19645,142
 sirene/971/cafes-bars.json,1904,15
 sirene/971/carrieres.json,636,5
@@ -13560,7 +13560,7 @@ sirene/971/construction-maconnerie-gros-uvre.json,39471,314
 sirene/971/couture-confection.json,1263,10
 sirene/971/creches-petite-enfance.json,13741,106
 sirene/971/cuir-maroquinerie-cordonnerie.json,570,5
-sirene/971/cultures-specialisees-vergers-cultures-tropicales.json,9530,77
+sirene/971/cultures-specialisees-vergers-cultures-tropicales.json,9621,78
 sirene/971/dechets-recyclage-assainissement.json,9904,75
 sirene/971/demenagement.json,854,6
 sirene/971/demolition.json,436,3
@@ -13577,7 +13577,7 @@ sirene/971/elevage-bovin-ovin-caprin-porcin-volailles.json,1730,13
 sirene/971/elevage-de-chevaux-haras.json,148,1
 sirene/971/enseignement-culturel-conservatoires.json,1726,14
 sirene/971/enseignes-signaletique-marquage.json,993,7
-sirene/971/entrepots-logistique.json,11689,87
+sirene/971/entrepots-logistique.json,11973,89
 sirene/971/esthetique-soins-de-beaute.json,11443,91
 sirene/971/fabrication-de-monnaies-medailles.json,3,0
 sirene/971/fleuristes-jardineries.json,4414,37
@@ -13597,7 +13597,7 @@ sirene/971/hopitaux-services-techniques.json,1567,12
 sirene/971/horticulture-maraichage-agriculture.json,6791,55
 sirene/971/hotels.json,25970,210
 sirene/971/imprimerie-prepresse-reliure.json,8046,61
-sirene/971/industrie-agroalimentaire.json,16279,132
+sirene/971/industrie-agroalimentaire.json,20961,168
 sirene/971/interim-recrutement.json,6280,45
 sirene/971/laboratoires-d-analyses-et-d-essais.json,1013,6
 sirene/971/laboratoires-de-recherche-scientifique.json,3589,26
@@ -13679,7 +13679,7 @@ sirene/972/banques-assurances.json,29472,202
 sirene/972/bateaux-nautisme.json,2787,23
 sirene/972/bijouterie-horlogerie.json,1848,15
 sirene/972/boucherie-charcuterie-poissonnerie.json,2745,23
-sirene/972/boulangerie-patisserie.json,17794,144
+sirene/972/boulangerie-patisserie.json,18979,154
 sirene/972/bureaux-d-etudes-economistes-de-la-construction.json,14487,105
 sirene/972/cafes-bars.json,1575,14
 sirene/972/carrieres.json,1353,11
@@ -13712,7 +13712,7 @@ sirene/972/economistes-de-la-construction.json,3305,25
 sirene/972/electricite-du-batiment.json,15925,126
 sirene/972/electronique-materiel-electrique.json,788,6
 sirene/972/elements-prefabriques-en-beton.json,2340,20
-sirene/972/elevage-bovin-ovin-caprin-porcin-volailles.json,4392,37
+sirene/972/elevage-bovin-ovin-caprin-porcin-volailles.json,4487,38
 sirene/972/elevage-de-chevaux-haras.json,737,6
 sirene/972/enseignement-culturel-conservatoires.json,1213,9
 sirene/972/enseignes-signaletique-marquage.json,1062,8
@@ -13736,7 +13736,7 @@ sirene/972/hopitaux-services-techniques.json,1604,12
 sirene/972/horticulture-maraichage-agriculture.json,8107,68
 sirene/972/hotels.json,18183,144
 sirene/972/imprimerie-prepresse-reliure.json,5054,40
-sirene/972/industrie-agroalimentaire.json,6501,52
+sirene/972/industrie-agroalimentaire.json,9899,81
 sirene/972/interim-recrutement.json,6608,48
 sirene/972/laboratoires-d-analyses-et-d-essais.json,1313,8
 sirene/972/laboratoires-de-recherche-scientifique.json,2436,17
@@ -13877,7 +13877,7 @@ sirene/973/hopitaux-services-techniques.json,816,6
 sirene/973/horticulture-maraichage-agriculture.json,1887,16
 sirene/973/hotels.json,8794,71
 sirene/973/imprimerie-prepresse-reliure.json,2546,20
-sirene/973/industrie-agroalimentaire.json,2741,23
+sirene/973/industrie-agroalimentaire.json,3386,28
 sirene/973/interim-recrutement.json,4814,36
 sirene/973/laboratoires-d-analyses-et-d-essais.json,464,3
 sirene/973/laboratoires-de-recherche-scientifique.json,1722,12
@@ -13958,7 +13958,7 @@ sirene/974/banques-assurances.json,53491,382
 sirene/974/bateaux-nautisme.json,1156,10
 sirene/974/bijouterie-horlogerie.json,4373,37
 sirene/974/boucherie-charcuterie-poissonnerie.json,10192,79
-sirene/974/boulangerie-patisserie.json,41996,340
+sirene/974/boulangerie-patisserie.json,43996,357
 sirene/974/bureaux-d-etudes-economistes-de-la-construction.json,33183,257
 sirene/974/cafes-bars.json,5944,50
 sirene/974/carrieres.json,1750,14
@@ -14016,7 +14016,7 @@ sirene/974/hopitaux-services-techniques.json,2225,17
 sirene/974/horticulture-maraichage-agriculture.json,16246,136
 sirene/974/hotels.json,24332,192
 sirene/974/imprimerie-prepresse-reliure.json,8722,71
-sirene/974/industrie-agroalimentaire.json,16537,136
+sirene/974/industrie-agroalimentaire.json,25210,206
 sirene/974/interim-recrutement.json,14671,113
 sirene/974/laboratoires-d-analyses-et-d-essais.json,1464,9
 sirene/974/laboratoires-de-recherche-scientifique.json,6463,44
@@ -14058,7 +14058,7 @@ sirene/974/reparation-de-machines-et-d-electronique.json,14494,108
 sirene/974/reseaux-electriques-et-telecoms.json,1678,13
 sirene/974/restaurants.json,67697,560
 sirene/974/restauration-collective-cantines-entreprises.json,6782,50
-sirene/974/restauration-rapide.json,101678,823
+sirene/974/restauration-rapide.json,101792,824
 sirene/974/scieries-preparation-du-bois.json,928,7
 sirene/974/secretariat-accueil-centres-d-appels.json,29116,231
 sirene/974/securite-privee-surveillance.json,11896,85
@@ -14153,7 +14153,7 @@ sirene/976/hopitaux-services-techniques.json,120,1
 sirene/976/horticulture-maraichage-agriculture.json,226,2
 sirene/976/hotels.json,1062,9
 sirene/976/imprimerie-prepresse-reliure.json,391,3
-sirene/976/industrie-agroalimentaire.json,372,4
+sirene/976/industrie-agroalimentaire.json,489,5
 sirene/976/interim-recrutement.json,1025,8
 sirene/976/laboratoires-d-analyses-et-d-essais.json,136,1
 sirene/976/laboratoires-de-recherche-scientifique.json,601,4
