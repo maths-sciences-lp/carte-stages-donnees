@@ -10397,6 +10397,8 @@ sirene/75/aquaculture-pisciculture-conchyliculture.json,102,1
 sirene/75/architectes.json,185719,1711
 sirene/75/armurerie-fabrication-d-armes.json,98,1
 sirene/75/associations-animation-solidarite.json,441607,3665
+sirene/75/ateliers-associatifs-du-bois.json,347,3
+sirene/75/ateliers-de-decors-et-de-musees.json,512,4
 sirene/75/audiovisuel-cinema-son.json,367221,3542
 sirene/75/autres-elevages-dont-animaux-de-compagnie-apiculture.json,603,5
 sirene/75/bailleurs-sociaux.json,2504,22
@@ -10675,6 +10677,7 @@ sirene/77/aquaculture-pisciculture-conchyliculture.json,266,2
 sirene/77/architectes.json,10764,91
 sirene/77/armurerie-fabrication-d-armes.json,3,0
 sirene/77/associations-animation-solidarite.json,48873,373
+sirene/77/ateliers-de-decors-et-de-musees.json,135,1
 sirene/77/audiovisuel-cinema-son.json,8206,72
 sirene/77/autres-elevages-dont-animaux-de-compagnie-apiculture.json,1866,14
 sirene/77/bailleurs-sociaux.json,2348,19
@@ -10814,6 +10817,7 @@ sirene/78/aquaculture-pisciculture-conchyliculture.json,3,0
 sirene/78/architectes.json,18179,155
 sirene/78/armurerie-fabrication-d-armes.json,433,4
 sirene/78/associations-animation-solidarite.json,71518,552
+sirene/78/ateliers-de-decors-et-de-musees.json,137,1
 sirene/78/audiovisuel-cinema-son.json,15482,135
 sirene/78/autres-elevages-dont-animaux-de-compagnie-apiculture.json,846,7
 sirene/78/bailleurs-sociaux.json,1254,10
@@ -12893,6 +12897,8 @@ sirene/93/aquaculture-pisciculture-conchyliculture.json,3,0
 sirene/93/architectes.json,21782,193
 sirene/93/armurerie-fabrication-d-armes.json,3,0
 sirene/93/associations-animation-solidarite.json,87264,682
+sirene/93/ateliers-associatifs-du-bois.json,222,2
+sirene/93/ateliers-de-decors-et-de-musees.json,144,1
 sirene/93/audiovisuel-cinema-son.json,42823,382
 sirene/93/autres-elevages-dont-animaux-de-compagnie-apiculture.json,96,1
 sirene/93/bailleurs-sociaux.json,3650,27
@@ -13033,6 +13039,7 @@ sirene/94/aquaculture-pisciculture-conchyliculture.json,3,0
 sirene/94/architectes.json,19889,169
 sirene/94/armurerie-fabrication-d-armes.json,3,0
 sirene/94/associations-animation-solidarite.json,65435,493
+sirene/94/ateliers-de-decors-et-de-musees.json,139,1
 sirene/94/audiovisuel-cinema-son.json,19019,169
 sirene/94/autres-elevages-dont-animaux-de-compagnie-apiculture.json,282,2
 sirene/94/bailleurs-sociaux.json,1956,14
@@ -13173,6 +13180,7 @@ sirene/95/aquaculture-pisciculture-conchyliculture.json,3,0
 sirene/95/architectes.json,4424,39
 sirene/95/armurerie-fabrication-d-armes.json,3,0
 sirene/95/associations-animation-solidarite.json,52884,411
+sirene/95/ateliers-de-decors-et-de-musees.json,152,1
 sirene/95/audiovisuel-cinema-son.json,8360,74
 sirene/95/autres-elevages-dont-animaux-de-compagnie-apiculture.json,115,1
 sirene/95/bailleurs-sociaux.json,891,8
