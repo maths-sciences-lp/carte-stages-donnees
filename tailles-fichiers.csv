@@ -35,6 +35,7 @@ sirene/01/cuir-maroquinerie-cordonnerie.json,972,8
 sirene/01/cultures-specialisees-vergers-cultures-tropicales.json,513,4
 sirene/01/dechets-recyclage-assainissement.json,22764,172
 sirene/01/demenagement.json,2256,17
+sirene/01/design-d-interieur-et-d-objet.json,2774,24
 sirene/01/eau-potable-captage-traitement-distribution.json,10484,78
 sirene/01/ebenisterie-meubles-restauration-de-meubles.json,4100,36
 sirene/01/ecoles-de-sport-equitation.json,4900,41
@@ -46,7 +47,7 @@ sirene/01/elements-prefabriques-en-beton.json,1915,16
 sirene/01/elevage-bovin-ovin-caprin-porcin-volailles.json,27190,232
 sirene/01/elevage-de-chevaux-haras.json,3270,29
 sirene/01/enseignement-culturel-conservatoires.json,3959,32
-sirene/01/enseignes-signaletique-marquage.json,1898,15
+sirene/01/enseignes-signaletique-marquage.json,1756,14
 sirene/01/entrepots-logistique.json,15562,123
 sirene/01/esthetique-soins-de-beaute.json,9386,83
 sirene/01/fabrication-de-monnaies-medailles.json,3,0
@@ -98,7 +99,7 @@ sirene/01/poste-courrier.json,1388,13
 sirene/01/pressing-blanchisserie-retouches.json,4947,42
 sirene/01/primeur-fromagerie-epicerie-fine-cave.json,8871,76
 sirene/01/production-et-distribution-d-energie.json,6045,49
-sirene/01/publicite-design-graphique.json,7348,63
+sirene/01/publicite-design-graphique.json,4576,39
 sirene/01/remontees-mecaniques-telepheriques.json,1198,9
 sirene/01/reparation-d-ordinateurs-et-de-telephones.json,2152,18
 sirene/01/reparation-de-machines-et-d-electronique.json,9560,79
@@ -164,6 +165,7 @@ sirene/02/cuir-maroquinerie-cordonnerie.json,1430,12
 sirene/02/cultures-specialisees-vergers-cultures-tropicales.json,834,7
 sirene/02/dechets-recyclage-assainissement.json,21557,155
 sirene/02/demenagement.json,1309,10
+sirene/02/design-d-interieur-et-d-objet.json,510,4
 sirene/02/eau-potable-captage-traitement-distribution.json,31145,230
 sirene/02/ebenisterie-meubles-restauration-de-meubles.json,1039,9
 sirene/02/ecoles-de-sport-equitation.json,2005,16
@@ -175,7 +177,7 @@ sirene/02/elements-prefabriques-en-beton.json,800,7
 sirene/02/elevage-bovin-ovin-caprin-porcin-volailles.json,9291,83
 sirene/02/elevage-de-chevaux-haras.json,335,3
 sirene/02/enseignement-culturel-conservatoires.json,2010,16
-sirene/02/enseignes-signaletique-marquage.json,574,5
+sirene/02/enseignes-signaletique-marquage.json,470,4
 sirene/02/entrepots-logistique.json,10780,87
 sirene/02/esthetique-soins-de-beaute.json,3330,30
 sirene/02/fabrication-de-monnaies-medailles.json,3,0
@@ -227,7 +229,7 @@ sirene/02/poste-courrier.json,316,3
 sirene/02/pressing-blanchisserie-retouches.json,3820,33
 sirene/02/primeur-fromagerie-epicerie-fine-cave.json,3587,31
 sirene/02/production-et-distribution-d-energie.json,1878,15
-sirene/02/publicite-design-graphique.json,2372,20
+sirene/02/publicite-design-graphique.json,1864,16
 sirene/02/remontees-mecaniques-telepheriques.json,3,0
 sirene/02/reparation-d-ordinateurs-et-de-telephones.json,451,4
 sirene/02/reparation-de-machines-et-d-electronique.json,6545,57
@@ -293,6 +295,7 @@ sirene/03/cuir-maroquinerie-cordonnerie.json,2367,19
 sirene/03/cultures-specialisees-vergers-cultures-tropicales.json,3,0
 sirene/03/dechets-recyclage-assainissement.json,24185,169
 sirene/03/demenagement.json,1161,8
+sirene/03/design-d-interieur-et-d-objet.json,873,8
 sirene/03/eau-potable-captage-traitement-distribution.json,4497,29
 sirene/03/ebenisterie-meubles-restauration-de-meubles.json,1512,13
 sirene/03/ecoles-de-sport-equitation.json,2735,21
@@ -356,7 +359,7 @@ sirene/03/poste-courrier.json,202,2
 sirene/03/pressing-blanchisserie-retouches.json,2841,26
 sirene/03/primeur-fromagerie-epicerie-fine-cave.json,3630,32
 sirene/03/production-et-distribution-d-energie.json,9318,83
-sirene/03/publicite-design-graphique.json,2050,19
+sirene/03/publicite-design-graphique.json,1179,11
 sirene/03/remontees-mecaniques-telepheriques.json,3,0
 sirene/03/reparation-d-ordinateurs-et-de-telephones.json,817,8
 sirene/03/reparation-de-machines-et-d-electronique.json,5038,45
@@ -422,6 +425,7 @@ sirene/04/cuir-maroquinerie-cordonnerie.json,113,1
 sirene/04/cultures-specialisees-vergers-cultures-tropicales.json,5728,52
 sirene/04/dechets-recyclage-assainissement.json,7543,54
 sirene/04/demenagement.json,392,3
+sirene/04/design-d-interieur-et-d-objet.json,330,3
 sirene/04/eau-potable-captage-traitement-distribution.json,13068,94
 sirene/04/ebenisterie-meubles-restauration-de-meubles.json,575,5
 sirene/04/ecoles-de-sport-equitation.json,1402,11
@@ -433,7 +437,7 @@ sirene/04/elements-prefabriques-en-beton.json,3,0
 sirene/04/elevage-bovin-ovin-caprin-porcin-volailles.json,7470,64
 sirene/04/elevage-de-chevaux-haras.json,291,2
 sirene/04/enseignement-culturel-conservatoires.json,1688,14
-sirene/04/enseignes-signaletique-marquage.json,371,3
+sirene/04/enseignes-signaletique-marquage.json,231,2
 sirene/04/entrepots-logistique.json,1251,11
 sirene/04/esthetique-soins-de-beaute.json,2627,22
 sirene/04/fabrication-de-monnaies-medailles.json,3,0
@@ -485,7 +489,7 @@ sirene/04/poste-courrier.json,1094,11
 sirene/04/pressing-blanchisserie-retouches.json,1390,12
 sirene/04/primeur-fromagerie-epicerie-fine-cave.json,2797,23
 sirene/04/production-et-distribution-d-energie.json,5049,39
-sirene/04/publicite-design-graphique.json,1148,10
+sirene/04/publicite-design-graphique.json,820,7
 sirene/04/remontees-mecaniques-telepheriques.json,1183,9
 sirene/04/reparation-d-ordinateurs-et-de-telephones.json,231,2
 sirene/04/reparation-de-machines-et-d-electronique.json,1911,16
@@ -551,6 +555,7 @@ sirene/05/cuir-maroquinerie-cordonnerie.json,347,3
 sirene/05/cultures-specialisees-vergers-cultures-tropicales.json,4588,41
 sirene/05/dechets-recyclage-assainissement.json,3316,26
 sirene/05/demenagement.json,378,3
+sirene/05/design-d-interieur-et-d-objet.json,280,2
 sirene/05/eau-potable-captage-traitement-distribution.json,6691,49
 sirene/05/ebenisterie-meubles-restauration-de-meubles.json,1138,9
 sirene/05/ecoles-de-sport-equitation.json,2848,22
@@ -614,7 +619,7 @@ sirene/05/poste-courrier.json,311,3
 sirene/05/pressing-blanchisserie-retouches.json,2772,23
 sirene/05/primeur-fromagerie-epicerie-fine-cave.json,3570,30
 sirene/05/production-et-distribution-d-energie.json,5371,46
-sirene/05/publicite-design-graphique.json,1895,16
+sirene/05/publicite-design-graphique.json,1617,14
 sirene/05/remontees-mecaniques-telepheriques.json,4113,29
 sirene/05/reparation-d-ordinateurs-et-de-telephones.json,313,3
 sirene/05/reparation-de-machines-et-d-electronique.json,1464,13
@@ -680,6 +685,7 @@ sirene/06/cuir-maroquinerie-cordonnerie.json,4084,34
 sirene/06/cultures-specialisees-vergers-cultures-tropicales.json,2555,22
 sirene/06/dechets-recyclage-assainissement.json,20767,161
 sirene/06/demenagement.json,6701,53
+sirene/06/design-d-interieur-et-d-objet.json,14566,128
 sirene/06/eau-potable-captage-traitement-distribution.json,5923,46
 sirene/06/ebenisterie-meubles-restauration-de-meubles.json,6163,54
 sirene/06/ecoles-de-sport-equitation.json,10166,84
@@ -691,7 +697,7 @@ sirene/06/elements-prefabriques-en-beton.json,528,4
 sirene/06/elevage-bovin-ovin-caprin-porcin-volailles.json,2727,23
 sirene/06/elevage-de-chevaux-haras.json,456,4
 sirene/06/enseignement-culturel-conservatoires.json,7142,59
-sirene/06/enseignes-signaletique-marquage.json,1699,14
+sirene/06/enseignes-signaletique-marquage.json,1332,11
 sirene/06/entrepots-logistique.json,25852,213
 sirene/06/esthetique-soins-de-beaute.json,37455,337
 sirene/06/fabrication-de-monnaies-medailles.json,3,0
@@ -743,7 +749,7 @@ sirene/06/poste-courrier.json,1365,14
 sirene/06/pressing-blanchisserie-retouches.json,20594,181
 sirene/06/primeur-fromagerie-epicerie-fine-cave.json,17874,155
 sirene/06/production-et-distribution-d-energie.json,2918,23
-sirene/06/publicite-design-graphique.json,34387,291
+sirene/06/publicite-design-graphique.json,19823,163
 sirene/06/remontees-mecaniques-telepheriques.json,687,4
 sirene/06/reparation-d-ordinateurs-et-de-telephones.json,4315,36
 sirene/06/reparation-de-machines-et-d-electronique.json,7199,59
@@ -809,6 +815,7 @@ sirene/07/cuir-maroquinerie-cordonnerie.json,1014,9
 sirene/07/cultures-specialisees-vergers-cultures-tropicales.json,4101,36
 sirene/07/dechets-recyclage-assainissement.json,19062,134
 sirene/07/demenagement.json,242,2
+sirene/07/design-d-interieur-et-d-objet.json,709,6
 sirene/07/eau-potable-captage-traitement-distribution.json,15068,102
 sirene/07/ebenisterie-meubles-restauration-de-meubles.json,1185,10
 sirene/07/ecoles-de-sport-equitation.json,2706,22
@@ -872,7 +879,7 @@ sirene/07/poste-courrier.json,1000,10
 sirene/07/pressing-blanchisserie-retouches.json,2319,20
 sirene/07/primeur-fromagerie-epicerie-fine-cave.json,5765,51
 sirene/07/production-et-distribution-d-energie.json,5289,43
-sirene/07/publicite-design-graphique.json,2422,21
+sirene/07/publicite-design-graphique.json,1715,15
 sirene/07/remontees-mecaniques-telepheriques.json,3,0
 sirene/07/reparation-d-ordinateurs-et-de-telephones.json,962,8
 sirene/07/reparation-de-machines-et-d-electronique.json,4099,33
@@ -938,6 +945,7 @@ sirene/08/cuir-maroquinerie-cordonnerie.json,868,6
 sirene/08/cultures-specialisees-vergers-cultures-tropicales.json,488,4
 sirene/08/dechets-recyclage-assainissement.json,17028,125
 sirene/08/demenagement.json,443,4
+sirene/08/design-d-interieur-et-d-objet.json,222,2
 sirene/08/eau-potable-captage-traitement-distribution.json,21446,163
 sirene/08/ebenisterie-meubles-restauration-de-meubles.json,364,3
 sirene/08/ecoles-de-sport-equitation.json,1397,11
@@ -1001,7 +1009,7 @@ sirene/08/poste-courrier.json,999,10
 sirene/08/pressing-blanchisserie-retouches.json,1566,13
 sirene/08/primeur-fromagerie-epicerie-fine-cave.json,3102,28
 sirene/08/production-et-distribution-d-energie.json,3776,33
-sirene/08/publicite-design-graphique.json,1468,13
+sirene/08/publicite-design-graphique.json,1248,11
 sirene/08/remontees-mecaniques-telepheriques.json,3,0
 sirene/08/reparation-d-ordinateurs-et-de-telephones.json,503,5
 sirene/08/reparation-de-machines-et-d-electronique.json,4146,36
@@ -1067,6 +1075,7 @@ sirene/09/cuir-maroquinerie-cordonnerie.json,239,2
 sirene/09/cultures-specialisees-vergers-cultures-tropicales.json,435,4
 sirene/09/dechets-recyclage-assainissement.json,4054,32
 sirene/09/demenagement.json,883,7
+sirene/09/design-d-interieur-et-d-objet.json,543,5
 sirene/09/eau-potable-captage-traitement-distribution.json,2483,17
 sirene/09/ebenisterie-meubles-restauration-de-meubles.json,523,4
 sirene/09/ecoles-de-sport-equitation.json,464,3
@@ -1078,7 +1087,7 @@ sirene/09/elements-prefabriques-en-beton.json,331,2
 sirene/09/elevage-bovin-ovin-caprin-porcin-volailles.json,4664,44
 sirene/09/elevage-de-chevaux-haras.json,324,3
 sirene/09/enseignement-culturel-conservatoires.json,729,6
-sirene/09/enseignes-signaletique-marquage.json,391,3
+sirene/09/enseignes-signaletique-marquage.json,109,1
 sirene/09/entrepots-logistique.json,1074,9
 sirene/09/esthetique-soins-de-beaute.json,2999,23
 sirene/09/fabrication-de-monnaies-medailles.json,3,0
@@ -1130,7 +1139,7 @@ sirene/09/poste-courrier.json,102,1
 sirene/09/pressing-blanchisserie-retouches.json,395,3
 sirene/09/primeur-fromagerie-epicerie-fine-cave.json,2238,19
 sirene/09/production-et-distribution-d-energie.json,3751,31
-sirene/09/publicite-design-graphique.json,1511,13
+sirene/09/publicite-design-graphique.json,970,8
 sirene/09/remontees-mecaniques-telepheriques.json,715,6
 sirene/09/reparation-d-ordinateurs-et-de-telephones.json,207,2
 sirene/09/reparation-de-machines-et-d-electronique.json,1560,13
@@ -1196,6 +1205,7 @@ sirene/10/cuir-maroquinerie-cordonnerie.json,831,6
 sirene/10/cultures-specialisees-vergers-cultures-tropicales.json,581,5
 sirene/10/dechets-recyclage-assainissement.json,10001,76
 sirene/10/demenagement.json,655,6
+sirene/10/design-d-interieur-et-d-objet.json,799,7
 sirene/10/eau-potable-captage-traitement-distribution.json,5617,39
 sirene/10/ebenisterie-meubles-restauration-de-meubles.json,2584,21
 sirene/10/ecoles-de-sport-equitation.json,1756,15
@@ -1207,7 +1217,7 @@ sirene/10/elements-prefabriques-en-beton.json,1060,9
 sirene/10/elevage-bovin-ovin-caprin-porcin-volailles.json,2862,26
 sirene/10/elevage-de-chevaux-haras.json,596,5
 sirene/10/enseignement-culturel-conservatoires.json,1187,9
-sirene/10/enseignes-signaletique-marquage.json,744,6
+sirene/10/enseignes-signaletique-marquage.json,621,5
 sirene/10/entrepots-logistique.json,7699,63
 sirene/10/esthetique-soins-de-beaute.json,3305,29
 sirene/10/fabrication-de-monnaies-medailles.json,3,0
@@ -1259,7 +1269,7 @@ sirene/10/poste-courrier.json,997,9
 sirene/10/pressing-blanchisserie-retouches.json,1803,15
 sirene/10/primeur-fromagerie-epicerie-fine-cave.json,3970,31
 sirene/10/production-et-distribution-d-energie.json,2815,25
-sirene/10/publicite-design-graphique.json,3452,31
+sirene/10/publicite-design-graphique.json,2655,24
 sirene/10/remontees-mecaniques-telepheriques.json,3,0
 sirene/10/reparation-d-ordinateurs-et-de-telephones.json,384,3
 sirene/10/reparation-de-machines-et-d-electronique.json,2386,21
@@ -1325,6 +1335,7 @@ sirene/11/cuir-maroquinerie-cordonnerie.json,940,8
 sirene/11/cultures-specialisees-vergers-cultures-tropicales.json,1605,15
 sirene/11/dechets-recyclage-assainissement.json,9413,72
 sirene/11/demenagement.json,1690,12
+sirene/11/design-d-interieur-et-d-objet.json,594,6
 sirene/11/eau-potable-captage-traitement-distribution.json,10801,76
 sirene/11/ebenisterie-meubles-restauration-de-meubles.json,678,6
 sirene/11/ecoles-de-sport-equitation.json,2108,17
@@ -1336,7 +1347,7 @@ sirene/11/elements-prefabriques-en-beton.json,1681,13
 sirene/11/elevage-bovin-ovin-caprin-porcin-volailles.json,3570,33
 sirene/11/elevage-de-chevaux-haras.json,306,3
 sirene/11/enseignement-culturel-conservatoires.json,1285,11
-sirene/11/enseignes-signaletique-marquage.json,886,7
+sirene/11/enseignes-signaletique-marquage.json,657,5
 sirene/11/entrepots-logistique.json,5154,40
 sirene/11/esthetique-soins-de-beaute.json,4201,36
 sirene/11/fabrication-de-monnaies-medailles.json,3,0
@@ -1388,7 +1399,7 @@ sirene/11/poste-courrier.json,1174,12
 sirene/11/pressing-blanchisserie-retouches.json,3390,27
 sirene/11/primeur-fromagerie-epicerie-fine-cave.json,9570,75
 sirene/11/production-et-distribution-d-energie.json,3170,27
-sirene/11/publicite-design-graphique.json,3122,28
+sirene/11/publicite-design-graphique.json,2530,22
 sirene/11/remontees-mecaniques-telepheriques.json,3,0
 sirene/11/reparation-d-ordinateurs-et-de-telephones.json,934,8
 sirene/11/reparation-de-machines-et-d-electronique.json,2294,20
@@ -1454,6 +1465,7 @@ sirene/12/cuir-maroquinerie-cordonnerie.json,1485,12
 sirene/12/cultures-specialisees-vergers-cultures-tropicales.json,242,2
 sirene/12/dechets-recyclage-assainissement.json,17340,124
 sirene/12/demenagement.json,863,7
+sirene/12/design-d-interieur-et-d-objet.json,1004,9
 sirene/12/eau-potable-captage-traitement-distribution.json,5851,42
 sirene/12/ebenisterie-meubles-restauration-de-meubles.json,2390,20
 sirene/12/ecoles-de-sport-equitation.json,1210,10
@@ -1517,7 +1529,7 @@ sirene/12/poste-courrier.json,95,1
 sirene/12/pressing-blanchisserie-retouches.json,1502,12
 sirene/12/primeur-fromagerie-epicerie-fine-cave.json,5259,44
 sirene/12/production-et-distribution-d-energie.json,16930,140
-sirene/12/publicite-design-graphique.json,4171,37
+sirene/12/publicite-design-graphique.json,3169,28
 sirene/12/remontees-mecaniques-telepheriques.json,3,0
 sirene/12/reparation-d-ordinateurs-et-de-telephones.json,872,7
 sirene/12/reparation-de-machines-et-d-electronique.json,4359,38
@@ -1583,6 +1595,7 @@ sirene/13/cuir-maroquinerie-cordonnerie.json,5270,43
 sirene/13/cultures-specialisees-vergers-cultures-tropicales.json,25183,217
 sirene/13/dechets-recyclage-assainissement.json,45976,347
 sirene/13/demenagement.json,9212,73
+sirene/13/design-d-interieur-et-d-objet.json,17353,153
 sirene/13/eau-potable-captage-traitement-distribution.json,12464,89
 sirene/13/ebenisterie-meubles-restauration-de-meubles.json,6847,58
 sirene/13/ecoles-de-sport-equitation.json,17655,146
@@ -1594,7 +1607,7 @@ sirene/13/elements-prefabriques-en-beton.json,2237,18
 sirene/13/elevage-bovin-ovin-caprin-porcin-volailles.json,6673,56
 sirene/13/elevage-de-chevaux-haras.json,2907,24
 sirene/13/enseignement-culturel-conservatoires.json,18131,147
-sirene/13/enseignes-signaletique-marquage.json,4326,34
+sirene/13/enseignes-signaletique-marquage.json,3364,26
 sirene/13/entrepots-logistique.json,87147,682
 sirene/13/esthetique-soins-de-beaute.json,54530,474
 sirene/13/fabrication-de-monnaies-medailles.json,3,0
@@ -1646,7 +1659,7 @@ sirene/13/poste-courrier.json,116,1
 sirene/13/pressing-blanchisserie-retouches.json,19078,159
 sirene/13/primeur-fromagerie-epicerie-fine-cave.json,59259,506
 sirene/13/production-et-distribution-d-energie.json,12945,100
-sirene/13/publicite-design-graphique.json,55806,475
+sirene/13/publicite-design-graphique.json,38455,322
 sirene/13/remontees-mecaniques-telepheriques.json,3,0
 sirene/13/reparation-d-ordinateurs-et-de-telephones.json,6509,53
 sirene/13/reparation-de-machines-et-d-electronique.json,21281,164
@@ -1712,6 +1725,7 @@ sirene/14/cuir-maroquinerie-cordonnerie.json,2136,18
 sirene/14/cultures-specialisees-vergers-cultures-tropicales.json,3474,29
 sirene/14/dechets-recyclage-assainissement.json,15966,120
 sirene/14/demenagement.json,1430,12
+sirene/14/design-d-interieur-et-d-objet.json,3669,33
 sirene/14/eau-potable-captage-traitement-distribution.json,5389,41
 sirene/14/ebenisterie-meubles-restauration-de-meubles.json,2270,19
 sirene/14/ecoles-de-sport-equitation.json,8092,65
@@ -1723,7 +1737,7 @@ sirene/14/elements-prefabriques-en-beton.json,1060,9
 sirene/14/elevage-bovin-ovin-caprin-porcin-volailles.json,33080,286
 sirene/14/elevage-de-chevaux-haras.json,15898,133
 sirene/14/enseignement-culturel-conservatoires.json,2230,18
-sirene/14/enseignes-signaletique-marquage.json,791,6
+sirene/14/enseignes-signaletique-marquage.json,672,5
 sirene/14/entrepots-logistique.json,14441,117
 sirene/14/esthetique-soins-de-beaute.json,10752,95
 sirene/14/fabrication-de-monnaies-medailles.json,3,0
@@ -1775,7 +1789,7 @@ sirene/14/poste-courrier.json,410,4
 sirene/14/pressing-blanchisserie-retouches.json,5904,50
 sirene/14/primeur-fromagerie-epicerie-fine-cave.json,10090,84
 sirene/14/production-et-distribution-d-energie.json,3048,24
-sirene/14/publicite-design-graphique.json,12200,107
+sirene/14/publicite-design-graphique.json,8533,74
 sirene/14/remontees-mecaniques-telepheriques.json,3,0
 sirene/14/reparation-d-ordinateurs-et-de-telephones.json,2292,19
 sirene/14/reparation-de-machines-et-d-electronique.json,7635,61
@@ -1841,6 +1855,7 @@ sirene/15/cuir-maroquinerie-cordonnerie.json,234,2
 sirene/15/cultures-specialisees-vergers-cultures-tropicales.json,3,0
 sirene/15/dechets-recyclage-assainissement.json,7283,52
 sirene/15/demenagement.json,161,1
+sirene/15/design-d-interieur-et-d-objet.json,115,1
 sirene/15/eau-potable-captage-traitement-distribution.json,6246,47
 sirene/15/ebenisterie-meubles-restauration-de-meubles.json,584,5
 sirene/15/ecoles-de-sport-equitation.json,597,5
@@ -1852,7 +1867,7 @@ sirene/15/elements-prefabriques-en-beton.json,3,0
 sirene/15/elevage-bovin-ovin-caprin-porcin-volailles.json,24669,235
 sirene/15/elevage-de-chevaux-haras.json,352,3
 sirene/15/enseignement-culturel-conservatoires.json,1252,11
-sirene/15/enseignes-signaletique-marquage.json,377,3
+sirene/15/enseignes-signaletique-marquage.json,117,1
 sirene/15/entrepots-logistique.json,1478,12
 sirene/15/esthetique-soins-de-beaute.json,1322,11
 sirene/15/fabrication-de-monnaies-medailles.json,3,0
@@ -1904,7 +1919,7 @@ sirene/15/poste-courrier.json,718,7
 sirene/15/pressing-blanchisserie-retouches.json,346,3
 sirene/15/primeur-fromagerie-epicerie-fine-cave.json,1442,12
 sirene/15/production-et-distribution-d-energie.json,10190,94
-sirene/15/publicite-design-graphique.json,477,4
+sirene/15/publicite-design-graphique.json,364,3
 sirene/15/remontees-mecaniques-telepheriques.json,128,1
 sirene/15/reparation-d-ordinateurs-et-de-telephones.json,99,1
 sirene/15/reparation-de-machines-et-d-electronique.json,1326,12
@@ -1970,6 +1985,7 @@ sirene/16/cuir-maroquinerie-cordonnerie.json,1634,13
 sirene/16/cultures-specialisees-vergers-cultures-tropicales.json,1225,11
 sirene/16/dechets-recyclage-assainissement.json,18262,128
 sirene/16/demenagement.json,688,5
+sirene/16/design-d-interieur-et-d-objet.json,754,7
 sirene/16/eau-potable-captage-traitement-distribution.json,2367,17
 sirene/16/ebenisterie-meubles-restauration-de-meubles.json,1923,17
 sirene/16/ecoles-de-sport-equitation.json,2329,19
@@ -1981,7 +1997,7 @@ sirene/16/elements-prefabriques-en-beton.json,624,6
 sirene/16/elevage-bovin-ovin-caprin-porcin-volailles.json,14148,130
 sirene/16/elevage-de-chevaux-haras.json,745,6
 sirene/16/enseignement-culturel-conservatoires.json,1194,10
-sirene/16/enseignes-signaletique-marquage.json,937,8
+sirene/16/enseignes-signaletique-marquage.json,806,7
 sirene/16/entrepots-logistique.json,4245,35
 sirene/16/esthetique-soins-de-beaute.json,5943,52
 sirene/16/fabrication-de-monnaies-medailles.json,3,0
@@ -2033,7 +2049,7 @@ sirene/16/poste-courrier.json,1348,13
 sirene/16/pressing-blanchisserie-retouches.json,3502,29
 sirene/16/primeur-fromagerie-epicerie-fine-cave.json,3863,33
 sirene/16/production-et-distribution-d-energie.json,4947,44
-sirene/16/publicite-design-graphique.json,4018,37
+sirene/16/publicite-design-graphique.json,3266,30
 sirene/16/remontees-mecaniques-telepheriques.json,3,0
 sirene/16/reparation-d-ordinateurs-et-de-telephones.json,1035,9
 sirene/16/reparation-de-machines-et-d-electronique.json,6758,56
@@ -2099,6 +2115,7 @@ sirene/17/cuir-maroquinerie-cordonnerie.json,1902,15
 sirene/17/cultures-specialisees-vergers-cultures-tropicales.json,2396,21
 sirene/17/dechets-recyclage-assainissement.json,16507,122
 sirene/17/demenagement.json,1631,12
+sirene/17/design-d-interieur-et-d-objet.json,2325,21
 sirene/17/eau-potable-captage-traitement-distribution.json,3485,27
 sirene/17/ebenisterie-meubles-restauration-de-meubles.json,3106,26
 sirene/17/ecoles-de-sport-equitation.json,7073,58
@@ -2162,7 +2179,7 @@ sirene/17/poste-courrier.json,1389,13
 sirene/17/pressing-blanchisserie-retouches.json,10766,92
 sirene/17/primeur-fromagerie-epicerie-fine-cave.json,12020,101
 sirene/17/production-et-distribution-d-energie.json,4102,35
-sirene/17/publicite-design-graphique.json,8516,76
+sirene/17/publicite-design-graphique.json,6193,55
 sirene/17/remontees-mecaniques-telepheriques.json,3,0
 sirene/17/reparation-d-ordinateurs-et-de-telephones.json,2156,16
 sirene/17/reparation-de-machines-et-d-electronique.json,7519,62
@@ -2228,6 +2245,7 @@ sirene/18/cuir-maroquinerie-cordonnerie.json,595,5
 sirene/18/cultures-specialisees-vergers-cultures-tropicales.json,1681,15
 sirene/18/dechets-recyclage-assainissement.json,17042,125
 sirene/18/demenagement.json,982,8
+sirene/18/design-d-interieur-et-d-objet.json,986,9
 sirene/18/eau-potable-captage-traitement-distribution.json,7846,57
 sirene/18/ebenisterie-meubles-restauration-de-meubles.json,582,5
 sirene/18/ecoles-de-sport-equitation.json,2808,22
@@ -2291,7 +2309,7 @@ sirene/18/poste-courrier.json,3,0
 sirene/18/pressing-blanchisserie-retouches.json,780,6
 sirene/18/primeur-fromagerie-epicerie-fine-cave.json,3738,30
 sirene/18/production-et-distribution-d-energie.json,2915,27
-sirene/18/publicite-design-graphique.json,2884,25
+sirene/18/publicite-design-graphique.json,1900,16
 sirene/18/remontees-mecaniques-telepheriques.json,3,0
 sirene/18/reparation-d-ordinateurs-et-de-telephones.json,1095,10
 sirene/18/reparation-de-machines-et-d-electronique.json,4042,35
@@ -2357,6 +2375,7 @@ sirene/19/cuir-maroquinerie-cordonnerie.json,527,4
 sirene/19/cultures-specialisees-vergers-cultures-tropicales.json,3130,29
 sirene/19/dechets-recyclage-assainissement.json,13532,97
 sirene/19/demenagement.json,570,4
+sirene/19/design-d-interieur-et-d-objet.json,517,5
 sirene/19/eau-potable-captage-traitement-distribution.json,9041,70
 sirene/19/ebenisterie-meubles-restauration-de-meubles.json,1967,17
 sirene/19/ecoles-de-sport-equitation.json,1529,13
@@ -2420,7 +2439,7 @@ sirene/19/poste-courrier.json,1034,10
 sirene/19/pressing-blanchisserie-retouches.json,2898,25
 sirene/19/primeur-fromagerie-epicerie-fine-cave.json,3279,29
 sirene/19/production-et-distribution-d-energie.json,4750,42
-sirene/19/publicite-design-graphique.json,2535,23
+sirene/19/publicite-design-graphique.json,2020,18
 sirene/19/remontees-mecaniques-telepheriques.json,3,0
 sirene/19/reparation-d-ordinateurs-et-de-telephones.json,564,5
 sirene/19/reparation-de-machines-et-d-electronique.json,3559,30
@@ -2486,6 +2505,7 @@ sirene/21/cuir-maroquinerie-cordonnerie.json,711,6
 sirene/21/cultures-specialisees-vergers-cultures-tropicales.json,1145,10
 sirene/21/dechets-recyclage-assainissement.json,15773,121
 sirene/21/demenagement.json,1073,9
+sirene/21/design-d-interieur-et-d-objet.json,1437,13
 sirene/21/eau-potable-captage-traitement-distribution.json,7537,54
 sirene/21/ebenisterie-meubles-restauration-de-meubles.json,1982,17
 sirene/21/ecoles-de-sport-equitation.json,2880,24
@@ -2549,7 +2569,7 @@ sirene/21/poste-courrier.json,196,2
 sirene/21/pressing-blanchisserie-retouches.json,4484,36
 sirene/21/primeur-fromagerie-epicerie-fine-cave.json,13917,116
 sirene/21/production-et-distribution-d-energie.json,5429,45
-sirene/21/publicite-design-graphique.json,6200,55
+sirene/21/publicite-design-graphique.json,4765,42
 sirene/21/remontees-mecaniques-telepheriques.json,3,0
 sirene/21/reparation-d-ordinateurs-et-de-telephones.json,1803,17
 sirene/21/reparation-de-machines-et-d-electronique.json,6089,53
@@ -2615,6 +2635,7 @@ sirene/22/cuir-maroquinerie-cordonnerie.json,945,8
 sirene/22/cultures-specialisees-vergers-cultures-tropicales.json,1250,11
 sirene/22/dechets-recyclage-assainissement.json,14716,115
 sirene/22/demenagement.json,1261,11
+sirene/22/design-d-interieur-et-d-objet.json,2433,21
 sirene/22/eau-potable-captage-traitement-distribution.json,4896,38
 sirene/22/ebenisterie-meubles-restauration-de-meubles.json,3271,28
 sirene/22/ecoles-de-sport-equitation.json,5093,42
@@ -2626,7 +2647,7 @@ sirene/22/elements-prefabriques-en-beton.json,1497,13
 sirene/22/elevage-bovin-ovin-caprin-porcin-volailles.json,110743,1043
 sirene/22/elevage-de-chevaux-haras.json,1655,15
 sirene/22/enseignement-culturel-conservatoires.json,6057,49
-sirene/22/enseignes-signaletique-marquage.json,1466,11
+sirene/22/enseignes-signaletique-marquage.json,1347,10
 sirene/22/entrepots-logistique.json,6743,56
 sirene/22/esthetique-soins-de-beaute.json,5331,48
 sirene/22/fabrication-de-monnaies-medailles.json,3,0
@@ -2678,7 +2699,7 @@ sirene/22/poste-courrier.json,921,9
 sirene/22/pressing-blanchisserie-retouches.json,6144,51
 sirene/22/primeur-fromagerie-epicerie-fine-cave.json,6542,58
 sirene/22/production-et-distribution-d-energie.json,2770,24
-sirene/22/publicite-design-graphique.json,8238,71
+sirene/22/publicite-design-graphique.json,5807,50
 sirene/22/remontees-mecaniques-telepheriques.json,3,0
 sirene/22/reparation-d-ordinateurs-et-de-telephones.json,2666,24
 sirene/22/reparation-de-machines-et-d-electronique.json,7181,60
@@ -2744,6 +2765,7 @@ sirene/23/cuir-maroquinerie-cordonnerie.json,244,2
 sirene/23/cultures-specialisees-vergers-cultures-tropicales.json,180,1
 sirene/23/dechets-recyclage-assainissement.json,10975,81
 sirene/23/demenagement.json,271,2
+sirene/23/design-d-interieur-et-d-objet.json,222,2
 sirene/23/eau-potable-captage-traitement-distribution.json,8162,61
 sirene/23/ebenisterie-meubles-restauration-de-meubles.json,417,4
 sirene/23/ecoles-de-sport-equitation.json,253,2
@@ -2806,7 +2828,7 @@ sirene/23/poste-courrier.json,2150,21
 sirene/23/pressing-blanchisserie-retouches.json,637,5
 sirene/23/primeur-fromagerie-epicerie-fine-cave.json,880,7
 sirene/23/production-et-distribution-d-energie.json,4496,41
-sirene/23/publicite-design-graphique.json,541,5
+sirene/23/publicite-design-graphique.json,321,3
 sirene/23/remontees-mecaniques-telepheriques.json,3,0
 sirene/23/reparation-d-ordinateurs-et-de-telephones.json,98,1
 sirene/23/reparation-de-machines-et-d-electronique.json,1115,10
@@ -2872,6 +2894,7 @@ sirene/24/cuir-maroquinerie-cordonnerie.json,2537,20
 sirene/24/cultures-specialisees-vergers-cultures-tropicales.json,6782,61
 sirene/24/dechets-recyclage-assainissement.json,16853,120
 sirene/24/demenagement.json,1390,8
+sirene/24/design-d-interieur-et-d-objet.json,754,7
 sirene/24/eau-potable-captage-traitement-distribution.json,5791,41
 sirene/24/ebenisterie-meubles-restauration-de-meubles.json,2096,18
 sirene/24/ecoles-de-sport-equitation.json,2248,19
@@ -2935,7 +2958,7 @@ sirene/24/poste-courrier.json,1560,15
 sirene/24/pressing-blanchisserie-retouches.json,3686,32
 sirene/24/primeur-fromagerie-epicerie-fine-cave.json,5164,43
 sirene/24/production-et-distribution-d-energie.json,5591,45
-sirene/24/publicite-design-graphique.json,3047,26
+sirene/24/publicite-design-graphique.json,2295,19
 sirene/24/remontees-mecaniques-telepheriques.json,3,0
 sirene/24/reparation-d-ordinateurs-et-de-telephones.json,1470,13
 sirene/24/reparation-de-machines-et-d-electronique.json,3927,31
@@ -3001,6 +3024,7 @@ sirene/25/cuir-maroquinerie-cordonnerie.json,1880,15
 sirene/25/cultures-specialisees-vergers-cultures-tropicales.json,215,2
 sirene/25/dechets-recyclage-assainissement.json,19602,145
 sirene/25/demenagement.json,1147,10
+sirene/25/design-d-interieur-et-d-objet.json,1844,17
 sirene/25/eau-potable-captage-traitement-distribution.json,8453,64
 sirene/25/ebenisterie-meubles-restauration-de-meubles.json,2223,19
 sirene/25/ecoles-de-sport-equitation.json,2270,20
@@ -3012,7 +3036,7 @@ sirene/25/elements-prefabriques-en-beton.json,1588,13
 sirene/25/elevage-bovin-ovin-caprin-porcin-volailles.json,38880,329
 sirene/25/elevage-de-chevaux-haras.json,1189,10
 sirene/25/enseignement-culturel-conservatoires.json,3543,29
-sirene/25/enseignes-signaletique-marquage.json,1462,11
+sirene/25/enseignes-signaletique-marquage.json,987,7
 sirene/25/entrepots-logistique.json,9405,80
 sirene/25/esthetique-soins-de-beaute.json,8213,77
 sirene/25/fabrication-de-monnaies-medailles.json,3,0
@@ -3064,7 +3088,7 @@ sirene/25/poste-courrier.json,1715,17
 sirene/25/pressing-blanchisserie-retouches.json,2889,25
 sirene/25/primeur-fromagerie-epicerie-fine-cave.json,5753,51
 sirene/25/production-et-distribution-d-energie.json,4788,39
-sirene/25/publicite-design-graphique.json,4414,40
+sirene/25/publicite-design-graphique.json,2572,23
 sirene/25/remontees-mecaniques-telepheriques.json,656,5
 sirene/25/reparation-d-ordinateurs-et-de-telephones.json,2605,23
 sirene/25/reparation-de-machines-et-d-electronique.json,6990,60
@@ -3130,6 +3154,7 @@ sirene/26/cuir-maroquinerie-cordonnerie.json,4264,36
 sirene/26/cultures-specialisees-vergers-cultures-tropicales.json,18100,157
 sirene/26/dechets-recyclage-assainissement.json,17164,129
 sirene/26/demenagement.json,1683,13
+sirene/26/design-d-interieur-et-d-objet.json,1915,16
 sirene/26/eau-potable-captage-traitement-distribution.json,9142,66
 sirene/26/ebenisterie-meubles-restauration-de-meubles.json,3327,28
 sirene/26/ecoles-de-sport-equitation.json,2680,24
@@ -3141,7 +3166,7 @@ sirene/26/elements-prefabriques-en-beton.json,2890,27
 sirene/26/elevage-bovin-ovin-caprin-porcin-volailles.json,9241,84
 sirene/26/elevage-de-chevaux-haras.json,993,8
 sirene/26/enseignement-culturel-conservatoires.json,4435,36
-sirene/26/enseignes-signaletique-marquage.json,1344,10
+sirene/26/enseignes-signaletique-marquage.json,1204,9
 sirene/26/entrepots-logistique.json,15084,119
 sirene/26/esthetique-soins-de-beaute.json,8748,74
 sirene/26/fabrication-de-monnaies-medailles.json,3,0
@@ -3193,7 +3218,7 @@ sirene/26/poste-courrier.json,955,9
 sirene/26/pressing-blanchisserie-retouches.json,4762,41
 sirene/26/primeur-fromagerie-epicerie-fine-cave.json,11698,100
 sirene/26/production-et-distribution-d-energie.json,10202,82
-sirene/26/publicite-design-graphique.json,8799,76
+sirene/26/publicite-design-graphique.json,6886,60
 sirene/26/remontees-mecaniques-telepheriques.json,113,1
 sirene/26/reparation-d-ordinateurs-et-de-telephones.json,2903,26
 sirene/26/reparation-de-machines-et-d-electronique.json,8333,67
@@ -3259,6 +3284,7 @@ sirene/27/cuir-maroquinerie-cordonnerie.json,1817,15
 sirene/27/cultures-specialisees-vergers-cultures-tropicales.json,1315,11
 sirene/27/dechets-recyclage-assainissement.json,15596,121
 sirene/27/demenagement.json,2526,22
+sirene/27/design-d-interieur-et-d-objet.json,1723,15
 sirene/27/eau-potable-captage-traitement-distribution.json,3601,26
 sirene/27/ebenisterie-meubles-restauration-de-meubles.json,2356,21
 sirene/27/ecoles-de-sport-equitation.json,3910,32
@@ -3270,7 +3296,7 @@ sirene/27/elements-prefabriques-en-beton.json,1132,10
 sirene/27/elevage-bovin-ovin-caprin-porcin-volailles.json,6936,61
 sirene/27/elevage-de-chevaux-haras.json,2382,20
 sirene/27/enseignement-culturel-conservatoires.json,2570,21
-sirene/27/enseignes-signaletique-marquage.json,832,7
+sirene/27/enseignes-signaletique-marquage.json,580,5
 sirene/27/entrepots-logistique.json,11300,90
 sirene/27/esthetique-soins-de-beaute.json,6316,54
 sirene/27/fabrication-de-monnaies-medailles.json,3,0
@@ -3322,7 +3348,7 @@ sirene/27/poste-courrier.json,3,0
 sirene/27/pressing-blanchisserie-retouches.json,3768,32
 sirene/27/primeur-fromagerie-epicerie-fine-cave.json,4898,41
 sirene/27/production-et-distribution-d-energie.json,2007,16
-sirene/27/publicite-design-graphique.json,5345,46
+sirene/27/publicite-design-graphique.json,3624,31
 sirene/27/remontees-mecaniques-telepheriques.json,3,0
 sirene/27/reparation-d-ordinateurs-et-de-telephones.json,1501,11
 sirene/27/reparation-de-machines-et-d-electronique.json,8004,64
@@ -3388,6 +3414,7 @@ sirene/28/cuir-maroquinerie-cordonnerie.json,1678,14
 sirene/28/cultures-specialisees-vergers-cultures-tropicales.json,302,3
 sirene/28/dechets-recyclage-assainissement.json,22693,162
 sirene/28/demenagement.json,1334,11
+sirene/28/design-d-interieur-et-d-objet.json,1329,12
 sirene/28/eau-potable-captage-traitement-distribution.json,13635,100
 sirene/28/ebenisterie-meubles-restauration-de-meubles.json,2529,22
 sirene/28/ecoles-de-sport-equitation.json,3727,32
@@ -3451,7 +3478,7 @@ sirene/28/poste-courrier.json,518,5
 sirene/28/pressing-blanchisserie-retouches.json,3258,27
 sirene/28/primeur-fromagerie-epicerie-fine-cave.json,3800,33
 sirene/28/production-et-distribution-d-energie.json,2817,22
-sirene/28/publicite-design-graphique.json,4730,42
+sirene/28/publicite-design-graphique.json,3403,30
 sirene/28/remontees-mecaniques-telepheriques.json,3,0
 sirene/28/reparation-d-ordinateurs-et-de-telephones.json,1156,10
 sirene/28/reparation-de-machines-et-d-electronique.json,5449,45
@@ -3517,6 +3544,7 @@ sirene/29/cuir-maroquinerie-cordonnerie.json,1704,13
 sirene/29/cultures-specialisees-vergers-cultures-tropicales.json,4213,40
 sirene/29/dechets-recyclage-assainissement.json,28799,218
 sirene/29/demenagement.json,2557,18
+sirene/29/design-d-interieur-et-d-objet.json,3566,31
 sirene/29/eau-potable-captage-traitement-distribution.json,7007,52
 sirene/29/ebenisterie-meubles-restauration-de-meubles.json,3176,28
 sirene/29/ecoles-de-sport-equitation.json,6068,52
@@ -3528,7 +3556,7 @@ sirene/29/elements-prefabriques-en-beton.json,1048,9
 sirene/29/elevage-bovin-ovin-caprin-porcin-volailles.json,82717,826
 sirene/29/elevage-de-chevaux-haras.json,1962,18
 sirene/29/enseignement-culturel-conservatoires.json,7902,66
-sirene/29/enseignes-signaletique-marquage.json,1259,9
+sirene/29/enseignes-signaletique-marquage.json,965,7
 sirene/29/entrepots-logistique.json,12911,110
 sirene/29/esthetique-soins-de-beaute.json,11212,100
 sirene/29/fabrication-de-monnaies-medailles.json,3,0
@@ -3580,7 +3608,7 @@ sirene/29/poste-courrier.json,1289,13
 sirene/29/pressing-blanchisserie-retouches.json,7858,66
 sirene/29/primeur-fromagerie-epicerie-fine-cave.json,13259,117
 sirene/29/production-et-distribution-d-energie.json,7255,67
-sirene/29/publicite-design-graphique.json,9587,87
+sirene/29/publicite-design-graphique.json,6023,56
 sirene/29/remontees-mecaniques-telepheriques.json,3,0
 sirene/29/reparation-d-ordinateurs-et-de-telephones.json,2702,24
 sirene/29/reparation-de-machines-et-d-electronique.json,11560,95
@@ -3646,6 +3674,7 @@ sirene/2A/cuir-maroquinerie-cordonnerie.json,118,1
 sirene/2A/cultures-specialisees-vergers-cultures-tropicales.json,538,5
 sirene/2A/dechets-recyclage-assainissement.json,6364,51
 sirene/2A/demenagement.json,631,5
+sirene/2A/design-d-interieur-et-d-objet.json,939,8
 sirene/2A/eau-potable-captage-traitement-distribution.json,3092,23
 sirene/2A/ebenisterie-meubles-restauration-de-meubles.json,1174,10
 sirene/2A/ecoles-de-sport-equitation.json,2679,22
@@ -3657,7 +3686,7 @@ sirene/2A/elements-prefabriques-en-beton.json,329,3
 sirene/2A/elevage-bovin-ovin-caprin-porcin-volailles.json,3175,28
 sirene/2A/elevage-de-chevaux-haras.json,236,2
 sirene/2A/enseignement-culturel-conservatoires.json,700,6
-sirene/2A/enseignes-signaletique-marquage.json,513,4
+sirene/2A/enseignes-signaletique-marquage.json,352,3
 sirene/2A/entrepots-logistique.json,2069,17
 sirene/2A/esthetique-soins-de-beaute.json,4395,37
 sirene/2A/fabrication-de-monnaies-medailles.json,3,0
@@ -3709,7 +3738,7 @@ sirene/2A/poste-courrier.json,88,1
 sirene/2A/pressing-blanchisserie-retouches.json,2461,21
 sirene/2A/primeur-fromagerie-epicerie-fine-cave.json,2650,23
 sirene/2A/production-et-distribution-d-energie.json,1969,16
-sirene/2A/publicite-design-graphique.json,3433,30
+sirene/2A/publicite-design-graphique.json,2496,22
 sirene/2A/remontees-mecaniques-telepheriques.json,3,0
 sirene/2A/reparation-d-ordinateurs-et-de-telephones.json,1084,8
 sirene/2A/reparation-de-machines-et-d-electronique.json,1818,14
@@ -3775,6 +3804,7 @@ sirene/2B/cuir-maroquinerie-cordonnerie.json,220,2
 sirene/2B/cultures-specialisees-vergers-cultures-tropicales.json,9691,87
 sirene/2B/dechets-recyclage-assainissement.json,5766,46
 sirene/2B/demenagement.json,998,9
+sirene/2B/design-d-interieur-et-d-objet.json,1509,14
 sirene/2B/eau-potable-captage-traitement-distribution.json,4372,30
 sirene/2B/ebenisterie-meubles-restauration-de-meubles.json,564,6
 sirene/2B/ecoles-de-sport-equitation.json,1748,14
@@ -3786,7 +3816,7 @@ sirene/2B/elements-prefabriques-en-beton.json,473,4
 sirene/2B/elevage-bovin-ovin-caprin-porcin-volailles.json,1789,15
 sirene/2B/elevage-de-chevaux-haras.json,349,3
 sirene/2B/enseignement-culturel-conservatoires.json,674,6
-sirene/2B/enseignes-signaletique-marquage.json,495,4
+sirene/2B/enseignes-signaletique-marquage.json,330,3
 sirene/2B/entrepots-logistique.json,2442,20
 sirene/2B/esthetique-soins-de-beaute.json,3925,36
 sirene/2B/fabrication-de-monnaies-medailles.json,3,0
@@ -3838,7 +3868,7 @@ sirene/2B/poste-courrier.json,1307,14
 sirene/2B/pressing-blanchisserie-retouches.json,2401,20
 sirene/2B/primeur-fromagerie-epicerie-fine-cave.json,2534,22
 sirene/2B/production-et-distribution-d-energie.json,3197,29
-sirene/2B/publicite-design-graphique.json,4038,37
+sirene/2B/publicite-design-graphique.json,2531,23
 sirene/2B/remontees-mecaniques-telepheriques.json,143,1
 sirene/2B/reparation-d-ordinateurs-et-de-telephones.json,1483,13
 sirene/2B/reparation-de-machines-et-d-electronique.json,890,8
@@ -3904,6 +3934,7 @@ sirene/30/cuir-maroquinerie-cordonnerie.json,1782,15
 sirene/30/cultures-specialisees-vergers-cultures-tropicales.json,14550,128
 sirene/30/dechets-recyclage-assainissement.json,27518,211
 sirene/30/demenagement.json,2160,17
+sirene/30/design-d-interieur-et-d-objet.json,3460,30
 sirene/30/eau-potable-captage-traitement-distribution.json,13641,101
 sirene/30/ebenisterie-meubles-restauration-de-meubles.json,4307,35
 sirene/30/ecoles-de-sport-equitation.json,4767,39
@@ -3915,7 +3946,7 @@ sirene/30/elements-prefabriques-en-beton.json,1503,13
 sirene/30/elevage-bovin-ovin-caprin-porcin-volailles.json,5072,45
 sirene/30/elevage-de-chevaux-haras.json,2327,20
 sirene/30/enseignement-culturel-conservatoires.json,5691,48
-sirene/30/enseignes-signaletique-marquage.json,1354,11
+sirene/30/enseignes-signaletique-marquage.json,861,7
 sirene/30/entrepots-logistique.json,9883,83
 sirene/30/esthetique-soins-de-beaute.json,12263,109
 sirene/30/fabrication-de-monnaies-medailles.json,3,0
@@ -3967,7 +3998,7 @@ sirene/30/poste-courrier.json,777,8
 sirene/30/pressing-blanchisserie-retouches.json,4648,41
 sirene/30/primeur-fromagerie-epicerie-fine-cave.json,15633,132
 sirene/30/production-et-distribution-d-energie.json,7141,58
-sirene/30/publicite-design-graphique.json,11778,102
+sirene/30/publicite-design-graphique.json,8320,72
 sirene/30/remontees-mecaniques-telepheriques.json,3,0
 sirene/30/reparation-d-ordinateurs-et-de-telephones.json,1834,15
 sirene/30/reparation-de-machines-et-d-electronique.json,6565,55
@@ -4033,6 +4064,7 @@ sirene/31/cuir-maroquinerie-cordonnerie.json,1630,14
 sirene/31/cultures-specialisees-vergers-cultures-tropicales.json,700,6
 sirene/31/dechets-recyclage-assainissement.json,28684,226
 sirene/31/demenagement.json,4171,36
+sirene/31/design-d-interieur-et-d-objet.json,7997,73
 sirene/31/eau-potable-captage-traitement-distribution.json,6458,47
 sirene/31/ebenisterie-meubles-restauration-de-meubles.json,4365,37
 sirene/31/ecoles-de-sport-equitation.json,10829,92
@@ -4044,7 +4076,7 @@ sirene/31/elements-prefabriques-en-beton.json,2532,20
 sirene/31/elevage-bovin-ovin-caprin-porcin-volailles.json,6662,61
 sirene/31/elevage-de-chevaux-haras.json,1987,18
 sirene/31/enseignement-culturel-conservatoires.json,12056,103
-sirene/31/enseignes-signaletique-marquage.json,1622,12
+sirene/31/enseignes-signaletique-marquage.json,1347,10
 sirene/31/entrepots-logistique.json,34373,274
 sirene/31/esthetique-soins-de-beaute.json,25184,220
 sirene/31/fabrication-de-monnaies-medailles.json,3,0
@@ -4096,7 +4128,7 @@ sirene/31/poste-courrier.json,1100,11
 sirene/31/pressing-blanchisserie-retouches.json,16261,141
 sirene/31/primeur-fromagerie-epicerie-fine-cave.json,21819,195
 sirene/31/production-et-distribution-d-energie.json,14349,119
-sirene/31/publicite-design-graphique.json,27998,251
+sirene/31/publicite-design-graphique.json,20003,178
 sirene/31/remontees-mecaniques-telepheriques.json,444,3
 sirene/31/reparation-d-ordinateurs-et-de-telephones.json,5036,44
 sirene/31/reparation-de-machines-et-d-electronique.json,12761,105
@@ -4162,6 +4194,7 @@ sirene/32/cuir-maroquinerie-cordonnerie.json,434,4
 sirene/32/cultures-specialisees-vergers-cultures-tropicales.json,1182,11
 sirene/32/dechets-recyclage-assainissement.json,8320,62
 sirene/32/demenagement.json,128,1
+sirene/32/design-d-interieur-et-d-objet.json,242,2
 sirene/32/eau-potable-captage-traitement-distribution.json,3564,26
 sirene/32/ebenisterie-meubles-restauration-de-meubles.json,1163,10
 sirene/32/ecoles-de-sport-equitation.json,571,5
@@ -4173,7 +4206,7 @@ sirene/32/elements-prefabriques-en-beton.json,3,0
 sirene/32/elevage-bovin-ovin-caprin-porcin-volailles.json,6826,65
 sirene/32/elevage-de-chevaux-haras.json,810,8
 sirene/32/enseignement-culturel-conservatoires.json,1704,15
-sirene/32/enseignes-signaletique-marquage.json,306,2
+sirene/32/enseignes-signaletique-marquage.json,142,1
 sirene/32/entrepots-logistique.json,1889,17
 sirene/32/esthetique-soins-de-beaute.json,1992,17
 sirene/32/fabrication-de-monnaies-medailles.json,3,0
@@ -4225,7 +4258,7 @@ sirene/32/poste-courrier.json,392,4
 sirene/32/pressing-blanchisserie-retouches.json,874,8
 sirene/32/primeur-fromagerie-epicerie-fine-cave.json,4148,37
 sirene/32/production-et-distribution-d-energie.json,3923,38
-sirene/32/publicite-design-graphique.json,1721,15
+sirene/32/publicite-design-graphique.json,1481,13
 sirene/32/remontees-mecaniques-telepheriques.json,3,0
 sirene/32/reparation-d-ordinateurs-et-de-telephones.json,513,5
 sirene/32/reparation-de-machines-et-d-electronique.json,2949,27
@@ -4291,6 +4324,7 @@ sirene/33/cuir-maroquinerie-cordonnerie.json,3833,33
 sirene/33/cultures-specialisees-vergers-cultures-tropicales.json,2633,23
 sirene/33/dechets-recyclage-assainissement.json,45992,337
 sirene/33/demenagement.json,5038,39
+sirene/33/design-d-interieur-et-d-objet.json,11436,104
 sirene/33/eau-potable-captage-traitement-distribution.json,12514,85
 sirene/33/ebenisterie-meubles-restauration-de-meubles.json,6738,58
 sirene/33/ecoles-de-sport-equitation.json,16765,139
@@ -4302,7 +4336,7 @@ sirene/33/elements-prefabriques-en-beton.json,2309,20
 sirene/33/elevage-bovin-ovin-caprin-porcin-volailles.json,4936,44
 sirene/33/elevage-de-chevaux-haras.json,4098,36
 sirene/33/enseignement-culturel-conservatoires.json,12239,99
-sirene/33/enseignes-signaletique-marquage.json,3530,28
+sirene/33/enseignes-signaletique-marquage.json,3020,24
 sirene/33/entrepots-logistique.json,42332,349
 sirene/33/esthetique-soins-de-beaute.json,33907,295
 sirene/33/fabrication-de-monnaies-medailles.json,100,1
@@ -4354,7 +4388,7 @@ sirene/33/poste-courrier.json,701,7
 sirene/33/pressing-blanchisserie-retouches.json,19656,172
 sirene/33/primeur-fromagerie-epicerie-fine-cave.json,30752,262
 sirene/33/production-et-distribution-d-energie.json,13794,120
-sirene/33/publicite-design-graphique.json,36278,327
+sirene/33/publicite-design-graphique.json,24844,223
 sirene/33/remontees-mecaniques-telepheriques.json,3,0
 sirene/33/reparation-d-ordinateurs-et-de-telephones.json,6583,56
 sirene/33/reparation-de-machines-et-d-electronique.json,17434,141
@@ -4420,6 +4454,7 @@ sirene/34/cuir-maroquinerie-cordonnerie.json,3168,26
 sirene/34/cultures-specialisees-vergers-cultures-tropicales.json,3082,27
 sirene/34/dechets-recyclage-assainissement.json,31758,235
 sirene/34/demenagement.json,4339,36
+sirene/34/design-d-interieur-et-d-objet.json,6913,59
 sirene/34/eau-potable-captage-traitement-distribution.json,10237,75
 sirene/34/ebenisterie-meubles-restauration-de-meubles.json,4172,35
 sirene/34/ecoles-de-sport-equitation.json,10665,87
@@ -4431,7 +4466,7 @@ sirene/34/elements-prefabriques-en-beton.json,1743,15
 sirene/34/elevage-bovin-ovin-caprin-porcin-volailles.json,3584,32
 sirene/34/elevage-de-chevaux-haras.json,1149,10
 sirene/34/enseignement-culturel-conservatoires.json,13175,110
-sirene/34/enseignes-signaletique-marquage.json,1969,15
+sirene/34/enseignes-signaletique-marquage.json,1699,13
 sirene/34/entrepots-logistique.json,20785,172
 sirene/34/esthetique-soins-de-beaute.json,28868,247
 sirene/34/fabrication-de-monnaies-medailles.json,3,0
@@ -4483,7 +4518,7 @@ sirene/34/poste-courrier.json,1183,12
 sirene/34/pressing-blanchisserie-retouches.json,12226,101
 sirene/34/primeur-fromagerie-epicerie-fine-cave.json,27335,231
 sirene/34/production-et-distribution-d-energie.json,13832,113
-sirene/34/publicite-design-graphique.json,26071,221
+sirene/34/publicite-design-graphique.json,19160,162
 sirene/34/remontees-mecaniques-telepheriques.json,3,0
 sirene/34/reparation-d-ordinateurs-et-de-telephones.json,5572,44
 sirene/34/reparation-de-machines-et-d-electronique.json,8069,65
@@ -4549,6 +4584,7 @@ sirene/35/cuir-maroquinerie-cordonnerie.json,4624,37
 sirene/35/cultures-specialisees-vergers-cultures-tropicales.json,1794,17
 sirene/35/dechets-recyclage-assainissement.json,38706,295
 sirene/35/demenagement.json,3764,29
+sirene/35/design-d-interieur-et-d-objet.json,6629,59
 sirene/35/eau-potable-captage-traitement-distribution.json,5901,42
 sirene/35/ebenisterie-meubles-restauration-de-meubles.json,8301,71
 sirene/35/ecoles-de-sport-equitation.json,10637,90
@@ -4560,7 +4596,7 @@ sirene/35/elements-prefabriques-en-beton.json,2686,24
 sirene/35/elevage-bovin-ovin-caprin-porcin-volailles.json,66758,648
 sirene/35/elevage-de-chevaux-haras.json,2439,22
 sirene/35/enseignement-culturel-conservatoires.json,9745,79
-sirene/35/enseignes-signaletique-marquage.json,1609,12
+sirene/35/enseignes-signaletique-marquage.json,1212,9
 sirene/35/entrepots-logistique.json,23952,187
 sirene/35/esthetique-soins-de-beaute.json,15427,137
 sirene/35/fabrication-de-monnaies-medailles.json,3,0
@@ -4612,7 +4648,7 @@ sirene/35/poste-courrier.json,1629,15
 sirene/35/pressing-blanchisserie-retouches.json,11978,104
 sirene/35/primeur-fromagerie-epicerie-fine-cave.json,14944,132
 sirene/35/production-et-distribution-d-energie.json,12691,112
-sirene/35/publicite-design-graphique.json,20395,179
+sirene/35/publicite-design-graphique.json,13768,120
 sirene/35/remontees-mecaniques-telepheriques.json,3,0
 sirene/35/reparation-d-ordinateurs-et-de-telephones.json,3794,31
 sirene/35/reparation-de-machines-et-d-electronique.json,15475,127
@@ -4678,6 +4714,7 @@ sirene/36/cuir-maroquinerie-cordonnerie.json,2964,25
 sirene/36/cultures-specialisees-vergers-cultures-tropicales.json,526,5
 sirene/36/dechets-recyclage-assainissement.json,20370,148
 sirene/36/demenagement.json,592,5
+sirene/36/design-d-interieur-et-d-objet.json,407,4
 sirene/36/eau-potable-captage-traitement-distribution.json,6100,44
 sirene/36/ebenisterie-meubles-restauration-de-meubles.json,1254,11
 sirene/36/ecoles-de-sport-equitation.json,1096,9
@@ -4741,7 +4778,7 @@ sirene/36/poste-courrier.json,660,6
 sirene/36/pressing-blanchisserie-retouches.json,1242,11
 sirene/36/primeur-fromagerie-epicerie-fine-cave.json,1622,15
 sirene/36/production-et-distribution-d-energie.json,2108,20
-sirene/36/publicite-design-graphique.json,1268,12
+sirene/36/publicite-design-graphique.json,863,8
 sirene/36/remontees-mecaniques-telepheriques.json,3,0
 sirene/36/reparation-d-ordinateurs-et-de-telephones.json,366,3
 sirene/36/reparation-de-machines-et-d-electronique.json,2842,25
@@ -4807,6 +4844,7 @@ sirene/37/cuir-maroquinerie-cordonnerie.json,1568,14
 sirene/37/cultures-specialisees-vergers-cultures-tropicales.json,3216,28
 sirene/37/dechets-recyclage-assainissement.json,20730,154
 sirene/37/demenagement.json,1748,13
+sirene/37/design-d-interieur-et-d-objet.json,2366,20
 sirene/37/eau-potable-captage-traitement-distribution.json,5244,37
 sirene/37/ebenisterie-meubles-restauration-de-meubles.json,4419,34
 sirene/37/ecoles-de-sport-equitation.json,4492,38
@@ -4818,7 +4856,7 @@ sirene/37/elements-prefabriques-en-beton.json,1266,10
 sirene/37/elevage-bovin-ovin-caprin-porcin-volailles.json,10919,104
 sirene/37/elevage-de-chevaux-haras.json,1550,13
 sirene/37/enseignement-culturel-conservatoires.json,5747,47
-sirene/37/enseignes-signaletique-marquage.json,1323,10
+sirene/37/enseignes-signaletique-marquage.json,1219,9
 sirene/37/entrepots-logistique.json,14254,114
 sirene/37/esthetique-soins-de-beaute.json,9779,87
 sirene/37/fabrication-de-monnaies-medailles.json,3,0
@@ -4870,7 +4908,7 @@ sirene/37/poste-courrier.json,762,8
 sirene/37/pressing-blanchisserie-retouches.json,4735,40
 sirene/37/primeur-fromagerie-epicerie-fine-cave.json,9719,80
 sirene/37/production-et-distribution-d-energie.json,3813,33
-sirene/37/publicite-design-graphique.json,8335,74
+sirene/37/publicite-design-graphique.json,5971,54
 sirene/37/remontees-mecaniques-telepheriques.json,3,0
 sirene/37/reparation-d-ordinateurs-et-de-telephones.json,2680,23
 sirene/37/reparation-de-machines-et-d-electronique.json,5819,48
@@ -4936,6 +4974,7 @@ sirene/38/cuir-maroquinerie-cordonnerie.json,3409,26
 sirene/38/cultures-specialisees-vergers-cultures-tropicales.json,6077,54
 sirene/38/dechets-recyclage-assainissement.json,35864,274
 sirene/38/demenagement.json,3326,23
+sirene/38/design-d-interieur-et-d-objet.json,5542,49
 sirene/38/eau-potable-captage-traitement-distribution.json,15061,106
 sirene/38/ebenisterie-meubles-restauration-de-meubles.json,7726,65
 sirene/38/ecoles-de-sport-equitation.json,9604,78
@@ -4947,7 +4986,7 @@ sirene/38/elements-prefabriques-en-beton.json,2265,19
 sirene/38/elevage-bovin-ovin-caprin-porcin-volailles.json,14665,131
 sirene/38/elevage-de-chevaux-haras.json,916,8
 sirene/38/enseignement-culturel-conservatoires.json,9780,80
-sirene/38/enseignes-signaletique-marquage.json,2503,19
+sirene/38/enseignes-signaletique-marquage.json,2014,15
 sirene/38/entrepots-logistique.json,33114,265
 sirene/38/esthetique-soins-de-beaute.json,23371,205
 sirene/38/fabrication-de-monnaies-medailles.json,3,0
@@ -4999,7 +5038,7 @@ sirene/38/poste-courrier.json,1287,13
 sirene/38/pressing-blanchisserie-retouches.json,11411,98
 sirene/38/primeur-fromagerie-epicerie-fine-cave.json,17313,145
 sirene/38/production-et-distribution-d-energie.json,7580,65
-sirene/38/publicite-design-graphique.json,15322,131
+sirene/38/publicite-design-graphique.json,9782,82
 sirene/38/remontees-mecaniques-telepheriques.json,3775,29
 sirene/38/reparation-d-ordinateurs-et-de-telephones.json,6062,50
 sirene/38/reparation-de-machines-et-d-electronique.json,21398,181
@@ -5065,6 +5104,7 @@ sirene/39/cuir-maroquinerie-cordonnerie.json,384,3
 sirene/39/cultures-specialisees-vergers-cultures-tropicales.json,168,1
 sirene/39/dechets-recyclage-assainissement.json,8054,64
 sirene/39/demenagement.json,944,8
+sirene/39/design-d-interieur-et-d-objet.json,336,3
 sirene/39/eau-potable-captage-traitement-distribution.json,6892,52
 sirene/39/ebenisterie-meubles-restauration-de-meubles.json,1676,15
 sirene/39/ecoles-de-sport-equitation.json,1063,9
@@ -5128,7 +5168,7 @@ sirene/39/poste-courrier.json,302,3
 sirene/39/pressing-blanchisserie-retouches.json,1694,14
 sirene/39/primeur-fromagerie-epicerie-fine-cave.json,4150,33
 sirene/39/production-et-distribution-d-energie.json,3274,27
-sirene/39/publicite-design-graphique.json,2172,19
+sirene/39/publicite-design-graphique.json,1838,16
 sirene/39/remontees-mecaniques-telepheriques.json,478,3
 sirene/39/reparation-d-ordinateurs-et-de-telephones.json,872,8
 sirene/39/reparation-de-machines-et-d-electronique.json,3952,35
@@ -5194,6 +5234,7 @@ sirene/40/cuir-maroquinerie-cordonnerie.json,1206,10
 sirene/40/cultures-specialisees-vergers-cultures-tropicales.json,1135,10
 sirene/40/dechets-recyclage-assainissement.json,15224,106
 sirene/40/demenagement.json,974,7
+sirene/40/design-d-interieur-et-d-objet.json,1934,17
 sirene/40/eau-potable-captage-traitement-distribution.json,5659,41
 sirene/40/ebenisterie-meubles-restauration-de-meubles.json,2838,26
 sirene/40/ecoles-de-sport-equitation.json,7907,66
@@ -5205,7 +5246,7 @@ sirene/40/elements-prefabriques-en-beton.json,1272,10
 sirene/40/elevage-bovin-ovin-caprin-porcin-volailles.json,13885,128
 sirene/40/elevage-de-chevaux-haras.json,605,5
 sirene/40/enseignement-culturel-conservatoires.json,3117,26
-sirene/40/enseignes-signaletique-marquage.json,305,2
+sirene/40/enseignes-signaletique-marquage.json,182,1
 sirene/40/entrepots-logistique.json,8757,73
 sirene/40/esthetique-soins-de-beaute.json,7857,67
 sirene/40/fabrication-de-monnaies-medailles.json,3,0
@@ -5257,7 +5298,7 @@ sirene/40/poste-courrier.json,1265,12
 sirene/40/pressing-blanchisserie-retouches.json,4426,36
 sirene/40/primeur-fromagerie-epicerie-fine-cave.json,7170,59
 sirene/40/production-et-distribution-d-energie.json,14728,125
-sirene/40/publicite-design-graphique.json,4533,40
+sirene/40/publicite-design-graphique.json,2601,23
 sirene/40/remontees-mecaniques-telepheriques.json,3,0
 sirene/40/reparation-d-ordinateurs-et-de-telephones.json,1050,9
 sirene/40/reparation-de-machines-et-d-electronique.json,4553,39
@@ -5323,6 +5364,7 @@ sirene/41/cuir-maroquinerie-cordonnerie.json,1301,10
 sirene/41/cultures-specialisees-vergers-cultures-tropicales.json,1172,10
 sirene/41/dechets-recyclage-assainissement.json,21119,151
 sirene/41/demenagement.json,925,7
+sirene/41/design-d-interieur-et-d-objet.json,1221,11
 sirene/41/eau-potable-captage-traitement-distribution.json,8330,60
 sirene/41/ebenisterie-meubles-restauration-de-meubles.json,2045,17
 sirene/41/ecoles-de-sport-equitation.json,1894,17
@@ -5334,7 +5376,7 @@ sirene/41/elements-prefabriques-en-beton.json,516,4
 sirene/41/elevage-bovin-ovin-caprin-porcin-volailles.json,5542,53
 sirene/41/elevage-de-chevaux-haras.json,612,5
 sirene/41/enseignement-culturel-conservatoires.json,3104,25
-sirene/41/enseignes-signaletique-marquage.json,779,7
+sirene/41/enseignes-signaletique-marquage.json,549,5
 sirene/41/entrepots-logistique.json,5636,47
 sirene/41/esthetique-soins-de-beaute.json,4629,40
 sirene/41/fabrication-de-monnaies-medailles.json,3,0
@@ -5386,7 +5428,7 @@ sirene/41/poste-courrier.json,3,0
 sirene/41/pressing-blanchisserie-retouches.json,2613,20
 sirene/41/primeur-fromagerie-epicerie-fine-cave.json,4493,39
 sirene/41/production-et-distribution-d-energie.json,2367,19
-sirene/41/publicite-design-graphique.json,3465,31
+sirene/41/publicite-design-graphique.json,2246,20
 sirene/41/remontees-mecaniques-telepheriques.json,3,0
 sirene/41/reparation-d-ordinateurs-et-de-telephones.json,821,7
 sirene/41/reparation-de-machines-et-d-electronique.json,4652,38
@@ -5452,6 +5494,7 @@ sirene/42/cuir-maroquinerie-cordonnerie.json,2703,23
 sirene/42/cultures-specialisees-vergers-cultures-tropicales.json,2929,25
 sirene/42/dechets-recyclage-assainissement.json,18697,140
 sirene/42/demenagement.json,2071,15
+sirene/42/design-d-interieur-et-d-objet.json,4383,39
 sirene/42/eau-potable-captage-traitement-distribution.json,5608,41
 sirene/42/ebenisterie-meubles-restauration-de-meubles.json,6078,53
 sirene/42/ecoles-de-sport-equitation.json,4356,37
@@ -5515,7 +5558,7 @@ sirene/42/poste-courrier.json,95,1
 sirene/42/pressing-blanchisserie-retouches.json,3113,26
 sirene/42/primeur-fromagerie-epicerie-fine-cave.json,11150,98
 sirene/42/production-et-distribution-d-energie.json,5249,45
-sirene/42/publicite-design-graphique.json,13347,116
+sirene/42/publicite-design-graphique.json,8966,77
 sirene/42/remontees-mecaniques-telepheriques.json,278,2
 sirene/42/reparation-d-ordinateurs-et-de-telephones.json,2483,22
 sirene/42/reparation-de-machines-et-d-electronique.json,14488,123
@@ -5581,6 +5624,7 @@ sirene/43/cuir-maroquinerie-cordonnerie.json,1373,12
 sirene/43/cultures-specialisees-vergers-cultures-tropicales.json,643,5
 sirene/43/dechets-recyclage-assainissement.json,13493,96
 sirene/43/demenagement.json,344,3
+sirene/43/design-d-interieur-et-d-objet.json,708,6
 sirene/43/eau-potable-captage-traitement-distribution.json,3588,26
 sirene/43/ebenisterie-meubles-restauration-de-meubles.json,2364,20
 sirene/43/ecoles-de-sport-equitation.json,1211,10
@@ -5592,7 +5636,7 @@ sirene/43/elements-prefabriques-en-beton.json,596,5
 sirene/43/elevage-bovin-ovin-caprin-porcin-volailles.json,32184,294
 sirene/43/elevage-de-chevaux-haras.json,583,5
 sirene/43/enseignement-culturel-conservatoires.json,1590,12
-sirene/43/enseignes-signaletique-marquage.json,412,3
+sirene/43/enseignes-signaletique-marquage.json,251,2
 sirene/43/entrepots-logistique.json,3270,27
 sirene/43/esthetique-soins-de-beaute.json,2532,22
 sirene/43/fabrication-de-monnaies-medailles.json,3,0
@@ -5644,7 +5688,7 @@ sirene/43/poste-courrier.json,1211,12
 sirene/43/pressing-blanchisserie-retouches.json,1364,10
 sirene/43/primeur-fromagerie-epicerie-fine-cave.json,3654,32
 sirene/43/production-et-distribution-d-energie.json,10069,82
-sirene/43/publicite-design-graphique.json,2272,19
+sirene/43/publicite-design-graphique.json,1566,13
 sirene/43/remontees-mecaniques-telepheriques.json,181,1
 sirene/43/reparation-d-ordinateurs-et-de-telephones.json,848,7
 sirene/43/reparation-de-machines-et-d-electronique.json,4449,37
@@ -5710,6 +5754,7 @@ sirene/44/cuir-maroquinerie-cordonnerie.json,3136,25
 sirene/44/cultures-specialisees-vergers-cultures-tropicales.json,3281,28
 sirene/44/dechets-recyclage-assainissement.json,39749,304
 sirene/44/demenagement.json,4379,35
+sirene/44/design-d-interieur-et-d-objet.json,11506,101
 sirene/44/eau-potable-captage-traitement-distribution.json,2828,21
 sirene/44/ebenisterie-meubles-restauration-de-meubles.json,10953,90
 sirene/44/ecoles-de-sport-equitation.json,10905,91
@@ -5721,7 +5766,7 @@ sirene/44/elements-prefabriques-en-beton.json,1468,12
 sirene/44/elevage-bovin-ovin-caprin-porcin-volailles.json,75767,726
 sirene/44/elevage-de-chevaux-haras.json,4298,37
 sirene/44/enseignement-culturel-conservatoires.json,13543,111
-sirene/44/enseignes-signaletique-marquage.json,3924,29
+sirene/44/enseignes-signaletique-marquage.json,3527,26
 sirene/44/entrepots-logistique.json,33273,268
 sirene/44/esthetique-soins-de-beaute.json,25591,220
 sirene/44/fabrication-de-monnaies-medailles.json,3,0
@@ -5773,7 +5818,7 @@ sirene/44/poste-courrier.json,451,4
 sirene/44/pressing-blanchisserie-retouches.json,15476,122
 sirene/44/primeur-fromagerie-epicerie-fine-cave.json,18844,160
 sirene/44/production-et-distribution-d-energie.json,13289,107
-sirene/44/publicite-design-graphique.json,34752,305
+sirene/44/publicite-design-graphique.json,23248,204
 sirene/44/remontees-mecaniques-telepheriques.json,3,0
 sirene/44/reparation-d-ordinateurs-et-de-telephones.json,6007,49
 sirene/44/reparation-de-machines-et-d-electronique.json,18965,154
@@ -5839,6 +5884,7 @@ sirene/45/cuir-maroquinerie-cordonnerie.json,963,7
 sirene/45/cultures-specialisees-vergers-cultures-tropicales.json,3282,29
 sirene/45/dechets-recyclage-assainissement.json,25052,186
 sirene/45/demenagement.json,2444,18
+sirene/45/design-d-interieur-et-d-objet.json,2872,26
 sirene/45/eau-potable-captage-traitement-distribution.json,14362,103
 sirene/45/ebenisterie-meubles-restauration-de-meubles.json,2174,19
 sirene/45/ecoles-de-sport-equitation.json,4084,34
@@ -5850,7 +5896,7 @@ sirene/45/elements-prefabriques-en-beton.json,1800,15
 sirene/45/elevage-bovin-ovin-caprin-porcin-volailles.json,2730,26
 sirene/45/elevage-de-chevaux-haras.json,1652,14
 sirene/45/enseignement-culturel-conservatoires.json,7113,58
-sirene/45/enseignes-signaletique-marquage.json,1295,11
+sirene/45/enseignes-signaletique-marquage.json,1066,9
 sirene/45/entrepots-logistique.json,17371,140
 sirene/45/esthetique-soins-de-beaute.json,8944,80
 sirene/45/fabrication-de-monnaies-medailles.json,3,0
@@ -5902,7 +5948,7 @@ sirene/45/poste-courrier.json,1007,10
 sirene/45/pressing-blanchisserie-retouches.json,6114,50
 sirene/45/primeur-fromagerie-epicerie-fine-cave.json,5785,52
 sirene/45/production-et-distribution-d-energie.json,2213,18
-sirene/45/publicite-design-graphique.json,7688,69
+sirene/45/publicite-design-graphique.json,4818,43
 sirene/45/remontees-mecaniques-telepheriques.json,3,0
 sirene/45/reparation-d-ordinateurs-et-de-telephones.json,2907,25
 sirene/45/reparation-de-machines-et-d-electronique.json,8278,68
@@ -5968,6 +6014,7 @@ sirene/46/cuir-maroquinerie-cordonnerie.json,225,2
 sirene/46/cultures-specialisees-vergers-cultures-tropicales.json,1626,15
 sirene/46/dechets-recyclage-assainissement.json,7605,57
 sirene/46/demenagement.json,336,2
+sirene/46/design-d-interieur-et-d-objet.json,631,6
 sirene/46/eau-potable-captage-traitement-distribution.json,2740,20
 sirene/46/ebenisterie-meubles-restauration-de-meubles.json,678,6
 sirene/46/ecoles-de-sport-equitation.json,1227,11
@@ -6031,7 +6078,7 @@ sirene/46/poste-courrier.json,107,1
 sirene/46/pressing-blanchisserie-retouches.json,1065,9
 sirene/46/primeur-fromagerie-epicerie-fine-cave.json,2323,20
 sirene/46/production-et-distribution-d-energie.json,5290,43
-sirene/46/publicite-design-graphique.json,2194,20
+sirene/46/publicite-design-graphique.json,1565,14
 sirene/46/remontees-mecaniques-telepheriques.json,105,1
 sirene/46/reparation-d-ordinateurs-et-de-telephones.json,616,5
 sirene/46/reparation-de-machines-et-d-electronique.json,2369,20
@@ -6097,6 +6144,7 @@ sirene/47/cuir-maroquinerie-cordonnerie.json,547,4
 sirene/47/cultures-specialisees-vergers-cultures-tropicales.json,18824,163
 sirene/47/dechets-recyclage-assainissement.json,8402,61
 sirene/47/demenagement.json,1162,10
+sirene/47/design-d-interieur-et-d-objet.json,926,8
 sirene/47/eau-potable-captage-traitement-distribution.json,2267,17
 sirene/47/ebenisterie-meubles-restauration-de-meubles.json,1384,12
 sirene/47/ecoles-de-sport-equitation.json,2132,17
@@ -6108,7 +6156,7 @@ sirene/47/elements-prefabriques-en-beton.json,940,8
 sirene/47/elevage-bovin-ovin-caprin-porcin-volailles.json,9403,83
 sirene/47/elevage-de-chevaux-haras.json,533,5
 sirene/47/enseignement-culturel-conservatoires.json,1859,15
-sirene/47/enseignes-signaletique-marquage.json,1060,7
+sirene/47/enseignes-signaletique-marquage.json,411,3
 sirene/47/entrepots-logistique.json,6815,56
 sirene/47/esthetique-soins-de-beaute.json,3506,32
 sirene/47/fabrication-de-monnaies-medailles.json,3,0
@@ -6160,7 +6208,7 @@ sirene/47/poste-courrier.json,92,1
 sirene/47/pressing-blanchisserie-retouches.json,1831,18
 sirene/47/primeur-fromagerie-epicerie-fine-cave.json,4825,42
 sirene/47/production-et-distribution-d-energie.json,6979,58
-sirene/47/publicite-design-graphique.json,4647,41
+sirene/47/publicite-design-graphique.json,3723,33
 sirene/47/remontees-mecaniques-telepheriques.json,3,0
 sirene/47/reparation-d-ordinateurs-et-de-telephones.json,2111,19
 sirene/47/reparation-de-machines-et-d-electronique.json,3878,33
@@ -6237,7 +6285,7 @@ sirene/48/elements-prefabriques-en-beton.json,3,0
 sirene/48/elevage-bovin-ovin-caprin-porcin-volailles.json,11546,107
 sirene/48/elevage-de-chevaux-haras.json,841,7
 sirene/48/enseignement-culturel-conservatoires.json,122,1
-sirene/48/enseignes-signaletique-marquage.json,632,4
+sirene/48/enseignes-signaletique-marquage.json,308,2
 sirene/48/entrepots-logistique.json,511,4
 sirene/48/esthetique-soins-de-beaute.json,362,3
 sirene/48/fabrication-de-monnaies-medailles.json,3,0
@@ -6354,6 +6402,7 @@ sirene/49/cuir-maroquinerie-cordonnerie.json,8714,70
 sirene/49/cultures-specialisees-vergers-cultures-tropicales.json,12386,105
 sirene/49/dechets-recyclage-assainissement.json,20262,150
 sirene/49/demenagement.json,2562,18
+sirene/49/design-d-interieur-et-d-objet.json,3913,33
 sirene/49/eau-potable-captage-traitement-distribution.json,3165,23
 sirene/49/ebenisterie-meubles-restauration-de-meubles.json,8423,64
 sirene/49/ecoles-de-sport-equitation.json,8768,71
@@ -6365,7 +6414,7 @@ sirene/49/elements-prefabriques-en-beton.json,2182,18
 sirene/49/elevage-bovin-ovin-caprin-porcin-volailles.json,72137,595
 sirene/49/elevage-de-chevaux-haras.json,3948,31
 sirene/49/enseignement-culturel-conservatoires.json,4607,38
-sirene/49/enseignes-signaletique-marquage.json,1582,12
+sirene/49/enseignes-signaletique-marquage.json,1028,8
 sirene/49/entrepots-logistique.json,11260,88
 sirene/49/esthetique-soins-de-beaute.json,14229,121
 sirene/49/fabrication-de-monnaies-medailles.json,3,0
@@ -6417,7 +6466,7 @@ sirene/49/poste-courrier.json,1323,13
 sirene/49/pressing-blanchisserie-retouches.json,5923,49
 sirene/49/primeur-fromagerie-epicerie-fine-cave.json,9083,76
 sirene/49/production-et-distribution-d-energie.json,7430,61
-sirene/49/publicite-design-graphique.json,12489,105
+sirene/49/publicite-design-graphique.json,8578,72
 sirene/49/remontees-mecaniques-telepheriques.json,3,0
 sirene/49/reparation-d-ordinateurs-et-de-telephones.json,3586,30
 sirene/49/reparation-de-machines-et-d-electronique.json,13062,105
@@ -6483,6 +6532,7 @@ sirene/50/cuir-maroquinerie-cordonnerie.json,978,9
 sirene/50/cultures-specialisees-vergers-cultures-tropicales.json,1665,13
 sirene/50/dechets-recyclage-assainissement.json,18646,137
 sirene/50/demenagement.json,1093,5
+sirene/50/design-d-interieur-et-d-objet.json,1270,11
 sirene/50/eau-potable-captage-traitement-distribution.json,4287,31
 sirene/50/ebenisterie-meubles-restauration-de-meubles.json,3040,26
 sirene/50/ecoles-de-sport-equitation.json,3732,31
@@ -6494,7 +6544,7 @@ sirene/50/elements-prefabriques-en-beton.json,418,4
 sirene/50/elevage-bovin-ovin-caprin-porcin-volailles.json,108562,958
 sirene/50/elevage-de-chevaux-haras.json,5563,49
 sirene/50/enseignement-culturel-conservatoires.json,2610,19
-sirene/50/enseignes-signaletique-marquage.json,676,5
+sirene/50/enseignes-signaletique-marquage.json,584,4
 sirene/50/entrepots-logistique.json,4231,35
 sirene/50/esthetique-soins-de-beaute.json,7952,65
 sirene/50/fabrication-de-monnaies-medailles.json,3,0
@@ -6546,7 +6596,7 @@ sirene/50/poste-courrier.json,122,1
 sirene/50/pressing-blanchisserie-retouches.json,3739,30
 sirene/50/primeur-fromagerie-epicerie-fine-cave.json,6034,48
 sirene/50/production-et-distribution-d-energie.json,3402,26
-sirene/50/publicite-design-graphique.json,4558,39
+sirene/50/publicite-design-graphique.json,3290,28
 sirene/50/remontees-mecaniques-telepheriques.json,3,0
 sirene/50/reparation-d-ordinateurs-et-de-telephones.json,925,7
 sirene/50/reparation-de-machines-et-d-electronique.json,7429,59
@@ -6612,6 +6662,7 @@ sirene/51/cuir-maroquinerie-cordonnerie.json,1260,10
 sirene/51/cultures-specialisees-vergers-cultures-tropicales.json,256,2
 sirene/51/dechets-recyclage-assainissement.json,20227,149
 sirene/51/demenagement.json,1225,10
+sirene/51/design-d-interieur-et-d-objet.json,1679,17
 sirene/51/eau-potable-captage-traitement-distribution.json,14929,107
 sirene/51/ebenisterie-meubles-restauration-de-meubles.json,1042,10
 sirene/51/ecoles-de-sport-equitation.json,3103,28
@@ -6623,7 +6674,7 @@ sirene/51/elements-prefabriques-en-beton.json,916,7
 sirene/51/elevage-bovin-ovin-caprin-porcin-volailles.json,4114,37
 sirene/51/elevage-de-chevaux-haras.json,308,3
 sirene/51/enseignement-culturel-conservatoires.json,1808,15
-sirene/51/enseignes-signaletique-marquage.json,1319,11
+sirene/51/enseignes-signaletique-marquage.json,1213,10
 sirene/51/entrepots-logistique.json,11887,98
 sirene/51/esthetique-soins-de-beaute.json,7516,69
 sirene/51/fabrication-de-monnaies-medailles.json,3,0
@@ -6675,7 +6726,7 @@ sirene/51/poste-courrier.json,711,7
 sirene/51/pressing-blanchisserie-retouches.json,4792,42
 sirene/51/primeur-fromagerie-epicerie-fine-cave.json,9510,84
 sirene/51/production-et-distribution-d-energie.json,4599,43
-sirene/51/publicite-design-graphique.json,8129,75
+sirene/51/publicite-design-graphique.json,6452,58
 sirene/51/remontees-mecaniques-telepheriques.json,3,0
 sirene/51/reparation-d-ordinateurs-et-de-telephones.json,1692,15
 sirene/51/reparation-de-machines-et-d-electronique.json,6576,58
@@ -6741,6 +6792,7 @@ sirene/52/cuir-maroquinerie-cordonnerie.json,344,3
 sirene/52/cultures-specialisees-vergers-cultures-tropicales.json,127,1
 sirene/52/dechets-recyclage-assainissement.json,11259,83
 sirene/52/demenagement.json,253,2
+sirene/52/design-d-interieur-et-d-objet.json,329,3
 sirene/52/eau-potable-captage-traitement-distribution.json,14777,103
 sirene/52/ebenisterie-meubles-restauration-de-meubles.json,1150,11
 sirene/52/ecoles-de-sport-equitation.json,926,7
@@ -6804,7 +6856,7 @@ sirene/52/poste-courrier.json,98,1
 sirene/52/pressing-blanchisserie-retouches.json,702,6
 sirene/52/primeur-fromagerie-epicerie-fine-cave.json,2507,21
 sirene/52/production-et-distribution-d-energie.json,2110,18
-sirene/52/publicite-design-graphique.json,902,8
+sirene/52/publicite-design-graphique.json,575,5
 sirene/52/remontees-mecaniques-telepheriques.json,3,0
 sirene/52/reparation-d-ordinateurs-et-de-telephones.json,1345,11
 sirene/52/reparation-de-machines-et-d-electronique.json,1770,16
@@ -6869,6 +6921,7 @@ sirene/53/cuir-maroquinerie-cordonnerie.json,1395,10
 sirene/53/cultures-specialisees-vergers-cultures-tropicales.json,999,8
 sirene/53/dechets-recyclage-assainissement.json,17076,121
 sirene/53/demenagement.json,571,4
+sirene/53/design-d-interieur-et-d-objet.json,757,7
 sirene/53/eau-potable-captage-traitement-distribution.json,4694,33
 sirene/53/ebenisterie-meubles-restauration-de-meubles.json,2225,19
 sirene/53/ecoles-de-sport-equitation.json,2113,16
@@ -6932,7 +6985,7 @@ sirene/53/poste-courrier.json,201,2
 sirene/53/pressing-blanchisserie-retouches.json,2317,20
 sirene/53/primeur-fromagerie-epicerie-fine-cave.json,2730,24
 sirene/53/production-et-distribution-d-energie.json,5789,45
-sirene/53/publicite-design-graphique.json,3692,31
+sirene/53/publicite-design-graphique.json,2937,24
 sirene/53/remontees-mecaniques-telepheriques.json,3,0
 sirene/53/reparation-d-ordinateurs-et-de-telephones.json,769,7
 sirene/53/reparation-de-machines-et-d-electronique.json,4598,38
@@ -6998,6 +7051,7 @@ sirene/54/cuir-maroquinerie-cordonnerie.json,1995,17
 sirene/54/cultures-specialisees-vergers-cultures-tropicales.json,1285,11
 sirene/54/dechets-recyclage-assainissement.json,33745,259
 sirene/54/demenagement.json,1447,11
+sirene/54/design-d-interieur-et-d-objet.json,1977,19
 sirene/54/eau-potable-captage-traitement-distribution.json,13476,101
 sirene/54/ebenisterie-meubles-restauration-de-meubles.json,1748,15
 sirene/54/ecoles-de-sport-equitation.json,3656,31
@@ -7009,7 +7063,7 @@ sirene/54/elements-prefabriques-en-beton.json,757,6
 sirene/54/elevage-bovin-ovin-caprin-porcin-volailles.json,9687,86
 sirene/54/elevage-de-chevaux-haras.json,1135,10
 sirene/54/enseignement-culturel-conservatoires.json,3310,27
-sirene/54/enseignes-signaletique-marquage.json,728,5
+sirene/54/enseignes-signaletique-marquage.json,462,3
 sirene/54/entrepots-logistique.json,14175,118
 sirene/54/esthetique-soins-de-beaute.json,9682,87
 sirene/54/fabrication-de-monnaies-medailles.json,3,0
@@ -7061,7 +7115,7 @@ sirene/54/poste-courrier.json,526,5
 sirene/54/pressing-blanchisserie-retouches.json,3716,32
 sirene/54/primeur-fromagerie-epicerie-fine-cave.json,5797,49
 sirene/54/production-et-distribution-d-energie.json,5382,46
-sirene/54/publicite-design-graphique.json,9430,87
+sirene/54/publicite-design-graphique.json,7455,68
 sirene/54/remontees-mecaniques-telepheriques.json,3,0
 sirene/54/reparation-d-ordinateurs-et-de-telephones.json,1945,17
 sirene/54/reparation-de-machines-et-d-electronique.json,8270,72
@@ -7256,6 +7310,7 @@ sirene/56/cuir-maroquinerie-cordonnerie.json,1343,11
 sirene/56/cultures-specialisees-vergers-cultures-tropicales.json,1082,11
 sirene/56/dechets-recyclage-assainissement.json,22285,171
 sirene/56/demenagement.json,1246,10
+sirene/56/design-d-interieur-et-d-objet.json,4538,39
 sirene/56/eau-potable-captage-traitement-distribution.json,2204,18
 sirene/56/ebenisterie-meubles-restauration-de-meubles.json,4278,36
 sirene/56/ecoles-de-sport-equitation.json,10592,83
@@ -7267,7 +7322,7 @@ sirene/56/elements-prefabriques-en-beton.json,1670,14
 sirene/56/elevage-bovin-ovin-caprin-porcin-volailles.json,74253,767
 sirene/56/elevage-de-chevaux-haras.json,1524,15
 sirene/56/enseignement-culturel-conservatoires.json,7403,64
-sirene/56/enseignes-signaletique-marquage.json,1234,10
+sirene/56/enseignes-signaletique-marquage.json,1124,9
 sirene/56/entrepots-logistique.json,10514,89
 sirene/56/esthetique-soins-de-beaute.json,8514,75
 sirene/56/fabrication-de-monnaies-medailles.json,3,0
@@ -7319,7 +7374,7 @@ sirene/56/poste-courrier.json,1396,14
 sirene/56/pressing-blanchisserie-retouches.json,8105,69
 sirene/56/primeur-fromagerie-epicerie-fine-cave.json,8632,76
 sirene/56/production-et-distribution-d-energie.json,6203,55
-sirene/56/publicite-design-graphique.json,10484,91
+sirene/56/publicite-design-graphique.json,5948,52
 sirene/56/remontees-mecaniques-telepheriques.json,3,0
 sirene/56/reparation-d-ordinateurs-et-de-telephones.json,2254,19
 sirene/56/reparation-de-machines-et-d-electronique.json,10215,86
@@ -7385,6 +7440,7 @@ sirene/57/cuir-maroquinerie-cordonnerie.json,1644,14
 sirene/57/cultures-specialisees-vergers-cultures-tropicales.json,788,6
 sirene/57/dechets-recyclage-assainissement.json,56502,434
 sirene/57/demenagement.json,1911,15
+sirene/57/design-d-interieur-et-d-objet.json,1544,13
 sirene/57/eau-potable-captage-traitement-distribution.json,17863,141
 sirene/57/ebenisterie-meubles-restauration-de-meubles.json,3630,34
 sirene/57/ecoles-de-sport-equitation.json,16330,130
@@ -7396,7 +7452,7 @@ sirene/57/elements-prefabriques-en-beton.json,989,9
 sirene/57/elevage-bovin-ovin-caprin-porcin-volailles.json,20957,159
 sirene/57/elevage-de-chevaux-haras.json,1026,8
 sirene/57/enseignement-culturel-conservatoires.json,5997,50
-sirene/57/enseignes-signaletique-marquage.json,1513,12
+sirene/57/enseignes-signaletique-marquage.json,1375,11
 sirene/57/entrepots-logistique.json,16841,144
 sirene/57/esthetique-soins-de-beaute.json,17873,162
 sirene/57/fabrication-de-monnaies-medailles.json,3,0
@@ -7448,7 +7504,7 @@ sirene/57/poste-courrier.json,1113,11
 sirene/57/pressing-blanchisserie-retouches.json,7476,66
 sirene/57/primeur-fromagerie-epicerie-fine-cave.json,10952,89
 sirene/57/production-et-distribution-d-energie.json,10306,89
-sirene/57/publicite-design-graphique.json,7675,70
+sirene/57/publicite-design-graphique.json,6133,57
 sirene/57/remontees-mecaniques-telepheriques.json,3,0
 sirene/57/reparation-d-ordinateurs-et-de-telephones.json,3927,36
 sirene/57/reparation-de-machines-et-d-electronique.json,8712,75
@@ -7514,6 +7570,7 @@ sirene/58/cuir-maroquinerie-cordonnerie.json,984,6
 sirene/58/cultures-specialisees-vergers-cultures-tropicales.json,122,1
 sirene/58/dechets-recyclage-assainissement.json,14037,101
 sirene/58/demenagement.json,487,4
+sirene/58/design-d-interieur-et-d-objet.json,566,5
 sirene/58/eau-potable-captage-traitement-distribution.json,5177,40
 sirene/58/ebenisterie-meubles-restauration-de-meubles.json,1576,13
 sirene/58/ecoles-de-sport-equitation.json,937,7
@@ -7577,7 +7634,7 @@ sirene/58/poste-courrier.json,1252,12
 sirene/58/pressing-blanchisserie-retouches.json,1085,9
 sirene/58/primeur-fromagerie-epicerie-fine-cave.json,1409,11
 sirene/58/production-et-distribution-d-energie.json,1848,17
-sirene/58/publicite-design-graphique.json,1701,15
+sirene/58/publicite-design-graphique.json,1137,10
 sirene/58/remontees-mecaniques-telepheriques.json,3,0
 sirene/58/reparation-d-ordinateurs-et-de-telephones.json,96,1
 sirene/58/reparation-de-machines-et-d-electronique.json,2193,19
@@ -7643,6 +7700,7 @@ sirene/59/cuir-maroquinerie-cordonnerie.json,2647,22
 sirene/59/cultures-specialisees-vergers-cultures-tropicales.json,2248,20
 sirene/59/dechets-recyclage-assainissement.json,51865,416
 sirene/59/demenagement.json,5061,39
+sirene/59/design-d-interieur-et-d-objet.json,9819,90
 sirene/59/eau-potable-captage-traitement-distribution.json,6721,48
 sirene/59/ebenisterie-meubles-restauration-de-meubles.json,9241,80
 sirene/59/ecoles-de-sport-equitation.json,10158,84
@@ -7654,7 +7712,7 @@ sirene/59/elements-prefabriques-en-beton.json,1735,16
 sirene/59/elevage-bovin-ovin-caprin-porcin-volailles.json,28103,250
 sirene/59/elevage-de-chevaux-haras.json,3124,27
 sirene/59/enseignement-culturel-conservatoires.json,15112,125
-sirene/59/enseignes-signaletique-marquage.json,2678,22
+sirene/59/enseignes-signaletique-marquage.json,1857,16
 sirene/59/entrepots-logistique.json,64551,528
 sirene/59/esthetique-soins-de-beaute.json,32187,292
 sirene/59/fabrication-de-monnaies-medailles.json,3,0
@@ -7706,7 +7764,7 @@ sirene/59/poste-courrier.json,2604,26
 sirene/59/pressing-blanchisserie-retouches.json,17048,148
 sirene/59/primeur-fromagerie-epicerie-fine-cave.json,21010,184
 sirene/59/production-et-distribution-d-energie.json,7681,69
-sirene/59/publicite-design-graphique.json,42536,376
+sirene/59/publicite-design-graphique.json,32719,286
 sirene/59/remontees-mecaniques-telepheriques.json,3,0
 sirene/59/reparation-d-ordinateurs-et-de-telephones.json,4874,45
 sirene/59/reparation-de-machines-et-d-electronique.json,23840,197
@@ -7772,6 +7830,7 @@ sirene/60/cuir-maroquinerie-cordonnerie.json,1486,12
 sirene/60/cultures-specialisees-vergers-cultures-tropicales.json,799,7
 sirene/60/dechets-recyclage-assainissement.json,32734,246
 sirene/60/demenagement.json,2972,25
+sirene/60/design-d-interieur-et-d-objet.json,2072,19
 sirene/60/eau-potable-captage-traitement-distribution.json,17706,129
 sirene/60/ebenisterie-meubles-restauration-de-meubles.json,1030,9
 sirene/60/ecoles-de-sport-equitation.json,5207,41
@@ -7783,7 +7842,7 @@ sirene/60/elements-prefabriques-en-beton.json,1296,11
 sirene/60/elevage-bovin-ovin-caprin-porcin-volailles.json,4130,37
 sirene/60/elevage-de-chevaux-haras.json,2751,23
 sirene/60/enseignement-culturel-conservatoires.json,6102,48
-sirene/60/enseignes-signaletique-marquage.json,874,7
+sirene/60/enseignes-signaletique-marquage.json,618,5
 sirene/60/entrepots-logistique.json,19802,164
 sirene/60/esthetique-soins-de-beaute.json,11333,101
 sirene/60/fabrication-de-monnaies-medailles.json,3,0
@@ -7835,7 +7894,7 @@ sirene/60/poste-courrier.json,293,3
 sirene/60/pressing-blanchisserie-retouches.json,4868,41
 sirene/60/primeur-fromagerie-epicerie-fine-cave.json,6037,54
 sirene/60/production-et-distribution-d-energie.json,3483,28
-sirene/60/publicite-design-graphique.json,7957,72
+sirene/60/publicite-design-graphique.json,5887,53
 sirene/60/remontees-mecaniques-telepheriques.json,3,0
 sirene/60/reparation-d-ordinateurs-et-de-telephones.json,2571,23
 sirene/60/reparation-de-machines-et-d-electronique.json,7552,65
@@ -7901,6 +7960,7 @@ sirene/61/cuir-maroquinerie-cordonnerie.json,919,8
 sirene/61/cultures-specialisees-vergers-cultures-tropicales.json,784,7
 sirene/61/dechets-recyclage-assainissement.json,17358,126
 sirene/61/demenagement.json,622,4
+sirene/61/design-d-interieur-et-d-objet.json,1005,9
 sirene/61/eau-potable-captage-traitement-distribution.json,5706,42
 sirene/61/ebenisterie-meubles-restauration-de-meubles.json,1753,15
 sirene/61/ecoles-de-sport-equitation.json,1140,10
@@ -7964,7 +8024,7 @@ sirene/61/poste-courrier.json,1309,13
 sirene/61/pressing-blanchisserie-retouches.json,1176,9
 sirene/61/primeur-fromagerie-epicerie-fine-cave.json,2494,21
 sirene/61/production-et-distribution-d-energie.json,3389,29
-sirene/61/publicite-design-graphique.json,2867,25
+sirene/61/publicite-design-graphique.json,1864,16
 sirene/61/remontees-mecaniques-telepheriques.json,3,0
 sirene/61/reparation-d-ordinateurs-et-de-telephones.json,294,3
 sirene/61/reparation-de-machines-et-d-electronique.json,4352,36
@@ -8030,6 +8090,7 @@ sirene/62/cuir-maroquinerie-cordonnerie.json,1777,15
 sirene/62/cultures-specialisees-vergers-cultures-tropicales.json,955,9
 sirene/62/dechets-recyclage-assainissement.json,36419,288
 sirene/62/demenagement.json,2350,18
+sirene/62/design-d-interieur-et-d-objet.json,3579,31
 sirene/62/eau-potable-captage-traitement-distribution.json,16140,117
 sirene/62/ebenisterie-meubles-restauration-de-meubles.json,3615,32
 sirene/62/ecoles-de-sport-equitation.json,6461,53
@@ -8041,7 +8102,7 @@ sirene/62/elements-prefabriques-en-beton.json,2569,21
 sirene/62/elevage-bovin-ovin-caprin-porcin-volailles.json,20548,187
 sirene/62/elevage-de-chevaux-haras.json,1987,17
 sirene/62/enseignement-culturel-conservatoires.json,5453,44
-sirene/62/enseignes-signaletique-marquage.json,1344,11
+sirene/62/enseignes-signaletique-marquage.json,1107,9
 sirene/62/entrepots-logistique.json,29053,233
 sirene/62/esthetique-soins-de-beaute.json,15347,139
 sirene/62/fabrication-de-monnaies-medailles.json,3,0
@@ -8093,7 +8154,7 @@ sirene/62/poste-courrier.json,1429,14
 sirene/62/pressing-blanchisserie-retouches.json,7946,68
 sirene/62/primeur-fromagerie-epicerie-fine-cave.json,11130,96
 sirene/62/production-et-distribution-d-energie.json,4141,39
-sirene/62/publicite-design-graphique.json,14806,131
+sirene/62/publicite-design-graphique.json,11229,100
 sirene/62/remontees-mecaniques-telepheriques.json,3,0
 sirene/62/reparation-d-ordinateurs-et-de-telephones.json,1699,15
 sirene/62/reparation-de-machines-et-d-electronique.json,12712,111
@@ -8159,6 +8220,7 @@ sirene/63/cuir-maroquinerie-cordonnerie.json,1981,14
 sirene/63/cultures-specialisees-vergers-cultures-tropicales.json,316,3
 sirene/63/dechets-recyclage-assainissement.json,26805,186
 sirene/63/demenagement.json,2307,16
+sirene/63/design-d-interieur-et-d-objet.json,2124,18
 sirene/63/eau-potable-captage-traitement-distribution.json,8047,55
 sirene/63/ebenisterie-meubles-restauration-de-meubles.json,2816,24
 sirene/63/ecoles-de-sport-equitation.json,4306,37
@@ -8222,7 +8284,7 @@ sirene/63/poste-courrier.json,954,10
 sirene/63/pressing-blanchisserie-retouches.json,5132,43
 sirene/63/primeur-fromagerie-epicerie-fine-cave.json,9481,81
 sirene/63/production-et-distribution-d-energie.json,13174,119
-sirene/63/publicite-design-graphique.json,8607,75
+sirene/63/publicite-design-graphique.json,6485,57
 sirene/63/remontees-mecaniques-telepheriques.json,914,7
 sirene/63/reparation-d-ordinateurs-et-de-telephones.json,2165,18
 sirene/63/reparation-de-machines-et-d-electronique.json,8254,67
@@ -8288,6 +8350,7 @@ sirene/64/cuir-maroquinerie-cordonnerie.json,4224,37
 sirene/64/cultures-specialisees-vergers-cultures-tropicales.json,1379,12
 sirene/64/dechets-recyclage-assainissement.json,18449,141
 sirene/64/demenagement.json,2414,20
+sirene/64/design-d-interieur-et-d-objet.json,4331,39
 sirene/64/eau-potable-captage-traitement-distribution.json,4681,34
 sirene/64/ebenisterie-meubles-restauration-de-meubles.json,4493,40
 sirene/64/ecoles-de-sport-equitation.json,10184,85
@@ -8299,7 +8362,7 @@ sirene/64/elements-prefabriques-en-beton.json,652,6
 sirene/64/elevage-bovin-ovin-caprin-porcin-volailles.json,26838,250
 sirene/64/elevage-de-chevaux-haras.json,659,6
 sirene/64/enseignement-culturel-conservatoires.json,7094,56
-sirene/64/enseignes-signaletique-marquage.json,751,6
+sirene/64/enseignes-signaletique-marquage.json,642,5
 sirene/64/entrepots-logistique.json,13543,115
 sirene/64/esthetique-soins-de-beaute.json,12504,111
 sirene/64/fabrication-de-monnaies-medailles.json,3,0
@@ -8351,7 +8414,7 @@ sirene/64/poste-courrier.json,95,1
 sirene/64/pressing-blanchisserie-retouches.json,9097,79
 sirene/64/primeur-fromagerie-epicerie-fine-cave.json,10019,86
 sirene/64/production-et-distribution-d-energie.json,12958,112
-sirene/64/publicite-design-graphique.json,13105,117
+sirene/64/publicite-design-graphique.json,8776,78
 sirene/64/remontees-mecaniques-telepheriques.json,831,6
 sirene/64/reparation-d-ordinateurs-et-de-telephones.json,2495,22
 sirene/64/reparation-de-machines-et-d-electronique.json,8498,70
@@ -8417,6 +8480,7 @@ sirene/65/cuir-maroquinerie-cordonnerie.json,462,4
 sirene/65/cultures-specialisees-vergers-cultures-tropicales.json,332,3
 sirene/65/dechets-recyclage-assainissement.json,6786,50
 sirene/65/demenagement.json,406,4
+sirene/65/design-d-interieur-et-d-objet.json,636,5
 sirene/65/eau-potable-captage-traitement-distribution.json,5288,43
 sirene/65/ebenisterie-meubles-restauration-de-meubles.json,1134,10
 sirene/65/ecoles-de-sport-equitation.json,2115,19
@@ -8480,7 +8544,7 @@ sirene/65/poste-courrier.json,1119,11
 sirene/65/pressing-blanchisserie-retouches.json,1454,12
 sirene/65/primeur-fromagerie-epicerie-fine-cave.json,2768,23
 sirene/65/production-et-distribution-d-energie.json,5772,49
-sirene/65/publicite-design-graphique.json,1196,10
+sirene/65/publicite-design-graphique.json,562,5
 sirene/65/remontees-mecaniques-telepheriques.json,1949,14
 sirene/65/reparation-d-ordinateurs-et-de-telephones.json,406,3
 sirene/65/reparation-de-machines-et-d-electronique.json,2555,22
@@ -8546,6 +8610,7 @@ sirene/66/cuir-maroquinerie-cordonnerie.json,1810,14
 sirene/66/cultures-specialisees-vergers-cultures-tropicales.json,10285,94
 sirene/66/dechets-recyclage-assainissement.json,9309,68
 sirene/66/demenagement.json,1761,15
+sirene/66/design-d-interieur-et-d-objet.json,1674,15
 sirene/66/eau-potable-captage-traitement-distribution.json,7256,54
 sirene/66/ebenisterie-meubles-restauration-de-meubles.json,1065,9
 sirene/66/ecoles-de-sport-equitation.json,3890,32
@@ -8557,7 +8622,7 @@ sirene/66/elements-prefabriques-en-beton.json,264,2
 sirene/66/elevage-bovin-ovin-caprin-porcin-volailles.json,2919,26
 sirene/66/elevage-de-chevaux-haras.json,474,4
 sirene/66/enseignement-culturel-conservatoires.json,2770,23
-sirene/66/enseignes-signaletique-marquage.json,670,5
+sirene/66/enseignes-signaletique-marquage.json,419,3
 sirene/66/entrepots-logistique.json,10916,87
 sirene/66/esthetique-soins-de-beaute.json,9315,81
 sirene/66/fabrication-de-monnaies-medailles.json,3,0
@@ -8609,7 +8674,7 @@ sirene/66/poste-courrier.json,99,1
 sirene/66/pressing-blanchisserie-retouches.json,5017,43
 sirene/66/primeur-fromagerie-epicerie-fine-cave.json,11246,97
 sirene/66/production-et-distribution-d-energie.json,7366,64
-sirene/66/publicite-design-graphique.json,7998,68
+sirene/66/publicite-design-graphique.json,6326,53
 sirene/66/remontees-mecaniques-telepheriques.json,823,6
 sirene/66/reparation-d-ordinateurs-et-de-telephones.json,2166,18
 sirene/66/reparation-de-machines-et-d-electronique.json,3977,34
@@ -8675,6 +8740,7 @@ sirene/67/cuir-maroquinerie-cordonnerie.json,3143,27
 sirene/67/cultures-specialisees-vergers-cultures-tropicales.json,2748,25
 sirene/67/dechets-recyclage-assainissement.json,30067,233
 sirene/67/demenagement.json,1813,16
+sirene/67/design-d-interieur-et-d-objet.json,5323,50
 sirene/67/eau-potable-captage-traitement-distribution.json,5365,38
 sirene/67/ebenisterie-meubles-restauration-de-meubles.json,8428,76
 sirene/67/ecoles-de-sport-equitation.json,34169,271
@@ -8686,7 +8752,7 @@ sirene/67/elements-prefabriques-en-beton.json,3204,27
 sirene/67/elevage-bovin-ovin-caprin-porcin-volailles.json,19360,181
 sirene/67/elevage-de-chevaux-haras.json,1206,11
 sirene/67/enseignement-culturel-conservatoires.json,6470,52
-sirene/67/enseignes-signaletique-marquage.json,2262,19
+sirene/67/enseignes-signaletique-marquage.json,1548,13
 sirene/67/entrepots-logistique.json,23581,207
 sirene/67/esthetique-soins-de-beaute.json,25234,227
 sirene/67/fabrication-de-monnaies-medailles.json,3,0
@@ -8738,7 +8804,7 @@ sirene/67/poste-courrier.json,402,4
 sirene/67/pressing-blanchisserie-retouches.json,10809,97
 sirene/67/primeur-fromagerie-epicerie-fine-cave.json,12254,109
 sirene/67/production-et-distribution-d-energie.json,9218,80
-sirene/67/publicite-design-graphique.json,19824,184
+sirene/67/publicite-design-graphique.json,14503,134
 sirene/67/remontees-mecaniques-telepheriques.json,148,1
 sirene/67/reparation-d-ordinateurs-et-de-telephones.json,4769,44
 sirene/67/reparation-de-machines-et-d-electronique.json,12795,114
@@ -8804,6 +8870,7 @@ sirene/68/cuir-maroquinerie-cordonnerie.json,571,5
 sirene/68/cultures-specialisees-vergers-cultures-tropicales.json,709,6
 sirene/68/dechets-recyclage-assainissement.json,21388,166
 sirene/68/demenagement.json,1174,10
+sirene/68/design-d-interieur-et-d-objet.json,2120,19
 sirene/68/eau-potable-captage-traitement-distribution.json,14056,102
 sirene/68/ebenisterie-meubles-restauration-de-meubles.json,3964,35
 sirene/68/ecoles-de-sport-equitation.json,22406,182
@@ -8815,7 +8882,7 @@ sirene/68/elements-prefabriques-en-beton.json,1200,11
 sirene/68/elevage-bovin-ovin-caprin-porcin-volailles.json,12788,119
 sirene/68/elevage-de-chevaux-haras.json,1570,14
 sirene/68/enseignement-culturel-conservatoires.json,5625,44
-sirene/68/enseignes-signaletique-marquage.json,1436,12
+sirene/68/enseignes-signaletique-marquage.json,1027,9
 sirene/68/entrepots-logistique.json,17526,151
 sirene/68/esthetique-soins-de-beaute.json,17401,161
 sirene/68/fabrication-de-monnaies-medailles.json,3,0
@@ -8867,7 +8934,7 @@ sirene/68/poste-courrier.json,478,5
 sirene/68/pressing-blanchisserie-retouches.json,4417,40
 sirene/68/primeur-fromagerie-epicerie-fine-cave.json,9886,87
 sirene/68/production-et-distribution-d-energie.json,4762,42
-sirene/68/publicite-design-graphique.json,8006,74
+sirene/68/publicite-design-graphique.json,5888,55
 sirene/68/remontees-mecaniques-telepheriques.json,632,5
 sirene/68/reparation-d-ordinateurs-et-de-telephones.json,2095,19
 sirene/68/reparation-de-machines-et-d-electronique.json,9815,87
@@ -8933,6 +9000,7 @@ sirene/69/cuir-maroquinerie-cordonnerie.json,5036,43
 sirene/69/cultures-specialisees-vergers-cultures-tropicales.json,4668,41
 sirene/69/dechets-recyclage-assainissement.json,43014,350
 sirene/69/demenagement.json,7123,58
+sirene/69/design-d-interieur-et-d-objet.json,18536,175
 sirene/69/eau-potable-captage-traitement-distribution.json,6686,48
 sirene/69/ebenisterie-meubles-restauration-de-meubles.json,11681,102
 sirene/69/ecoles-de-sport-equitation.json,11712,103
@@ -8944,7 +9012,7 @@ sirene/69/elements-prefabriques-en-beton.json,1420,12
 sirene/69/elevage-bovin-ovin-caprin-porcin-volailles.json,16667,145
 sirene/69/elevage-de-chevaux-haras.json,1406,12
 sirene/69/enseignement-culturel-conservatoires.json,15905,135
-sirene/69/enseignes-signaletique-marquage.json,2535,22
+sirene/69/enseignes-signaletique-marquage.json,2009,18
 sirene/69/entrepots-logistique.json,66833,551
 sirene/69/esthetique-soins-de-beaute.json,45494,418
 sirene/69/fabrication-de-monnaies-medailles.json,3,0
@@ -8996,7 +9064,7 @@ sirene/69/poste-courrier.json,799,8
 sirene/69/pressing-blanchisserie-retouches.json,21817,199
 sirene/69/primeur-fromagerie-epicerie-fine-cave.json,32535,285
 sirene/69/production-et-distribution-d-energie.json,11294,98
-sirene/69/publicite-design-graphique.json,57219,524
+sirene/69/publicite-design-graphique.json,38685,349
 sirene/69/remontees-mecaniques-telepheriques.json,3,0
 sirene/69/reparation-d-ordinateurs-et-de-telephones.json,8157,71
 sirene/69/reparation-de-machines-et-d-electronique.json,28905,246
@@ -9062,6 +9130,7 @@ sirene/70/cuir-maroquinerie-cordonnerie.json,486,4
 sirene/70/cultures-specialisees-vergers-cultures-tropicales.json,353,3
 sirene/70/dechets-recyclage-assainissement.json,23198,167
 sirene/70/demenagement.json,487,4
+sirene/70/design-d-interieur-et-d-objet.json,240,2
 sirene/70/eau-potable-captage-traitement-distribution.json,14339,106
 sirene/70/ebenisterie-meubles-restauration-de-meubles.json,1615,14
 sirene/70/ecoles-de-sport-equitation.json,1167,9
@@ -9125,7 +9194,7 @@ sirene/70/poste-courrier.json,687,7
 sirene/70/pressing-blanchisserie-retouches.json,778,7
 sirene/70/primeur-fromagerie-epicerie-fine-cave.json,1777,16
 sirene/70/production-et-distribution-d-energie.json,2704,24
-sirene/70/publicite-design-graphique.json,1384,12
+sirene/70/publicite-design-graphique.json,1146,10
 sirene/70/remontees-mecaniques-telepheriques.json,3,0
 sirene/70/reparation-d-ordinateurs-et-de-telephones.json,365,3
 sirene/70/reparation-de-machines-et-d-electronique.json,3153,28
@@ -9191,6 +9260,7 @@ sirene/71/cuir-maroquinerie-cordonnerie.json,1076,9
 sirene/71/cultures-specialisees-vergers-cultures-tropicales.json,729,7
 sirene/71/dechets-recyclage-assainissement.json,20738,158
 sirene/71/demenagement.json,1530,12
+sirene/71/design-d-interieur-et-d-objet.json,2094,19
 sirene/71/eau-potable-captage-traitement-distribution.json,4406,34
 sirene/71/ebenisterie-meubles-restauration-de-meubles.json,2766,23
 sirene/71/ecoles-de-sport-equitation.json,2202,19
@@ -9202,7 +9272,7 @@ sirene/71/elements-prefabriques-en-beton.json,1890,17
 sirene/71/elevage-bovin-ovin-caprin-porcin-volailles.json,32123,284
 sirene/71/elevage-de-chevaux-haras.json,2614,23
 sirene/71/enseignement-culturel-conservatoires.json,2666,22
-sirene/71/enseignes-signaletique-marquage.json,1285,9
+sirene/71/enseignes-signaletique-marquage.json,1166,8
 sirene/71/entrepots-logistique.json,10425,88
 sirene/71/esthetique-soins-de-beaute.json,7640,69
 sirene/71/fabrication-de-monnaies-medailles.json,3,0
@@ -9254,7 +9324,7 @@ sirene/71/poste-courrier.json,1321,13
 sirene/71/pressing-blanchisserie-retouches.json,3943,34
 sirene/71/primeur-fromagerie-epicerie-fine-cave.json,9209,78
 sirene/71/production-et-distribution-d-energie.json,3164,28
-sirene/71/publicite-design-graphique.json,6067,53
+sirene/71/publicite-design-graphique.json,3975,34
 sirene/71/remontees-mecaniques-telepheriques.json,3,0
 sirene/71/reparation-d-ordinateurs-et-de-telephones.json,2137,17
 sirene/71/reparation-de-machines-et-d-electronique.json,8952,76
@@ -9320,6 +9390,7 @@ sirene/72/cuir-maroquinerie-cordonnerie.json,3112,26
 sirene/72/cultures-specialisees-vergers-cultures-tropicales.json,3019,28
 sirene/72/dechets-recyclage-assainissement.json,25739,188
 sirene/72/demenagement.json,1115,10
+sirene/72/design-d-interieur-et-d-objet.json,1558,14
 sirene/72/eau-potable-captage-traitement-distribution.json,7317,52
 sirene/72/ebenisterie-meubles-restauration-de-meubles.json,3209,27
 sirene/72/ecoles-de-sport-equitation.json,3536,29
@@ -9331,7 +9402,7 @@ sirene/72/elements-prefabriques-en-beton.json,531,5
 sirene/72/elevage-bovin-ovin-caprin-porcin-volailles.json,39414,364
 sirene/72/elevage-de-chevaux-haras.json,2560,23
 sirene/72/enseignement-culturel-conservatoires.json,2071,16
-sirene/72/enseignes-signaletique-marquage.json,980,8
+sirene/72/enseignes-signaletique-marquage.json,847,7
 sirene/72/entrepots-logistique.json,9204,80
 sirene/72/esthetique-soins-de-beaute.json,8715,78
 sirene/72/fabrication-de-monnaies-medailles.json,3,0
@@ -9383,7 +9454,7 @@ sirene/72/poste-courrier.json,1105,11
 sirene/72/pressing-blanchisserie-retouches.json,5613,46
 sirene/72/primeur-fromagerie-epicerie-fine-cave.json,4636,39
 sirene/72/production-et-distribution-d-energie.json,3094,26
-sirene/72/publicite-design-graphique.json,5238,47
+sirene/72/publicite-design-graphique.json,3682,33
 sirene/72/remontees-mecaniques-telepheriques.json,3,0
 sirene/72/reparation-d-ordinateurs-et-de-telephones.json,1196,10
 sirene/72/reparation-de-machines-et-d-electronique.json,6273,55
@@ -9449,6 +9520,7 @@ sirene/73/cuir-maroquinerie-cordonnerie.json,2116,15
 sirene/73/cultures-specialisees-vergers-cultures-tropicales.json,1294,11
 sirene/73/dechets-recyclage-assainissement.json,13876,106
 sirene/73/demenagement.json,1270,9
+sirene/73/design-d-interieur-et-d-objet.json,4820,41
 sirene/73/eau-potable-captage-traitement-distribution.json,7567,53
 sirene/73/ebenisterie-meubles-restauration-de-meubles.json,3020,24
 sirene/73/ecoles-de-sport-equitation.json,6231,49
@@ -9460,7 +9532,7 @@ sirene/73/elements-prefabriques-en-beton.json,676,6
 sirene/73/elevage-bovin-ovin-caprin-porcin-volailles.json,19090,166
 sirene/73/elevage-de-chevaux-haras.json,743,6
 sirene/73/enseignement-culturel-conservatoires.json,2031,17
-sirene/73/enseignes-signaletique-marquage.json,1059,7
+sirene/73/enseignes-signaletique-marquage.json,939,6
 sirene/73/entrepots-logistique.json,8620,69
 sirene/73/esthetique-soins-de-beaute.json,10005,81
 sirene/73/fabrication-de-monnaies-medailles.json,3,0
@@ -9512,7 +9584,7 @@ sirene/73/poste-courrier.json,114,1
 sirene/73/pressing-blanchisserie-retouches.json,9748,78
 sirene/73/primeur-fromagerie-epicerie-fine-cave.json,5921,48
 sirene/73/production-et-distribution-d-energie.json,10570,84
-sirene/73/publicite-design-graphique.json,10300,87
+sirene/73/publicite-design-graphique.json,5482,46
 sirene/73/remontees-mecaniques-telepheriques.json,9450,69
 sirene/73/reparation-d-ordinateurs-et-de-telephones.json,1591,14
 sirene/73/reparation-de-machines-et-d-electronique.json,7293,62
@@ -9578,6 +9650,7 @@ sirene/74/cuir-maroquinerie-cordonnerie.json,2059,16
 sirene/74/cultures-specialisees-vergers-cultures-tropicales.json,1176,10
 sirene/74/dechets-recyclage-assainissement.json,17693,130
 sirene/74/demenagement.json,2863,21
+sirene/74/design-d-interieur-et-d-objet.json,9220,84
 sirene/74/eau-potable-captage-traitement-distribution.json,9225,65
 sirene/74/ebenisterie-meubles-restauration-de-meubles.json,7615,60
 sirene/74/ecoles-de-sport-equitation.json,11669,98
@@ -9589,7 +9662,7 @@ sirene/74/elements-prefabriques-en-beton.json,1405,12
 sirene/74/elevage-bovin-ovin-caprin-porcin-volailles.json,36421,326
 sirene/74/elevage-de-chevaux-haras.json,1588,14
 sirene/74/enseignement-culturel-conservatoires.json,6172,51
-sirene/74/enseignes-signaletique-marquage.json,1480,12
+sirene/74/enseignes-signaletique-marquage.json,1322,11
 sirene/74/entrepots-logistique.json,15165,128
 sirene/74/esthetique-soins-de-beaute.json,20023,168
 sirene/74/fabrication-de-monnaies-medailles.json,3,0
@@ -9641,7 +9714,7 @@ sirene/74/poste-courrier.json,792,8
 sirene/74/pressing-blanchisserie-retouches.json,11220,97
 sirene/74/primeur-fromagerie-epicerie-fine-cave.json,10595,91
 sirene/74/production-et-distribution-d-energie.json,4447,37
-sirene/74/publicite-design-graphique.json,18823,167
+sirene/74/publicite-design-graphique.json,9605,83
 sirene/74/remontees-mecaniques-telepheriques.json,10600,76
 sirene/74/reparation-d-ordinateurs-et-de-telephones.json,3343,28
 sirene/74/reparation-de-machines-et-d-electronique.json,9381,78
@@ -9707,6 +9780,7 @@ sirene/75/cuir-maroquinerie-cordonnerie.json,24514,238
 sirene/75/cultures-specialisees-vergers-cultures-tropicales.json,1005,9
 sirene/75/dechets-recyclage-assainissement.json,32629,296
 sirene/75/demenagement.json,9301,83
+sirene/75/design-d-interieur-et-d-objet.json,127357,1255
 sirene/75/eau-potable-captage-traitement-distribution.json,2903,25
 sirene/75/ebenisterie-meubles-restauration-de-meubles.json,18795,177
 sirene/75/ecoles-de-sport-equitation.json,22431,204
@@ -9718,7 +9792,7 @@ sirene/75/elements-prefabriques-en-beton.json,301,3
 sirene/75/elevage-bovin-ovin-caprin-porcin-volailles.json,220,2
 sirene/75/elevage-de-chevaux-haras.json,1301,13
 sirene/75/enseignement-culturel-conservatoires.json,28915,262
-sirene/75/enseignes-signaletique-marquage.json,2678,22
+sirene/75/enseignes-signaletique-marquage.json,2319,19
 sirene/75/entrepots-logistique.json,33828,317
 sirene/75/esthetique-soins-de-beaute.json,186491,1851
 sirene/75/fabrication-de-monnaies-medailles.json,663,6
@@ -9770,7 +9844,7 @@ sirene/75/poste-courrier.json,18092,192
 sirene/75/pressing-blanchisserie-retouches.json,95552,936
 sirene/75/primeur-fromagerie-epicerie-fine-cave.json,79751,745
 sirene/75/production-et-distribution-d-energie.json,50667,415
-sirene/75/publicite-design-graphique.json,267545,2621
+sirene/75/publicite-design-graphique.json,140190,1366
 sirene/75/remontees-mecaniques-telepheriques.json,234,2
 sirene/75/reparation-d-ordinateurs-et-de-telephones.json,14650,139
 sirene/75/reparation-de-machines-et-d-electronique.json,5085,47
@@ -9836,6 +9910,7 @@ sirene/76/cuir-maroquinerie-cordonnerie.json,1884,16
 sirene/76/cultures-specialisees-vergers-cultures-tropicales.json,1290,11
 sirene/76/dechets-recyclage-assainissement.json,34703,260
 sirene/76/demenagement.json,2895,23
+sirene/76/design-d-interieur-et-d-objet.json,2489,22
 sirene/76/eau-potable-captage-traitement-distribution.json,7400,51
 sirene/76/ebenisterie-meubles-restauration-de-meubles.json,3124,27
 sirene/76/ecoles-de-sport-equitation.json,7312,61
@@ -9847,7 +9922,7 @@ sirene/76/elements-prefabriques-en-beton.json,538,4
 sirene/76/elevage-bovin-ovin-caprin-porcin-volailles.json,21823,192
 sirene/76/elevage-de-chevaux-haras.json,1579,13
 sirene/76/enseignement-culturel-conservatoires.json,6952,54
-sirene/76/enseignes-signaletique-marquage.json,3207,24
+sirene/76/enseignes-signaletique-marquage.json,2438,18
 sirene/76/entrepots-logistique.json,59437,486
 sirene/76/esthetique-soins-de-beaute.json,17975,159
 sirene/76/fabrication-de-monnaies-medailles.json,3,0
@@ -9899,7 +9974,7 @@ sirene/76/poste-courrier.json,393,4
 sirene/76/pressing-blanchisserie-retouches.json,7233,66
 sirene/76/primeur-fromagerie-epicerie-fine-cave.json,18037,155
 sirene/76/production-et-distribution-d-energie.json,3952,33
-sirene/76/publicite-design-graphique.json,12863,113
+sirene/76/publicite-design-graphique.json,10376,91
 sirene/76/remontees-mecaniques-telepheriques.json,3,0
 sirene/76/reparation-d-ordinateurs-et-de-telephones.json,2286,20
 sirene/76/reparation-de-machines-et-d-electronique.json,12880,107
@@ -9965,6 +10040,7 @@ sirene/77/cuir-maroquinerie-cordonnerie.json,4542,38
 sirene/77/cultures-specialisees-vergers-cultures-tropicales.json,891,8
 sirene/77/dechets-recyclage-assainissement.json,38459,300
 sirene/77/demenagement.json,5320,43
+sirene/77/design-d-interieur-et-d-objet.json,7640,68
 sirene/77/eau-potable-captage-traitement-distribution.json,15456,114
 sirene/77/ebenisterie-meubles-restauration-de-meubles.json,5156,44
 sirene/77/ecoles-de-sport-equitation.json,11814,101
@@ -9976,7 +10052,7 @@ sirene/77/elements-prefabriques-en-beton.json,2216,19
 sirene/77/elevage-bovin-ovin-caprin-porcin-volailles.json,2519,21
 sirene/77/elevage-de-chevaux-haras.json,2792,23
 sirene/77/enseignement-culturel-conservatoires.json,8523,71
-sirene/77/enseignes-signaletique-marquage.json,2759,22
+sirene/77/enseignes-signaletique-marquage.json,2369,19
 sirene/77/entrepots-logistique.json,47438,388
 sirene/77/esthetique-soins-de-beaute.json,28633,252
 sirene/77/fabrication-de-monnaies-medailles.json,3,0
@@ -10028,7 +10104,7 @@ sirene/77/poste-courrier.json,18054,173
 sirene/77/pressing-blanchisserie-retouches.json,13486,112
 sirene/77/primeur-fromagerie-epicerie-fine-cave.json,14092,120
 sirene/77/production-et-distribution-d-energie.json,9571,74
-sirene/77/publicite-design-graphique.json,24628,215
+sirene/77/publicite-design-graphique.json,16990,147
 sirene/77/remontees-mecaniques-telepheriques.json,3,0
 sirene/77/reparation-d-ordinateurs-et-de-telephones.json,4212,37
 sirene/77/reparation-de-machines-et-d-electronique.json,18327,151
@@ -10094,6 +10170,7 @@ sirene/78/cuir-maroquinerie-cordonnerie.json,4871,38
 sirene/78/cultures-specialisees-vergers-cultures-tropicales.json,1275,11
 sirene/78/dechets-recyclage-assainissement.json,24827,191
 sirene/78/demenagement.json,7391,58
+sirene/78/design-d-interieur-et-d-objet.json,13337,118
 sirene/78/eau-potable-captage-traitement-distribution.json,8368,64
 sirene/78/ebenisterie-meubles-restauration-de-meubles.json,5511,46
 sirene/78/ecoles-de-sport-equitation.json,12915,106
@@ -10105,7 +10182,7 @@ sirene/78/elements-prefabriques-en-beton.json,870,8
 sirene/78/elevage-bovin-ovin-caprin-porcin-volailles.json,954,8
 sirene/78/elevage-de-chevaux-haras.json,3139,27
 sirene/78/enseignement-culturel-conservatoires.json,9615,76
-sirene/78/enseignes-signaletique-marquage.json,3292,25
+sirene/78/enseignes-signaletique-marquage.json,2860,22
 sirene/78/entrepots-logistique.json,20441,166
 sirene/78/esthetique-soins-de-beaute.json,36160,311
 sirene/78/fabrication-de-monnaies-medailles.json,3,0
@@ -10157,7 +10234,7 @@ sirene/78/poste-courrier.json,12705,122
 sirene/78/pressing-blanchisserie-retouches.json,16991,141
 sirene/78/primeur-fromagerie-epicerie-fine-cave.json,16999,142
 sirene/78/production-et-distribution-d-energie.json,7171,58
-sirene/78/publicite-design-graphique.json,31563,280
+sirene/78/publicite-design-graphique.json,18228,162
 sirene/78/remontees-mecaniques-telepheriques.json,3,0
 sirene/78/reparation-d-ordinateurs-et-de-telephones.json,4021,34
 sirene/78/reparation-de-machines-et-d-electronique.json,10234,83
@@ -10223,6 +10300,7 @@ sirene/79/cuir-maroquinerie-cordonnerie.json,434,4
 sirene/79/cultures-specialisees-vergers-cultures-tropicales.json,1738,16
 sirene/79/dechets-recyclage-assainissement.json,8397,62
 sirene/79/demenagement.json,1536,12
+sirene/79/design-d-interieur-et-d-objet.json,1044,9
 sirene/79/eau-potable-captage-traitement-distribution.json,4713,35
 sirene/79/ebenisterie-meubles-restauration-de-meubles.json,2720,22
 sirene/79/ecoles-de-sport-equitation.json,1387,12
@@ -10286,7 +10364,7 @@ sirene/79/poste-courrier.json,206,2
 sirene/79/pressing-blanchisserie-retouches.json,4405,39
 sirene/79/primeur-fromagerie-epicerie-fine-cave.json,4132,36
 sirene/79/production-et-distribution-d-energie.json,4602,41
-sirene/79/publicite-design-graphique.json,4118,37
+sirene/79/publicite-design-graphique.json,3076,28
 sirene/79/remontees-mecaniques-telepheriques.json,3,0
 sirene/79/reparation-d-ordinateurs-et-de-telephones.json,985,9
 sirene/79/reparation-de-machines-et-d-electronique.json,5967,49
@@ -10352,6 +10430,7 @@ sirene/80/cuir-maroquinerie-cordonnerie.json,1200,10
 sirene/80/cultures-specialisees-vergers-cultures-tropicales.json,1344,12
 sirene/80/dechets-recyclage-assainissement.json,18588,141
 sirene/80/demenagement.json,697,6
+sirene/80/design-d-interieur-et-d-objet.json,1151,11
 sirene/80/eau-potable-captage-traitement-distribution.json,14289,105
 sirene/80/ebenisterie-meubles-restauration-de-meubles.json,2351,21
 sirene/80/ecoles-de-sport-equitation.json,2727,23
@@ -10363,7 +10442,7 @@ sirene/80/elements-prefabriques-en-beton.json,514,5
 sirene/80/elevage-bovin-ovin-caprin-porcin-volailles.json,8905,85
 sirene/80/elevage-de-chevaux-haras.json,812,7
 sirene/80/enseignement-culturel-conservatoires.json,3029,25
-sirene/80/enseignes-signaletique-marquage.json,946,8
+sirene/80/enseignes-signaletique-marquage.json,590,5
 sirene/80/entrepots-logistique.json,11281,91
 sirene/80/esthetique-soins-de-beaute.json,5368,50
 sirene/80/fabrication-de-monnaies-medailles.json,3,0
@@ -10415,7 +10494,7 @@ sirene/80/poste-courrier.json,98,1
 sirene/80/pressing-blanchisserie-retouches.json,2410,20
 sirene/80/primeur-fromagerie-epicerie-fine-cave.json,4899,43
 sirene/80/production-et-distribution-d-energie.json,3756,33
-sirene/80/publicite-design-graphique.json,4008,37
+sirene/80/publicite-design-graphique.json,2859,26
 sirene/80/remontees-mecaniques-telepheriques.json,3,0
 sirene/80/reparation-d-ordinateurs-et-de-telephones.json,775,7
 sirene/80/reparation-de-machines-et-d-electronique.json,6158,55
@@ -10481,6 +10560,7 @@ sirene/81/cuir-maroquinerie-cordonnerie.json,2483,21
 sirene/81/cultures-specialisees-vergers-cultures-tropicales.json,647,6
 sirene/81/dechets-recyclage-assainissement.json,19737,127
 sirene/81/demenagement.json,1272,10
+sirene/81/design-d-interieur-et-d-objet.json,1377,13
 sirene/81/eau-potable-captage-traitement-distribution.json,5850,39
 sirene/81/ebenisterie-meubles-restauration-de-meubles.json,2942,26
 sirene/81/ecoles-de-sport-equitation.json,1568,13
@@ -10492,7 +10572,7 @@ sirene/81/elements-prefabriques-en-beton.json,1238,11
 sirene/81/elevage-bovin-ovin-caprin-porcin-volailles.json,20707,183
 sirene/81/elevage-de-chevaux-haras.json,1076,10
 sirene/81/enseignement-culturel-conservatoires.json,1854,17
-sirene/81/enseignes-signaletique-marquage.json,790,6
+sirene/81/enseignes-signaletique-marquage.json,507,4
 sirene/81/entrepots-logistique.json,4786,41
 sirene/81/esthetique-soins-de-beaute.json,4052,35
 sirene/81/fabrication-de-monnaies-medailles.json,3,0
@@ -10544,7 +10624,7 @@ sirene/81/poste-courrier.json,3,0
 sirene/81/pressing-blanchisserie-retouches.json,2433,21
 sirene/81/primeur-fromagerie-epicerie-fine-cave.json,7168,62
 sirene/81/production-et-distribution-d-energie.json,12065,102
-sirene/81/publicite-design-graphique.json,4274,40
+sirene/81/publicite-design-graphique.json,2899,27
 sirene/81/remontees-mecaniques-telepheriques.json,3,0
 sirene/81/reparation-d-ordinateurs-et-de-telephones.json,1404,12
 sirene/81/reparation-de-machines-et-d-electronique.json,5208,45
@@ -10610,6 +10690,7 @@ sirene/82/cuir-maroquinerie-cordonnerie.json,99,1
 sirene/82/cultures-specialisees-vergers-cultures-tropicales.json,17895,161
 sirene/82/dechets-recyclage-assainissement.json,7472,55
 sirene/82/demenagement.json,385,3
+sirene/82/design-d-interieur-et-d-objet.json,1160,10
 sirene/82/eau-potable-captage-traitement-distribution.json,3086,22
 sirene/82/ebenisterie-meubles-restauration-de-meubles.json,1218,10
 sirene/82/ecoles-de-sport-equitation.json,1627,14
@@ -10673,7 +10754,7 @@ sirene/82/poste-courrier.json,195,2
 sirene/82/pressing-blanchisserie-retouches.json,1789,15
 sirene/82/primeur-fromagerie-epicerie-fine-cave.json,3850,33
 sirene/82/production-et-distribution-d-energie.json,4715,43
-sirene/82/publicite-design-graphique.json,3712,33
+sirene/82/publicite-design-graphique.json,2554,23
 sirene/82/remontees-mecaniques-telepheriques.json,3,0
 sirene/82/reparation-d-ordinateurs-et-de-telephones.json,1051,9
 sirene/82/reparation-de-machines-et-d-electronique.json,2694,23
@@ -10739,6 +10820,7 @@ sirene/83/cuir-maroquinerie-cordonnerie.json,3245,25
 sirene/83/cultures-specialisees-vergers-cultures-tropicales.json,5461,44
 sirene/83/dechets-recyclage-assainissement.json,29277,219
 sirene/83/demenagement.json,5344,39
+sirene/83/design-d-interieur-et-d-objet.json,6639,56
 sirene/83/eau-potable-captage-traitement-distribution.json,9819,69
 sirene/83/ebenisterie-meubles-restauration-de-meubles.json,4212,34
 sirene/83/ecoles-de-sport-equitation.json,15892,125
@@ -10750,7 +10832,7 @@ sirene/83/elements-prefabriques-en-beton.json,891,7
 sirene/83/elevage-bovin-ovin-caprin-porcin-volailles.json,1658,14
 sirene/83/elevage-de-chevaux-haras.json,1719,15
 sirene/83/enseignement-culturel-conservatoires.json,4830,38
-sirene/83/enseignes-signaletique-marquage.json,1241,10
+sirene/83/enseignes-signaletique-marquage.json,1099,9
 sirene/83/entrepots-logistique.json,12511,97
 sirene/83/esthetique-soins-de-beaute.json,23485,196
 sirene/83/fabrication-de-monnaies-medailles.json,3,0
@@ -10802,7 +10884,7 @@ sirene/83/poste-courrier.json,115,1
 sirene/83/pressing-blanchisserie-retouches.json,13195,103
 sirene/83/primeur-fromagerie-epicerie-fine-cave.json,26712,222
 sirene/83/production-et-distribution-d-energie.json,6173,43
-sirene/83/publicite-design-graphique.json,17724,147
+sirene/83/publicite-design-graphique.json,11087,91
 sirene/83/remontees-mecaniques-telepheriques.json,143,1
 sirene/83/reparation-d-ordinateurs-et-de-telephones.json,4576,36
 sirene/83/reparation-de-machines-et-d-electronique.json,9497,74
@@ -10868,6 +10950,7 @@ sirene/84/cuir-maroquinerie-cordonnerie.json,1758,14
 sirene/84/cultures-specialisees-vergers-cultures-tropicales.json,17025,150
 sirene/84/dechets-recyclage-assainissement.json,15897,118
 sirene/84/demenagement.json,1581,11
+sirene/84/design-d-interieur-et-d-objet.json,3157,28
 sirene/84/eau-potable-captage-traitement-distribution.json,4316,30
 sirene/84/ebenisterie-meubles-restauration-de-meubles.json,2839,24
 sirene/84/ecoles-de-sport-equitation.json,4099,34
@@ -10879,7 +10962,7 @@ sirene/84/elements-prefabriques-en-beton.json,1422,13
 sirene/84/elevage-bovin-ovin-caprin-porcin-volailles.json,1606,14
 sirene/84/elevage-de-chevaux-haras.json,802,7
 sirene/84/enseignement-culturel-conservatoires.json,3847,31
-sirene/84/enseignes-signaletique-marquage.json,930,8
+sirene/84/enseignes-signaletique-marquage.json,822,7
 sirene/84/entrepots-logistique.json,15618,131
 sirene/84/esthetique-soins-de-beaute.json,10080,90
 sirene/84/fabrication-de-monnaies-medailles.json,3,0
@@ -10931,7 +11014,7 @@ sirene/84/poste-courrier.json,100,1
 sirene/84/pressing-blanchisserie-retouches.json,5978,51
 sirene/84/primeur-fromagerie-epicerie-fine-cave.json,17078,147
 sirene/84/production-et-distribution-d-energie.json,8306,70
-sirene/84/publicite-design-graphique.json,8473,75
+sirene/84/publicite-design-graphique.json,5318,47
 sirene/84/remontees-mecaniques-telepheriques.json,3,0
 sirene/84/reparation-d-ordinateurs-et-de-telephones.json,2344,21
 sirene/84/reparation-de-machines-et-d-electronique.json,7431,63
@@ -10997,6 +11080,7 @@ sirene/85/cuir-maroquinerie-cordonnerie.json,3593,27
 sirene/85/cultures-specialisees-vergers-cultures-tropicales.json,1429,12
 sirene/85/dechets-recyclage-assainissement.json,19354,143
 sirene/85/demenagement.json,1990,14
+sirene/85/design-d-interieur-et-d-objet.json,5037,42
 sirene/85/eau-potable-captage-traitement-distribution.json,2129,15
 sirene/85/ebenisterie-meubles-restauration-de-meubles.json,10396,82
 sirene/85/ecoles-de-sport-equitation.json,5442,45
@@ -11008,7 +11092,7 @@ sirene/85/elements-prefabriques-en-beton.json,2353,19
 sirene/85/elevage-bovin-ovin-caprin-porcin-volailles.json,80258,740
 sirene/85/elevage-de-chevaux-haras.json,2874,26
 sirene/85/enseignement-culturel-conservatoires.json,6714,54
-sirene/85/enseignes-signaletique-marquage.json,1881,14
+sirene/85/enseignes-signaletique-marquage.json,1581,12
 sirene/85/entrepots-logistique.json,10626,84
 sirene/85/esthetique-soins-de-beaute.json,14924,121
 sirene/85/fabrication-de-monnaies-medailles.json,3,0
@@ -11060,7 +11144,7 @@ sirene/85/poste-courrier.json,301,3
 sirene/85/pressing-blanchisserie-retouches.json,6958,55
 sirene/85/primeur-fromagerie-epicerie-fine-cave.json,12707,103
 sirene/85/production-et-distribution-d-energie.json,14707,127
-sirene/85/publicite-design-graphique.json,12570,103
+sirene/85/publicite-design-graphique.json,7535,61
 sirene/85/remontees-mecaniques-telepheriques.json,3,0
 sirene/85/reparation-d-ordinateurs-et-de-telephones.json,2968,24
 sirene/85/reparation-de-machines-et-d-electronique.json,11611,92
@@ -11126,6 +11210,7 @@ sirene/86/cuir-maroquinerie-cordonnerie.json,640,5
 sirene/86/cultures-specialisees-vergers-cultures-tropicales.json,1039,9
 sirene/86/dechets-recyclage-assainissement.json,10666,81
 sirene/86/demenagement.json,1136,8
+sirene/86/design-d-interieur-et-d-objet.json,1256,10
 sirene/86/eau-potable-captage-traitement-distribution.json,1493,11
 sirene/86/ebenisterie-meubles-restauration-de-meubles.json,2764,25
 sirene/86/ecoles-de-sport-equitation.json,1795,15
@@ -11189,7 +11274,7 @@ sirene/86/poste-courrier.json,104,1
 sirene/86/pressing-blanchisserie-retouches.json,2398,20
 sirene/86/primeur-fromagerie-epicerie-fine-cave.json,3576,31
 sirene/86/production-et-distribution-d-energie.json,11265,108
-sirene/86/publicite-design-graphique.json,5745,48
+sirene/86/publicite-design-graphique.json,4491,38
 sirene/86/remontees-mecaniques-telepheriques.json,3,0
 sirene/86/reparation-d-ordinateurs-et-de-telephones.json,1595,13
 sirene/86/reparation-de-machines-et-d-electronique.json,3562,30
@@ -11255,6 +11340,7 @@ sirene/87/cuir-maroquinerie-cordonnerie.json,1536,13
 sirene/87/cultures-specialisees-vergers-cultures-tropicales.json,1499,13
 sirene/87/dechets-recyclage-assainissement.json,22336,157
 sirene/87/demenagement.json,1875,15
+sirene/87/design-d-interieur-et-d-objet.json,1017,10
 sirene/87/eau-potable-captage-traitement-distribution.json,5854,43
 sirene/87/ebenisterie-meubles-restauration-de-meubles.json,1143,10
 sirene/87/ecoles-de-sport-equitation.json,1049,9
@@ -11318,7 +11404,7 @@ sirene/87/poste-courrier.json,976,10
 sirene/87/pressing-blanchisserie-retouches.json,3233,27
 sirene/87/primeur-fromagerie-epicerie-fine-cave.json,3730,34
 sirene/87/production-et-distribution-d-energie.json,4419,37
-sirene/87/publicite-design-graphique.json,3798,34
+sirene/87/publicite-design-graphique.json,2783,24
 sirene/87/remontees-mecaniques-telepheriques.json,3,0
 sirene/87/reparation-d-ordinateurs-et-de-telephones.json,1366,12
 sirene/87/reparation-de-machines-et-d-electronique.json,4280,38
@@ -11384,6 +11470,7 @@ sirene/88/cuir-maroquinerie-cordonnerie.json,531,4
 sirene/88/cultures-specialisees-vergers-cultures-tropicales.json,729,7
 sirene/88/dechets-recyclage-assainissement.json,29746,214
 sirene/88/demenagement.json,555,5
+sirene/88/design-d-interieur-et-d-objet.json,1201,11
 sirene/88/eau-potable-captage-traitement-distribution.json,13582,107
 sirene/88/ebenisterie-meubles-restauration-de-meubles.json,4474,38
 sirene/88/ecoles-de-sport-equitation.json,2039,17
@@ -11447,7 +11534,7 @@ sirene/88/poste-courrier.json,190,2
 sirene/88/pressing-blanchisserie-retouches.json,2031,18
 sirene/88/primeur-fromagerie-epicerie-fine-cave.json,1340,12
 sirene/88/production-et-distribution-d-energie.json,7580,68
-sirene/88/publicite-design-graphique.json,3828,34
+sirene/88/publicite-design-graphique.json,2629,23
 sirene/88/remontees-mecaniques-telepheriques.json,696,6
 sirene/88/reparation-d-ordinateurs-et-de-telephones.json,1221,11
 sirene/88/reparation-de-machines-et-d-electronique.json,5727,48
@@ -11513,6 +11600,7 @@ sirene/89/cuir-maroquinerie-cordonnerie.json,1272,10
 sirene/89/cultures-specialisees-vergers-cultures-tropicales.json,565,5
 sirene/89/dechets-recyclage-assainissement.json,24681,183
 sirene/89/demenagement.json,803,6
+sirene/89/design-d-interieur-et-d-objet.json,556,5
 sirene/89/eau-potable-captage-traitement-distribution.json,16521,120
 sirene/89/ebenisterie-meubles-restauration-de-meubles.json,2731,24
 sirene/89/ecoles-de-sport-equitation.json,2215,18
@@ -11524,7 +11612,7 @@ sirene/89/elements-prefabriques-en-beton.json,772,7
 sirene/89/elevage-bovin-ovin-caprin-porcin-volailles.json,6404,58
 sirene/89/elevage-de-chevaux-haras.json,554,5
 sirene/89/enseignement-culturel-conservatoires.json,1720,14
-sirene/89/enseignes-signaletique-marquage.json,320,3
+sirene/89/enseignes-signaletique-marquage.json,195,2
 sirene/89/entrepots-logistique.json,5682,47
 sirene/89/esthetique-soins-de-beaute.json,4248,39
 sirene/89/fabrication-de-monnaies-medailles.json,3,0
@@ -11576,7 +11664,7 @@ sirene/89/poste-courrier.json,703,7
 sirene/89/pressing-blanchisserie-retouches.json,1882,16
 sirene/89/primeur-fromagerie-epicerie-fine-cave.json,3958,35
 sirene/89/production-et-distribution-d-energie.json,2912,25
-sirene/89/publicite-design-graphique.json,3136,28
+sirene/89/publicite-design-graphique.json,2582,23
 sirene/89/remontees-mecaniques-telepheriques.json,3,0
 sirene/89/reparation-d-ordinateurs-et-de-telephones.json,1741,14
 sirene/89/reparation-de-machines-et-d-electronique.json,4964,44
@@ -11642,6 +11730,7 @@ sirene/90/cuir-maroquinerie-cordonnerie.json,3,0
 sirene/90/cultures-specialisees-vergers-cultures-tropicales.json,3,0
 sirene/90/dechets-recyclage-assainissement.json,2467,19
 sirene/90/demenagement.json,564,5
+sirene/90/design-d-interieur-et-d-objet.json,767,7
 sirene/90/eau-potable-captage-traitement-distribution.json,801,6
 sirene/90/ebenisterie-meubles-restauration-de-meubles.json,254,2
 sirene/90/ecoles-de-sport-equitation.json,1004,8
@@ -11705,7 +11794,7 @@ sirene/90/poste-courrier.json,200,2
 sirene/90/pressing-blanchisserie-retouches.json,560,5
 sirene/90/primeur-fromagerie-epicerie-fine-cave.json,1379,12
 sirene/90/production-et-distribution-d-energie.json,1102,8
-sirene/90/publicite-design-graphique.json,1511,14
+sirene/90/publicite-design-graphique.json,746,7
 sirene/90/remontees-mecaniques-telepheriques.json,3,0
 sirene/90/reparation-d-ordinateurs-et-de-telephones.json,433,4
 sirene/90/reparation-de-machines-et-d-electronique.json,2067,18
@@ -11771,6 +11860,7 @@ sirene/91/cuir-maroquinerie-cordonnerie.json,4116,33
 sirene/91/cultures-specialisees-vergers-cultures-tropicales.json,472,4
 sirene/91/dechets-recyclage-assainissement.json,26500,200
 sirene/91/demenagement.json,6673,52
+sirene/91/design-d-interieur-et-d-objet.json,6302,56
 sirene/91/eau-potable-captage-traitement-distribution.json,5902,45
 sirene/91/ebenisterie-meubles-restauration-de-meubles.json,3400,30
 sirene/91/ecoles-de-sport-equitation.json,7020,59
@@ -11782,7 +11872,7 @@ sirene/91/elements-prefabriques-en-beton.json,656,5
 sirene/91/elevage-bovin-ovin-caprin-porcin-volailles.json,544,5
 sirene/91/elevage-de-chevaux-haras.json,1293,10
 sirene/91/enseignement-culturel-conservatoires.json,8943,73
-sirene/91/enseignes-signaletique-marquage.json,3442,24
+sirene/91/enseignes-signaletique-marquage.json,2983,21
 sirene/91/entrepots-logistique.json,31992,261
 sirene/91/esthetique-soins-de-beaute.json,28997,252
 sirene/91/fabrication-de-monnaies-medailles.json,110,1
@@ -11834,7 +11924,7 @@ sirene/91/poste-courrier.json,12577,120
 sirene/91/pressing-blanchisserie-retouches.json,13391,113
 sirene/91/primeur-fromagerie-epicerie-fine-cave.json,12726,107
 sirene/91/production-et-distribution-d-energie.json,6848,54
-sirene/91/publicite-design-graphique.json,17837,157
+sirene/91/publicite-design-graphique.json,11537,101
 sirene/91/remontees-mecaniques-telepheriques.json,3,0
 sirene/91/reparation-d-ordinateurs-et-de-telephones.json,5548,47
 sirene/91/reparation-de-machines-et-d-electronique.json,9823,79
@@ -11900,6 +11990,7 @@ sirene/92/cuir-maroquinerie-cordonnerie.json,5368,46
 sirene/92/cultures-specialisees-vergers-cultures-tropicales.json,119,1
 sirene/92/dechets-recyclage-assainissement.json,23555,187
 sirene/92/demenagement.json,5850,48
+sirene/92/design-d-interieur-et-d-objet.json,24174,219
 sirene/92/eau-potable-captage-traitement-distribution.json,4236,36
 sirene/92/ebenisterie-meubles-restauration-de-meubles.json,3755,33
 sirene/92/ecoles-de-sport-equitation.json,9224,75
@@ -11911,7 +12002,7 @@ sirene/92/elements-prefabriques-en-beton.json,570,5
 sirene/92/elevage-bovin-ovin-caprin-porcin-volailles.json,129,1
 sirene/92/elevage-de-chevaux-haras.json,156,1
 sirene/92/enseignement-culturel-conservatoires.json,10797,85
-sirene/92/enseignes-signaletique-marquage.json,1055,9
+sirene/92/enseignes-signaletique-marquage.json,898,8
 sirene/92/entrepots-logistique.json,32094,265
 sirene/92/esthetique-soins-de-beaute.json,57880,518
 sirene/92/fabrication-de-monnaies-medailles.json,3,0
@@ -11963,7 +12054,7 @@ sirene/92/poste-courrier.json,12089,116
 sirene/92/pressing-blanchisserie-retouches.json,27801,245
 sirene/92/primeur-fromagerie-epicerie-fine-cave.json,25308,216
 sirene/92/production-et-distribution-d-energie.json,39610,291
-sirene/92/publicite-design-graphique.json,93660,817
+sirene/92/publicite-design-graphique.json,69488,598
 sirene/92/remontees-mecaniques-telepheriques.json,3,0
 sirene/92/reparation-d-ordinateurs-et-de-telephones.json,6204,54
 sirene/92/reparation-de-machines-et-d-electronique.json,4759,42
@@ -12029,6 +12120,7 @@ sirene/93/cuir-maroquinerie-cordonnerie.json,7803,65
 sirene/93/cultures-specialisees-vergers-cultures-tropicales.json,3,0
 sirene/93/dechets-recyclage-assainissement.json,23841,197
 sirene/93/demenagement.json,8349,68
+sirene/93/design-d-interieur-et-d-objet.json,17118,158
 sirene/93/eau-potable-captage-traitement-distribution.json,4539,35
 sirene/93/ebenisterie-meubles-restauration-de-meubles.json,6321,58
 sirene/93/ecoles-de-sport-equitation.json,1994,16
@@ -12040,7 +12132,7 @@ sirene/93/elements-prefabriques-en-beton.json,201,2
 sirene/93/elevage-bovin-ovin-caprin-porcin-volailles.json,3,0
 sirene/93/elevage-de-chevaux-haras.json,210,2
 sirene/93/enseignement-culturel-conservatoires.json,5388,44
-sirene/93/enseignes-signaletique-marquage.json,2424,20
+sirene/93/enseignes-signaletique-marquage.json,2291,19
 sirene/93/entrepots-logistique.json,66381,523
 sirene/93/esthetique-soins-de-beaute.json,33214,296
 sirene/93/fabrication-de-monnaies-medailles.json,3,0
@@ -12092,7 +12184,7 @@ sirene/93/poste-courrier.json,13390,126
 sirene/93/pressing-blanchisserie-retouches.json,22407,197
 sirene/93/primeur-fromagerie-epicerie-fine-cave.json,10457,89
 sirene/93/production-et-distribution-d-energie.json,13156,102
-sirene/93/publicite-design-graphique.json,34881,318
+sirene/93/publicite-design-graphique.json,17765,160
 sirene/93/remontees-mecaniques-telepheriques.json,3,0
 sirene/93/reparation-d-ordinateurs-et-de-telephones.json,6072,54
 sirene/93/reparation-de-machines-et-d-electronique.json,4692,40
@@ -12158,6 +12250,7 @@ sirene/94/cuir-maroquinerie-cordonnerie.json,3903,32
 sirene/94/cultures-specialisees-vergers-cultures-tropicales.json,210,2
 sirene/94/dechets-recyclage-assainissement.json,22143,170
 sirene/94/demenagement.json,6314,51
+sirene/94/design-d-interieur-et-d-objet.json,14831,133
 sirene/94/eau-potable-captage-traitement-distribution.json,2623,20
 sirene/94/ebenisterie-meubles-restauration-de-meubles.json,5757,48
 sirene/94/ecoles-de-sport-equitation.json,4973,42
@@ -12169,7 +12262,7 @@ sirene/94/elements-prefabriques-en-beton.json,737,5
 sirene/94/elevage-bovin-ovin-caprin-porcin-volailles.json,3,0
 sirene/94/elevage-de-chevaux-haras.json,538,4
 sirene/94/enseignement-culturel-conservatoires.json,7926,63
-sirene/94/enseignes-signaletique-marquage.json,1751,13
+sirene/94/enseignes-signaletique-marquage.json,1580,12
 sirene/94/entrepots-logistique.json,28659,230
 sirene/94/esthetique-soins-de-beaute.json,43233,378
 sirene/94/fabrication-de-monnaies-medailles.json,3,0
@@ -12221,7 +12314,7 @@ sirene/94/poste-courrier.json,10549,99
 sirene/94/pressing-blanchisserie-retouches.json,19488,169
 sirene/94/primeur-fromagerie-epicerie-fine-cave.json,13712,117
 sirene/94/production-et-distribution-d-energie.json,7218,56
-sirene/94/publicite-design-graphique.json,31239,272
+sirene/94/publicite-design-graphique.json,16410,139
 sirene/94/remontees-mecaniques-telepheriques.json,3,0
 sirene/94/reparation-d-ordinateurs-et-de-telephones.json,5340,46
 sirene/94/reparation-de-machines-et-d-electronique.json,6993,58
@@ -12287,6 +12380,7 @@ sirene/95/cuir-maroquinerie-cordonnerie.json,2234,18
 sirene/95/cultures-specialisees-vergers-cultures-tropicales.json,1235,10
 sirene/95/dechets-recyclage-assainissement.json,30434,237
 sirene/95/demenagement.json,8515,71
+sirene/95/design-d-interieur-et-d-objet.json,5629,51
 sirene/95/eau-potable-captage-traitement-distribution.json,10396,81
 sirene/95/ebenisterie-meubles-restauration-de-meubles.json,4579,40
 sirene/95/ecoles-de-sport-equitation.json,4962,42
@@ -12350,7 +12444,7 @@ sirene/95/poste-courrier.json,11752,115
 sirene/95/pressing-blanchisserie-retouches.json,14290,121
 sirene/95/primeur-fromagerie-epicerie-fine-cave.json,10008,86
 sirene/95/production-et-distribution-d-energie.json,5003,41
-sirene/95/publicite-design-graphique.json,18846,167
+sirene/95/publicite-design-graphique.json,13219,116
 sirene/95/remontees-mecaniques-telepheriques.json,3,0
 sirene/95/reparation-d-ordinateurs-et-de-telephones.json,5289,46
 sirene/95/reparation-de-machines-et-d-electronique.json,9792,82
@@ -12416,6 +12510,7 @@ sirene/971/cuir-maroquinerie-cordonnerie.json,570,5
 sirene/971/cultures-specialisees-vergers-cultures-tropicales.json,9640,78
 sirene/971/dechets-recyclage-assainissement.json,10448,79
 sirene/971/demenagement.json,1125,8
+sirene/971/design-d-interieur-et-d-objet.json,1000,8
 sirene/971/eau-potable-captage-traitement-distribution.json,3748,27
 sirene/971/ebenisterie-meubles-restauration-de-meubles.json,1444,11
 sirene/971/ecoles-de-sport-equitation.json,1499,12
@@ -12427,7 +12522,7 @@ sirene/971/elements-prefabriques-en-beton.json,1366,10
 sirene/971/elevage-bovin-ovin-caprin-porcin-volailles.json,1730,13
 sirene/971/elevage-de-chevaux-haras.json,148,1
 sirene/971/enseignement-culturel-conservatoires.json,1726,14
-sirene/971/enseignes-signaletique-marquage.json,1131,8
+sirene/971/enseignes-signaletique-marquage.json,993,7
 sirene/971/entrepots-logistique.json,12346,92
 sirene/971/esthetique-soins-de-beaute.json,12873,100
 sirene/971/fabrication-de-monnaies-medailles.json,3,0
@@ -12479,7 +12574,7 @@ sirene/971/poste-courrier.json,127,1
 sirene/971/pressing-blanchisserie-retouches.json,5213,41
 sirene/971/primeur-fromagerie-epicerie-fine-cave.json,4659,37
 sirene/971/production-et-distribution-d-energie.json,4694,33
-sirene/971/publicite-design-graphique.json,6561,50
+sirene/971/publicite-design-graphique.json,5563,42
 sirene/971/remontees-mecaniques-telepheriques.json,3,0
 sirene/971/reparation-d-ordinateurs-et-de-telephones.json,2729,20
 sirene/971/reparation-de-machines-et-d-electronique.json,4878,35
@@ -12545,6 +12640,7 @@ sirene/972/cuir-maroquinerie-cordonnerie.json,702,6
 sirene/972/cultures-specialisees-vergers-cultures-tropicales.json,16876,153
 sirene/972/dechets-recyclage-assainissement.json,7707,55
 sirene/972/demenagement.json,829,6
+sirene/972/design-d-interieur-et-d-objet.json,1399,10
 sirene/972/eau-potable-captage-traitement-distribution.json,3359,26
 sirene/972/ebenisterie-meubles-restauration-de-meubles.json,1803,15
 sirene/972/ecoles-de-sport-equitation.json,1936,14
@@ -12556,7 +12652,7 @@ sirene/972/elements-prefabriques-en-beton.json,2340,20
 sirene/972/elevage-bovin-ovin-caprin-porcin-volailles.json,4392,37
 sirene/972/elevage-de-chevaux-haras.json,737,6
 sirene/972/enseignement-culturel-conservatoires.json,1331,10
-sirene/972/enseignes-signaletique-marquage.json,1237,9
+sirene/972/enseignes-signaletique-marquage.json,1062,8
 sirene/972/entrepots-logistique.json,12408,97
 sirene/972/esthetique-soins-de-beaute.json,9872,79
 sirene/972/fabrication-de-monnaies-medailles.json,3,0
@@ -12608,7 +12704,7 @@ sirene/972/poste-courrier.json,1062,10
 sirene/972/pressing-blanchisserie-retouches.json,7985,61
 sirene/972/primeur-fromagerie-epicerie-fine-cave.json,2798,22
 sirene/972/production-et-distribution-d-energie.json,4703,35
-sirene/972/publicite-design-graphique.json,9057,70
+sirene/972/publicite-design-graphique.json,7660,60
 sirene/972/remontees-mecaniques-telepheriques.json,3,0
 sirene/972/reparation-d-ordinateurs-et-de-telephones.json,4065,32
 sirene/972/reparation-de-machines-et-d-electronique.json,5768,44
@@ -12674,6 +12770,7 @@ sirene/973/cuir-maroquinerie-cordonnerie.json,243,2
 sirene/973/cultures-specialisees-vergers-cultures-tropicales.json,536,4
 sirene/973/dechets-recyclage-assainissement.json,6064,45
 sirene/973/demenagement.json,446,3
+sirene/973/design-d-interieur-et-d-objet.json,475,4
 sirene/973/eau-potable-captage-traitement-distribution.json,2313,18
 sirene/973/ebenisterie-meubles-restauration-de-meubles.json,1970,15
 sirene/973/ecoles-de-sport-equitation.json,1102,9
@@ -12737,7 +12834,7 @@ sirene/973/poste-courrier.json,2128,21
 sirene/973/pressing-blanchisserie-retouches.json,1729,12
 sirene/973/primeur-fromagerie-epicerie-fine-cave.json,1080,8
 sirene/973/production-et-distribution-d-energie.json,3311,25
-sirene/973/publicite-design-graphique.json,3228,26
+sirene/973/publicite-design-graphique.json,2755,22
 sirene/973/remontees-mecaniques-telepheriques.json,3,0
 sirene/973/reparation-d-ordinateurs-et-de-telephones.json,2109,16
 sirene/973/reparation-de-machines-et-d-electronique.json,6933,52
@@ -12803,6 +12900,7 @@ sirene/974/cuir-maroquinerie-cordonnerie.json,116,1
 sirene/974/cultures-specialisees-vergers-cultures-tropicales.json,13047,105
 sirene/974/dechets-recyclage-assainissement.json,20246,157
 sirene/974/demenagement.json,1168,9
+sirene/974/design-d-interieur-et-d-objet.json,716,6
 sirene/974/eau-potable-captage-traitement-distribution.json,4908,37
 sirene/974/ebenisterie-meubles-restauration-de-meubles.json,4979,39
 sirene/974/ecoles-de-sport-equitation.json,5093,40
@@ -12866,7 +12964,7 @@ sirene/974/poste-courrier.json,359,3
 sirene/974/pressing-blanchisserie-retouches.json,6124,50
 sirene/974/primeur-fromagerie-epicerie-fine-cave.json,15456,124
 sirene/974/production-et-distribution-d-energie.json,19671,124
-sirene/974/publicite-design-graphique.json,10302,83
+sirene/974/publicite-design-graphique.json,9588,77
 sirene/974/remontees-mecaniques-telepheriques.json,3,0
 sirene/974/reparation-d-ordinateurs-et-de-telephones.json,6373,49
 sirene/974/reparation-de-machines-et-d-electronique.json,14640,109
