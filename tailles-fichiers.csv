@@ -10,7 +10,7 @@ sirene/01/armurerie-fabrication-d-armes.json,3,0
 sirene/01/associations-animation-solidarite.json,28694,219
 sirene/01/audiovisuel-cinema-son.json,1202,11
 sirene/01/autres-elevages-dont-animaux-de-compagnie-apiculture.json,910,8
-sirene/01/bailleurs-sociaux.json,2331,14
+sirene/01/bailleurs-sociaux.json,3,0
 sirene/01/banques-assurances.json,25475,184
 sirene/01/bateaux-nautisme.json,110,1
 sirene/01/bijouterie-horlogerie.json,1713,15
@@ -69,7 +69,7 @@ sirene/01/grossistes-en-viandes.json,478,4
 sirene/01/guides-offices-de-tourisme.json,3737,26
 sirene/01/handicap-foyers-esat-ime.json,9602,65
 sirene/01/hopitaux-cliniques-laboratoires.json,14272,108
-sirene/01/hopitaux-services-techniques.json,1777,14
+sirene/01/hopitaux-services-techniques.json,3,0
 sirene/01/horticulture-maraichage-agriculture.json,21442,187
 sirene/01/hotels.json,19877,163
 sirene/01/imprimerie-prepresse-reliure.json,7345,63
@@ -151,7 +151,7 @@ sirene/02/armurerie-fabrication-d-armes.json,3,0
 sirene/02/associations-animation-solidarite.json,38220,268
 sirene/02/audiovisuel-cinema-son.json,1858,15
 sirene/02/autres-elevages-dont-animaux-de-compagnie-apiculture.json,237,2
-sirene/02/bailleurs-sociaux.json,125,1
+sirene/02/bailleurs-sociaux.json,3,0
 sirene/02/banques-assurances.json,21464,154
 sirene/02/bateaux-nautisme.json,3,0
 sirene/02/bijouterie-horlogerie.json,3,0
@@ -210,7 +210,7 @@ sirene/02/grossistes-en-viandes.json,260,2
 sirene/02/guides-offices-de-tourisme.json,1798,12
 sirene/02/handicap-foyers-esat-ime.json,13401,93
 sirene/02/hopitaux-cliniques-laboratoires.json,17084,120
-sirene/02/hopitaux-services-techniques.json,2096,16
+sirene/02/hopitaux-services-techniques.json,3,0
 sirene/02/horticulture-maraichage-agriculture.json,71108,640
 sirene/02/hotels.json,9967,82
 sirene/02/imprimerie-prepresse-reliure.json,2433,21
@@ -293,7 +293,7 @@ sirene/03/armurerie-fabrication-d-armes.json,3,0
 sirene/03/associations-animation-solidarite.json,16023,125
 sirene/03/audiovisuel-cinema-son.json,1313,12
 sirene/03/autres-elevages-dont-animaux-de-compagnie-apiculture.json,969,7
-sirene/03/bailleurs-sociaux.json,531,5
+sirene/03/bailleurs-sociaux.json,3,0
 sirene/03/banques-assurances.json,14689,107
 sirene/03/bateaux-nautisme.json,3,0
 sirene/03/bijouterie-horlogerie.json,359,3
@@ -352,7 +352,7 @@ sirene/03/grossistes-en-viandes.json,206,2
 sirene/03/guides-offices-de-tourisme.json,2144,16
 sirene/03/handicap-foyers-esat-ime.json,11022,69
 sirene/03/hopitaux-cliniques-laboratoires.json,12976,92
-sirene/03/hopitaux-services-techniques.json,1692,12
+sirene/03/hopitaux-services-techniques.json,3,0
 sirene/03/horticulture-maraichage-agriculture.json,20269,157
 sirene/03/hotels.json,13706,115
 sirene/03/imprimerie-prepresse-reliure.json,1898,17
@@ -493,7 +493,7 @@ sirene/04/grossistes-en-viandes.json,822,7
 sirene/04/guides-offices-de-tourisme.json,3894,26
 sirene/04/handicap-foyers-esat-ime.json,4160,28
 sirene/04/hopitaux-cliniques-laboratoires.json,6882,52
-sirene/04/hopitaux-services-techniques.json,696,5
+sirene/04/hopitaux-services-techniques.json,3,0
 sirene/04/horticulture-maraichage-agriculture.json,7723,68
 sirene/04/hotels.json,20263,165
 sirene/04/imprimerie-prepresse-reliure.json,1408,12
@@ -574,7 +574,7 @@ sirene/05/armurerie-fabrication-d-armes.json,3,0
 sirene/05/associations-animation-solidarite.json,16953,136
 sirene/05/audiovisuel-cinema-son.json,1132,9
 sirene/05/autres-elevages-dont-animaux-de-compagnie-apiculture.json,310,3
-sirene/05/bailleurs-sociaux.json,440,3
+sirene/05/bailleurs-sociaux.json,3,0
 sirene/05/banques-assurances.json,6723,54
 sirene/05/bateaux-nautisme.json,3,0
 sirene/05/bijouterie-horlogerie.json,97,1
@@ -632,7 +632,7 @@ sirene/05/grossistes-en-viandes.json,3,0
 sirene/05/guides-offices-de-tourisme.json,4861,36
 sirene/05/handicap-foyers-esat-ime.json,3315,19
 sirene/05/hopitaux-cliniques-laboratoires.json,6188,47
-sirene/05/hopitaux-services-techniques.json,1170,9
+sirene/05/hopitaux-services-techniques.json,3,0
 sirene/05/horticulture-maraichage-agriculture.json,2366,21
 sirene/05/hotels.json,36832,303
 sirene/05/imprimerie-prepresse-reliure.json,908,8
@@ -714,7 +714,7 @@ sirene/06/armurerie-fabrication-d-armes.json,3,0
 sirene/06/associations-animation-solidarite.json,60062,468
 sirene/06/audiovisuel-cinema-son.json,11684,102
 sirene/06/autres-elevages-dont-animaux-de-compagnie-apiculture.json,150,1
-sirene/06/bailleurs-sociaux.json,1595,12
+sirene/06/bailleurs-sociaux.json,3,0
 sirene/06/banques-assurances.json,70132,533
 sirene/06/bateaux-nautisme.json,15697,126
 sirene/06/bijouterie-horlogerie.json,5910,53
@@ -743,7 +743,7 @@ sirene/06/cuir-maroquinerie-cordonnerie.json,3973,33
 sirene/06/cultures-specialisees-vergers-cultures-tropicales.json,2555,22
 sirene/06/dechets-recyclage-assainissement.json,20778,161
 sirene/06/demenagement.json,6365,50
-sirene/06/design-d-interieur-et-d-objet.json,14200,125
+sirene/06/design-d-interieur-et-d-objet.json,14089,124
 sirene/06/eau-potable-captage-traitement-distribution.json,5923,46
 sirene/06/ebenisterie-meubles-restauration-de-meubles.json,5416,47
 sirene/06/ecoles-de-sport-equitation.json,9819,81
@@ -772,7 +772,7 @@ sirene/06/grossistes-en-viandes.json,1563,13
 sirene/06/guides-offices-de-tourisme.json,5562,45
 sirene/06/handicap-foyers-esat-ime.json,9079,70
 sirene/06/hopitaux-cliniques-laboratoires.json,32005,254
-sirene/06/hopitaux-services-techniques.json,4456,34
+sirene/06/hopitaux-services-techniques.json,3,0
 sirene/06/horticulture-maraichage-agriculture.json,5789,48
 sirene/06/hotels.json,97825,832
 sirene/06/imprimerie-prepresse-reliure.json,7634,63
@@ -853,7 +853,7 @@ sirene/07/armurerie-fabrication-d-armes.json,3,0
 sirene/07/associations-animation-solidarite.json,26078,204
 sirene/07/audiovisuel-cinema-son.json,1649,15
 sirene/07/autres-elevages-dont-animaux-de-compagnie-apiculture.json,3,0
-sirene/07/bailleurs-sociaux.json,776,6
+sirene/07/bailleurs-sociaux.json,3,0
 sirene/07/banques-assurances.json,18009,131
 sirene/07/bateaux-nautisme.json,118,1
 sirene/07/bijouterie-horlogerie.json,1197,10
@@ -911,7 +911,7 @@ sirene/07/grossistes-en-viandes.json,168,1
 sirene/07/guides-offices-de-tourisme.json,4294,32
 sirene/07/handicap-foyers-esat-ime.json,6280,43
 sirene/07/hopitaux-cliniques-laboratoires.json,10695,78
-sirene/07/hopitaux-services-techniques.json,2067,15
+sirene/07/hopitaux-services-techniques.json,3,0
 sirene/07/horticulture-maraichage-agriculture.json,3933,34
 sirene/07/hotels.json,17871,148
 sirene/07/imprimerie-prepresse-reliure.json,2834,23
@@ -992,7 +992,7 @@ sirene/08/armurerie-fabrication-d-armes.json,3,0
 sirene/08/associations-animation-solidarite.json,32777,206
 sirene/08/audiovisuel-cinema-son.json,372,3
 sirene/08/autres-elevages-dont-animaux-de-compagnie-apiculture.json,225,2
-sirene/08/bailleurs-sociaux.json,277,2
+sirene/08/bailleurs-sociaux.json,3,0
 sirene/08/banques-assurances.json,17405,124
 sirene/08/bateaux-nautisme.json,236,2
 sirene/08/bijouterie-horlogerie.json,99,1
@@ -1051,7 +1051,7 @@ sirene/08/grossistes-en-viandes.json,104,1
 sirene/08/guides-offices-de-tourisme.json,1198,9
 sirene/08/handicap-foyers-esat-ime.json,10712,66
 sirene/08/hopitaux-cliniques-laboratoires.json,11254,77
-sirene/08/hopitaux-services-techniques.json,1362,9
+sirene/08/hopitaux-services-techniques.json,3,0
 sirene/08/horticulture-maraichage-agriculture.json,36647,325
 sirene/08/hotels.json,5906,49
 sirene/08/imprimerie-prepresse-reliure.json,1981,17
@@ -1132,7 +1132,7 @@ sirene/09/armurerie-fabrication-d-armes.json,3,0
 sirene/09/associations-animation-solidarite.json,27805,181
 sirene/09/audiovisuel-cinema-son.json,854,7
 sirene/09/autres-elevages-dont-animaux-de-compagnie-apiculture.json,160,1
-sirene/09/bailleurs-sociaux.json,292,2
+sirene/09/bailleurs-sociaux.json,3,0
 sirene/09/banques-assurances.json,8604,69
 sirene/09/bateaux-nautisme.json,3,0
 sirene/09/bijouterie-horlogerie.json,97,1
@@ -1191,7 +1191,7 @@ sirene/09/grossistes-en-viandes.json,765,7
 sirene/09/guides-offices-de-tourisme.json,755,6
 sirene/09/handicap-foyers-esat-ime.json,8333,53
 sirene/09/hopitaux-cliniques-laboratoires.json,4364,30
-sirene/09/hopitaux-services-techniques.json,402,3
+sirene/09/hopitaux-services-techniques.json,3,0
 sirene/09/horticulture-maraichage-agriculture.json,4558,43
 sirene/09/hotels.json,9359,81
 sirene/09/imprimerie-prepresse-reliure.json,714,6
@@ -1273,7 +1273,7 @@ sirene/10/armurerie-fabrication-d-armes.json,3,0
 sirene/10/associations-animation-solidarite.json,32152,220
 sirene/10/audiovisuel-cinema-son.json,1732,16
 sirene/10/autres-elevages-dont-animaux-de-compagnie-apiculture.json,1014,8
-sirene/10/bailleurs-sociaux.json,636,5
+sirene/10/bailleurs-sociaux.json,3,0
 sirene/10/banques-assurances.json,16450,123
 sirene/10/bateaux-nautisme.json,223,2
 sirene/10/bijouterie-horlogerie.json,558,5
@@ -1332,7 +1332,7 @@ sirene/10/grossistes-en-viandes.json,3,0
 sirene/10/guides-offices-de-tourisme.json,1514,11
 sirene/10/handicap-foyers-esat-ime.json,6242,45
 sirene/10/hopitaux-cliniques-laboratoires.json,10482,70
-sirene/10/hopitaux-services-techniques.json,1699,11
+sirene/10/hopitaux-services-techniques.json,3,0
 sirene/10/horticulture-maraichage-agriculture.json,49979,461
 sirene/10/hotels.json,11534,98
 sirene/10/imprimerie-prepresse-reliure.json,2409,19
@@ -1413,7 +1413,7 @@ sirene/11/armurerie-fabrication-d-armes.json,118,1
 sirene/11/associations-animation-solidarite.json,26805,207
 sirene/11/audiovisuel-cinema-son.json,1235,11
 sirene/11/autres-elevages-dont-animaux-de-compagnie-apiculture.json,110,1
-sirene/11/bailleurs-sociaux.json,286,2
+sirene/11/bailleurs-sociaux.json,3,0
 sirene/11/banques-assurances.json,16112,121
 sirene/11/bateaux-nautisme.json,1632,13
 sirene/11/bijouterie-horlogerie.json,1078,9
@@ -1473,7 +1473,7 @@ sirene/11/grossistes-en-viandes.json,621,5
 sirene/11/guides-offices-de-tourisme.json,4229,25
 sirene/11/handicap-foyers-esat-ime.json,14781,82
 sirene/11/hopitaux-cliniques-laboratoires.json,14136,91
-sirene/11/hopitaux-services-techniques.json,1832,13
+sirene/11/hopitaux-services-techniques.json,3,0
 sirene/11/horticulture-maraichage-agriculture.json,10072,95
 sirene/11/hotels.json,23497,199
 sirene/11/imprimerie-prepresse-reliure.json,2988,24
@@ -1553,7 +1553,7 @@ sirene/12/armurerie-fabrication-d-armes.json,148,1
 sirene/12/associations-animation-solidarite.json,28423,207
 sirene/12/audiovisuel-cinema-son.json,1016,9
 sirene/12/autres-elevages-dont-animaux-de-compagnie-apiculture.json,447,4
-sirene/12/bailleurs-sociaux.json,697,5
+sirene/12/bailleurs-sociaux.json,3,0
 sirene/12/banques-assurances.json,12903,104
 sirene/12/bateaux-nautisme.json,107,1
 sirene/12/bijouterie-horlogerie.json,709,6
@@ -1611,7 +1611,7 @@ sirene/12/grossistes-en-viandes.json,1637,14
 sirene/12/guides-offices-de-tourisme.json,2963,21
 sirene/12/handicap-foyers-esat-ime.json,7355,50
 sirene/12/hopitaux-cliniques-laboratoires.json,7380,53
-sirene/12/hopitaux-services-techniques.json,1761,12
+sirene/12/hopitaux-services-techniques.json,3,0
 sirene/12/horticulture-maraichage-agriculture.json,5514,52
 sirene/12/hotels.json,17794,148
 sirene/12/imprimerie-prepresse-reliure.json,2892,25
@@ -1694,7 +1694,7 @@ sirene/13/armurerie-fabrication-d-armes.json,233,2
 sirene/13/associations-animation-solidarite.json,157788,1178
 sirene/13/audiovisuel-cinema-son.json,32054,280
 sirene/13/autres-elevages-dont-animaux-de-compagnie-apiculture.json,1157,9
-sirene/13/bailleurs-sociaux.json,2299,17
+sirene/13/bailleurs-sociaux.json,3,0
 sirene/13/banques-assurances.json,91628,712
 sirene/13/bateaux-nautisme.json,13329,105
 sirene/13/bijouterie-horlogerie.json,9815,83
@@ -1725,7 +1725,7 @@ sirene/13/cultures-specialisees-vergers-cultures-tropicales.json,25183,217
 sirene/13/dechets-recyclage-assainissement.json,45781,346
 sirene/13/demenagement.json,9084,72
 sirene/13/demolition.json,673,6
-sirene/13/design-d-interieur-et-d-objet.json,16602,146
+sirene/13/design-d-interieur-et-d-objet.json,16435,145
 sirene/13/eau-potable-captage-traitement-distribution.json,12464,89
 sirene/13/ebenisterie-meubles-restauration-de-meubles.json,5938,50
 sirene/13/ecoles-de-sport-equitation.json,17154,142
@@ -1754,7 +1754,7 @@ sirene/13/grossistes-en-viandes.json,1566,13
 sirene/13/guides-offices-de-tourisme.json,6630,49
 sirene/13/handicap-foyers-esat-ime.json,33350,215
 sirene/13/hopitaux-cliniques-laboratoires.json,74113,541
-sirene/13/hopitaux-services-techniques.json,9719,73
+sirene/13/hopitaux-services-techniques.json,3,0
 sirene/13/horticulture-maraichage-agriculture.json,53626,466
 sirene/13/hotels.json,91342,731
 sirene/13/imprimerie-prepresse-reliure.json,12725,104
@@ -1838,7 +1838,7 @@ sirene/14/armurerie-fabrication-d-armes.json,105,1
 sirene/14/associations-animation-solidarite.json,60047,449
 sirene/14/audiovisuel-cinema-son.json,4179,37
 sirene/14/autres-elevages-dont-animaux-de-compagnie-apiculture.json,604,5
-sirene/14/bailleurs-sociaux.json,1690,14
+sirene/14/bailleurs-sociaux.json,3,0
 sirene/14/banques-assurances.json,31732,241
 sirene/14/bateaux-nautisme.json,1851,15
 sirene/14/bijouterie-horlogerie.json,989,9
@@ -1898,7 +1898,7 @@ sirene/14/grossistes-en-viandes.json,942,7
 sirene/14/guides-offices-de-tourisme.json,5279,34
 sirene/14/handicap-foyers-esat-ime.json,15039,103
 sirene/14/hopitaux-cliniques-laboratoires.json,27928,191
-sirene/14/hopitaux-services-techniques.json,2492,17
+sirene/14/hopitaux-services-techniques.json,3,0
 sirene/14/horticulture-maraichage-agriculture.json,29099,257
 sirene/14/hotels.json,52443,434
 sirene/14/imprimerie-prepresse-reliure.json,5837,47
@@ -1982,7 +1982,7 @@ sirene/15/armurerie-fabrication-d-armes.json,3,0
 sirene/15/associations-animation-solidarite.json,8184,64
 sirene/15/audiovisuel-cinema-son.json,449,4
 sirene/15/autres-elevages-dont-animaux-de-compagnie-apiculture.json,234,2
-sirene/15/bailleurs-sociaux.json,977,6
+sirene/15/bailleurs-sociaux.json,3,0
 sirene/15/banques-assurances.json,12094,91
 sirene/15/bateaux-nautisme.json,99,1
 sirene/15/bijouterie-horlogerie.json,3,0
@@ -2040,7 +2040,7 @@ sirene/15/grossistes-en-viandes.json,328,3
 sirene/15/guides-offices-de-tourisme.json,1674,12
 sirene/15/handicap-foyers-esat-ime.json,5515,34
 sirene/15/hopitaux-cliniques-laboratoires.json,4959,36
-sirene/15/hopitaux-services-techniques.json,739,6
+sirene/15/hopitaux-services-techniques.json,3,0
 sirene/15/horticulture-maraichage-agriculture.json,701,7
 sirene/15/hotels.json,11774,102
 sirene/15/imprimerie-prepresse-reliure.json,1034,8
@@ -2121,7 +2121,7 @@ sirene/16/armurerie-fabrication-d-armes.json,105,1
 sirene/16/associations-animation-solidarite.json,21121,161
 sirene/16/audiovisuel-cinema-son.json,6176,56
 sirene/16/autres-elevages-dont-animaux-de-compagnie-apiculture.json,559,5
-sirene/16/bailleurs-sociaux.json,1400,9
+sirene/16/bailleurs-sociaux.json,3,0
 sirene/16/banques-assurances.json,21411,154
 sirene/16/bateaux-nautisme.json,137,1
 sirene/16/bijouterie-horlogerie.json,580,5
@@ -2180,7 +2180,7 @@ sirene/16/grossistes-en-viandes.json,416,3
 sirene/16/guides-offices-de-tourisme.json,953,7
 sirene/16/handicap-foyers-esat-ime.json,10192,66
 sirene/16/hopitaux-cliniques-laboratoires.json,12396,86
-sirene/16/hopitaux-services-techniques.json,1575,12
+sirene/16/hopitaux-services-techniques.json,3,0
 sirene/16/horticulture-maraichage-agriculture.json,25788,234
 sirene/16/hotels.json,9356,78
 sirene/16/imprimerie-prepresse-reliure.json,4385,36
@@ -2263,7 +2263,7 @@ sirene/17/armurerie-fabrication-d-armes.json,3,0
 sirene/17/associations-animation-solidarite.json,31985,244
 sirene/17/audiovisuel-cinema-son.json,4235,37
 sirene/17/autres-elevages-dont-animaux-de-compagnie-apiculture.json,586,5
-sirene/17/bailleurs-sociaux.json,1629,10
+sirene/17/bailleurs-sociaux.json,3,0
 sirene/17/banques-assurances.json,33001,254
 sirene/17/bateaux-nautisme.json,11181,92
 sirene/17/bijouterie-horlogerie.json,2458,21
@@ -2322,7 +2322,7 @@ sirene/17/grossistes-en-viandes.json,1043,8
 sirene/17/guides-offices-de-tourisme.json,4940,32
 sirene/17/handicap-foyers-esat-ime.json,14493,96
 sirene/17/hopitaux-cliniques-laboratoires.json,23232,157
-sirene/17/hopitaux-services-techniques.json,2783,19
+sirene/17/hopitaux-services-techniques.json,3,0
 sirene/17/horticulture-maraichage-agriculture.json,56950,514
 sirene/17/hotels.json,43183,353
 sirene/17/imprimerie-prepresse-reliure.json,4560,39
@@ -2404,7 +2404,7 @@ sirene/18/armurerie-fabrication-d-armes.json,581,5
 sirene/18/associations-animation-solidarite.json,26099,183
 sirene/18/audiovisuel-cinema-son.json,1005,9
 sirene/18/autres-elevages-dont-animaux-de-compagnie-apiculture.json,233,2
-sirene/18/bailleurs-sociaux.json,3549,23
+sirene/18/bailleurs-sociaux.json,3,0
 sirene/18/banques-assurances.json,24496,194
 sirene/18/bateaux-nautisme.json,3,0
 sirene/18/bijouterie-horlogerie.json,1331,11
@@ -2463,7 +2463,7 @@ sirene/18/grossistes-en-viandes.json,231,2
 sirene/18/guides-offices-de-tourisme.json,1679,12
 sirene/18/handicap-foyers-esat-ime.json,7861,54
 sirene/18/hopitaux-cliniques-laboratoires.json,13516,96
-sirene/18/hopitaux-services-techniques.json,1199,9
+sirene/18/hopitaux-services-techniques.json,3,0
 sirene/18/horticulture-maraichage-agriculture.json,32570,306
 sirene/18/hotels.json,10187,83
 sirene/18/imprimerie-prepresse-reliure.json,1902,16
@@ -2545,7 +2545,7 @@ sirene/19/armurerie-fabrication-d-armes.json,3,0
 sirene/19/associations-animation-solidarite.json,16565,123
 sirene/19/audiovisuel-cinema-son.json,902,7
 sirene/19/autres-elevages-dont-animaux-de-compagnie-apiculture.json,476,4
-sirene/19/bailleurs-sociaux.json,3398,24
+sirene/19/bailleurs-sociaux.json,3,0
 sirene/19/banques-assurances.json,19184,148
 sirene/19/bateaux-nautisme.json,106,1
 sirene/19/bijouterie-horlogerie.json,367,3
@@ -2604,7 +2604,7 @@ sirene/19/grossistes-en-viandes.json,907,8
 sirene/19/guides-offices-de-tourisme.json,1721,12
 sirene/19/handicap-foyers-esat-ime.json,11573,77
 sirene/19/hopitaux-cliniques-laboratoires.json,11984,85
-sirene/19/hopitaux-services-techniques.json,2531,19
+sirene/19/hopitaux-services-techniques.json,3,0
 sirene/19/horticulture-maraichage-agriculture.json,2169,20
 sirene/19/hotels.json,14250,119
 sirene/19/imprimerie-prepresse-reliure.json,1597,13
@@ -2685,7 +2685,7 @@ sirene/21/armurerie-fabrication-d-armes.json,3,0
 sirene/21/associations-animation-solidarite.json,51041,372
 sirene/21/audiovisuel-cinema-son.json,1584,15
 sirene/21/autres-elevages-dont-animaux-de-compagnie-apiculture.json,194,2
-sirene/21/bailleurs-sociaux.json,2750,21
+sirene/21/bailleurs-sociaux.json,3,0
 sirene/21/banques-assurances.json,38132,285
 sirene/21/bateaux-nautisme.json,329,3
 sirene/21/bijouterie-horlogerie.json,762,8
@@ -2744,7 +2744,7 @@ sirene/21/grossistes-en-viandes.json,217,2
 sirene/21/guides-offices-de-tourisme.json,4077,28
 sirene/21/handicap-foyers-esat-ime.json,12913,87
 sirene/21/hopitaux-cliniques-laboratoires.json,16189,118
-sirene/21/hopitaux-services-techniques.json,1975,15
+sirene/21/hopitaux-services-techniques.json,3,0
 sirene/21/horticulture-maraichage-agriculture.json,31838,294
 sirene/21/hotels.json,29539,249
 sirene/21/imprimerie-prepresse-reliure.json,4563,40
@@ -2821,12 +2821,12 @@ sirene/22/agences-immobilieres-gestion-de-logements.json,32915,268
 sirene/22/aide-a-domicile.json,14400,106
 sirene/22/ambulances.json,8437,67
 sirene/22/aquaculture-pisciculture-conchyliculture.json,7064,63
-sirene/22/architectes.json,10019,86
+sirene/22/architectes.json,9918,85
 sirene/22/armurerie-fabrication-d-armes.json,3,0
 sirene/22/associations-animation-solidarite.json,34080,264
 sirene/22/audiovisuel-cinema-son.json,2135,20
 sirene/22/autres-elevages-dont-animaux-de-compagnie-apiculture.json,340,3
-sirene/22/bailleurs-sociaux.json,432,3
+sirene/22/bailleurs-sociaux.json,3,0
 sirene/22/banques-assurances.json,42935,313
 sirene/22/bateaux-nautisme.json,3705,31
 sirene/22/bijouterie-horlogerie.json,99,1
@@ -2886,7 +2886,7 @@ sirene/22/grossistes-en-viandes.json,742,6
 sirene/22/guides-offices-de-tourisme.json,4204,33
 sirene/22/handicap-foyers-esat-ime.json,12478,87
 sirene/22/hopitaux-cliniques-laboratoires.json,16244,118
-sirene/22/hopitaux-services-techniques.json,3112,22
+sirene/22/hopitaux-services-techniques.json,3,0
 sirene/22/horticulture-maraichage-agriculture.json,31163,293
 sirene/22/hotels.json,24653,203
 sirene/22/imprimerie-prepresse-reliure.json,3231,26
@@ -2969,7 +2969,7 @@ sirene/23/armurerie-fabrication-d-armes.json,106,1
 sirene/23/associations-animation-solidarite.json,11048,87
 sirene/23/audiovisuel-cinema-son.json,445,4
 sirene/23/autres-elevages-dont-animaux-de-compagnie-apiculture.json,225,2
-sirene/23/bailleurs-sociaux.json,271,2
+sirene/23/bailleurs-sociaux.json,3,0
 sirene/23/banques-assurances.json,7720,56
 sirene/23/bateaux-nautisme.json,3,0
 sirene/23/bijouterie-horlogerie.json,3,0
@@ -3026,7 +3026,7 @@ sirene/23/grossistes-en-viandes.json,88,1
 sirene/23/guides-offices-de-tourisme.json,1361,10
 sirene/23/handicap-foyers-esat-ime.json,6359,41
 sirene/23/hopitaux-cliniques-laboratoires.json,7623,51
-sirene/23/hopitaux-services-techniques.json,1034,8
+sirene/23/hopitaux-services-techniques.json,3,0
 sirene/23/horticulture-maraichage-agriculture.json,3131,29
 sirene/23/hotels.json,4959,43
 sirene/23/imprimerie-prepresse-reliure.json,101,1
@@ -3106,7 +3106,7 @@ sirene/24/armurerie-fabrication-d-armes.json,360,3
 sirene/24/associations-animation-solidarite.json,21600,164
 sirene/24/audiovisuel-cinema-son.json,1744,14
 sirene/24/autres-elevages-dont-animaux-de-compagnie-apiculture.json,579,5
-sirene/24/bailleurs-sociaux.json,279,2
+sirene/24/bailleurs-sociaux.json,3,0
 sirene/24/banques-assurances.json,18687,141
 sirene/24/bateaux-nautisme.json,3,0
 sirene/24/bijouterie-horlogerie.json,851,7
@@ -3165,7 +3165,7 @@ sirene/24/grossistes-en-viandes.json,799,6
 sirene/24/guides-offices-de-tourisme.json,3792,27
 sirene/24/handicap-foyers-esat-ime.json,10231,74
 sirene/24/hopitaux-cliniques-laboratoires.json,13681,101
-sirene/24/hopitaux-services-techniques.json,2949,23
+sirene/24/hopitaux-services-techniques.json,3,0
 sirene/24/horticulture-maraichage-agriculture.json,18806,164
 sirene/24/hotels.json,31759,262
 sirene/24/imprimerie-prepresse-reliure.json,3376,28
@@ -3246,7 +3246,7 @@ sirene/25/armurerie-fabrication-d-armes.json,126,1
 sirene/25/associations-animation-solidarite.json,49933,366
 sirene/25/audiovisuel-cinema-son.json,1745,15
 sirene/25/autres-elevages-dont-animaux-de-compagnie-apiculture.json,494,4
-sirene/25/bailleurs-sociaux.json,2184,21
+sirene/25/bailleurs-sociaux.json,3,0
 sirene/25/banques-assurances.json,29680,232
 sirene/25/bateaux-nautisme.json,179,1
 sirene/25/bijouterie-horlogerie.json,3384,30
@@ -3275,7 +3275,7 @@ sirene/25/cuir-maroquinerie-cordonnerie.json,1880,15
 sirene/25/cultures-specialisees-vergers-cultures-tropicales.json,215,2
 sirene/25/dechets-recyclage-assainissement.json,19605,145
 sirene/25/demenagement.json,1147,10
-sirene/25/design-d-interieur-et-d-objet.json,1636,15
+sirene/25/design-d-interieur-et-d-objet.json,1530,14
 sirene/25/eau-potable-captage-traitement-distribution.json,8453,64
 sirene/25/ebenisterie-meubles-restauration-de-meubles.json,2008,17
 sirene/25/ecoles-de-sport-equitation.json,2270,20
@@ -3304,7 +3304,7 @@ sirene/25/grossistes-en-viandes.json,429,4
 sirene/25/guides-offices-de-tourisme.json,2527,19
 sirene/25/handicap-foyers-esat-ime.json,12168,87
 sirene/25/hopitaux-cliniques-laboratoires.json,15538,108
-sirene/25/hopitaux-services-techniques.json,1053,8
+sirene/25/hopitaux-services-techniques.json,3,0
 sirene/25/horticulture-maraichage-agriculture.json,17877,152
 sirene/25/hotels.json,16868,140
 sirene/25/imprimerie-prepresse-reliure.json,3780,31
@@ -3388,7 +3388,7 @@ sirene/26/armurerie-fabrication-d-armes.json,433,4
 sirene/26/associations-animation-solidarite.json,40851,319
 sirene/26/audiovisuel-cinema-son.json,5726,51
 sirene/26/autres-elevages-dont-animaux-de-compagnie-apiculture.json,748,6
-sirene/26/bailleurs-sociaux.json,744,5
+sirene/26/bailleurs-sociaux.json,3,0
 sirene/26/banques-assurances.json,22275,163
 sirene/26/bateaux-nautisme.json,134,1
 sirene/26/bijouterie-horlogerie.json,2057,17
@@ -3448,7 +3448,7 @@ sirene/26/grossistes-en-viandes.json,259,2
 sirene/26/guides-offices-de-tourisme.json,2723,19
 sirene/26/handicap-foyers-esat-ime.json,18413,120
 sirene/26/hopitaux-cliniques-laboratoires.json,16838,122
-sirene/26/hopitaux-services-techniques.json,987,8
+sirene/26/hopitaux-services-techniques.json,3,0
 sirene/26/horticulture-maraichage-agriculture.json,19987,179
 sirene/26/hotels.json,27303,227
 sirene/26/imprimerie-prepresse-reliure.json,5086,42
@@ -3531,7 +3531,7 @@ sirene/27/armurerie-fabrication-d-armes.json,95,1
 sirene/27/associations-animation-solidarite.json,32934,241
 sirene/27/audiovisuel-cinema-son.json,2426,22
 sirene/27/autres-elevages-dont-animaux-de-compagnie-apiculture.json,606,5
-sirene/27/bailleurs-sociaux.json,1103,8
+sirene/27/bailleurs-sociaux.json,3,0
 sirene/27/banques-assurances.json,27105,180
 sirene/27/bateaux-nautisme.json,261,2
 sirene/27/bijouterie-horlogerie.json,504,4
@@ -3591,7 +3591,7 @@ sirene/27/grossistes-en-viandes.json,1114,9
 sirene/27/guides-offices-de-tourisme.json,2553,17
 sirene/27/handicap-foyers-esat-ime.json,15928,111
 sirene/27/hopitaux-cliniques-laboratoires.json,16005,111
-sirene/27/hopitaux-services-techniques.json,1659,13
+sirene/27/hopitaux-services-techniques.json,3,0
 sirene/27/horticulture-maraichage-agriculture.json,53428,477
 sirene/27/hotels.json,13712,113
 sirene/27/imprimerie-prepresse-reliure.json,3387,28
@@ -3674,7 +3674,7 @@ sirene/28/armurerie-fabrication-d-armes.json,243,2
 sirene/28/associations-animation-solidarite.json,29583,208
 sirene/28/audiovisuel-cinema-son.json,2386,20
 sirene/28/autres-elevages-dont-animaux-de-compagnie-apiculture.json,443,4
-sirene/28/bailleurs-sociaux.json,1497,11
+sirene/28/bailleurs-sociaux.json,3,0
 sirene/28/banques-assurances.json,21048,164
 sirene/28/bateaux-nautisme.json,143,1
 sirene/28/bijouterie-horlogerie.json,421,4
@@ -3733,7 +3733,7 @@ sirene/28/grossistes-en-viandes.json,350,3
 sirene/28/guides-offices-de-tourisme.json,1482,11
 sirene/28/handicap-foyers-esat-ime.json,8480,58
 sirene/28/hopitaux-cliniques-laboratoires.json,12285,90
-sirene/28/hopitaux-services-techniques.json,1381,10
+sirene/28/hopitaux-services-techniques.json,3,0
 sirene/28/horticulture-maraichage-agriculture.json,37283,334
 sirene/28/hotels.json,8742,73
 sirene/28/imprimerie-prepresse-reliure.json,3327,26
@@ -3814,7 +3814,7 @@ sirene/29/armurerie-fabrication-d-armes.json,228,2
 sirene/29/associations-animation-solidarite.json,51689,409
 sirene/29/audiovisuel-cinema-son.json,5490,50
 sirene/29/autres-elevages-dont-animaux-de-compagnie-apiculture.json,820,7
-sirene/29/bailleurs-sociaux.json,2506,18
+sirene/29/bailleurs-sociaux.json,3,0
 sirene/29/banques-assurances.json,43441,331
 sirene/29/bateaux-nautisme.json,8808,74
 sirene/29/bijouterie-horlogerie.json,1219,12
@@ -3873,7 +3873,7 @@ sirene/29/grossistes-en-viandes.json,1091,10
 sirene/29/guides-offices-de-tourisme.json,6295,46
 sirene/29/handicap-foyers-esat-ime.json,22031,159
 sirene/29/hopitaux-cliniques-laboratoires.json,33646,233
-sirene/29/hopitaux-services-techniques.json,3653,26
+sirene/29/hopitaux-services-techniques.json,3,0
 sirene/29/horticulture-maraichage-agriculture.json,60672,609
 sirene/29/hotels.json,37707,321
 sirene/29/imprimerie-prepresse-reliure.json,4875,41
@@ -3956,7 +3956,7 @@ sirene/2A/armurerie-fabrication-d-armes.json,3,0
 sirene/2A/associations-animation-solidarite.json,10820,79
 sirene/2A/audiovisuel-cinema-son.json,2874,24
 sirene/2A/autres-elevages-dont-animaux-de-compagnie-apiculture.json,154,1
-sirene/2A/bailleurs-sociaux.json,456,2
+sirene/2A/bailleurs-sociaux.json,3,0
 sirene/2A/banques-assurances.json,10031,65
 sirene/2A/bateaux-nautisme.json,5826,49
 sirene/2A/bijouterie-horlogerie.json,1249,11
@@ -4013,7 +4013,7 @@ sirene/2A/grossistes-en-viandes.json,554,5
 sirene/2A/guides-offices-de-tourisme.json,3858,29
 sirene/2A/handicap-foyers-esat-ime.json,3021,22
 sirene/2A/hopitaux-cliniques-laboratoires.json,9084,61
-sirene/2A/hopitaux-services-techniques.json,927,7
+sirene/2A/hopitaux-services-techniques.json,3,0
 sirene/2A/horticulture-maraichage-agriculture.json,1318,11
 sirene/2A/hotels.json,46077,408
 sirene/2A/imprimerie-prepresse-reliure.json,1039,9
@@ -4093,7 +4093,7 @@ sirene/2B/armurerie-fabrication-d-armes.json,107,1
 sirene/2B/associations-animation-solidarite.json,13840,101
 sirene/2B/audiovisuel-cinema-son.json,2140,19
 sirene/2B/autres-elevages-dont-animaux-de-compagnie-apiculture.json,3,0
-sirene/2B/bailleurs-sociaux.json,210,1
+sirene/2B/bailleurs-sociaux.json,3,0
 sirene/2B/banques-assurances.json,11372,78
 sirene/2B/bateaux-nautisme.json,1168,10
 sirene/2B/bijouterie-horlogerie.json,434,4
@@ -4151,7 +4151,7 @@ sirene/2B/grossistes-en-viandes.json,709,6
 sirene/2B/guides-offices-de-tourisme.json,2251,15
 sirene/2B/handicap-foyers-esat-ime.json,2565,15
 sirene/2B/hopitaux-cliniques-laboratoires.json,8431,62
-sirene/2B/hopitaux-services-techniques.json,1169,10
+sirene/2B/hopitaux-services-techniques.json,3,0
 sirene/2B/horticulture-maraichage-agriculture.json,2500,23
 sirene/2B/hotels.json,30658,273
 sirene/2B/imprimerie-prepresse-reliure.json,1145,10
@@ -4231,7 +4231,7 @@ sirene/30/armurerie-fabrication-d-armes.json,3,0
 sirene/30/associations-animation-solidarite.json,46704,365
 sirene/30/audiovisuel-cinema-son.json,5095,45
 sirene/30/autres-elevages-dont-animaux-de-compagnie-apiculture.json,624,5
-sirene/30/bailleurs-sociaux.json,867,7
+sirene/30/bailleurs-sociaux.json,3,0
 sirene/30/banques-assurances.json,27274,218
 sirene/30/bateaux-nautisme.json,1456,11
 sirene/30/bijouterie-horlogerie.json,1569,14
@@ -4291,7 +4291,7 @@ sirene/30/grossistes-en-viandes.json,1067,9
 sirene/30/guides-offices-de-tourisme.json,2996,22
 sirene/30/handicap-foyers-esat-ime.json,14450,92
 sirene/30/hopitaux-cliniques-laboratoires.json,17234,128
-sirene/30/hopitaux-services-techniques.json,2355,18
+sirene/30/hopitaux-services-techniques.json,3,0
 sirene/30/horticulture-maraichage-agriculture.json,13708,123
 sirene/30/hotels.json,30799,257
 sirene/30/imprimerie-prepresse-reliure.json,5311,46
@@ -4369,12 +4369,12 @@ sirene/31/agences-immobilieres-gestion-de-logements.json,119300,988
 sirene/31/aide-a-domicile.json,34331,280
 sirene/31/ambulances.json,10545,85
 sirene/31/aquaculture-pisciculture-conchyliculture.json,110,1
-sirene/31/architectes.json,30805,270
+sirene/31/architectes.json,30706,269
 sirene/31/armurerie-fabrication-d-armes.json,96,1
 sirene/31/associations-animation-solidarite.json,111675,850
 sirene/31/audiovisuel-cinema-son.json,14395,128
 sirene/31/autres-elevages-dont-animaux-de-compagnie-apiculture.json,880,7
-sirene/31/bailleurs-sociaux.json,1022,8
+sirene/31/bailleurs-sociaux.json,3,0
 sirene/31/banques-assurances.json,72959,568
 sirene/31/bateaux-nautisme.json,224,2
 sirene/31/bijouterie-horlogerie.json,3882,34
@@ -4405,7 +4405,7 @@ sirene/31/cultures-specialisees-vergers-cultures-tropicales.json,700,6
 sirene/31/dechets-recyclage-assainissement.json,28953,228
 sirene/31/demenagement.json,4171,36
 sirene/31/demolition.json,715,6
-sirene/31/design-d-interieur-et-d-objet.json,7738,71
+sirene/31/design-d-interieur-et-d-objet.json,7623,70
 sirene/31/eau-potable-captage-traitement-distribution.json,6458,47
 sirene/31/ebenisterie-meubles-restauration-de-meubles.json,4152,35
 sirene/31/ecoles-de-sport-equitation.json,10597,90
@@ -4434,7 +4434,7 @@ sirene/31/grossistes-en-viandes.json,3032,27
 sirene/31/guides-offices-de-tourisme.json,4785,32
 sirene/31/handicap-foyers-esat-ime.json,24686,163
 sirene/31/hopitaux-cliniques-laboratoires.json,45419,348
-sirene/31/hopitaux-services-techniques.json,5654,45
+sirene/31/hopitaux-services-techniques.json,3,0
 sirene/31/horticulture-maraichage-agriculture.json,27682,254
 sirene/31/hotels.json,37357,318
 sirene/31/imprimerie-prepresse-reliure.json,10779,93
@@ -4518,7 +4518,7 @@ sirene/32/armurerie-fabrication-d-armes.json,3,0
 sirene/32/associations-animation-solidarite.json,26942,175
 sirene/32/audiovisuel-cinema-son.json,905,8
 sirene/32/autres-elevages-dont-animaux-de-compagnie-apiculture.json,221,2
-sirene/32/bailleurs-sociaux.json,236,2
+sirene/32/bailleurs-sociaux.json,3,0
 sirene/32/banques-assurances.json,13816,110
 sirene/32/bateaux-nautisme.json,3,0
 sirene/32/bijouterie-horlogerie.json,279,3
@@ -4576,7 +4576,7 @@ sirene/32/grossistes-en-viandes.json,545,5
 sirene/32/guides-offices-de-tourisme.json,2336,17
 sirene/32/handicap-foyers-esat-ime.json,5434,35
 sirene/32/hopitaux-cliniques-laboratoires.json,8725,68
-sirene/32/hopitaux-services-techniques.json,1376,12
+sirene/32/hopitaux-services-techniques.json,3,0
 sirene/32/horticulture-maraichage-agriculture.json,26290,258
 sirene/32/hotels.json,7220,63
 sirene/32/imprimerie-prepresse-reliure.json,687,6
@@ -4657,7 +4657,7 @@ sirene/33/armurerie-fabrication-d-armes.json,434,4
 sirene/33/associations-animation-solidarite.json,92751,708
 sirene/33/audiovisuel-cinema-son.json,16276,149
 sirene/33/autres-elevages-dont-animaux-de-compagnie-apiculture.json,1224,10
-sirene/33/bailleurs-sociaux.json,2377,19
+sirene/33/bailleurs-sociaux.json,3,0
 sirene/33/banques-assurances.json,71018,570
 sirene/33/bateaux-nautisme.json,7533,62
 sirene/33/bijouterie-horlogerie.json,6004,50
@@ -4688,7 +4688,7 @@ sirene/33/cultures-specialisees-vergers-cultures-tropicales.json,2633,23
 sirene/33/dechets-recyclage-assainissement.json,46253,339
 sirene/33/demenagement.json,4559,35
 sirene/33/demolition.json,1256,11
-sirene/33/design-d-interieur-et-d-objet.json,10660,97
+sirene/33/design-d-interieur-et-d-objet.json,10547,96
 sirene/33/eau-potable-captage-traitement-distribution.json,12514,85
 sirene/33/ebenisterie-meubles-restauration-de-meubles.json,5591,49
 sirene/33/ecoles-de-sport-equitation.json,16457,136
@@ -4717,7 +4717,7 @@ sirene/33/grossistes-en-viandes.json,1909,15
 sirene/33/guides-offices-de-tourisme.json,5928,43
 sirene/33/handicap-foyers-esat-ime.json,23546,179
 sirene/33/hopitaux-cliniques-laboratoires.json,44693,330
-sirene/33/hopitaux-services-techniques.json,7031,51
+sirene/33/hopitaux-services-techniques.json,3,0
 sirene/33/horticulture-maraichage-agriculture.json,16880,151
 sirene/33/hotels.json,68488,574
 sirene/33/imprimerie-prepresse-reliure.json,11559,98
@@ -4800,7 +4800,7 @@ sirene/34/armurerie-fabrication-d-armes.json,3,0
 sirene/34/associations-animation-solidarite.json,87785,657
 sirene/34/audiovisuel-cinema-son.json,15612,135
 sirene/34/autres-elevages-dont-animaux-de-compagnie-apiculture.json,203,2
-sirene/34/bailleurs-sociaux.json,2199,13
+sirene/34/bailleurs-sociaux.json,3,0
 sirene/34/banques-assurances.json,45967,351
 sirene/34/bateaux-nautisme.json,4485,38
 sirene/34/bijouterie-horlogerie.json,2372,21
@@ -4859,7 +4859,7 @@ sirene/34/grossistes-en-viandes.json,2081,17
 sirene/34/guides-offices-de-tourisme.json,5543,38
 sirene/34/handicap-foyers-esat-ime.json,20276,119
 sirene/34/hopitaux-cliniques-laboratoires.json,35882,256
-sirene/34/hopitaux-services-techniques.json,4077,32
+sirene/34/hopitaux-services-techniques.json,3,0
 sirene/34/horticulture-maraichage-agriculture.json,9670,85
 sirene/34/hotels.json,50254,413
 sirene/34/imprimerie-prepresse-reliure.json,7772,63
@@ -4942,7 +4942,7 @@ sirene/35/armurerie-fabrication-d-armes.json,3,0
 sirene/35/associations-animation-solidarite.json,81098,637
 sirene/35/audiovisuel-cinema-son.json,11858,104
 sirene/35/autres-elevages-dont-animaux-de-compagnie-apiculture.json,1333,13
-sirene/35/bailleurs-sociaux.json,2509,19
+sirene/35/bailleurs-sociaux.json,3,0
 sirene/35/banques-assurances.json,48429,353
 sirene/35/bateaux-nautisme.json,2904,24
 sirene/35/bijouterie-horlogerie.json,1739,15
@@ -4972,7 +4972,7 @@ sirene/35/cultures-specialisees-vergers-cultures-tropicales.json,1794,17
 sirene/35/dechets-recyclage-assainissement.json,39106,299
 sirene/35/demenagement.json,3764,29
 sirene/35/demolition.json,247,2
-sirene/35/design-d-interieur-et-d-objet.json,6363,57
+sirene/35/design-d-interieur-et-d-objet.json,6251,56
 sirene/35/eau-potable-captage-traitement-distribution.json,5901,42
 sirene/35/ebenisterie-meubles-restauration-de-meubles.json,7275,62
 sirene/35/ecoles-de-sport-equitation.json,10426,88
@@ -5001,7 +5001,7 @@ sirene/35/grossistes-en-viandes.json,1510,12
 sirene/35/guides-offices-de-tourisme.json,3936,29
 sirene/35/handicap-foyers-esat-ime.json,24360,179
 sirene/35/hopitaux-cliniques-laboratoires.json,29494,215
-sirene/35/hopitaux-services-techniques.json,3303,24
+sirene/35/hopitaux-services-techniques.json,3,0
 sirene/35/horticulture-maraichage-agriculture.json,74910,718
 sirene/35/hotels.json,46270,398
 sirene/35/imprimerie-prepresse-reliure.json,7371,62
@@ -5085,7 +5085,7 @@ sirene/36/armurerie-fabrication-d-armes.json,97,1
 sirene/36/associations-animation-solidarite.json,15067,112
 sirene/36/audiovisuel-cinema-son.json,819,7
 sirene/36/autres-elevages-dont-animaux-de-compagnie-apiculture.json,818,8
-sirene/36/bailleurs-sociaux.json,707,4
+sirene/36/bailleurs-sociaux.json,3,0
 sirene/36/banques-assurances.json,11500,86
 sirene/36/bateaux-nautisme.json,109,1
 sirene/36/bijouterie-horlogerie.json,3,0
@@ -5144,7 +5144,7 @@ sirene/36/grossistes-en-viandes.json,355,3
 sirene/36/guides-offices-de-tourisme.json,2042,15
 sirene/36/handicap-foyers-esat-ime.json,7903,51
 sirene/36/hopitaux-cliniques-laboratoires.json,13688,91
-sirene/36/hopitaux-services-techniques.json,1170,9
+sirene/36/hopitaux-services-techniques.json,3,0
 sirene/36/horticulture-maraichage-agriculture.json,41329,379
 sirene/36/hotels.json,8794,75
 sirene/36/imprimerie-prepresse-reliure.json,2482,20
@@ -5226,7 +5226,7 @@ sirene/37/armurerie-fabrication-d-armes.json,3,0
 sirene/37/associations-animation-solidarite.json,32299,254
 sirene/37/audiovisuel-cinema-son.json,5291,47
 sirene/37/autres-elevages-dont-animaux-de-compagnie-apiculture.json,1124,9
-sirene/37/bailleurs-sociaux.json,1486,10
+sirene/37/bailleurs-sociaux.json,3,0
 sirene/37/banques-assurances.json,32682,251
 sirene/37/bateaux-nautisme.json,3,0
 sirene/37/bijouterie-horlogerie.json,1008,9
@@ -5286,7 +5286,7 @@ sirene/37/grossistes-en-viandes.json,648,5
 sirene/37/guides-offices-de-tourisme.json,3210,22
 sirene/37/handicap-foyers-esat-ime.json,12863,90
 sirene/37/hopitaux-cliniques-laboratoires.json,21159,135
-sirene/37/hopitaux-services-techniques.json,2243,15
+sirene/37/hopitaux-services-techniques.json,3,0
 sirene/37/horticulture-maraichage-agriculture.json,34147,323
 sirene/37/hotels.json,29750,252
 sirene/37/imprimerie-prepresse-reliure.json,5024,40
@@ -5367,7 +5367,7 @@ sirene/38/armurerie-fabrication-d-armes.json,119,1
 sirene/38/associations-animation-solidarite.json,73789,567
 sirene/38/audiovisuel-cinema-son.json,5941,53
 sirene/38/autres-elevages-dont-animaux-de-compagnie-apiculture.json,999,8
-sirene/38/bailleurs-sociaux.json,3988,28
+sirene/38/bailleurs-sociaux.json,3,0
 sirene/38/banques-assurances.json,47232,358
 sirene/38/bateaux-nautisme.json,633,6
 sirene/38/bijouterie-horlogerie.json,1402,12
@@ -5427,7 +5427,7 @@ sirene/38/grossistes-en-viandes.json,1788,14
 sirene/38/guides-offices-de-tourisme.json,5854,42
 sirene/38/handicap-foyers-esat-ime.json,26871,169
 sirene/38/hopitaux-cliniques-laboratoires.json,29754,217
-sirene/38/hopitaux-services-techniques.json,3211,24
+sirene/38/hopitaux-services-techniques.json,3,0
 sirene/38/horticulture-maraichage-agriculture.json,22052,195
 sirene/38/hotels.json,53342,425
 sirene/38/imprimerie-prepresse-reliure.json,12676,106
@@ -5512,7 +5512,7 @@ sirene/39/armurerie-fabrication-d-armes.json,3,0
 sirene/39/associations-animation-solidarite.json,32803,243
 sirene/39/audiovisuel-cinema-son.json,467,4
 sirene/39/autres-elevages-dont-animaux-de-compagnie-apiculture.json,515,4
-sirene/39/bailleurs-sociaux.json,266,2
+sirene/39/bailleurs-sociaux.json,3,0
 sirene/39/banques-assurances.json,17722,137
 sirene/39/bateaux-nautisme.json,3,0
 sirene/39/bijouterie-horlogerie.json,1402,12
@@ -5571,7 +5571,7 @@ sirene/39/grossistes-en-viandes.json,610,5
 sirene/39/guides-offices-de-tourisme.json,1732,13
 sirene/39/handicap-foyers-esat-ime.json,7193,52
 sirene/39/hopitaux-cliniques-laboratoires.json,8923,61
-sirene/39/hopitaux-services-techniques.json,1447,11
+sirene/39/hopitaux-services-techniques.json,3,0
 sirene/39/horticulture-maraichage-agriculture.json,14484,118
 sirene/39/hotels.json,15779,129
 sirene/39/imprimerie-prepresse-reliure.json,1919,14
@@ -5653,7 +5653,7 @@ sirene/40/armurerie-fabrication-d-armes.json,211,2
 sirene/40/associations-animation-solidarite.json,28160,195
 sirene/40/audiovisuel-cinema-son.json,2400,21
 sirene/40/autres-elevages-dont-animaux-de-compagnie-apiculture.json,508,4
-sirene/40/bailleurs-sociaux.json,900,5
+sirene/40/bailleurs-sociaux.json,3,0
 sirene/40/banques-assurances.json,25581,193
 sirene/40/bateaux-nautisme.json,856,8
 sirene/40/bijouterie-horlogerie.json,1015,9
@@ -5713,7 +5713,7 @@ sirene/40/grossistes-en-viandes.json,506,4
 sirene/40/guides-offices-de-tourisme.json,4062,30
 sirene/40/handicap-foyers-esat-ime.json,8433,60
 sirene/40/hopitaux-cliniques-laboratoires.json,13165,89
-sirene/40/hopitaux-services-techniques.json,1901,13
+sirene/40/hopitaux-services-techniques.json,3,0
 sirene/40/horticulture-maraichage-agriculture.json,36320,328
 sirene/40/hotels.json,28858,238
 sirene/40/imprimerie-prepresse-reliure.json,2244,20
@@ -5794,7 +5794,7 @@ sirene/41/armurerie-fabrication-d-armes.json,357,3
 sirene/41/associations-animation-solidarite.json,33952,240
 sirene/41/audiovisuel-cinema-son.json,1736,15
 sirene/41/autres-elevages-dont-animaux-de-compagnie-apiculture.json,319,3
-sirene/41/bailleurs-sociaux.json,947,7
+sirene/41/bailleurs-sociaux.json,3,0
 sirene/41/banques-assurances.json,21263,156
 sirene/41/bateaux-nautisme.json,97,1
 sirene/41/bijouterie-horlogerie.json,327,3
@@ -5853,7 +5853,7 @@ sirene/41/grossistes-en-viandes.json,190,2
 sirene/41/guides-offices-de-tourisme.json,1156,8
 sirene/41/handicap-foyers-esat-ime.json,9557,63
 sirene/41/hopitaux-cliniques-laboratoires.json,12637,87
-sirene/41/hopitaux-services-techniques.json,1556,12
+sirene/41/hopitaux-services-techniques.json,3,0
 sirene/41/horticulture-maraichage-agriculture.json,28418,266
 sirene/41/hotels.json,18442,157
 sirene/41/imprimerie-prepresse-reliure.json,2432,21
@@ -5934,7 +5934,7 @@ sirene/42/armurerie-fabrication-d-armes.json,939,8
 sirene/42/associations-animation-solidarite.json,56229,437
 sirene/42/audiovisuel-cinema-son.json,3155,28
 sirene/42/autres-elevages-dont-animaux-de-compagnie-apiculture.json,977,8
-sirene/42/bailleurs-sociaux.json,3935,24
+sirene/42/bailleurs-sociaux.json,3,0
 sirene/42/banques-assurances.json,30468,239
 sirene/42/bateaux-nautisme.json,116,1
 sirene/42/bijouterie-horlogerie.json,1393,12
@@ -5994,7 +5994,7 @@ sirene/42/grossistes-en-viandes.json,1114,10
 sirene/42/guides-offices-de-tourisme.json,2091,16
 sirene/42/handicap-foyers-esat-ime.json,18848,110
 sirene/42/hopitaux-cliniques-laboratoires.json,25332,177
-sirene/42/hopitaux-services-techniques.json,3531,27
+sirene/42/hopitaux-services-techniques.json,3,0
 sirene/42/horticulture-maraichage-agriculture.json,7708,64
 sirene/42/hotels.json,13958,115
 sirene/42/imprimerie-prepresse-reliure.json,7614,61
@@ -6078,7 +6078,7 @@ sirene/43/armurerie-fabrication-d-armes.json,3,0
 sirene/43/associations-animation-solidarite.json,13641,104
 sirene/43/audiovisuel-cinema-son.json,473,4
 sirene/43/autres-elevages-dont-animaux-de-compagnie-apiculture.json,636,5
-sirene/43/bailleurs-sociaux.json,1970,13
+sirene/43/bailleurs-sociaux.json,3,0
 sirene/43/banques-assurances.json,14144,98
 sirene/43/bateaux-nautisme.json,3,0
 sirene/43/bijouterie-horlogerie.json,421,4
@@ -6138,7 +6138,7 @@ sirene/43/grossistes-en-viandes.json,645,5
 sirene/43/guides-offices-de-tourisme.json,2709,17
 sirene/43/handicap-foyers-esat-ime.json,8959,59
 sirene/43/hopitaux-cliniques-laboratoires.json,5337,38
-sirene/43/hopitaux-services-techniques.json,983,7
+sirene/43/hopitaux-services-techniques.json,3,0
 sirene/43/horticulture-maraichage-agriculture.json,3557,32
 sirene/43/hotels.json,12239,103
 sirene/43/imprimerie-prepresse-reliure.json,1405,12
@@ -6221,7 +6221,7 @@ sirene/44/armurerie-fabrication-d-armes.json,3,0
 sirene/44/associations-animation-solidarite.json,105199,809
 sirene/44/audiovisuel-cinema-son.json,13048,119
 sirene/44/autres-elevages-dont-animaux-de-compagnie-apiculture.json,1621,14
-sirene/44/bailleurs-sociaux.json,1660,13
+sirene/44/bailleurs-sociaux.json,3,0
 sirene/44/banques-assurances.json,73744,545
 sirene/44/bateaux-nautisme.json,6022,49
 sirene/44/bijouterie-horlogerie.json,2044,19
@@ -6281,7 +6281,7 @@ sirene/44/grossistes-en-viandes.json,776,7
 sirene/44/guides-offices-de-tourisme.json,3979,31
 sirene/44/handicap-foyers-esat-ime.json,34553,250
 sirene/44/hopitaux-cliniques-laboratoires.json,42692,302
-sirene/44/hopitaux-services-techniques.json,3712,27
+sirene/44/hopitaux-services-techniques.json,3,0
 sirene/44/horticulture-maraichage-agriculture.json,26655,244
 sirene/44/hotels.json,46372,377
 sirene/44/imprimerie-prepresse-reliure.json,11461,93
@@ -6365,7 +6365,7 @@ sirene/45/armurerie-fabrication-d-armes.json,226,2
 sirene/45/associations-animation-solidarite.json,55285,401
 sirene/45/audiovisuel-cinema-son.json,3174,30
 sirene/45/autres-elevages-dont-animaux-de-compagnie-apiculture.json,1336,11
-sirene/45/bailleurs-sociaux.json,1634,12
+sirene/45/bailleurs-sociaux.json,3,0
 sirene/45/banques-assurances.json,31806,238
 sirene/45/bateaux-nautisme.json,99,1
 sirene/45/bijouterie-horlogerie.json,113,1
@@ -6425,7 +6425,7 @@ sirene/45/grossistes-en-viandes.json,121,1
 sirene/45/guides-offices-de-tourisme.json,2144,16
 sirene/45/handicap-foyers-esat-ime.json,13774,92
 sirene/45/hopitaux-cliniques-laboratoires.json,22217,151
-sirene/45/hopitaux-services-techniques.json,1675,13
+sirene/45/hopitaux-services-techniques.json,3,0
 sirene/45/horticulture-maraichage-agriculture.json,36266,327
 sirene/45/hotels.json,22166,186
 sirene/45/imprimerie-prepresse-reliure.json,4291,36
@@ -6505,7 +6505,7 @@ sirene/46/armurerie-fabrication-d-armes.json,115,1
 sirene/46/associations-animation-solidarite.json,21366,172
 sirene/46/audiovisuel-cinema-son.json,1152,10
 sirene/46/autres-elevages-dont-animaux-de-compagnie-apiculture.json,3,0
-sirene/46/bailleurs-sociaux.json,873,6
+sirene/46/bailleurs-sociaux.json,3,0
 sirene/46/banques-assurances.json,6593,54
 sirene/46/bateaux-nautisme.json,112,1
 sirene/46/bijouterie-horlogerie.json,3,0
@@ -6563,7 +6563,7 @@ sirene/46/grossistes-en-viandes.json,121,1
 sirene/46/guides-offices-de-tourisme.json,1497,9
 sirene/46/handicap-foyers-esat-ime.json,5288,39
 sirene/46/hopitaux-cliniques-laboratoires.json,9081,71
-sirene/46/hopitaux-services-techniques.json,1005,8
+sirene/46/hopitaux-services-techniques.json,3,0
 sirene/46/horticulture-maraichage-agriculture.json,3265,30
 sirene/46/hotels.json,12616,110
 sirene/46/imprimerie-prepresse-reliure.json,1118,10
@@ -6642,7 +6642,7 @@ sirene/47/armurerie-fabrication-d-armes.json,3,0
 sirene/47/associations-animation-solidarite.json,32366,238
 sirene/47/audiovisuel-cinema-son.json,1541,13
 sirene/47/autres-elevages-dont-animaux-de-compagnie-apiculture.json,225,2
-sirene/47/bailleurs-sociaux.json,776,5
+sirene/47/bailleurs-sociaux.json,3,0
 sirene/47/banques-assurances.json,19895,148
 sirene/47/bateaux-nautisme.json,357,3
 sirene/47/bijouterie-horlogerie.json,105,1
@@ -6702,7 +6702,7 @@ sirene/47/grossistes-en-viandes.json,788,6
 sirene/47/guides-offices-de-tourisme.json,2134,16
 sirene/47/handicap-foyers-esat-ime.json,12556,75
 sirene/47/hopitaux-cliniques-laboratoires.json,10320,71
-sirene/47/hopitaux-services-techniques.json,1815,13
+sirene/47/hopitaux-services-techniques.json,3,0
 sirene/47/horticulture-maraichage-agriculture.json,42512,376
 sirene/47/hotels.json,12203,103
 sirene/47/imprimerie-prepresse-reliure.json,2180,19
@@ -6784,7 +6784,7 @@ sirene/48/armurerie-fabrication-d-armes.json,3,0
 sirene/48/associations-animation-solidarite.json,10605,80
 sirene/48/audiovisuel-cinema-son.json,218,2
 sirene/48/autres-elevages-dont-animaux-de-compagnie-apiculture.json,99,1
-sirene/48/bailleurs-sociaux.json,138,1
+sirene/48/bailleurs-sociaux.json,3,0
 sirene/48/banques-assurances.json,4290,34
 sirene/48/bateaux-nautisme.json,3,0
 sirene/48/bijouterie-horlogerie.json,436,4
@@ -6840,7 +6840,7 @@ sirene/48/grossistes-en-viandes.json,141,1
 sirene/48/guides-offices-de-tourisme.json,2581,16
 sirene/48/handicap-foyers-esat-ime.json,6173,43
 sirene/48/hopitaux-cliniques-laboratoires.json,6404,44
-sirene/48/hopitaux-services-techniques.json,878,7
+sirene/48/hopitaux-services-techniques.json,3,0
 sirene/48/horticulture-maraichage-agriculture.json,929,7
 sirene/48/hotels.json,11782,97
 sirene/48/imprimerie-prepresse-reliure.json,779,6
@@ -6917,12 +6917,12 @@ sirene/49/agences-immobilieres-gestion-de-logements.json,40185,324
 sirene/49/aide-a-domicile.json,25098,202
 sirene/49/ambulances.json,7668,51
 sirene/49/aquaculture-pisciculture-conchyliculture.json,163,1
-sirene/49/architectes.json,10982,91
+sirene/49/architectes.json,10853,90
 sirene/49/armurerie-fabrication-d-armes.json,3,0
 sirene/49/associations-animation-solidarite.json,50453,385
 sirene/49/audiovisuel-cinema-son.json,5327,48
 sirene/49/autres-elevages-dont-animaux-de-compagnie-apiculture.json,1206,10
-sirene/49/bailleurs-sociaux.json,993,7
+sirene/49/bailleurs-sociaux.json,3,0
 sirene/49/banques-assurances.json,46700,328
 sirene/49/bateaux-nautisme.json,469,4
 sirene/49/bijouterie-horlogerie.json,2204,20
@@ -6953,7 +6953,7 @@ sirene/49/cultures-specialisees-vergers-cultures-tropicales.json,11157,94
 sirene/49/dechets-recyclage-assainissement.json,21175,157
 sirene/49/demenagement.json,2562,18
 sirene/49/demolition.json,432,3
-sirene/49/design-d-interieur-et-d-objet.json,3701,31
+sirene/49/design-d-interieur-et-d-objet.json,3473,29
 sirene/49/eau-potable-captage-traitement-distribution.json,3165,23
 sirene/49/ebenisterie-meubles-restauration-de-meubles.json,7439,56
 sirene/49/ecoles-de-sport-equitation.json,8532,69
@@ -6982,7 +6982,7 @@ sirene/49/grossistes-en-viandes.json,359,3
 sirene/49/guides-offices-de-tourisme.json,2017,16
 sirene/49/handicap-foyers-esat-ime.json,19809,144
 sirene/49/hopitaux-cliniques-laboratoires.json,21525,159
-sirene/49/hopitaux-services-techniques.json,3394,26
+sirene/49/hopitaux-services-techniques.json,3,0
 sirene/49/horticulture-maraichage-agriculture.json,44983,380
 sirene/49/hotels.json,20887,174
 sirene/49/imprimerie-prepresse-reliure.json,5871,43
@@ -7064,7 +7064,7 @@ sirene/50/armurerie-fabrication-d-armes.json,3,0
 sirene/50/associations-animation-solidarite.json,39467,272
 sirene/50/audiovisuel-cinema-son.json,735,6
 sirene/50/autres-elevages-dont-animaux-de-compagnie-apiculture.json,520,5
-sirene/50/bailleurs-sociaux.json,1105,8
+sirene/50/bailleurs-sociaux.json,3,0
 sirene/50/banques-assurances.json,32352,216
 sirene/50/bateaux-nautisme.json,3250,25
 sirene/50/bijouterie-horlogerie.json,602,5
@@ -7123,7 +7123,7 @@ sirene/50/grossistes-en-viandes.json,243,2
 sirene/50/guides-offices-de-tourisme.json,1622,12
 sirene/50/handicap-foyers-esat-ime.json,11808,77
 sirene/50/hopitaux-cliniques-laboratoires.json,14220,102
-sirene/50/hopitaux-services-techniques.json,1935,15
+sirene/50/hopitaux-services-techniques.json,3,0
 sirene/50/horticulture-maraichage-agriculture.json,28127,246
 sirene/50/hotels.json,25237,193
 sirene/50/imprimerie-prepresse-reliure.json,3788,30
@@ -7204,7 +7204,7 @@ sirene/51/armurerie-fabrication-d-armes.json,3,0
 sirene/51/associations-animation-solidarite.json,31263,238
 sirene/51/audiovisuel-cinema-son.json,2071,18
 sirene/51/autres-elevages-dont-animaux-de-compagnie-apiculture.json,442,4
-sirene/51/bailleurs-sociaux.json,1770,16
+sirene/51/bailleurs-sociaux.json,3,0
 sirene/51/banques-assurances.json,25754,201
 sirene/51/bateaux-nautisme.json,153,1
 sirene/51/bijouterie-horlogerie.json,583,5
@@ -7235,7 +7235,7 @@ sirene/51/cultures-specialisees-vergers-cultures-tropicales.json,256,2
 sirene/51/dechets-recyclage-assainissement.json,20337,150
 sirene/51/demenagement.json,1225,10
 sirene/51/demolition.json,336,3
-sirene/51/design-d-interieur-et-d-objet.json,1679,17
+sirene/51/design-d-interieur-et-d-objet.json,1588,16
 sirene/51/eau-potable-captage-traitement-distribution.json,14929,107
 sirene/51/ebenisterie-meubles-restauration-de-meubles.json,644,6
 sirene/51/ecoles-de-sport-equitation.json,2994,27
@@ -7264,7 +7264,7 @@ sirene/51/grossistes-en-viandes.json,222,2
 sirene/51/guides-offices-de-tourisme.json,1984,16
 sirene/51/handicap-foyers-esat-ime.json,14890,97
 sirene/51/hopitaux-cliniques-laboratoires.json,24171,158
-sirene/51/hopitaux-services-techniques.json,2836,20
+sirene/51/hopitaux-services-techniques.json,3,0
 sirene/51/horticulture-maraichage-agriculture.json,79174,732
 sirene/51/hotels.json,19734,169
 sirene/51/imprimerie-prepresse-reliure.json,3979,33
@@ -7347,7 +7347,7 @@ sirene/52/armurerie-fabrication-d-armes.json,3,0
 sirene/52/associations-animation-solidarite.json,11154,85
 sirene/52/audiovisuel-cinema-son.json,376,3
 sirene/52/autres-elevages-dont-animaux-de-compagnie-apiculture.json,220,2
-sirene/52/bailleurs-sociaux.json,1577,12
+sirene/52/bailleurs-sociaux.json,3,0
 sirene/52/banques-assurances.json,12442,95
 sirene/52/bateaux-nautisme.json,3,0
 sirene/52/bijouterie-horlogerie.json,3,0
@@ -7405,7 +7405,7 @@ sirene/52/grossistes-en-viandes.json,230,2
 sirene/52/guides-offices-de-tourisme.json,1990,12
 sirene/52/handicap-foyers-esat-ime.json,4965,35
 sirene/52/hopitaux-cliniques-laboratoires.json,7952,56
-sirene/52/hopitaux-services-techniques.json,1036,8
+sirene/52/hopitaux-services-techniques.json,3,0
 sirene/52/horticulture-maraichage-agriculture.json,29072,255
 sirene/52/hotels.json,5502,47
 sirene/52/imprimerie-prepresse-reliure.json,1112,9
@@ -7486,7 +7486,7 @@ sirene/53/armurerie-fabrication-d-armes.json,3,0
 sirene/53/associations-animation-solidarite.json,17597,131
 sirene/53/audiovisuel-cinema-son.json,335,3
 sirene/53/autres-elevages-dont-animaux-de-compagnie-apiculture.json,594,5
-sirene/53/bailleurs-sociaux.json,1099,6
+sirene/53/bailleurs-sociaux.json,3,0
 sirene/53/banques-assurances.json,22344,160
 sirene/53/bateaux-nautisme.json,160,1
 sirene/53/bijouterie-horlogerie.json,306,3
@@ -7545,7 +7545,7 @@ sirene/53/grossistes-en-viandes.json,160,1
 sirene/53/guides-offices-de-tourisme.json,582,4
 sirene/53/handicap-foyers-esat-ime.json,7972,57
 sirene/53/hopitaux-cliniques-laboratoires.json,9576,68
-sirene/53/hopitaux-services-techniques.json,1546,12
+sirene/53/hopitaux-services-techniques.json,3,0
 sirene/53/horticulture-maraichage-agriculture.json,36225,283
 sirene/53/hotels.json,6084,52
 sirene/53/imprimerie-prepresse-reliure.json,3506,29
@@ -7628,7 +7628,7 @@ sirene/54/armurerie-fabrication-d-armes.json,3,0
 sirene/54/associations-animation-solidarite.json,62220,448
 sirene/54/audiovisuel-cinema-son.json,2629,24
 sirene/54/autres-elevages-dont-animaux-de-compagnie-apiculture.json,233,2
-sirene/54/bailleurs-sociaux.json,3830,26
+sirene/54/bailleurs-sociaux.json,3,0
 sirene/54/banques-assurances.json,27639,221
 sirene/54/bateaux-nautisme.json,123,1
 sirene/54/bijouterie-horlogerie.json,987,8
@@ -7687,7 +7687,7 @@ sirene/54/grossistes-en-viandes.json,335,3
 sirene/54/guides-offices-de-tourisme.json,1372,10
 sirene/54/handicap-foyers-esat-ime.json,18362,120
 sirene/54/hopitaux-cliniques-laboratoires.json,26148,182
-sirene/54/hopitaux-services-techniques.json,3510,26
+sirene/54/hopitaux-services-techniques.json,3,0
 sirene/54/horticulture-maraichage-agriculture.json,36728,321
 sirene/54/hotels.json,13016,114
 sirene/54/imprimerie-prepresse-reliure.json,5209,43
@@ -7771,7 +7771,7 @@ sirene/55/armurerie-fabrication-d-armes.json,3,0
 sirene/55/associations-animation-solidarite.json,8992,67
 sirene/55/audiovisuel-cinema-son.json,249,2
 sirene/55/autres-elevages-dont-animaux-de-compagnie-apiculture.json,418,4
-sirene/55/bailleurs-sociaux.json,713,5
+sirene/55/bailleurs-sociaux.json,3,0
 sirene/55/banques-assurances.json,12490,92
 sirene/55/bateaux-nautisme.json,3,0
 sirene/55/bijouterie-horlogerie.json,3,0
@@ -7829,7 +7829,7 @@ sirene/55/grossistes-en-viandes.json,332,3
 sirene/55/guides-offices-de-tourisme.json,1292,9
 sirene/55/handicap-foyers-esat-ime.json,10820,64
 sirene/55/hopitaux-cliniques-laboratoires.json,5746,40
-sirene/55/hopitaux-services-techniques.json,482,4
+sirene/55/hopitaux-services-techniques.json,3,0
 sirene/55/horticulture-maraichage-agriculture.json,33962,287
 sirene/55/hotels.json,5662,48
 sirene/55/imprimerie-prepresse-reliure.json,695,5
@@ -7911,7 +7911,7 @@ sirene/56/armurerie-fabrication-d-armes.json,3,0
 sirene/56/associations-animation-solidarite.json,63483,446
 sirene/56/audiovisuel-cinema-son.json,3557,31
 sirene/56/autres-elevages-dont-animaux-de-compagnie-apiculture.json,725,7
-sirene/56/bailleurs-sociaux.json,5738,35
+sirene/56/bailleurs-sociaux.json,3,0
 sirene/56/banques-assurances.json,34084,271
 sirene/56/bateaux-nautisme.json,10920,92
 sirene/56/bijouterie-horlogerie.json,1767,16
@@ -7941,7 +7941,7 @@ sirene/56/cultures-specialisees-vergers-cultures-tropicales.json,1082,11
 sirene/56/dechets-recyclage-assainissement.json,22944,176
 sirene/56/demenagement.json,1246,10
 sirene/56/demolition.json,346,3
-sirene/56/design-d-interieur-et-d-objet.json,4301,37
+sirene/56/design-d-interieur-et-d-objet.json,4187,36
 sirene/56/eau-potable-captage-traitement-distribution.json,2204,18
 sirene/56/ebenisterie-meubles-restauration-de-meubles.json,3664,31
 sirene/56/ecoles-de-sport-equitation.json,10592,83
@@ -7970,7 +7970,7 @@ sirene/56/grossistes-en-viandes.json,314,3
 sirene/56/guides-offices-de-tourisme.json,2617,21
 sirene/56/handicap-foyers-esat-ime.json,16336,113
 sirene/56/hopitaux-cliniques-laboratoires.json,23465,167
-sirene/56/hopitaux-services-techniques.json,3774,28
+sirene/56/hopitaux-services-techniques.json,3,0
 sirene/56/horticulture-maraichage-agriculture.json,25269,253
 sirene/56/hotels.json,34183,293
 sirene/56/imprimerie-prepresse-reliure.json,5979,49
@@ -8054,7 +8054,7 @@ sirene/57/armurerie-fabrication-d-armes.json,3,0
 sirene/57/associations-animation-solidarite.json,58573,457
 sirene/57/audiovisuel-cinema-son.json,3859,35
 sirene/57/autres-elevages-dont-animaux-de-compagnie-apiculture.json,1063,9
-sirene/57/bailleurs-sociaux.json,2347,17
+sirene/57/bailleurs-sociaux.json,3,0
 sirene/57/banques-assurances.json,41759,340
 sirene/57/bateaux-nautisme.json,119,1
 sirene/57/bijouterie-horlogerie.json,980,10
@@ -8114,7 +8114,7 @@ sirene/57/grossistes-en-viandes.json,1911,17
 sirene/57/guides-offices-de-tourisme.json,2578,19
 sirene/57/handicap-foyers-esat-ime.json,18220,135
 sirene/57/hopitaux-cliniques-laboratoires.json,34389,250
-sirene/57/hopitaux-services-techniques.json,4700,33
+sirene/57/hopitaux-services-techniques.json,3,0
 sirene/57/horticulture-maraichage-agriculture.json,44802,336
 sirene/57/hotels.json,21328,182
 sirene/57/imprimerie-prepresse-reliure.json,5474,47
@@ -8199,7 +8199,7 @@ sirene/58/armurerie-fabrication-d-armes.json,3,0
 sirene/58/associations-animation-solidarite.json,28557,201
 sirene/58/audiovisuel-cinema-son.json,331,3
 sirene/58/autres-elevages-dont-animaux-de-compagnie-apiculture.json,123,1
-sirene/58/bailleurs-sociaux.json,752,6
+sirene/58/bailleurs-sociaux.json,3,0
 sirene/58/banques-assurances.json,11678,82
 sirene/58/bateaux-nautisme.json,228,2
 sirene/58/bijouterie-horlogerie.json,103,1
@@ -8256,7 +8256,7 @@ sirene/58/grossistes-en-viandes.json,3,0
 sirene/58/guides-offices-de-tourisme.json,1185,8
 sirene/58/handicap-foyers-esat-ime.json,7866,52
 sirene/58/hopitaux-cliniques-laboratoires.json,8657,64
-sirene/58/hopitaux-services-techniques.json,1844,14
+sirene/58/hopitaux-services-techniques.json,3,0
 sirene/58/horticulture-maraichage-agriculture.json,15171,146
 sirene/58/hotels.json,8003,67
 sirene/58/imprimerie-prepresse-reliure.json,1903,15
@@ -8338,7 +8338,7 @@ sirene/59/armurerie-fabrication-d-armes.json,3,0
 sirene/59/associations-animation-solidarite.json,145229,1116
 sirene/59/audiovisuel-cinema-son.json,16570,153
 sirene/59/autres-elevages-dont-animaux-de-compagnie-apiculture.json,1955,17
-sirene/59/bailleurs-sociaux.json,6743,50
+sirene/59/bailleurs-sociaux.json,3,0
 sirene/59/banques-assurances.json,98107,758
 sirene/59/bateaux-nautisme.json,1404,12
 sirene/59/bijouterie-horlogerie.json,1833,16
@@ -8369,7 +8369,7 @@ sirene/59/cultures-specialisees-vergers-cultures-tropicales.json,2248,20
 sirene/59/dechets-recyclage-assainissement.json,51822,416
 sirene/59/demenagement.json,4953,38
 sirene/59/demolition.json,1389,12
-sirene/59/design-d-interieur-et-d-objet.json,9487,87
+sirene/59/design-d-interieur-et-d-objet.json,9155,84
 sirene/59/eau-potable-captage-traitement-distribution.json,6721,48
 sirene/59/ebenisterie-meubles-restauration-de-meubles.json,7401,64
 sirene/59/ecoles-de-sport-equitation.json,10158,84
@@ -8398,7 +8398,7 @@ sirene/59/grossistes-en-viandes.json,1999,17
 sirene/59/guides-offices-de-tourisme.json,5581,42
 sirene/59/handicap-foyers-esat-ime.json,60703,404
 sirene/59/hopitaux-cliniques-laboratoires.json,85278,612
-sirene/59/hopitaux-services-techniques.json,10593,81
+sirene/59/hopitaux-services-techniques.json,3,0
 sirene/59/horticulture-maraichage-agriculture.json,106381,950
 sirene/59/hotels.json,40371,344
 sirene/59/imprimerie-prepresse-reliure.json,13417,118
@@ -8482,7 +8482,7 @@ sirene/60/armurerie-fabrication-d-armes.json,247,2
 sirene/60/associations-animation-solidarite.json,29901,230
 sirene/60/audiovisuel-cinema-son.json,2050,18
 sirene/60/autres-elevages-dont-animaux-de-compagnie-apiculture.json,1416,12
-sirene/60/bailleurs-sociaux.json,705,5
+sirene/60/bailleurs-sociaux.json,3,0
 sirene/60/banques-assurances.json,24430,184
 sirene/60/bateaux-nautisme.json,556,5
 sirene/60/bijouterie-horlogerie.json,997,9
@@ -8542,7 +8542,7 @@ sirene/60/grossistes-en-viandes.json,3,0
 sirene/60/guides-offices-de-tourisme.json,2222,16
 sirene/60/handicap-foyers-esat-ime.json,14700,108
 sirene/60/hopitaux-cliniques-laboratoires.json,26175,185
-sirene/60/hopitaux-services-techniques.json,3124,22
+sirene/60/hopitaux-services-techniques.json,3,0
 sirene/60/horticulture-maraichage-agriculture.json,67861,620
 sirene/60/hotels.json,15891,137
 sirene/60/imprimerie-prepresse-reliure.json,4358,36
@@ -8625,7 +8625,7 @@ sirene/61/armurerie-fabrication-d-armes.json,90,1
 sirene/61/associations-animation-solidarite.json,14371,112
 sirene/61/audiovisuel-cinema-son.json,1590,14
 sirene/61/autres-elevages-dont-animaux-de-compagnie-apiculture.json,614,5
-sirene/61/bailleurs-sociaux.json,562,5
+sirene/61/bailleurs-sociaux.json,3,0
 sirene/61/banques-assurances.json,16753,122
 sirene/61/bateaux-nautisme.json,127,1
 sirene/61/bijouterie-horlogerie.json,211,2
@@ -8684,7 +8684,7 @@ sirene/61/grossistes-en-viandes.json,3,0
 sirene/61/guides-offices-de-tourisme.json,938,6
 sirene/61/handicap-foyers-esat-ime.json,5021,36
 sirene/61/hopitaux-cliniques-laboratoires.json,17612,121
-sirene/61/hopitaux-services-techniques.json,1653,13
+sirene/61/hopitaux-services-techniques.json,3,0
 sirene/61/horticulture-maraichage-agriculture.json,35034,317
 sirene/61/hotels.json,8136,66
 sirene/61/imprimerie-prepresse-reliure.json,2295,18
@@ -8766,7 +8766,7 @@ sirene/62/armurerie-fabrication-d-armes.json,97,1
 sirene/62/associations-animation-solidarite.json,51162,392
 sirene/62/audiovisuel-cinema-son.json,1651,15
 sirene/62/autres-elevages-dont-animaux-de-compagnie-apiculture.json,1861,17
-sirene/62/bailleurs-sociaux.json,2915,19
+sirene/62/bailleurs-sociaux.json,3,0
 sirene/62/banques-assurances.json,43485,334
 sirene/62/bateaux-nautisme.json,256,2
 sirene/62/bijouterie-horlogerie.json,490,4
@@ -8797,7 +8797,7 @@ sirene/62/cultures-specialisees-vergers-cultures-tropicales.json,955,9
 sirene/62/dechets-recyclage-assainissement.json,36301,287
 sirene/62/demenagement.json,2350,18
 sirene/62/demolition.json,1307,12
-sirene/62/design-d-interieur-et-d-objet.json,3419,30
+sirene/62/design-d-interieur-et-d-objet.json,3287,29
 sirene/62/eau-potable-captage-traitement-distribution.json,16140,117
 sirene/62/ebenisterie-meubles-restauration-de-meubles.json,2671,23
 sirene/62/ecoles-de-sport-equitation.json,6461,53
@@ -8826,7 +8826,7 @@ sirene/62/grossistes-en-viandes.json,2154,18
 sirene/62/guides-offices-de-tourisme.json,5087,35
 sirene/62/handicap-foyers-esat-ime.json,39188,249
 sirene/62/hopitaux-cliniques-laboratoires.json,42694,304
-sirene/62/hopitaux-services-techniques.json,4466,33
+sirene/62/hopitaux-services-techniques.json,3,0
 sirene/62/horticulture-maraichage-agriculture.json,119573,1071
 sirene/62/hotels.json,33237,283
 sirene/62/imprimerie-prepresse-reliure.json,6671,56
@@ -8908,7 +8908,7 @@ sirene/63/armurerie-fabrication-d-armes.json,3,0
 sirene/63/associations-animation-solidarite.json,48981,360
 sirene/63/audiovisuel-cinema-son.json,3100,26
 sirene/63/autres-elevages-dont-animaux-de-compagnie-apiculture.json,1051,8
-sirene/63/bailleurs-sociaux.json,1072,9
+sirene/63/bailleurs-sociaux.json,3,0
 sirene/63/banques-assurances.json,38294,279
 sirene/63/bateaux-nautisme.json,3,0
 sirene/63/bijouterie-horlogerie.json,1586,14
@@ -8938,7 +8938,7 @@ sirene/63/cultures-specialisees-vergers-cultures-tropicales.json,316,3
 sirene/63/dechets-recyclage-assainissement.json,26751,186
 sirene/63/demenagement.json,2198,15
 sirene/63/demolition.json,462,4
-sirene/63/design-d-interieur-et-d-objet.json,1884,16
+sirene/63/design-d-interieur-et-d-objet.json,1760,15
 sirene/63/eau-potable-captage-traitement-distribution.json,8047,55
 sirene/63/ebenisterie-meubles-restauration-de-meubles.json,2439,21
 sirene/63/ecoles-de-sport-equitation.json,4306,37
@@ -8967,7 +8967,7 @@ sirene/63/grossistes-en-viandes.json,309,3
 sirene/63/guides-offices-de-tourisme.json,3370,24
 sirene/63/handicap-foyers-esat-ime.json,19153,138
 sirene/63/hopitaux-cliniques-laboratoires.json,15694,116
-sirene/63/hopitaux-services-techniques.json,2503,19
+sirene/63/hopitaux-services-techniques.json,3,0
 sirene/63/horticulture-maraichage-agriculture.json,17057,155
 sirene/63/hotels.json,32396,275
 sirene/63/imprimerie-prepresse-reliure.json,3977,33
@@ -9051,7 +9051,7 @@ sirene/64/armurerie-fabrication-d-armes.json,126,1
 sirene/64/associations-animation-solidarite.json,56481,415
 sirene/64/audiovisuel-cinema-son.json,6289,58
 sirene/64/autres-elevages-dont-animaux-de-compagnie-apiculture.json,626,6
-sirene/64/bailleurs-sociaux.json,1326,11
+sirene/64/bailleurs-sociaux.json,3,0
 sirene/64/banques-assurances.json,40244,311
 sirene/64/bateaux-nautisme.json,254,2
 sirene/64/bijouterie-horlogerie.json,2874,26
@@ -9111,7 +9111,7 @@ sirene/64/grossistes-en-viandes.json,1403,12
 sirene/64/guides-offices-de-tourisme.json,3300,25
 sirene/64/handicap-foyers-esat-ime.json,14764,112
 sirene/64/hopitaux-cliniques-laboratoires.json,24349,170
-sirene/64/hopitaux-services-techniques.json,3447,26
+sirene/64/hopitaux-services-techniques.json,3,0
 sirene/64/horticulture-maraichage-agriculture.json,15997,149
 sirene/64/hotels.json,46419,391
 sirene/64/imprimerie-prepresse-reliure.json,6261,52
@@ -9194,7 +9194,7 @@ sirene/65/armurerie-fabrication-d-armes.json,113,1
 sirene/65/associations-animation-solidarite.json,17396,136
 sirene/65/audiovisuel-cinema-son.json,464,4
 sirene/65/autres-elevages-dont-animaux-de-compagnie-apiculture.json,124,1
-sirene/65/bailleurs-sociaux.json,1053,7
+sirene/65/bailleurs-sociaux.json,3,0
 sirene/65/banques-assurances.json,13079,104
 sirene/65/bateaux-nautisme.json,3,0
 sirene/65/bijouterie-horlogerie.json,243,2
@@ -9253,7 +9253,7 @@ sirene/65/grossistes-en-viandes.json,836,7
 sirene/65/guides-offices-de-tourisme.json,2407,18
 sirene/65/handicap-foyers-esat-ime.json,8168,49
 sirene/65/hopitaux-cliniques-laboratoires.json,10438,75
-sirene/65/hopitaux-services-techniques.json,1682,12
+sirene/65/hopitaux-services-techniques.json,3,0
 sirene/65/horticulture-maraichage-agriculture.json,6869,67
 sirene/65/hotels.json,29874,251
 sirene/65/imprimerie-prepresse-reliure.json,1428,12
@@ -9335,7 +9335,7 @@ sirene/66/armurerie-fabrication-d-armes.json,3,0
 sirene/66/associations-animation-solidarite.json,35187,259
 sirene/66/audiovisuel-cinema-son.json,1585,15
 sirene/66/autres-elevages-dont-animaux-de-compagnie-apiculture.json,456,4
-sirene/66/bailleurs-sociaux.json,1695,11
+sirene/66/bailleurs-sociaux.json,3,0
 sirene/66/banques-assurances.json,29575,221
 sirene/66/bateaux-nautisme.json,3359,28
 sirene/66/bijouterie-horlogerie.json,991,9
@@ -9394,7 +9394,7 @@ sirene/66/grossistes-en-viandes.json,606,5
 sirene/66/guides-offices-de-tourisme.json,4918,33
 sirene/66/handicap-foyers-esat-ime.json,8461,57
 sirene/66/hopitaux-cliniques-laboratoires.json,18166,123
-sirene/66/hopitaux-services-techniques.json,1747,14
+sirene/66/hopitaux-services-techniques.json,3,0
 sirene/66/horticulture-maraichage-agriculture.json,11809,105
 sirene/66/hotels.json,31133,253
 sirene/66/imprimerie-prepresse-reliure.json,2925,25
@@ -9476,7 +9476,7 @@ sirene/67/armurerie-fabrication-d-armes.json,3,0
 sirene/67/associations-animation-solidarite.json,91272,704
 sirene/67/audiovisuel-cinema-son.json,8277,74
 sirene/67/autres-elevages-dont-animaux-de-compagnie-apiculture.json,692,6
-sirene/67/bailleurs-sociaux.json,2054,19
+sirene/67/bailleurs-sociaux.json,3,0
 sirene/67/banques-assurances.json,63582,501
 sirene/67/bateaux-nautisme.json,209,2
 sirene/67/bijouterie-horlogerie.json,1941,17
@@ -9536,7 +9536,7 @@ sirene/67/grossistes-en-viandes.json,1248,11
 sirene/67/guides-offices-de-tourisme.json,4245,29
 sirene/67/handicap-foyers-esat-ime.json,19929,141
 sirene/67/hopitaux-cliniques-laboratoires.json,42828,304
-sirene/67/hopitaux-services-techniques.json,4913,34
+sirene/67/hopitaux-services-techniques.json,3,0
 sirene/67/horticulture-maraichage-agriculture.json,49094,463
 sirene/67/hotels.json,48425,418
 sirene/67/imprimerie-prepresse-reliure.json,9756,87
@@ -9617,7 +9617,7 @@ sirene/68/armurerie-fabrication-d-armes.json,3,0
 sirene/68/associations-animation-solidarite.json,54781,431
 sirene/68/audiovisuel-cinema-son.json,1641,15
 sirene/68/autres-elevages-dont-animaux-de-compagnie-apiculture.json,343,3
-sirene/68/bailleurs-sociaux.json,2115,19
+sirene/68/bailleurs-sociaux.json,3,0
 sirene/68/banques-assurances.json,42544,335
 sirene/68/bateaux-nautisme.json,3,0
 sirene/68/bijouterie-horlogerie.json,483,4
@@ -9648,7 +9648,7 @@ sirene/68/cultures-specialisees-vergers-cultures-tropicales.json,709,6
 sirene/68/dechets-recyclage-assainissement.json,21503,167
 sirene/68/demenagement.json,1174,10
 sirene/68/demolition.json,650,6
-sirene/68/design-d-interieur-et-d-objet.json,2120,19
+sirene/68/design-d-interieur-et-d-objet.json,1856,17
 sirene/68/eau-potable-captage-traitement-distribution.json,14056,102
 sirene/68/ebenisterie-meubles-restauration-de-meubles.json,3628,32
 sirene/68/ecoles-de-sport-equitation.json,22406,182
@@ -9677,7 +9677,7 @@ sirene/68/grossistes-en-viandes.json,1019,9
 sirene/68/guides-offices-de-tourisme.json,2463,18
 sirene/68/handicap-foyers-esat-ime.json,14407,105
 sirene/68/hopitaux-cliniques-laboratoires.json,22307,156
-sirene/68/hopitaux-services-techniques.json,3927,25
+sirene/68/hopitaux-services-techniques.json,3,0
 sirene/68/horticulture-maraichage-agriculture.json,34787,327
 sirene/68/hotels.json,38169,335
 sirene/68/imprimerie-prepresse-reliure.json,5798,52
@@ -9760,7 +9760,7 @@ sirene/69/armurerie-fabrication-d-armes.json,3,0
 sirene/69/associations-animation-solidarite.json,137846,1100
 sirene/69/audiovisuel-cinema-son.json,26919,253
 sirene/69/autres-elevages-dont-animaux-de-compagnie-apiculture.json,1511,12
-sirene/69/bailleurs-sociaux.json,4557,32
+sirene/69/bailleurs-sociaux.json,3,0
 sirene/69/banques-assurances.json,88624,737
 sirene/69/bateaux-nautisme.json,375,3
 sirene/69/bijouterie-horlogerie.json,13344,123
@@ -9791,7 +9791,7 @@ sirene/69/cultures-specialisees-vergers-cultures-tropicales.json,4668,41
 sirene/69/dechets-recyclage-assainissement.json,43214,352
 sirene/69/demenagement.json,7029,57
 sirene/69/demolition.json,1229,11
-sirene/69/design-d-interieur-et-d-objet.json,17939,169
+sirene/69/design-d-interieur-et-d-objet.json,17838,168
 sirene/69/eau-potable-captage-traitement-distribution.json,6686,48
 sirene/69/ebenisterie-meubles-restauration-de-meubles.json,9735,85
 sirene/69/ecoles-de-sport-equitation.json,11712,103
@@ -9820,7 +9820,7 @@ sirene/69/grossistes-en-viandes.json,3143,28
 sirene/69/guides-offices-de-tourisme.json,3719,31
 sirene/69/handicap-foyers-esat-ime.json,38207,260
 sirene/69/hopitaux-cliniques-laboratoires.json,49577,364
-sirene/69/hopitaux-services-techniques.json,6916,54
+sirene/69/hopitaux-services-techniques.json,3,0
 sirene/69/horticulture-maraichage-agriculture.json,19341,168
 sirene/69/hotels.json,58951,500
 sirene/69/imprimerie-prepresse-reliure.json,14976,130
@@ -9903,7 +9903,7 @@ sirene/70/armurerie-fabrication-d-armes.json,3,0
 sirene/70/associations-animation-solidarite.json,23878,169
 sirene/70/audiovisuel-cinema-son.json,570,5
 sirene/70/autres-elevages-dont-animaux-de-compagnie-apiculture.json,390,3
-sirene/70/bailleurs-sociaux.json,920,8
+sirene/70/bailleurs-sociaux.json,3,0
 sirene/70/banques-assurances.json,12011,96
 sirene/70/bateaux-nautisme.json,3,0
 sirene/70/bijouterie-horlogerie.json,242,2
@@ -9961,7 +9961,7 @@ sirene/70/grossistes-en-viandes.json,322,3
 sirene/70/guides-offices-de-tourisme.json,1688,12
 sirene/70/handicap-foyers-esat-ime.json,6785,42
 sirene/70/hopitaux-cliniques-laboratoires.json,6979,44
-sirene/70/hopitaux-services-techniques.json,591,4
+sirene/70/hopitaux-services-techniques.json,3,0
 sirene/70/horticulture-maraichage-agriculture.json,23206,212
 sirene/70/hotels.json,5264,45
 sirene/70/imprimerie-prepresse-reliure.json,1502,14
@@ -10044,7 +10044,7 @@ sirene/71/armurerie-fabrication-d-armes.json,3,0
 sirene/71/associations-animation-solidarite.json,39816,285
 sirene/71/audiovisuel-cinema-son.json,1304,12
 sirene/71/autres-elevages-dont-animaux-de-compagnie-apiculture.json,1055,9
-sirene/71/bailleurs-sociaux.json,895,5
+sirene/71/bailleurs-sociaux.json,3,0
 sirene/71/banques-assurances.json,22190,166
 sirene/71/bateaux-nautisme.json,469,4
 sirene/71/bijouterie-horlogerie.json,757,6
@@ -10103,7 +10103,7 @@ sirene/71/grossistes-en-viandes.json,224,2
 sirene/71/guides-offices-de-tourisme.json,3189,22
 sirene/71/handicap-foyers-esat-ime.json,14841,107
 sirene/71/hopitaux-cliniques-laboratoires.json,14855,109
-sirene/71/hopitaux-services-techniques.json,2736,22
+sirene/71/hopitaux-services-techniques.json,3,0
 sirene/71/horticulture-maraichage-agriculture.json,18758,167
 sirene/71/hotels.json,25610,215
 sirene/71/imprimerie-prepresse-reliure.json,4618,39
@@ -10186,7 +10186,7 @@ sirene/72/armurerie-fabrication-d-armes.json,287,3
 sirene/72/associations-animation-solidarite.json,30690,244
 sirene/72/audiovisuel-cinema-son.json,2778,24
 sirene/72/autres-elevages-dont-animaux-de-compagnie-apiculture.json,1050,9
-sirene/72/bailleurs-sociaux.json,3034,17
+sirene/72/bailleurs-sociaux.json,3,0
 sirene/72/banques-assurances.json,33141,249
 sirene/72/bateaux-nautisme.json,251,2
 sirene/72/bijouterie-horlogerie.json,727,6
@@ -10246,7 +10246,7 @@ sirene/72/grossistes-en-viandes.json,388,3
 sirene/72/guides-offices-de-tourisme.json,2844,17
 sirene/72/handicap-foyers-esat-ime.json,15510,110
 sirene/72/hopitaux-cliniques-laboratoires.json,15088,102
-sirene/72/hopitaux-services-techniques.json,2381,17
+sirene/72/hopitaux-services-techniques.json,3,0
 sirene/72/horticulture-maraichage-agriculture.json,33245,310
 sirene/72/hotels.json,15030,125
 sirene/72/imprimerie-prepresse-reliure.json,4587,40
@@ -10328,7 +10328,7 @@ sirene/73/armurerie-fabrication-d-armes.json,155,1
 sirene/73/associations-animation-solidarite.json,29513,218
 sirene/73/audiovisuel-cinema-son.json,2180,18
 sirene/73/autres-elevages-dont-animaux-de-compagnie-apiculture.json,868,7
-sirene/73/bailleurs-sociaux.json,854,4
+sirene/73/bailleurs-sociaux.json,3,0
 sirene/73/banques-assurances.json,28301,218
 sirene/73/bateaux-nautisme.json,482,4
 sirene/73/bijouterie-horlogerie.json,494,4
@@ -10387,7 +10387,7 @@ sirene/73/grossistes-en-viandes.json,1488,13
 sirene/73/guides-offices-de-tourisme.json,14473,97
 sirene/73/handicap-foyers-esat-ime.json,9248,61
 sirene/73/hopitaux-cliniques-laboratoires.json,18186,121
-sirene/73/hopitaux-services-techniques.json,1287,9
+sirene/73/hopitaux-services-techniques.json,3,0
 sirene/73/horticulture-maraichage-agriculture.json,7586,64
 sirene/73/hotels.json,159429,1254
 sirene/73/imprimerie-prepresse-reliure.json,2710,22
@@ -10470,7 +10470,7 @@ sirene/74/armurerie-fabrication-d-armes.json,101,1
 sirene/74/associations-animation-solidarite.json,33606,266
 sirene/74/audiovisuel-cinema-son.json,6471,57
 sirene/74/autres-elevages-dont-animaux-de-compagnie-apiculture.json,465,4
-sirene/74/bailleurs-sociaux.json,2827,22
+sirene/74/bailleurs-sociaux.json,3,0
 sirene/74/banques-assurances.json,46956,356
 sirene/74/bateaux-nautisme.json,1221,10
 sirene/74/bijouterie-horlogerie.json,1969,16
@@ -10500,7 +10500,7 @@ sirene/74/cultures-specialisees-vergers-cultures-tropicales.json,1176,10
 sirene/74/dechets-recyclage-assainissement.json,17709,130
 sirene/74/demenagement.json,2863,21
 sirene/74/demolition.json,275,2
-sirene/74/design-d-interieur-et-d-objet.json,8668,79
+sirene/74/design-d-interieur-et-d-objet.json,8441,77
 sirene/74/eau-potable-captage-traitement-distribution.json,9225,65
 sirene/74/ebenisterie-meubles-restauration-de-meubles.json,6660,52
 sirene/74/ecoles-de-sport-equitation.json,11669,98
@@ -10529,7 +10529,7 @@ sirene/74/grossistes-en-viandes.json,960,8
 sirene/74/guides-offices-de-tourisme.json,9101,71
 sirene/74/handicap-foyers-esat-ime.json,15072,114
 sirene/74/hopitaux-cliniques-laboratoires.json,27831,211
-sirene/74/hopitaux-services-techniques.json,2747,21
+sirene/74/hopitaux-services-techniques.json,3,0
 sirene/74/horticulture-maraichage-agriculture.json,10713,93
 sirene/74/hotels.json,133604,1071
 sirene/74/imprimerie-prepresse-reliure.json,5242,45
@@ -10607,14 +10607,14 @@ sirene/75/agences-immobilieres-gestion-de-logements.json,468081,4303
 sirene/75/aide-a-domicile.json,39275,360
 sirene/75/ambulances.json,16144,149
 sirene/75/aquaculture-pisciculture-conchyliculture.json,102,1
-sirene/75/architectes.json,185719,1711
+sirene/75/architectes.json,185622,1710
 sirene/75/armurerie-fabrication-d-armes.json,98,1
 sirene/75/associations-animation-solidarite.json,441607,3665
 sirene/75/ateliers-associatifs-du-bois.json,347,3
 sirene/75/ateliers-de-decors-et-de-musees.json,512,4
 sirene/75/audiovisuel-cinema-son.json,367221,3542
 sirene/75/autres-elevages-dont-animaux-de-compagnie-apiculture.json,603,5
-sirene/75/bailleurs-sociaux.json,2504,22
+sirene/75/bailleurs-sociaux.json,3,0
 sirene/75/banques-assurances.json,327035,2837
 sirene/75/bateaux-nautisme.json,722,7
 sirene/75/bijouterie-horlogerie.json,51281,501
@@ -10645,7 +10645,7 @@ sirene/75/cultures-specialisees-vergers-cultures-tropicales.json,1005,9
 sirene/75/dechets-recyclage-assainissement.json,32886,298
 sirene/75/demenagement.json,8532,77
 sirene/75/demolition.json,373,3
-sirene/75/design-d-interieur-et-d-objet.json,124427,1225
+sirene/75/design-d-interieur-et-d-objet.json,123474,1216
 sirene/75/eau-potable-captage-traitement-distribution.json,2903,25
 sirene/75/ebenisterie-meubles-restauration-de-meubles.json,12893,122
 sirene/75/ecoles-de-sport-equitation.json,21351,196
@@ -10674,7 +10674,7 @@ sirene/75/grossistes-en-viandes.json,1753,16
 sirene/75/guides-offices-de-tourisme.json,24878,221
 sirene/75/handicap-foyers-esat-ime.json,28881,237
 sirene/75/hopitaux-cliniques-laboratoires.json,70042,522
-sirene/75/hopitaux-services-techniques.json,11273,83
+sirene/75/hopitaux-services-techniques.json,3,0
 sirene/75/horticulture-maraichage-agriculture.json,2529,23
 sirene/75/hotels.json,342657,3146
 sirene/75/imprimerie-prepresse-reliure.json,22945,219
@@ -10755,7 +10755,7 @@ sirene/76/armurerie-fabrication-d-armes.json,3,0
 sirene/76/associations-animation-solidarite.json,75616,582
 sirene/76/audiovisuel-cinema-son.json,4896,42
 sirene/76/autres-elevages-dont-animaux-de-compagnie-apiculture.json,353,3
-sirene/76/bailleurs-sociaux.json,2412,18
+sirene/76/bailleurs-sociaux.json,3,0
 sirene/76/banques-assurances.json,53780,396
 sirene/76/bateaux-nautisme.json,1941,16
 sirene/76/bijouterie-horlogerie.json,784,8
@@ -10814,7 +10814,7 @@ sirene/76/grossistes-en-viandes.json,1366,11
 sirene/76/guides-offices-de-tourisme.json,3242,23
 sirene/76/handicap-foyers-esat-ime.json,27178,193
 sirene/76/hopitaux-cliniques-laboratoires.json,46722,330
-sirene/76/hopitaux-services-techniques.json,5228,38
+sirene/76/hopitaux-services-techniques.json,3,0
 sirene/76/horticulture-maraichage-agriculture.json,102837,908
 sirene/76/hotels.json,30904,266
 sirene/76/imprimerie-prepresse-reliure.json,6982,57
@@ -10898,7 +10898,7 @@ sirene/77/associations-animation-solidarite.json,48873,373
 sirene/77/ateliers-de-decors-et-de-musees.json,135,1
 sirene/77/audiovisuel-cinema-son.json,8206,72
 sirene/77/autres-elevages-dont-animaux-de-compagnie-apiculture.json,1866,14
-sirene/77/bailleurs-sociaux.json,2348,19
+sirene/77/bailleurs-sociaux.json,3,0
 sirene/77/banques-assurances.json,81161,612
 sirene/77/bateaux-nautisme.json,357,3
 sirene/77/bijouterie-horlogerie.json,2286,20
@@ -10929,7 +10929,7 @@ sirene/77/cultures-specialisees-vergers-cultures-tropicales.json,767,7
 sirene/77/dechets-recyclage-assainissement.json,38409,299
 sirene/77/demenagement.json,5320,43
 sirene/77/demolition.json,540,5
-sirene/77/design-d-interieur-et-d-objet.json,7526,67
+sirene/77/design-d-interieur-et-d-objet.json,7310,65
 sirene/77/eau-potable-captage-traitement-distribution.json,15456,114
 sirene/77/ebenisterie-meubles-restauration-de-meubles.json,4494,38
 sirene/77/ecoles-de-sport-equitation.json,11814,101
@@ -10958,7 +10958,7 @@ sirene/77/grossistes-en-viandes.json,1205,10
 sirene/77/guides-offices-de-tourisme.json,3501,26
 sirene/77/handicap-foyers-esat-ime.json,22718,153
 sirene/77/hopitaux-cliniques-laboratoires.json,29551,217
-sirene/77/hopitaux-services-techniques.json,2930,19
+sirene/77/hopitaux-services-techniques.json,3,0
 sirene/77/horticulture-maraichage-agriculture.json,41395,372
 sirene/77/hotels.json,32987,270
 sirene/77/imprimerie-prepresse-reliure.json,12403,101
@@ -11042,7 +11042,7 @@ sirene/78/associations-animation-solidarite.json,71518,552
 sirene/78/ateliers-de-decors-et-de-musees.json,137,1
 sirene/78/audiovisuel-cinema-son.json,15482,135
 sirene/78/autres-elevages-dont-animaux-de-compagnie-apiculture.json,846,7
-sirene/78/bailleurs-sociaux.json,1254,10
+sirene/78/bailleurs-sociaux.json,3,0
 sirene/78/banques-assurances.json,90659,697
 sirene/78/bateaux-nautisme.json,548,4
 sirene/78/bijouterie-horlogerie.json,1961,16
@@ -11072,7 +11072,7 @@ sirene/78/cultures-specialisees-vergers-cultures-tropicales.json,1275,11
 sirene/78/dechets-recyclage-assainissement.json,24779,191
 sirene/78/demenagement.json,6545,51
 sirene/78/demolition.json,810,7
-sirene/78/design-d-interieur-et-d-objet.json,12797,113
+sirene/78/design-d-interieur-et-d-objet.json,12510,111
 sirene/78/eau-potable-captage-traitement-distribution.json,8368,64
 sirene/78/ebenisterie-meubles-restauration-de-meubles.json,4318,36
 sirene/78/ecoles-de-sport-equitation.json,12815,105
@@ -11101,7 +11101,7 @@ sirene/78/grossistes-en-viandes.json,934,8
 sirene/78/guides-offices-de-tourisme.json,2891,21
 sirene/78/handicap-foyers-esat-ime.json,33823,233
 sirene/78/hopitaux-cliniques-laboratoires.json,38525,279
-sirene/78/hopitaux-services-techniques.json,4210,30
+sirene/78/hopitaux-services-techniques.json,3,0
 sirene/78/horticulture-maraichage-agriculture.json,15287,132
 sirene/78/hotels.json,30857,251
 sirene/78/imprimerie-prepresse-reliure.json,4386,37
@@ -11184,7 +11184,7 @@ sirene/79/armurerie-fabrication-d-armes.json,102,1
 sirene/79/associations-animation-solidarite.json,25627,192
 sirene/79/audiovisuel-cinema-son.json,1182,10
 sirene/79/autres-elevages-dont-animaux-de-compagnie-apiculture.json,1263,11
-sirene/79/bailleurs-sociaux.json,117,1
+sirene/79/bailleurs-sociaux.json,3,0
 sirene/79/banques-assurances.json,27049,198
 sirene/79/bateaux-nautisme.json,248,2
 sirene/79/bijouterie-horlogerie.json,198,2
@@ -11243,7 +11243,7 @@ sirene/79/grossistes-en-viandes.json,560,5
 sirene/79/guides-offices-de-tourisme.json,1403,10
 sirene/79/handicap-foyers-esat-ime.json,4521,35
 sirene/79/hopitaux-cliniques-laboratoires.json,11633,84
-sirene/79/hopitaux-services-techniques.json,1098,8
+sirene/79/hopitaux-services-techniques.json,3,0
 sirene/79/horticulture-maraichage-agriculture.json,36053,316
 sirene/79/hotels.json,9103,81
 sirene/79/imprimerie-prepresse-reliure.json,2286,19
@@ -11325,7 +11325,7 @@ sirene/80/armurerie-fabrication-d-armes.json,3,0
 sirene/80/associations-animation-solidarite.json,32116,253
 sirene/80/audiovisuel-cinema-son.json,2352,22
 sirene/80/autres-elevages-dont-animaux-de-compagnie-apiculture.json,755,7
-sirene/80/bailleurs-sociaux.json,1390,10
+sirene/80/bailleurs-sociaux.json,3,0
 sirene/80/banques-assurances.json,24535,185
 sirene/80/bateaux-nautisme.json,278,2
 sirene/80/bijouterie-horlogerie.json,772,7
@@ -11384,7 +11384,7 @@ sirene/80/grossistes-en-viandes.json,265,2
 sirene/80/guides-offices-de-tourisme.json,931,7
 sirene/80/handicap-foyers-esat-ime.json,17011,108
 sirene/80/hopitaux-cliniques-laboratoires.json,23189,161
-sirene/80/hopitaux-services-techniques.json,2836,21
+sirene/80/hopitaux-services-techniques.json,3,0
 sirene/80/horticulture-maraichage-agriculture.json,99866,948
 sirene/80/hotels.json,17950,149
 sirene/80/imprimerie-prepresse-reliure.json,2019,18
@@ -11466,7 +11466,7 @@ sirene/81/armurerie-fabrication-d-armes.json,127,1
 sirene/81/associations-animation-solidarite.json,23669,188
 sirene/81/audiovisuel-cinema-son.json,1638,15
 sirene/81/autres-elevages-dont-animaux-de-compagnie-apiculture.json,1164,9
-sirene/81/bailleurs-sociaux.json,762,6
+sirene/81/bailleurs-sociaux.json,3,0
 sirene/81/banques-assurances.json,21225,162
 sirene/81/bateaux-nautisme.json,3,0
 sirene/81/bijouterie-horlogerie.json,903,8
@@ -11526,7 +11526,7 @@ sirene/81/grossistes-en-viandes.json,1304,11
 sirene/81/guides-offices-de-tourisme.json,2172,15
 sirene/81/handicap-foyers-esat-ime.json,10138,65
 sirene/81/hopitaux-cliniques-laboratoires.json,14501,104
-sirene/81/hopitaux-services-techniques.json,1024,8
+sirene/81/hopitaux-services-techniques.json,3,0
 sirene/81/horticulture-maraichage-agriculture.json,14459,129
 sirene/81/hotels.json,9406,80
 sirene/81/imprimerie-prepresse-reliure.json,4083,35
@@ -11609,7 +11609,7 @@ sirene/82/armurerie-fabrication-d-armes.json,3,0
 sirene/82/associations-animation-solidarite.json,30918,212
 sirene/82/audiovisuel-cinema-son.json,344,3
 sirene/82/autres-elevages-dont-animaux-de-compagnie-apiculture.json,198,2
-sirene/82/bailleurs-sociaux.json,156,1
+sirene/82/bailleurs-sociaux.json,3,0
 sirene/82/banques-assurances.json,14826,109
 sirene/82/bateaux-nautisme.json,128,1
 sirene/82/bijouterie-horlogerie.json,259,2
@@ -11668,7 +11668,7 @@ sirene/82/grossistes-en-viandes.json,120,1
 sirene/82/guides-offices-de-tourisme.json,1939,13
 sirene/82/handicap-foyers-esat-ime.json,4647,33
 sirene/82/hopitaux-cliniques-laboratoires.json,8826,66
-sirene/82/hopitaux-services-techniques.json,1507,11
+sirene/82/hopitaux-services-techniques.json,3,0
 sirene/82/horticulture-maraichage-agriculture.json,16491,149
 sirene/82/hotels.json,7918,68
 sirene/82/imprimerie-prepresse-reliure.json,1856,16
@@ -11748,7 +11748,7 @@ sirene/83/armurerie-fabrication-d-armes.json,3,0
 sirene/83/associations-animation-solidarite.json,82617,597
 sirene/83/audiovisuel-cinema-son.json,4523,38
 sirene/83/autres-elevages-dont-animaux-de-compagnie-apiculture.json,1344,11
-sirene/83/bailleurs-sociaux.json,956,7
+sirene/83/bailleurs-sociaux.json,3,0
 sirene/83/banques-assurances.json,46511,345
 sirene/83/bateaux-nautisme.json,21168,170
 sirene/83/bijouterie-horlogerie.json,4269,36
@@ -11807,7 +11807,7 @@ sirene/83/grossistes-en-viandes.json,872,7
 sirene/83/guides-offices-de-tourisme.json,5179,33
 sirene/83/handicap-foyers-esat-ime.json,17061,126
 sirene/83/hopitaux-cliniques-laboratoires.json,27569,197
-sirene/83/hopitaux-services-techniques.json,3387,25
+sirene/83/hopitaux-services-techniques.json,3,0
 sirene/83/horticulture-maraichage-agriculture.json,16498,141
 sirene/83/hotels.json,86136,674
 sirene/83/imprimerie-prepresse-reliure.json,6602,54
@@ -11889,7 +11889,7 @@ sirene/84/armurerie-fabrication-d-armes.json,3,0
 sirene/84/associations-animation-solidarite.json,40583,304
 sirene/84/audiovisuel-cinema-son.json,4189,36
 sirene/84/autres-elevages-dont-animaux-de-compagnie-apiculture.json,852,7
-sirene/84/bailleurs-sociaux.json,231,2
+sirene/84/bailleurs-sociaux.json,3,0
 sirene/84/banques-assurances.json,24333,188
 sirene/84/bateaux-nautisme.json,351,3
 sirene/84/bijouterie-horlogerie.json,1233,11
@@ -11948,7 +11948,7 @@ sirene/84/grossistes-en-viandes.json,1190,10
 sirene/84/guides-offices-de-tourisme.json,5175,32
 sirene/84/handicap-foyers-esat-ime.json,11302,79
 sirene/84/hopitaux-cliniques-laboratoires.json,19502,154
-sirene/84/hopitaux-services-techniques.json,1898,15
+sirene/84/hopitaux-services-techniques.json,3,0
 sirene/84/horticulture-maraichage-agriculture.json,25105,218
 sirene/84/hotels.json,39416,334
 sirene/84/imprimerie-prepresse-reliure.json,4746,41
@@ -12030,7 +12030,7 @@ sirene/85/armurerie-fabrication-d-armes.json,3,0
 sirene/85/associations-animation-solidarite.json,43854,316
 sirene/85/audiovisuel-cinema-son.json,2852,23
 sirene/85/autres-elevages-dont-animaux-de-compagnie-apiculture.json,2628,24
-sirene/85/bailleurs-sociaux.json,2822,17
+sirene/85/bailleurs-sociaux.json,3,0
 sirene/85/banques-assurances.json,40314,289
 sirene/85/bateaux-nautisme.json,6935,56
 sirene/85/bijouterie-horlogerie.json,1111,9
@@ -12090,7 +12090,7 @@ sirene/85/grossistes-en-viandes.json,1435,12
 sirene/85/guides-offices-de-tourisme.json,5293,37
 sirene/85/handicap-foyers-esat-ime.json,17649,113
 sirene/85/hopitaux-cliniques-laboratoires.json,21985,144
-sirene/85/hopitaux-services-techniques.json,1395,10
+sirene/85/hopitaux-services-techniques.json,3,0
 sirene/85/horticulture-maraichage-agriculture.json,41868,376
 sirene/85/hotels.json,30630,247
 sirene/85/imprimerie-prepresse-reliure.json,6650,53
@@ -12172,7 +12172,7 @@ sirene/86/armurerie-fabrication-d-armes.json,107,1
 sirene/86/associations-animation-solidarite.json,35421,264
 sirene/86/audiovisuel-cinema-son.json,2233,21
 sirene/86/autres-elevages-dont-animaux-de-compagnie-apiculture.json,1947,17
-sirene/86/bailleurs-sociaux.json,664,4
+sirene/86/bailleurs-sociaux.json,3,0
 sirene/86/banques-assurances.json,24231,173
 sirene/86/bateaux-nautisme.json,3,0
 sirene/86/bijouterie-horlogerie.json,105,1
@@ -12231,7 +12231,7 @@ sirene/86/grossistes-en-viandes.json,708,6
 sirene/86/guides-offices-de-tourisme.json,1999,14
 sirene/86/handicap-foyers-esat-ime.json,13422,101
 sirene/86/hopitaux-cliniques-laboratoires.json,10395,73
-sirene/86/hopitaux-services-techniques.json,588,5
+sirene/86/hopitaux-services-techniques.json,3,0
 sirene/86/horticulture-maraichage-agriculture.json,47198,436
 sirene/86/hotels.json,17605,137
 sirene/86/imprimerie-prepresse-reliure.json,1943,16
@@ -12314,7 +12314,7 @@ sirene/87/armurerie-fabrication-d-armes.json,3,0
 sirene/87/associations-animation-solidarite.json,22757,168
 sirene/87/audiovisuel-cinema-son.json,473,4
 sirene/87/autres-elevages-dont-animaux-de-compagnie-apiculture.json,594,5
-sirene/87/bailleurs-sociaux.json,1656,10
+sirene/87/bailleurs-sociaux.json,3,0
 sirene/87/banques-assurances.json,22508,164
 sirene/87/bateaux-nautisme.json,119,1
 sirene/87/bijouterie-horlogerie.json,322,3
@@ -12373,7 +12373,7 @@ sirene/87/grossistes-en-viandes.json,545,5
 sirene/87/guides-offices-de-tourisme.json,2437,17
 sirene/87/handicap-foyers-esat-ime.json,11878,82
 sirene/87/hopitaux-cliniques-laboratoires.json,13046,85
-sirene/87/hopitaux-services-techniques.json,2424,15
+sirene/87/hopitaux-services-techniques.json,3,0
 sirene/87/horticulture-maraichage-agriculture.json,5196,47
 sirene/87/hotels.json,11041,95
 sirene/87/imprimerie-prepresse-reliure.json,4502,40
@@ -12455,7 +12455,7 @@ sirene/88/armurerie-fabrication-d-armes.json,3,0
 sirene/88/associations-animation-solidarite.json,18226,142
 sirene/88/audiovisuel-cinema-son.json,1725,15
 sirene/88/autres-elevages-dont-animaux-de-compagnie-apiculture.json,261,2
-sirene/88/bailleurs-sociaux.json,1270,9
+sirene/88/bailleurs-sociaux.json,3,0
 sirene/88/banques-assurances.json,19531,154
 sirene/88/bateaux-nautisme.json,116,1
 sirene/88/bijouterie-horlogerie.json,792,7
@@ -12513,7 +12513,7 @@ sirene/88/grossistes-en-viandes.json,1218,11
 sirene/88/guides-offices-de-tourisme.json,3524,24
 sirene/88/handicap-foyers-esat-ime.json,8285,58
 sirene/88/hopitaux-cliniques-laboratoires.json,16484,113
-sirene/88/hopitaux-services-techniques.json,2535,17
+sirene/88/hopitaux-services-techniques.json,3,0
 sirene/88/horticulture-maraichage-agriculture.json,13308,118
 sirene/88/hotels.json,23421,194
 sirene/88/imprimerie-prepresse-reliure.json,2546,21
@@ -12596,7 +12596,7 @@ sirene/89/armurerie-fabrication-d-armes.json,3,0
 sirene/89/associations-animation-solidarite.json,15279,121
 sirene/89/audiovisuel-cinema-son.json,1415,12
 sirene/89/autres-elevages-dont-animaux-de-compagnie-apiculture.json,488,4
-sirene/89/bailleurs-sociaux.json,382,3
+sirene/89/bailleurs-sociaux.json,3,0
 sirene/89/banques-assurances.json,15068,121
 sirene/89/bateaux-nautisme.json,207,2
 sirene/89/bijouterie-horlogerie.json,96,1
@@ -12656,7 +12656,7 @@ sirene/89/grossistes-en-viandes.json,236,2
 sirene/89/guides-offices-de-tourisme.json,2554,18
 sirene/89/handicap-foyers-esat-ime.json,6335,41
 sirene/89/hopitaux-cliniques-laboratoires.json,9342,69
-sirene/89/hopitaux-services-techniques.json,1321,11
+sirene/89/hopitaux-services-techniques.json,3,0
 sirene/89/horticulture-maraichage-agriculture.json,29871,274
 sirene/89/hotels.json,12588,105
 sirene/89/imprimerie-prepresse-reliure.json,2578,23
@@ -12737,7 +12737,7 @@ sirene/90/armurerie-fabrication-d-armes.json,119,1
 sirene/90/associations-animation-solidarite.json,19859,143
 sirene/90/audiovisuel-cinema-son.json,305,3
 sirene/90/autres-elevages-dont-animaux-de-compagnie-apiculture.json,3,0
-sirene/90/bailleurs-sociaux.json,237,2
+sirene/90/bailleurs-sociaux.json,3,0
 sirene/90/banques-assurances.json,8481,67
 sirene/90/bateaux-nautisme.json,3,0
 sirene/90/bijouterie-horlogerie.json,93,1
@@ -12796,7 +12796,7 @@ sirene/90/grossistes-en-viandes.json,205,2
 sirene/90/guides-offices-de-tourisme.json,119,1
 sirene/90/handicap-foyers-esat-ime.json,3114,23
 sirene/90/hopitaux-cliniques-laboratoires.json,2894,19
-sirene/90/hopitaux-services-techniques.json,384,3
+sirene/90/hopitaux-services-techniques.json,3,0
 sirene/90/horticulture-maraichage-agriculture.json,1647,15
 sirene/90/hotels.json,3136,27
 sirene/90/imprimerie-prepresse-reliure.json,259,2
@@ -12876,7 +12876,7 @@ sirene/91/armurerie-fabrication-d-armes.json,104,1
 sirene/91/associations-animation-solidarite.json,57142,438
 sirene/91/audiovisuel-cinema-son.json,8550,76
 sirene/91/autres-elevages-dont-animaux-de-compagnie-apiculture.json,503,4
-sirene/91/bailleurs-sociaux.json,1317,11
+sirene/91/bailleurs-sociaux.json,3,0
 sirene/91/banques-assurances.json,72875,560
 sirene/91/bateaux-nautisme.json,489,4
 sirene/91/bijouterie-horlogerie.json,1054,10
@@ -12907,7 +12907,7 @@ sirene/91/cultures-specialisees-vergers-cultures-tropicales.json,472,4
 sirene/91/dechets-recyclage-assainissement.json,26302,198
 sirene/91/demenagement.json,6569,51
 sirene/91/demolition.json,873,7
-sirene/91/design-d-interieur-et-d-objet.json,6053,54
+sirene/91/design-d-interieur-et-d-objet.json,5754,52
 sirene/91/eau-potable-captage-traitement-distribution.json,5902,45
 sirene/91/ebenisterie-meubles-restauration-de-meubles.json,2547,23
 sirene/91/ecoles-de-sport-equitation.json,6908,58
@@ -12936,7 +12936,7 @@ sirene/91/grossistes-en-viandes.json,763,7
 sirene/91/guides-offices-de-tourisme.json,1243,9
 sirene/91/handicap-foyers-esat-ime.json,22141,155
 sirene/91/hopitaux-cliniques-laboratoires.json,35478,257
-sirene/91/hopitaux-services-techniques.json,4783,34
+sirene/91/hopitaux-services-techniques.json,3,0
 sirene/91/horticulture-maraichage-agriculture.json,13201,116
 sirene/91/hotels.json,26338,213
 sirene/91/imprimerie-prepresse-reliure.json,9295,77
@@ -13013,12 +13013,12 @@ sirene/92/agences-immobilieres-gestion-de-logements.json,154523,1276
 sirene/92/aide-a-domicile.json,35975,295
 sirene/92/ambulances.json,10436,92
 sirene/92/aquaculture-pisciculture-conchyliculture.json,345,3
-sirene/92/architectes.json,26523,229
+sirene/92/architectes.json,26405,228
 sirene/92/armurerie-fabrication-d-armes.json,3,0
 sirene/92/associations-animation-solidarite.json,87589,685
 sirene/92/audiovisuel-cinema-son.json,78215,683
 sirene/92/autres-elevages-dont-animaux-de-compagnie-apiculture.json,116,1
-sirene/92/bailleurs-sociaux.json,5432,37
+sirene/92/bailleurs-sociaux.json,3,0
 sirene/92/banques-assurances.json,148552,1163
 sirene/92/bateaux-nautisme.json,607,5
 sirene/92/bijouterie-horlogerie.json,2515,23
@@ -13049,7 +13049,7 @@ sirene/92/cultures-specialisees-vergers-cultures-tropicales.json,119,1
 sirene/92/dechets-recyclage-assainissement.json,23550,187
 sirene/92/demenagement.json,5589,46
 sirene/92/demolition.json,449,4
-sirene/92/design-d-interieur-et-d-objet.json,23709,215
+sirene/92/design-d-interieur-et-d-objet.json,23215,211
 sirene/92/eau-potable-captage-traitement-distribution.json,4236,36
 sirene/92/ebenisterie-meubles-restauration-de-meubles.json,2385,21
 sirene/92/ecoles-de-sport-equitation.json,9078,74
@@ -13078,7 +13078,7 @@ sirene/92/grossistes-en-viandes.json,818,7
 sirene/92/guides-offices-de-tourisme.json,5622,46
 sirene/92/handicap-foyers-esat-ime.json,30891,231
 sirene/92/hopitaux-cliniques-laboratoires.json,53783,384
-sirene/92/hopitaux-services-techniques.json,8266,61
+sirene/92/hopitaux-services-techniques.json,3,0
 sirene/92/horticulture-maraichage-agriculture.json,1097,9
 sirene/92/hotels.json,57224,472
 sirene/92/imprimerie-prepresse-reliure.json,7325,65
@@ -13163,7 +13163,7 @@ sirene/93/ateliers-associatifs-du-bois.json,222,2
 sirene/93/ateliers-de-decors-et-de-musees.json,144,1
 sirene/93/audiovisuel-cinema-son.json,42823,382
 sirene/93/autres-elevages-dont-animaux-de-compagnie-apiculture.json,96,1
-sirene/93/bailleurs-sociaux.json,3650,27
+sirene/93/bailleurs-sociaux.json,3,0
 sirene/93/banques-assurances.json,74541,590
 sirene/93/bateaux-nautisme.json,3,0
 sirene/93/bijouterie-horlogerie.json,1828,16
@@ -13194,7 +13194,7 @@ sirene/93/cultures-specialisees-vergers-cultures-tropicales.json,3,0
 sirene/93/dechets-recyclage-assainissement.json,23726,195
 sirene/93/demenagement.json,7865,64
 sirene/93/demolition.json,1075,10
-sirene/93/design-d-interieur-et-d-objet.json,16490,152
+sirene/93/design-d-interieur-et-d-objet.json,15986,147
 sirene/93/eau-potable-captage-traitement-distribution.json,4539,35
 sirene/93/ebenisterie-meubles-restauration-de-meubles.json,5358,49
 sirene/93/ecoles-de-sport-equitation.json,1994,16
@@ -13223,7 +13223,7 @@ sirene/93/grossistes-en-viandes.json,2828,25
 sirene/93/guides-offices-de-tourisme.json,2679,22
 sirene/93/handicap-foyers-esat-ime.json,21672,153
 sirene/93/hopitaux-cliniques-laboratoires.json,40675,286
-sirene/93/hopitaux-services-techniques.json,3609,24
+sirene/93/hopitaux-services-techniques.json,3,0
 sirene/93/horticulture-maraichage-agriculture.json,570,5
 sirene/93/hotels.json,37049,307
 sirene/93/imprimerie-prepresse-reliure.json,10232,89
@@ -13309,7 +13309,7 @@ sirene/94/associations-animation-solidarite.json,65435,493
 sirene/94/ateliers-de-decors-et-de-musees.json,139,1
 sirene/94/audiovisuel-cinema-son.json,19019,169
 sirene/94/autres-elevages-dont-animaux-de-compagnie-apiculture.json,282,2
-sirene/94/bailleurs-sociaux.json,1956,14
+sirene/94/bailleurs-sociaux.json,3,0
 sirene/94/banques-assurances.json,85025,644
 sirene/94/bateaux-nautisme.json,289,2
 sirene/94/bijouterie-horlogerie.json,2200,19
@@ -13339,7 +13339,7 @@ sirene/94/cultures-specialisees-vergers-cultures-tropicales.json,210,2
 sirene/94/dechets-recyclage-assainissement.json,22585,173
 sirene/94/demenagement.json,6049,49
 sirene/94/demolition.json,916,8
-sirene/94/design-d-interieur-et-d-objet.json,14622,131
+sirene/94/design-d-interieur-et-d-objet.json,13927,125
 sirene/94/eau-potable-captage-traitement-distribution.json,2623,20
 sirene/94/ebenisterie-meubles-restauration-de-meubles.json,4436,37
 sirene/94/ecoles-de-sport-equitation.json,4773,40
@@ -13368,7 +13368,7 @@ sirene/94/grossistes-en-viandes.json,6611,58
 sirene/94/guides-offices-de-tourisme.json,2109,18
 sirene/94/handicap-foyers-esat-ime.json,20694,142
 sirene/94/hopitaux-cliniques-laboratoires.json,38065,267
-sirene/94/hopitaux-services-techniques.json,3669,26
+sirene/94/hopitaux-services-techniques.json,3,0
 sirene/94/horticulture-maraichage-agriculture.json,2709,23
 sirene/94/hotels.json,31763,261
 sirene/94/imprimerie-prepresse-reliure.json,6387,53
@@ -13453,7 +13453,7 @@ sirene/95/associations-animation-solidarite.json,52884,411
 sirene/95/ateliers-de-decors-et-de-musees.json,152,1
 sirene/95/audiovisuel-cinema-son.json,8360,74
 sirene/95/autres-elevages-dont-animaux-de-compagnie-apiculture.json,115,1
-sirene/95/bailleurs-sociaux.json,891,8
+sirene/95/bailleurs-sociaux.json,3,0
 sirene/95/banques-assurances.json,61238,482
 sirene/95/bateaux-nautisme.json,143,1
 sirene/95/bijouterie-horlogerie.json,2126,18
@@ -13483,7 +13483,7 @@ sirene/95/cultures-specialisees-vergers-cultures-tropicales.json,1235,10
 sirene/95/dechets-recyclage-assainissement.json,31254,243
 sirene/95/demenagement.json,7707,65
 sirene/95/demolition.json,1272,11
-sirene/95/design-d-interieur-et-d-objet.json,5433,49
+sirene/95/design-d-interieur-et-d-objet.json,5311,48
 sirene/95/eau-potable-captage-traitement-distribution.json,10396,81
 sirene/95/ebenisterie-meubles-restauration-de-meubles.json,3358,29
 sirene/95/ecoles-de-sport-equitation.json,4962,42
@@ -13512,7 +13512,7 @@ sirene/95/grossistes-en-viandes.json,1319,12
 sirene/95/guides-offices-de-tourisme.json,2005,15
 sirene/95/handicap-foyers-esat-ime.json,20297,144
 sirene/95/hopitaux-cliniques-laboratoires.json,26935,211
-sirene/95/hopitaux-services-techniques.json,3289,25
+sirene/95/hopitaux-services-techniques.json,3,0
 sirene/95/horticulture-maraichage-agriculture.json,12748,112
 sirene/95/hotels.json,25218,207
 sirene/95/imprimerie-prepresse-reliure.json,8199,70
@@ -13595,7 +13595,7 @@ sirene/971/armurerie-fabrication-d-armes.json,3,0
 sirene/971/associations-animation-solidarite.json,52637,355
 sirene/971/audiovisuel-cinema-son.json,4668,36
 sirene/971/autres-elevages-dont-animaux-de-compagnie-apiculture.json,460,3
-sirene/971/bailleurs-sociaux.json,315,2
+sirene/971/bailleurs-sociaux.json,3,0
 sirene/971/banques-assurances.json,28979,199
 sirene/971/bateaux-nautisme.json,1960,16
 sirene/971/bijouterie-horlogerie.json,1213,9
@@ -13654,7 +13654,7 @@ sirene/971/grossistes-en-viandes.json,259,2
 sirene/971/guides-offices-de-tourisme.json,3258,23
 sirene/971/handicap-foyers-esat-ime.json,8523,52
 sirene/971/hopitaux-cliniques-laboratoires.json,9086,70
-sirene/971/hopitaux-services-techniques.json,1567,12
+sirene/971/hopitaux-services-techniques.json,3,0
 sirene/971/horticulture-maraichage-agriculture.json,6791,55
 sirene/971/hotels.json,25970,210
 sirene/971/imprimerie-prepresse-reliure.json,8046,61
@@ -13730,12 +13730,12 @@ sirene/972/agences-immobilieres-gestion-de-logements.json,18885,142
 sirene/972/aide-a-domicile.json,13950,104
 sirene/972/ambulances.json,3211,26
 sirene/972/aquaculture-pisciculture-conchyliculture.json,109,1
-sirene/972/architectes.json,4253,29
+sirene/972/architectes.json,4110,28
 sirene/972/armurerie-fabrication-d-armes.json,3,0
 sirene/972/associations-animation-solidarite.json,36046,247
 sirene/972/audiovisuel-cinema-son.json,3570,28
 sirene/972/autres-elevages-dont-animaux-de-compagnie-apiculture.json,331,2
-sirene/972/bailleurs-sociaux.json,151,1
+sirene/972/bailleurs-sociaux.json,3,0
 sirene/972/banques-assurances.json,29472,202
 sirene/972/bateaux-nautisme.json,2787,23
 sirene/972/bijouterie-horlogerie.json,1848,15
@@ -13794,7 +13794,7 @@ sirene/972/grossistes-en-viandes.json,99,1
 sirene/972/guides-offices-de-tourisme.json,1575,12
 sirene/972/handicap-foyers-esat-ime.json,8354,49
 sirene/972/hopitaux-cliniques-laboratoires.json,11892,84
-sirene/972/hopitaux-services-techniques.json,1604,12
+sirene/972/hopitaux-services-techniques.json,3,0
 sirene/972/horticulture-maraichage-agriculture.json,8107,68
 sirene/972/hotels.json,18183,144
 sirene/972/imprimerie-prepresse-reliure.json,5054,40
@@ -13876,7 +13876,7 @@ sirene/973/armurerie-fabrication-d-armes.json,3,0
 sirene/973/associations-animation-solidarite.json,25392,183
 sirene/973/audiovisuel-cinema-son.json,1839,15
 sirene/973/autres-elevages-dont-animaux-de-compagnie-apiculture.json,531,4
-sirene/973/bailleurs-sociaux.json,315,2
+sirene/973/bailleurs-sociaux.json,3,0
 sirene/973/banques-assurances.json,10840,74
 sirene/973/bateaux-nautisme.json,243,2
 sirene/973/bijouterie-horlogerie.json,1666,12
@@ -13935,7 +13935,7 @@ sirene/973/grossistes-en-viandes.json,122,1
 sirene/973/guides-offices-de-tourisme.json,1016,7
 sirene/973/handicap-foyers-esat-ime.json,2358,16
 sirene/973/hopitaux-cliniques-laboratoires.json,4163,29
-sirene/973/hopitaux-services-techniques.json,816,6
+sirene/973/hopitaux-services-techniques.json,3,0
 sirene/973/horticulture-maraichage-agriculture.json,1887,16
 sirene/973/hotels.json,8794,71
 sirene/973/imprimerie-prepresse-reliure.json,2546,20
@@ -14015,7 +14015,7 @@ sirene/974/armurerie-fabrication-d-armes.json,3,0
 sirene/974/associations-animation-solidarite.json,68193,489
 sirene/974/audiovisuel-cinema-son.json,7733,63
 sirene/974/autres-elevages-dont-animaux-de-compagnie-apiculture.json,1259,10
-sirene/974/bailleurs-sociaux.json,2020,12
+sirene/974/bailleurs-sociaux.json,3,0
 sirene/974/banques-assurances.json,53491,382
 sirene/974/bateaux-nautisme.json,1156,10
 sirene/974/bijouterie-horlogerie.json,4373,37
@@ -14074,7 +14074,7 @@ sirene/974/grossistes-en-viandes.json,371,3
 sirene/974/guides-offices-de-tourisme.json,3594,25
 sirene/974/handicap-foyers-esat-ime.json,12953,78
 sirene/974/hopitaux-cliniques-laboratoires.json,22898,168
-sirene/974/hopitaux-services-techniques.json,2225,17
+sirene/974/hopitaux-services-techniques.json,3,0
 sirene/974/horticulture-maraichage-agriculture.json,16246,136
 sirene/974/hotels.json,24332,192
 sirene/974/imprimerie-prepresse-reliure.json,8722,71
@@ -14156,7 +14156,7 @@ sirene/976/armurerie-fabrication-d-armes.json,3,0
 sirene/976/associations-animation-solidarite.json,6967,52
 sirene/976/audiovisuel-cinema-son.json,358,3
 sirene/976/autres-elevages-dont-animaux-de-compagnie-apiculture.json,3,0
-sirene/976/bailleurs-sociaux.json,201,1
+sirene/976/bailleurs-sociaux.json,3,0
 sirene/976/banques-assurances.json,1691,13
 sirene/976/bateaux-nautisme.json,240,2
 sirene/976/bijouterie-horlogerie.json,3,0
@@ -14212,7 +14212,7 @@ sirene/976/grossistes-en-viandes.json,3,0
 sirene/976/guides-offices-de-tourisme.json,275,2
 sirene/976/handicap-foyers-esat-ime.json,1403,10
 sirene/976/hopitaux-cliniques-laboratoires.json,527,4
-sirene/976/hopitaux-services-techniques.json,120,1
+sirene/976/hopitaux-services-techniques.json,3,0
 sirene/976/horticulture-maraichage-agriculture.json,226,2
 sirene/976/hotels.json,1062,9
 sirene/976/imprimerie-prepresse-reliure.json,391,3
