@@ -10931,7 +10931,7 @@ sirene/77/demenagement.json,5320,43
 sirene/77/demolition.json,540,5
 sirene/77/design-d-interieur-et-d-objet.json,7310,65
 sirene/77/eau-potable-captage-traitement-distribution.json,15456,114
-sirene/77/ebenisterie-meubles-restauration-de-meubles.json,4494,38
+sirene/77/ebenisterie-meubles-restauration-de-meubles.json,9289,80
 sirene/77/ecoles-de-sport-equitation.json,11814,101
 sirene/77/ecoles-maternelles-et-elementaires.json,161690,1126
 sirene/77/economistes-de-la-construction.json,5512,49
@@ -10941,7 +10941,7 @@ sirene/77/elements-prefabriques-en-beton.json,2329,20
 sirene/77/elevage-bovin-ovin-caprin-porcin-volailles.json,2519,21
 sirene/77/elevage-de-chevaux-haras.json,2792,23
 sirene/77/enseignement-culturel-conservatoires.json,8523,71
-sirene/77/enseignes-signaletique-marquage.json,2375,19
+sirene/77/enseignes-signaletique-marquage.json,3320,27
 sirene/77/entrepots-logistique.json,47577,389
 sirene/77/esthetique-soins-de-beaute.json,27567,243
 sirene/77/fabrication-de-monnaies-medailles.json,3,0
@@ -10972,7 +10972,7 @@ sirene/77/magasins-specialises-bricolage-maison-sport-high-tech.json,113078,887
 sirene/77/maintenance-d-equipements-ascenseurs.json,14478,125
 sirene/77/mairies-administrations.json,65147,380
 sirene/77/materiels-agricoles-engins-de-chantier.json,24610,213
-sirene/77/menuiserie-bois-agencement.json,47301,415
+sirene/77/menuiserie-bois-agencement.json,61372,536
 sirene/77/menuiserie-metallique-serrurerie.json,28323,245
 sirene/77/motos-scooters.json,5075,43
 sirene/77/navigation-fluviale.json,2987,26
@@ -11010,7 +11010,7 @@ sirene/77/secretariat-accueil-centres-d-appels.json,32373,280
 sirene/77/securite-privee-surveillance.json,23908,197
 sirene/77/services-a-l-elevage-marechalerie.json,3982,34
 sirene/77/services-informatiques-reseaux.json,21989,198
-sirene/77/sieges-reparation-de-meubles.json,664,6
+sirene/77/sieges-reparation-de-meubles.json,1312,12
 sirene/77/spectacle-musees-bibliotheques.json,29087,240
 sirene/77/superettes-alimentation-generale.json,20082,170
 sirene/77/supermarches-grandes-surfaces.json,78153,677
@@ -13196,7 +13196,7 @@ sirene/93/demenagement.json,7865,64
 sirene/93/demolition.json,1075,10
 sirene/93/design-d-interieur-et-d-objet.json,15986,147
 sirene/93/eau-potable-captage-traitement-distribution.json,4539,35
-sirene/93/ebenisterie-meubles-restauration-de-meubles.json,5358,49
+sirene/93/ebenisterie-meubles-restauration-de-meubles.json,12626,115
 sirene/93/ecoles-de-sport-equitation.json,1994,16
 sirene/93/ecoles-maternelles-et-elementaires.json,121455,824
 sirene/93/economistes-de-la-construction.json,3075,28
@@ -13206,7 +13206,7 @@ sirene/93/elements-prefabriques-en-beton.json,201,2
 sirene/93/elevage-bovin-ovin-caprin-porcin-volailles.json,3,0
 sirene/93/elevage-de-chevaux-haras.json,210,2
 sirene/93/enseignement-culturel-conservatoires.json,5388,44
-sirene/93/enseignes-signaletique-marquage.json,2137,18
+sirene/93/enseignes-signaletique-marquage.json,3829,33
 sirene/93/entrepots-logistique.json,65097,512
 sirene/93/esthetique-soins-de-beaute.json,30214,271
 sirene/93/fabrication-de-monnaies-medailles.json,3,0
@@ -13238,7 +13238,7 @@ sirene/93/magasins-specialises-bricolage-maison-sport-high-tech.json,99712,809
 sirene/93/maintenance-d-equipements-ascenseurs.json,14538,129
 sirene/93/mairies-administrations.json,104575,627
 sirene/93/materiels-agricoles-engins-de-chantier.json,9173,80
-sirene/93/menuiserie-bois-agencement.json,51039,468
+sirene/93/menuiserie-bois-agencement.json,71895,656
 sirene/93/menuiserie-metallique-serrurerie.json,30776,279
 sirene/93/motos-scooters.json,4514,40
 sirene/93/navigation-fluviale.json,3,0
@@ -13277,7 +13277,7 @@ sirene/93/secretariat-accueil-centres-d-appels.json,41246,364
 sirene/93/securite-privee-surveillance.json,51577,431
 sirene/93/services-a-l-elevage-marechalerie.json,115,1
 sirene/93/services-informatiques-reseaux.json,33702,306
-sirene/93/sieges-reparation-de-meubles.json,865,8
+sirene/93/sieges-reparation-de-meubles.json,2879,26
 sirene/93/spectacle-musees-bibliotheques.json,54878,469
 sirene/93/superettes-alimentation-generale.json,16754,145
 sirene/93/supermarches-grandes-surfaces.json,131227,1168
@@ -13341,7 +13341,7 @@ sirene/94/demenagement.json,6049,49
 sirene/94/demolition.json,916,8
 sirene/94/design-d-interieur-et-d-objet.json,13927,125
 sirene/94/eau-potable-captage-traitement-distribution.json,2623,20
-sirene/94/ebenisterie-meubles-restauration-de-meubles.json,4436,37
+sirene/94/ebenisterie-meubles-restauration-de-meubles.json,8506,73
 sirene/94/ecoles-de-sport-equitation.json,4773,40
 sirene/94/ecoles-maternelles-et-elementaires.json,99464,650
 sirene/94/economistes-de-la-construction.json,4233,38
@@ -13351,7 +13351,7 @@ sirene/94/elements-prefabriques-en-beton.json,635,4
 sirene/94/elevage-bovin-ovin-caprin-porcin-volailles.json,3,0
 sirene/94/elevage-de-chevaux-haras.json,538,4
 sirene/94/enseignement-culturel-conservatoires.json,7926,63
-sirene/94/enseignes-signaletique-marquage.json,1841,14
+sirene/94/enseignes-signaletique-marquage.json,2437,19
 sirene/94/entrepots-logistique.json,31428,254
 sirene/94/esthetique-soins-de-beaute.json,42580,372
 sirene/94/fabrication-de-monnaies-medailles.json,3,0
@@ -13383,7 +13383,7 @@ sirene/94/magasins-specialises-bricolage-maison-sport-high-tech.json,88971,706
 sirene/94/maintenance-d-equipements-ascenseurs.json,10838,94
 sirene/94/mairies-administrations.json,65234,399
 sirene/94/materiels-agricoles-engins-de-chantier.json,7295,62
-sirene/94/menuiserie-bois-agencement.json,36989,317
+sirene/94/menuiserie-bois-agencement.json,45939,393
 sirene/94/menuiserie-metallique-serrurerie.json,21256,181
 sirene/94/motos-scooters.json,4390,39
 sirene/94/navigation-fluviale.json,133,1
@@ -13422,7 +13422,7 @@ sirene/94/secretariat-accueil-centres-d-appels.json,37721,318
 sirene/94/securite-privee-surveillance.json,28426,235
 sirene/94/services-a-l-elevage-marechalerie.json,241,2
 sirene/94/services-informatiques-reseaux.json,38832,354
-sirene/94/sieges-reparation-de-meubles.json,944,8
+sirene/94/sieges-reparation-de-meubles.json,2704,23
 sirene/94/spectacle-musees-bibliotheques.json,45736,367
 sirene/94/superettes-alimentation-generale.json,20304,172
 sirene/94/supermarches-grandes-surfaces.json,102530,882
